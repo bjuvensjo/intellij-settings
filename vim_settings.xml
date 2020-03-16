@@ -99,6 +99,12 @@
         <mark key="^" line="3" column="78" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/maven.settings/Jenkinsfile" timestamp="1584361748535">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="2" column="35" />
+        <mark key="." line="2" column="35" />
+        <mark key="^" line="2" column="35" />
+      </file>
       <file name="$USER_HOME$/slask/zzzzz/groovy.stash.addjenkinscommithook/src/main/java/se/lf/service/groovy/stash/addjenkinscommithook/BitbucketPostWebhooks.groovy" timestamp="1583259269433">
         <mark key="'" line="68" column="8" />
         <mark key="[" line="67" column="25" />
@@ -247,12 +253,11 @@
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/ResourceUtils.groovy" timestamp="1583866780820">
         <mark key="[" line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" timestamp="1584295489827">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" timestamp="1584361809281">
         <mark key="'" line="40" column="8" />
-        <mark key="[" line="83" column="70" />
-        <mark key="]" line="75" column="18" />
-        <mark key="^" line="75" column="18" />
-        <mark key="." line="75" column="18" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/repository.groovy" timestamp="1584207663055">
         <mark key="[" line="11" column="0" />
@@ -597,7 +602,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>release</text>
+        <text>agent</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
@@ -606,7 +611,7 @@
         <text>http://10.252.224.238:8081/artifactory/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bmFtZT5QRVNDUE9DPC9uYW1lPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnNycK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -634,28 +639,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bmFtZT5QRVNDUE9DPC9uYW1lPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnNicK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bmFtZT5FVlJZIEN1c3RvbSBTb2x1dGlvbnMgRmluYW5jaWFsIFNlcnZpY2VzIExGRVMgU25hcHNob3QgUmVwb3NpdG9yeTwvbmFtZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnNScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bmFtZT5FVlJZIEN1c3RvbSBTb2x1dGlvbnMgRmluYW5jaWFsIFNlcnZpY2VzIExGRVMgUmVsZWFzZSBSZXBvc2l0b3J5PC9uYW1lPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnNCcK</text>
       </register>
-      <register name="5" type="4">
-        <text>EVRY Custom Solutions Financial Services LFES Snapshot Repository</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnMycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxyZXBvc2l0b3J5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnMicK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08L3JlcG9zaXRvcnk+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnMScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tPC9zbmFwc2hvdHM+LS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTx1cGRhdGVQb2xpY3k+YWx3YXlzPC91cGRhdGVQb2xpY3k+LS0+Cg==</text>
+        <text encoding="base64">ICAgIGFnZW50IHsKICAgICAgICB0cmlnZ2VycyB7CiAgICAgICAgICAgIGJpdGJ1Y2tldFB1c2goKQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1wuL1wvL2dj</text>
