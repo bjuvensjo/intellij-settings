@@ -124,6 +124,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" timestamp="1584385497352">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="129" column="8" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMs.groovy" timestamp="1584297326901">
         <mark key="'" line="11" column="35" />
         <mark key="[" line="12" column="11" />
@@ -499,7 +506,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="10" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/HttpAdapterTest.groovy" />
       <jump line="150" column="11" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/HttpAdapterTest.groovy" />
       <jump line="152" column="35" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/HttpAdapterTest.groovy" />
       <jump line="25" column="12" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/ResouceApiTest.groovy" />
@@ -599,19 +605,20 @@
       <jump line="70" column="63" filename="$USER_HOME$/git-PESCPOC/PESCPOC/maven.settings/src/main/resources/settings.xml" />
       <jump line="84" column="63" filename="$USER_HOME$/git-PESCPOC/PESCPOC/maven.settings/src/main/resources/settings.xml" />
       <jump line="7" column="16" filename="$USER_HOME$/git-PESCPOC/PESCPOC/maven.settings/src/main/resources/settings.xml" />
+      <jump line="6" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>agent</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
       </register>
-      <register name="0" type="4">
-        <text>http://10.252.224.238:8081/artifactory/</text>
+      <register name="0" type="2">
+        <text encoding="base64">aWYgKG0gPT0gbikgewogICAgcHJpbnRsbignZXF1YWwnKQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnNycK</text>
+        <text encoding="base64">cHJpbnRsbihuKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -639,28 +646,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnNicK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnNScK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnNCcK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnMycK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnMicK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnMScK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">TWFwIG4gPSAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cHJpbnRsbihtKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnNycK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnNicK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnNScK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnNCcK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFnZW50IHsKICAgICAgICB0cmlnZ2VycyB7CiAgICAgICAgICAgIGJpdGJ1Y2tldFB1c2goKQogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnMycK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1wuL1wvL2dj</text>
