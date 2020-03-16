@@ -124,12 +124,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" timestamp="1584385497352">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="129" column="8" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" timestamp="1584387451818">
+        <mark key="[" line="38" column="73" />
+        <mark key="]" line="38" column="73" />
+        <mark key="^" line="38" column="72" />
+        <mark key="." line="38" column="73" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMs.groovy" timestamp="1584297326901">
         <mark key="'" line="11" column="35" />
@@ -609,16 +608,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>/</text>
+        <text>'##MS_CFG_PATH##'</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aWYgKG0gPT0gbikgewogICAgcHJpbnRsbignZXF1YWwnKQp9Cg==</text>
+        <text encoding="base64">U3RyaW5nIG1zUGF0aCA9ICcvdmFyL2RldmVsb3AvbXMucG9jLmJhbmtob2xpZGF5cy0xLjAuMC1TTkFQU0hPVC5qYXInCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnRsbihuKQo=</text>
+        <text encoding="base64">TWFwIG0gPSBqcy5wYXJzZShuZXcgRmlsZSgnL1VzZXJzL21hZ251cy9naXQtUEVTQ1BPQy9QRVNDUE9DL2NkLmplbmtpbnMubGliL3Jlc291cmNlcy90ZW1wbGF0ZS9kZXBsb3ltZW50Lmpzb24nKSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -649,25 +648,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TWFwIG4gPSAK</text>
+        <text encoding="base64">SnNvblNsdXJwZXIganMgPSBuZXcgSnNvblNsdXJwZXIoKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">cHJpbnRsbihtKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnNycK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnNicK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oKG0udmFsdWVzKCkgYXMgU2V0KSAtIChvLnZhbHVlcygpIGFzIFNldCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnNScK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oJ28gZXF1YWwnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnNCcK</text>
+        <text encoding="base64">aWYgKG0ua2V5U2V0KCkgPT0gby5rZXlTZXQoKSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnMycK</text>
+        <text encoding="base64">cHJpbnRsbihvKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1wuL1wvL2dj</text>
