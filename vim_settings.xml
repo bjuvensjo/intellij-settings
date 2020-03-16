@@ -124,11 +124,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" timestamp="1584387451818">
-        <mark key="[" line="38" column="73" />
-        <mark key="]" line="38" column="73" />
-        <mark key="^" line="38" column="72" />
-        <mark key="." line="38" column="73" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" timestamp="1584391460927">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMs.groovy" timestamp="1584297326901">
         <mark key="'" line="11" column="35" />
@@ -505,11 +505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="11" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/HttpAdapterTest.groovy" />
-      <jump line="152" column="35" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/HttpAdapterTest.groovy" />
-      <jump line="25" column="12" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/ResouceApiTest.groovy" />
-      <jump line="26" column="82" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/ResouceApiTest.groovy" />
-      <jump line="27" column="35" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/ResouceApiTest.groovy" />
       <jump line="35" column="79" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/ResouceApiTest.groovy" />
       <jump line="22" column="8" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask.groovy" />
       <jump line="36" column="16" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/slask.groovy" />
@@ -605,19 +600,24 @@
       <jump line="84" column="63" filename="$USER_HOME$/git-PESCPOC/PESCPOC/maven.settings/src/main/resources/settings.xml" />
       <jump line="7" column="16" filename="$USER_HOME$/git-PESCPOC/PESCPOC/maven.settings/src/main/resources/settings.xml" />
       <jump line="6" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" />
+      <jump line="9" column="14" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" />
+      <jump line="14" column="25" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" />
+      <jump line="5" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" />
+      <jump line="58" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" />
+      <jump line="26" column="44" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>'##MS_CFG_PATH##'</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>dev</text>
+        <text>msP</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">U3RyaW5nIG1zUGF0aCA9ICcvdmFyL2RldmVsb3AvbXMucG9jLmJhbmtob2xpZGF5cy0xLjAuMC1TTkFQU0hPVC5qYXInCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TWFwIG0gPSBqcy5wYXJzZShuZXcgRmlsZSgnL1VzZXJzL21hZ251cy9naXQtUEVTQ1BPQy9QRVNDUE9DL2NkLmplbmtpbnMubGliL3Jlc291cmNlcy90ZW1wbGF0ZS9kZXBsb3ltZW50Lmpzb24nKSkK</text>
+        <text encoding="base64">cHJpbnRsbihwKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -645,49 +645,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TWFwIG0gPSBqcy5wYXJzZShuZXcgRmlsZSgnL1VzZXJzL21hZ251cy9naXQtUEVTQ1BPQy9QRVNDUE9DL2NkLmplbmtpbnMubGliL3Jlc291cmNlcy90ZW1wbGF0ZS9kZXBsb3ltZW50Lmpzb24nKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SnNvblNsdXJwZXIganMgPSBuZXcgSnNvblNsdXJwZXIoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnRsbihtKQo=</text>
+        <text encoding="base64">SnNvblNsdXJwZXIganMgPSBuZXcgSnNvblNsdXJwZXIoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">cHJpbnRsbihtKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oKG0udmFsdWVzKCkgYXMgU2V0KSAtIChvLnZhbHVlcygpIGFzIFNldCkpCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oJ28gZXF1YWwnKQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oKG0udmFsdWVzKCkgYXMgU2V0KSAtIChvLnZhbHVlcygpIGFzIFNldCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgKG0ua2V5U2V0KCkgPT0gby5rZXlTZXQoKSkgewo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oJ28gZXF1YWwnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnRsbihvKQo=</text>
+        <text encoding="base64">aWYgKG0ua2V5U2V0KCkgPT0gby5rZXlTZXQoKSkgewo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1wuL1wvL2dj</text>
+        <text encoding="base64">JzwsJz5zL3ZlcnNpb24vY2ZnLnZlcnNpb24vZ2M=</text>
       </register>
     </registers>
     <search>
-      <last-search>dev</last-search>
+      <last-search>msP</last-search>
       <last-offset />
-      <last-pattern>dev</last-pattern>
-      <last-replace>\/</last-replace>
-      <last-substitute>\.</last-substitute>
+      <last-pattern>msP</last-pattern>
+      <last-replace>cfg.version</last-replace>
+      <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>DELETE</entry>
-        <entry>Create</entry>
-        <entry>POST</entry>
-        <entry>r</entry>
-        <entry encoding="base64">XDwnXD4=</entry>
         <entry encoding="base64">XDxuYW1lc3BhY2VcPg==</entry>
         <entry>bear</entry>
         <entry>&quot;</entry>
@@ -703,13 +698,13 @@
         <entry>edb</entry>
         <entry encoding="base64">PA==</entry>
         <entry>dev</entry>
+        <entry>name,</entry>
+        <entry>name</entry>
+        <entry>version,</entry>
+        <entry>version</entry>
+        <entry>msP</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/;//g</entry>
-        <entry>%s/'rsim1'/name/gc</entry>
-        <entry>%sapi_response/apiResponse/g</entry>
-        <entry>%s/&quot;true&quot;/'true'/g</entry>
-        <entry>di</entry>
         <entry>%s/;//</entry>
         <entry>%s/;//gc</entry>
         <entry>%s/ms-poc-repository/##NAME##/g</entry>
@@ -725,6 +720,11 @@
         <entry>%s/ocCurl/curl/gc</entry>
         <entry encoding="base64">JzwsJz5zL0RFTEVURS9HRVQvZ2M=</entry>
         <entry encoding="base64">JzwsJz5zL1wuL1wvL2dj</entry>
+        <entry>s/name,/cfg.name/gc</entry>
+        <entry>s/name,/cfg.name,/gc</entry>
+        <entry>%s/name/cfg.name/gc</entry>
+        <entry encoding="base64">JzwsJz5zL3ZlcnNpb24sL2NmZy52ZXJzaW9uLC9nYw==</entry>
+        <entry encoding="base64">JzwsJz5zL3ZlcnNpb24vY2ZnLnZlcnNpb24vZ2M=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
