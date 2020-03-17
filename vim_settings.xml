@@ -193,12 +193,11 @@
         <mark key="^" line="47" column="12" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsBinary.groovy" timestamp="1584448648554">
-        <mark key="'" line="90" column="27" />
-        <mark key="[" line="51" column="75" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-        <mark key="^" line="107" column="23" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsBinary.groovy" timestamp="1584449326971">
+        <mark key="'" line="73" column="27" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="49" column="9" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/ConfigMapApi.groovy" timestamp="1583860173683">
         <mark key="'" line="11" column="7" />
@@ -680,16 +679,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>doGet</text>
+        <text>Deployment</text>
       </register>
       <register name="/" type="4">
         <text>ser</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJsQ29tbWFuZCA9IG9jYy5nZXQoJ2RlcGxveW1lbnQnLCBuYW1lKQogICAgICAgIHJlc3BvbnNlQ29kZSA9IHNoIGxhYmVsOiAiR2V0ICRuYW1lIiwgc2NyaXB0OiBjdXJsQ29tbWFuZCwgcmV0dXJuU3Rkb3V0OiB0cnVlCiAgICAgICAgZWNobyByZXNwb25zZUNvZGUK</text>
+        <text encoding="base64">ICAgICAgICAvLyBPcGVuU2hpZnQgZGVwbG95bWVudAogICAgICAgIGJvZHkgPSBjcmVhdGVNc0RlcGxveW1lbnRNYW5pZmVzdChuYW1lLCB2ZXJzaW9uLCBtc1BhdGgsIG1zQ2ZnUGF0aCkKICAgICAgICBpZiAoIWV4ZWN1dGUoJ2RlcGxveW1lbnQnLCBib2R5LCBleGlzdHMob2NjLCAnZGVwbG95bWVudCcsIG5hbWUpID8gdmVyc2lvbmVkTmFtZSA6IG51bGwpKSB7CiAgICAgICAgICAgIGV4aXQgLTEKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVjaG8gcmVzcG9uc2VDb2RlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -710,28 +709,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjdXJsQ29tbWFuZCA9IG9jYy5nZXQoJ2RlcGxveW1lbnQnLCBuYW1lKQogICAgICAgIHJlc3BvbnNlQ29kZSA9IHNoIGxhYmVsOiAiR2V0ICRuYW1lIiwgc2NyaXB0OiBjdXJsQ29tbWFuZCwgcmV0dXJuU3Rkb3V0OiB0cnVlCiAgICAgICAgZWNobyByZXNwb25zZUNvZGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnQ3JlYXRlIHJvdXRlJwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBleGl0IC0xCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmICghKHJlc3BvbnNlQ29kZSBpbiBbJzIwMCcsICcyMDEnXSkpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnVXBkYXRlIHJvdXRlJwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHJlc3BvbnNlQ29kZSA9IHNoIGxhYmVsOiAiRGVwbG95bWVudCAke3ZlcnNpb25lZE5hbWV9Iiwgc2NyaXB0OiBjdXJsQ29tbWFuZCwgcmV0dXJuU3Rkb3V0OiB0cnVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVzcG9uc2VDb2RlID09ICcyMDAnKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVzcG9uc2VDb2RlID09ICcyMDAnKSB7CiAgICAgICAgICAgIGN1cmxDb21tYW5kID0gb2NjLnVwZGF0ZSgnZGVwbG95bWVudCcsIHZlcnNpb25lZE5hbWUsIGJvZHkpCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgY3VybENvbW1hbmQgPSBvY2MuY3JlYXRlKCdkZXBsb3ltZW50JywgYm9keSkKICAgICAgICB9CiAgICAgICAgZWNobyBjdXJsQ29tbWFuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/develop/ms/gc</text>
