@@ -108,11 +108,11 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/releaseMsBinaryTest.groovy" timestamp="1584523294885">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="75" column="24" />
-        <mark key="." line="75" column="24" />
-        <mark key="^" line="74" column="63" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/releaseMsBinaryTest.groovy" timestamp="1584524454609">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="43" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="11" column="12" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/createMsDeploymentManifestTest.groovy" timestamp="1584447503636">
         <mark key="[" line="15" column="23" />
@@ -176,12 +176,12 @@
         <mark key="^" line="27" column="52" />
         <mark key="." line="40" column="55" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsBinary.groovy" timestamp="1584523338820">
-        <mark key="'" line="48" column="43" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="29" column="19" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsBinary.groovy" timestamp="1584524224776">
+        <mark key="'" line="72" column="22" />
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="29" />
+        <mark key="^" line="72" column="21" />
+        <mark key="." line="14" column="3" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/pom.xml" timestamp="1584089494176">
         <mark key="[" line="38" column="0" />
@@ -506,7 +506,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/ocCurl.groovy" />
       <jump line="67" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/CurlResourceApiTest.groovy" />
       <jump line="8" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/test/CurlResourceApiTest.groovy" />
       <jump line="39" column="4" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/ocCurlTest.groovy" />
@@ -606,19 +605,20 @@
       <jump line="9" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/executePipelineTest.groovy" />
       <jump line="13" column="45" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/executePipelineTest.groovy" />
       <jump line="52" column="43" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsBinary.groovy" />
+      <jump line="72" column="22" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsBinary.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>create</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBudWxsICAgICAgICAgICB8ICcyMDEnICAgICAgICB8IDEgICAgICAgICB8IDAgICAgICAgICB8IHRydWUKICAgICAgICAncmVzb3VyY2VOYW1lJyB8ICcyMDAnICAgICAgICB8IDAgICAgICAgICB8IDEgICAgICAgICB8IHRydWUK</text>
+      <register name="0" type="4">
+        <text>ms.poc.bankholidays-11.10.110-</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAncmVzb3VyY2VOYW1lJyB8ICc0MDMnICAgICAgICB8IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3BlYy5yZXBvc2l0b3J5Q3VybCA9IE1vY2soQ2xvc3VyZSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -639,28 +639,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAncmVzb3VyY2VOYW1lJyB8ICc0MDMnICAgICAgICB8IGZhbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgIFJlbW92ZSBiZWxvdyB0cnVlIGFuZCB1bmNvbW1lbnQgdGhlIHJlc3Qgd2hlbiBmaXJlIHdhbGwgc3VwcG9ydCB1cGxvYWRpbmcK</text>
+        <text encoding="base64">ICAgIHRydWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlZCAqIHNwZWMuZXhpdC5jYWxsKF8pCg==</text>
+        <text encoding="base64">Ly8gICAgIFJlbW92ZSBiZWxvdyB0cnVlIGFuZCB1bmNvbW1lbnQgdGhlIHJlc3Qgd2hlbiBmaXJlIHdhbGwgc3VwcG9ydCB1cGxvYWRpbmcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVzb3VyY2VOYW1lID0gJ3Jlc291cmNlTmFtZScK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVzb3VyY2VUeXBlID0gJ3Jlc291cmNlVHlwZScK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3RlZCAqIHNwZWMuZXhpdC5jYWxsKF8pCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVzb3VyY2VOYW1lID0gJ3Jlc291cmNlTmFtZScK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVzb3VyY2VUeXBlID0gJ3Jlc291cmNlVHlwZScK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAxICogc3BlYy5lY2hvLmNhbGwoJ2N1cmxDb21tYW5kJykK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RlZCAqIHNwZWMuZXhpdC5jYWxsKF8pCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2RlcGxveW1lbnQvcm91dGUvZw==</text>
