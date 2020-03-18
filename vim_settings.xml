@@ -15,11 +15,11 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsRouteManifest.groovy" timestamp="1584445385216">
-        <mark key="[" line="24" column="46" />
-        <mark key="]" line="24" column="46" />
-        <mark key="." line="24" column="46" />
-        <mark key="^" line="13" column="44" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsRouteManifest.groovy" timestamp="1584525393571">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="24" column="30" />
+        <mark key="." line="24" column="30" />
+        <mark key="^" line="24" column="30" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/renameBuildTest.groovy" timestamp="1584478599572">
         <mark key="[" line="12" column="13" />
@@ -114,10 +114,10 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="11" column="12" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/createMsDeploymentManifestTest.groovy" timestamp="1584447503636">
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="15" column="60" />
-        <mark key="." line="53" column="64" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/createMsDeploymentManifestTest.groovy" timestamp="1584525495313">
+        <mark key="[" line="11" column="42" />
+        <mark key="]" line="11" column="30" />
+        <mark key="." line="11" column="30" />
         <mark key="^" line="11" column="83" />
       </file>
       <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/jenkins/Slask.groovy" timestamp="1581339440217">
@@ -170,18 +170,18 @@
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/ResourceUtils.groovy" timestamp="1583866780820">
         <mark key="[" line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/createMsServiceManifestTest.groovy" timestamp="1584445286888">
-        <mark key="[" line="40" column="55" />
-        <mark key="]" line="40" column="55" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/createMsServiceManifestTest.groovy" timestamp="1584525637005">
+        <mark key="[" line="39" column="75" />
+        <mark key="]" line="39" column="75" />
         <mark key="^" line="27" column="52" />
-        <mark key="." line="40" column="55" />
+        <mark key="." line="39" column="75" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsBinary.groovy" timestamp="1584524224776">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsBinary.groovy" timestamp="1584525412449">
         <mark key="'" line="72" column="22" />
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="14" column="29" />
+        <mark key="[" line="79" column="50" />
+        <mark key="]" line="79" column="50" />
         <mark key="^" line="72" column="21" />
-        <mark key="." line="14" column="3" />
+        <mark key="." line="79" column="50" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/pom.xml" timestamp="1584089494176">
         <mark key="[" line="38" column="0" />
@@ -236,9 +236,6 @@
         <mark key="^" line="16" column="27" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/repositoryCurl.groovy" timestamp="1584453710637">
-        <mark key="^" line="1" column="79" />
-      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/docker-start.sh" timestamp="1582810288727">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -251,12 +248,12 @@
         <mark key="." line="50" column="12" />
         <mark key="^" line="33" column="11" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsDeploymentManifest.groovy" timestamp="1584445502249">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsDeploymentManifest.groovy" timestamp="1584525349297">
         <mark key="'" line="121" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="11" column="53" />
-        <mark key="." line="86" column="0" />
-        <mark key="^" line="13" column="24" />
+        <mark key="[" line="85" column="56" />
+        <mark key="]" line="85" column="60" />
+        <mark key="." line="85" column="60" />
+        <mark key="^" line="85" column="60" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/createMsConfigMapManifestTest.groovy" timestamp="1584395060375">
         <mark key="[" line="18" column="1" />
@@ -366,12 +363,6 @@
         <mark key="^" line="16" column="60" />
         <mark key="." line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" timestamp="1584471771465">
-        <mark key="'" line="40" column="8" />
-        <mark key="[" line="76" column="8" />
-        <mark key="]" line="76" column="24" />
-        <mark key="." line="69" column="0" />
-      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/repository.groovy" timestamp="1584207663055">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -395,12 +386,12 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsServiceManifest.groovy" timestamp="1584445245495">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsServiceManifest.groovy" timestamp="1584525437461">
         <mark key="'" line="6" column="59" />
         <mark key="[" line="13" column="25" />
-        <mark key="]" line="0" column="36" />
-        <mark key="." line="0" column="36" />
-        <mark key="^" line="26" column="65" />
+        <mark key="]" line="13" column="29" />
+        <mark key="." line="13" column="29" />
+        <mark key="^" line="13" column="29" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/slask.txt" timestamp="1584117477145">
         <mark key="[" line="22" column="56" />
@@ -417,6 +408,13 @@
         <mark key="]" line="2" column="21" />
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/createMsRouteManifestTest.groovy" timestamp="1584525731038">
+        <mark key="'" line="33" column="55" />
+        <mark key="[" line="11" column="47" />
+        <mark key="]" line="39" column="54" />
+        <mark key="." line="39" column="54" />
+        <mark key="^" line="39" column="53" />
       </file>
       <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/test.json" timestamp="1581349254453">
         <mark key="[" line="4" column="23" />
@@ -609,7 +607,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>e</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
