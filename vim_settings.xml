@@ -86,10 +86,6 @@
         <mark key="[" line="26" column="28" />
         <mark key="]" line="33" column="42" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/renameBuild.groovy" timestamp="1584478100224">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="67" />
-      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" timestamp="1584482852578">
         <mark key="'" line="122" column="85" />
         <mark key="[" line="2" column="0" />
@@ -358,6 +354,13 @@
         <mark key="." line="8" column="17" />
         <mark key="^" line="8" column="17" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/README.md" timestamp="1584635358668">
+        <mark key="'" line="14" column="178" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="179" />
+        <mark key="^" line="4" column="48" />
+        <mark key="." line="13" column="108" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/ConfigMap.groovy" timestamp="1583850240834">
         <mark key="[" line="16" column="61" />
         <mark key="]" line="16" column="61" />
@@ -623,7 +626,7 @@
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgIiR7cmVmfS8ke2FydGlmYWN0SWR9LWNmZy0ke3ZlcnNpb259LyR7ZW52aXJvbm1lbnR9Igo=</text>
+        <text encoding="base64">MS4gY3VybCAtSCAiQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9vY3RldC1zdHJlYW0iIC12IC1YIFBPU1QgLS1kYXRhLWJpbmFyeSAiSGVsbG8gV29ybGQiIGh0dHBzOi8vcG9jLm9jcGxhYi1iYW5rLmxmbmV0LnNlL21zLnBvYy5yZXBvc2l0b3J5LzEuMC9cP3JlZlw9ZGV2ZWxvcFwmcmVzb3VyY2U9L2Jhei50eHQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICIke3JlZn0vJHthcnRpZmFjdElkfS1jZmctJHt2ZXJzaW9ufS9zeXNkZCIK</text>
