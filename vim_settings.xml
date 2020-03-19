@@ -82,6 +82,10 @@
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.bankholidays-cfg/pom.xml" timestamp="1584610003142">
+        <mark key="[" line="26" column="28" />
+        <mark key="]" line="33" column="42" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/renameBuild.groovy" timestamp="1584478100224">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="67" />
@@ -613,7 +617,7 @@
         <text>,</text>
       </register>
       <register name="0" type="4">
-        <text>makeResource(def occ, String resourceType, Map body, String resourceName = null) {</text>
+        <text encoding="base64">PGVudmlyb25tZW50cz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGFyYW0+bG9jYWw8L3BhcmFtPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXJhbT5kZXY8L3BhcmFtPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXJhbT5zeXM8L3BhcmFtPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXJhbT5hY2M8L3BhcmFtPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXJhbT5yZWw8L3BhcmFtPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXJhbT5wcm9kPC9wYXJhbT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZW52aXJvbm1lbnRzPg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAzICogc3BlYy5yZXNvdXJjZUV4aXN0cygqXykgPj4gZmFsc2UK</text>
