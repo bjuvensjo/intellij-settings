@@ -15,9 +15,9 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsRouteManifest.groovy" timestamp="1584525393571">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="24" column="30" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsRouteManifest.groovy" timestamp="1584710209889">
+        <mark key="[" line="18" column="30" />
+        <mark key="]" line="18" column="58" />
         <mark key="." line="24" column="30" />
         <mark key="^" line="24" column="30" />
       </file>
@@ -330,10 +330,11 @@
         <mark key="." line="5" column="51" />
         <mark key="^" line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsUtils.groovy" timestamp="1584709838597">
-        <mark key="[" line="70" column="35" />
-        <mark key="]" line="70" column="34" />
-        <mark key="." line="70" column="34" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsUtils.groovy" timestamp="1584710333652">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="71" column="24" />
       </file>
       <file name="$USER_HOME$/slask/zzzzz/groovy.git/src/main/java/com/evry/finance/groovy/git/Slask.groovy" timestamp="1583252252809">
         <mark key="[" line="11" column="0" />
@@ -439,12 +440,12 @@
       <file name="/Dummy.groovy" timestamp="1584485886784">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/releaseMsUtilsTest.groovy" timestamp="1584696545227">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/releaseMsUtilsTest.groovy" timestamp="1584710518902">
         <mark key="'" line="110" column="4" />
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="32" />
-        <mark key="." line="9" column="32" />
-        <mark key="^" line="9" column="32" />
+        <mark key="[" line="113" column="28" />
+        <mark key="]" line="112" column="10" />
+        <mark key="." line="112" column="10" />
+        <mark key="^" line="112" column="10" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/Dockerfile" timestamp="1582881968917">
         <mark key="[" line="7" column="0" />
@@ -522,7 +523,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="53" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/ocCurl.groovy" />
       <jump line="11" column="59" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/ocCurl.groovy" />
       <jump line="14" column="73" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/ocCurl.groovy" />
       <jump line="59" column="25" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/ocCurl.groovy" />
@@ -622,19 +622,20 @@
       <jump line="3" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsConfiguration.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsConfiguration.groovy" />
       <jump line="46" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsConfiguration.groovy" />
+      <jump line="83" column="24" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsUtils.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text>releaseMsUtils.</text>
       </register>
       <register name="0" type="4">
-        <text>String name, String version, String msPath, String msCfgPath, int replicas = 1</text>
+        <text>&quot;/${artifactId}/${version}/&quot;,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBqYXJOYW1lOiBqYXJOYW1lLAo=</text>
+        <text encoding="base64">ICAgICAgICBbbmFtZSwgb2NBZGFwdGVkTWFqb3JNaW5vclZlcnNpb24sIG1zUGF0aCwgbXNDZmdQYXRoLCBvY0FkYXB0ZWRBcnRpZmFjdElkXQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -655,45 +656,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzYXJQYXRoOiBqYXJQYXRoLAo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBtc0NmZ1BhdGggPQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbXNCaW4K</text>
+        <text encoding="base64">ICAgIFN0cmluZyBuYW1lID0gZ2V0TmFtZShvY0FkYXB0ZWRBcnRpZmFjdElkLCBvY0FkYXB0ZWRNYWpvck1pbm9yVmVyc2lvbikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gQ2hhbmdlICdzeXMnIGJlbG93IHRvIGVudmlyb25tZW50IHdoZW4gY29uZmlndXJhdGlvbiBhcmUgcmVhZHkgZm9yIGl0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBtc0NmZ1BhdGg6IGdldE1zQ2ZnUGF0aChyZWYsIGFydGlmYWN0SWQsIHZlcnNpb24sICdzeXMnKScnLCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IEV4Y2VwdGlvbigiQ2FuIG5vdCBtYWtlICR7YXJ0aWZhY3RQYXRofSIpCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBtc1BhdGggPSBnZXRNc1BhdGgocmVmLCBqYXJOYW1lKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFyZWxlYXNlTXNVdGlscy5tYWtlUmVzb3VyY2Uob2NjLCByZXNvdXJjZVR5cGUsIGJvZHksIHJlc291cmNlTmFtZSkpIHsK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBhcnRpZmFjdElkID0gZ2V0QXJ0aWZhY3RJZChqYXJOYW1lKQogICAgU3RyaW5nIG9jQWRhcHRlZEFydGlmYWN0SWQgPSBvY0FkYXB0KGFydGlmYWN0SWQpCiAgICBTdHJpbmcgdmVyc2lvbiA9IGdldFZlcnNpb24oamFyTmFtZSkKICAgIFN0cmluZyBvY0FkYXB0ZWRNYWpvck1pbm9yVmVyc2lvbiA9IG9jQWRhcHQoZ2V0TWFqb3JNaW5vclZlcnNpb24odmVyc2lvbikpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJlc291cmNlTmFtZSA9IHJlbGVhc2VNc1V0aWxzLnJlc291cmNlRXhpc3RzKG9jYywgcmVzb3VyY2VUeXBlLCBuYW1lKSA/IG5hbWUgOiBudWxsCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyByZWYsIGphck5hbWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwIGJvZHkgPSBpdFsxXSBhcyBNYXAK</text>
+        <text encoding="base64">ICAgICAgICBqYXJOYW1lOiBqYXJOYW1lLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>di</text>
+        <text>%s/releaseMsUtils.//gc</text>
       </register>
     </registers>
     <search>
-      <last-search>)</last-search>
+      <last-search>releaseMsUtils.</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
-      <last-replace>route</last-replace>
-      <last-substitute>deployment</last-substitute>
+      <last-pattern>releaseMsUtils.</last-pattern>
+      <last-replace />
+      <last-substitute>releaseMsUtils.</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dev</entry>
         <entry>name,</entry>
         <entry>name</entry>
         <entry>version,</entry>
@@ -713,9 +713,9 @@
         <entry>supp</entry>
         <entry encoding="base64">XDwvXD4=</entry>
         <entry>)</entry>
+        <entry>releaseMsUtils.</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/nameSpace/namespace/gc</entry>
         <entry>%s/suffix/name/gc</entry>
         <entry>%s/url,/                &quot;${host}${uri}&quot;,/gc</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
@@ -735,6 +735,7 @@
         <entry encoding="base64">JzwsJz5zL2RlcGxveW1lbnQvc2VydmljZS9n</entry>
         <entry encoding="base64">JzwsJz5zL2RlcGxveW1lbnQvcm91dGUvZw==</entry>
         <entry>di</entry>
+        <entry>%s/releaseMsUtils.//gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
