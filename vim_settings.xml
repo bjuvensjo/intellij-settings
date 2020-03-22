@@ -122,6 +122,12 @@
         <mark key="[" line="26" column="28" />
         <mark key="]" line="33" column="42" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" timestamp="1584895822834">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="5" column="52" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/CreateMsDeploymentManifestTest.groovy" timestamp="1584392489149">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -533,6 +539,10 @@
         <mark key="^" line="39" column="52" />
         <mark key="." line="13" column="15" />
       </file>
+      <file name="$USER_HOME$/git/rsimulator/rsimulator-core/src/main/java/com/github/bjuvensjo/rsimulator/core/SimulatorScriptInterceptor.java" timestamp="1584895569066">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="52" />
+      </file>
       <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/test.json" timestamp="1581349254453">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="24" />
@@ -638,7 +648,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="50" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/repositoryCurl.groovy" />
       <jump line="12" column="8" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/repositoryCurlTest.groovy" />
       <jump line="21" column="8" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/repositoryCurlTest.groovy" />
       <jump line="19" column="8" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/repositoryCurlTest.groovy" />
@@ -661,7 +670,6 @@
       <jump line="6" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" />
       <jump line="9" column="14" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" />
       <jump line="14" column="25" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" />
-      <jump line="5" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" />
       <jump line="58" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" />
       <jump line="26" column="44" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" />
       <jump line="125" column="4" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" />
@@ -738,19 +746,21 @@
       <jump line="43" column="25" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsUtils.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsUtils.groovy" />
       <jump line="20" column="16" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsRouteManifest.groovy" />
+      <jump line="4" column="12" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" />
+      <jump line="5" column="23" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>new File(jarPath).name</text>
+        <text>[root] as Array</text>
       </register>
       <register name="/" type="4">
-        <text>occ</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICghcmVsZWFzZU1zVXRpbHMudXBsb2FkKGFydGlmYWN0UGF0aCwgY29vcmRpbmF0ZXMucmVmLCBkZXN0RmlsZSkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzY3JpcHQgPSAiR2xvYmFsUmVxdWVzdC5ncm9vdnkiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YmluZGluZy5zZXRWYXJpYWJsZSgidmFycyIsIHZhcnMpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -771,37 +781,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVjaG8gY3VybENvbW1hbmQK</text>
+        <text encoding="base64">YmluZGluZy5zZXRWYXJpYWJsZSgidmFycyIsIHZhcnMpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICghcmVsZWFzZU1zVXRpbHMudXBsb2FkKGFydGlmYWN0UGF0aCwgcmVmLCBqYXJOYW1lLnJlcGxhY2VGaXJzdCgvamFyJC8sICd6aXAnKSkpIHsK</text>
+      <register name="3" type="4">
+        <text>[root] as Array</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly99Cg==</text>
+        <text encoding="base64">U3RyaW5nW10gcm9vdHMgPSBuZXcgU3RyaW5nW117cm9vdH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgZWNobyAiRGVwbG95aW5nIGNvbmZpZ3VyYXRpb24gJHthcnRpZmFjdE5hbWV9Igo=</text>
+        <text encoding="base64">U3RyaW5nIGFydGlmYWN0UGF0aCA9ICcuL3RhcmdldC9tcy5wb2MuYmFua2hvbGlkYXlzLTExLjEwLjExMC1TTkFQU0hPVC5qYXInCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly9kZWYgY2FsbChTdHJpbmcgYXJ0aWZhY3ROYW1lLCBTdHJpbmcgYnVpbGROdW1iZXIsIFN0cmluZyBjb21taXRJZCwgU3RyaW5nIGVudmlyb25tZW50LCBTdHJpbmcgYXJ0aWZhY3RQYXRoKSB7Cg==</text>
+        <text encoding="base64">U3RyaW5nIGFydGlmYWN0TmFtZSA9ICdQRVNDUE9DL21zLnBvYy5iYW5raG9saWRheXMvMS4wLngnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Ci8vZGVmIChwcm9qZWN0LCByZXBvLCB2ZXJzaW9uKSA9IGFydGlmYWN0TmFtZS5zcGxpdCgvXC8vKQovL2RlZiAobWFqb3IsIG1pbm9yLCBwYXRjaCkgPSB2ZXJzaW9uLnNwbGl0KC9cLi8pCi8vCi8vU3RyaW5nIHNlcnZpY2VVcmwgPSAiJHJlcG8vJG1ham9yLiRtaW5vciIKLy9wcmludGxuKHNlcnZpY2VVcmwpCgpTdHJpbmcgamFyTmFtZSA9IGFydGlmYWN0UGF0aC5zcGxpdCgvXC8vKVstMV0KcHJpbnRsbihqYXJOYW1lKQpTdHJpbmcgY29uZmlnTmFtZSA9IGphck5hbWUuc3BsaXQoL1wuLylbMC4uLTJdLmpvaW4oJy4nKQpwcmludGxuKGNvbmZpZ05hbWUpCgpkZWYgbSA9IChqYXJOYW1lID1+IC8oW14tXSspLShbMC05XSspXC4oWzAtOV0rKS4qLykKcHJpbnRsbihtKQpkZWYgKFN0cmluZyBuYW1lLCBtYWpvciwgbWlub3IpID0gbVswXVsxLi4tMV0KcHJpbnRsbihuYW1lKQpTdHJpbmcgdmVyc2lvbiA9ICIke21ham9yfS4ke21pbm9yfSIKcHJpbnRsbih2ZXJzaW9uKQovL3ByaW50bG4obSkKLy9tLmVhY2ggeyAgICAgIAovLyAgICBwcmludGxuKGl0KQovL30KClN0cmluZyByZXNwb25zZUNvZGUgPSAnNDAwJwoKaWYgKCEocmVzcG9uc2VDb2RlIGluIFsnMjAwJywgJzIwMSddKSkgewogICAgcHJpbnRsbignRXhpdCcpCn0gZWxzZSB7CiAgICBwcmludGxuKCdOJykKfQoKCltbJ2RlcGxveW1lbnQnLCAnYm9keSddLCBbJ3NlcnZpY2UnLCAnYm9keSddLCBbJ3JvdXRlJywgJ2JvZHknXV0uZWFjaCB7IHJlc291cmNlVHlwZSwgYm9keSAtPgogICAgcHJpbnRsbihyZXNvdXJjZVR5cGUgKyAiIyIgKyBib2R5KQoKfQoKU3RyaW5nIGdldEphck5hbWUoU3RyaW5nIGFydGlmYWN0UGF0aCkgewogICAgYXJ0aWZhY3RQYXRoLnNwbGl0KC9cLy8pWy0xXQp9CgpTdHJpbmcgZ2V0VmVyc2lvbihTdHJpbmcgamFyTmFtZSkgewogICAgZGVmIG0gPSBqYXJOYW1lID1+IC9bXi1dKy0oWzAtOV0rXC5bMC05XSspLiovCiAgICBtWzBdWzFdCn0KClN0cmluZyBnZXRBcnRpZmFjdElkKFN0cmluZyBqYXJOYW1lKSB7CiAgICBqYXJOYW1lLnNwbGl0KC8tLylbMF0KfQoKCnByaW50bG4oZ2V0SmFyTmFtZShhcnRpZmFjdFBhdGgpKQpwcmludGxuKGdldFZlcnNpb24oamFyTmFtZSkpCnByaW50bG4oZ2V0QXJ0aWZhY3RJZChqYXJOYW1lKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IEV4Y2VwdGlvbigiQ2FuIG5vdCBtYWtlICR7YXJ0aWZhY3RQYXRofSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/releaseMsUtils.//gc</text>
       </register>
     </registers>
     <search>
-      <last-search>occ</last-search>
+      <last-search>)</last-search>
       <last-offset />
-      <last-pattern>occ</last-pattern>
+      <last-pattern>)</last-pattern>
       <last-replace />
       <last-substitute>releaseMsUtils.</last-substitute>
       <last-dir>1</last-dir>
@@ -824,11 +834,11 @@
         <entry>,</entry>
         <entry>supp</entry>
         <entry encoding="base64">XDwvXD4=</entry>
-        <entry>)</entry>
         <entry>releaseMsUtils.</entry>
         <entry>echo</entry>
         <entry>repository</entry>
         <entry>occ</entry>
+        <entry>)</entry>
       </history-search>
       <history-cmd>
         <entry>%s/suffix/name/gc</entry>
