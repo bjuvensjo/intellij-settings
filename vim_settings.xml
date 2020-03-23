@@ -45,11 +45,11 @@
         <mark key="[" line="26" column="28" />
         <mark key="]" line="33" column="42" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" timestamp="1584899393531">
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="16" column="40" />
-        <mark key="^" line="16" column="40" />
-        <mark key="." line="16" column="40" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" timestamp="1584909606366">
+        <mark key="[" line="25" column="11" />
+        <mark key="]" line="25" column="13" />
+        <mark key="^" line="25" column="13" />
+        <mark key="." line="25" column="13" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/CreateMsDeploymentManifestTest.groovy" timestamp="1584392489149">
         <mark key="[" line="19" column="0" />
@@ -68,9 +68,9 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/createMsDeploymentManifestTest.groovy" timestamp="1584526621303">
-        <mark key="[" line="11" column="44" />
-        <mark key="]" line="11" column="45" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/createMsDeploymentManifestTest.groovy" timestamp="1584909226537">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="15" column="61" />
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="83" />
       </file>
@@ -124,8 +124,8 @@
         <mark key="^" line="16" column="27" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsDeploymentManifest.groovy" timestamp="1584709584629">
-        <mark key="'" line="118" column="0" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsDeploymentManifest.groovy" timestamp="1584908888358">
+        <mark key="'" line="0" column="75" />
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="86" />
         <mark key="." line="113" column="0" />
@@ -285,7 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="40" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
       <jump line="36" column="11" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
       <jump line="40" column="8" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
       <jump line="18" column="70" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMs.groovy" />
@@ -309,7 +308,6 @@
       <jump line="66" column="85" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" />
       <jump line="6" column="59" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsServiceManifest.groovy" />
       <jump line="13" column="25" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsDeploymentManifest.groovy" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsDeploymentManifest.groovy" />
       <jump line="154" column="28" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsDeploymentManifest.groovy" />
       <jump line="121" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsDeploymentManifest.groovy" />
       <jump line="17" column="14" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/resources/template/route.json" />
@@ -385,16 +383,18 @@
       <jump line="4" column="19" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/cfg.groovy" />
       <jump line="15" column="45" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsBinary.groovy" />
       <jump line="8" column="67" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsBinary.groovy" />
+      <jump line="36" column="4" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsDeploymentManifest.groovy" />
+      <jump line="0" column="75" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsDeploymentManifest.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>],</text>
+        <text>replaceInMap</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>replic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIE1hcCBlbnZDZmcgPSBjZmcoKS5lbnZbZW52aXJvbm1lbnRdIGFzIE1hcAo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbmFtZSA9ICdtcy5wb2MuYmFua2hvbGlkYXlzLTEuMCcKICAgICAgICBTdHJpbmcgdmVyc2lvbiA9ICcxLjAnCiAgICAgICAgU3RyaW5nIG1zUGF0aCA9ICcvdmFyL2RldmVsb3AvbXMucG9jLmJhbmtob2xpZGF5cy0xLjAuMC1TTkFQU0hPVC5qYXInCiAgICAgICAgU3RyaW5nIG1zQ2ZnUGF0aCA9ICcvdmFyL2RldmVsb3AvbXMucG9jLmJhbmtob2xpZGF5cy0xLjAuMC1TTkFQU0hPVCcKICAgICAgICBNYXAgbWFuaWZlc3QgPSBzcGVjKG5hbWUsIHZlcnNpb24sIG1zUGF0aCwgbXNDZmdQYXRoKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIE1hcCBlbnZDZmcgPSBjZmcoKS5lbnZbZW52aXJvbm1lbnRdIGFzIE1hcAo=</text>
@@ -446,9 +446,9 @@
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>replic</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>replic</last-pattern>
       <last-replace />
       <last-substitute>releaseMsUtils.</last-substitute>
       <last-dir>1</last-dir>
@@ -456,7 +456,6 @@
     </search>
     <history>
       <history-search>
-        <entry>version</entry>
         <entry>msP</entry>
         <entry encoding="base64">XDxtc1w+</entry>
         <entry>develop</entry>
@@ -476,6 +475,7 @@
         <entry>occ</entry>
         <entry>)</entry>
         <entry>'</entry>
+        <entry>replic</entry>
       </history-search>
       <history-cmd>
         <entry>%s/suffix/name/gc</entry>
