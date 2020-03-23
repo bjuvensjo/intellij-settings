@@ -40,11 +40,11 @@
         <mark key="[" line="26" column="28" />
         <mark key="]" line="33" column="42" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" timestamp="1584909606366">
-        <mark key="[" line="25" column="11" />
-        <mark key="]" line="25" column="13" />
-        <mark key="^" line="25" column="13" />
-        <mark key="." line="25" column="13" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" timestamp="1584961097139">
+        <mark key="[" line="36" column="27" />
+        <mark key="]" line="34" column="26" />
+        <mark key="^" line="34" column="26" />
+        <mark key="." line="34" column="26" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/CreateMsDeploymentManifestTest.groovy" timestamp="1584392489149">
         <mark key="[" line="19" column="0" />
@@ -313,16 +313,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>replaceInMap</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>replic</text>
+        <text>\/</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgbmFtZSA9ICdtcy5wb2MuYmFua2hvbGlkYXlzLTEuMCcKICAgICAgICBTdHJpbmcgdmVyc2lvbiA9ICcxLjAnCiAgICAgICAgU3RyaW5nIG1zUGF0aCA9ICcvdmFyL2RldmVsb3AvbXMucG9jLmJhbmtob2xpZGF5cy0xLjAuMC1TTkFQU0hPVC5qYXInCiAgICAgICAgU3RyaW5nIG1zQ2ZnUGF0aCA9ICcvdmFyL2RldmVsb3AvbXMucG9jLmJhbmtob2xpZGF5cy0xLjAuMC1TTkFQU0hPVCcKICAgICAgICBNYXAgbWFuaWZlc3QgPSBzcGVjKG5hbWUsIHZlcnNpb24sIG1zUGF0aCwgbXNDZmdQYXRoKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIE1hcCBlbnZDZmcgPSBjZmcoKS5lbnZbZW52aXJvbm1lbnRdIGFzIE1hcAo=</text>
+      <register name="1" type="4">
+        <text>ms.poc.bankholidays-cfg</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -343,37 +343,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnRsbihuZXcgY2ZnKCkoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVzdDogZW52RGVmYXVsdCArIFsK</text>
+        <text encoding="base64">ICAgIE1hcCBlbnZDZmcgPSBjZmcoKS5lbnZbZW52aXJvbm1lbnRdIGFzIE1hcAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZiAgICAgICAgICA6ICdtcycK</text>
+        <text encoding="base64">cHJpbnRsbihuZXcgY2ZnKCkoKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWVzcGFjZSAgICA6ICdiYW5rLWRzbC1hcHAtMDEnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVzdDogZW52RGVmYXVsdCArIFsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvc2l0b3J5VXJsOiAnaHR0cHM6Ly9wb2Mub2NwbGFiLWJhbmsubGZuZXQuc2UvbXMucG9jLnJlcG9zaXRvcnkvMS4wJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZiAgICAgICAgICA6ICdtcycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBob3N0ICAgICAgICAgOiAnaHR0cHM6Ly9vY3BsYWIubGZuZXQuc2UnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWVzcGFjZSAgICA6ICdiYW5rLWRzbC1hcHAtMDEnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/releaseMsUtils.//gc</text>
       </register>
     </registers>
     <search>
-      <last-search>replic</last-search>
+      <last-search>\/</last-search>
       <last-offset />
-      <last-pattern>replic</last-pattern>
+      <last-pattern>\/</last-pattern>
       <last-replace />
       <last-substitute>releaseMsUtils.</last-substitute>
       <last-dir>1</last-dir>
@@ -381,7 +381,6 @@
     </search>
     <history>
       <history-search>
-        <entry>msP</entry>
         <entry encoding="base64">XDxtc1w+</entry>
         <entry>develop</entry>
         <entry>bankh</entry>
@@ -401,6 +400,7 @@
         <entry>)</entry>
         <entry>'</entry>
         <entry>replic</entry>
+        <entry>\/</entry>
       </history-search>
       <history-cmd>
         <entry>%s/suffix/name/gc</entry>
