@@ -206,12 +206,12 @@
         <mark key="^" line="47" column="12" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsBinary.groovy" timestamp="1585037736761">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsBinary.groovy" timestamp="1585040581359">
         <mark key="'" line="8" column="67" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="46" />
-        <mark key="." line="23" column="81" />
-        <mark key="^" line="5" column="92" />
+        <mark key="[" line="30" column="124" />
+        <mark key="]" line="30" column="124" />
+        <mark key="." line="30" column="124" />
+        <mark key="^" line="30" column="123" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/yaml/deployment.yaml" timestamp="1584637625832">
         <mark key="[" line="4" column="49" />
@@ -362,9 +362,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/bitbucketFileContentCurl.groovy" timestamp="1584965244896">
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="31" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/bitbucketFileContentCurl.groovy" timestamp="1585040231290">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="183" />
         <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/ocCurl.groovy" timestamp="1584520139200">
@@ -435,9 +435,9 @@
         <mark key="." line="5" column="51" />
         <mark key="^" line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsUtils.groovy" timestamp="1584898608305">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsUtils.groovy" timestamp="1585040699768">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="36" column="43" />
+        <mark key="[" line="47" column="7" />
         <mark key="]" line="36" column="43" />
         <mark key="^" line="40" column="30" />
         <mark key="." line="36" column="43" />
@@ -765,16 +765,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>false</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
         <text>pom</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oZW52LmtleSkKICAgIHByaW50bG4oZW52LnZhbHVlLmFwcHJvdmUpCg==</text>
+        <text encoding="base64">ICAgICJjdXJsIC1rIC1zIC13ICcjJXtodHRwX2NvZGV9JyAtdSAke2NvbmZpZy51c2VybmFtZVBhc3N3b3JkfSAnJHtjb25maWcuYmFzZVVybH0vcHJvamVjdHMvJHtjb25maWcucHJvamVjdH0vcmVwb3MvJHtjb25maWcucmVwb30vcmF3LyR7Y29uZmlnLmZpbGV9P2F0PXJlZnMvaGVhZHMvJHtjb25maWcuYnJhbmNofSciCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvZHkgPSBib2R5ICsgRXZhbC5tZShmaWxlQ29udGVudCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -795,28 +795,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHdpdGhDcmVkZW50aWFscyhbdXNlcm5hbWVDb2xvblBhc3N3b3JkKGNyZWRlbnRpYWxzSWQ6IGNmZygpLmJpdGJ1Y2tldC5jcmVkZW50aWFsc0lkLCB2YXJpYWJsZTogJ1VTRVJQQVNTJyldKSB7CiAgICAgICAgU3RyaW5nIGZpbGVDb250ZW50Q3VybCA9IGJpdGJ1Y2tldEZpbGVDb250ZW50Q3VybCgKICAgICAgICAgICAgdXNlcm5hbWVQYXNzd29yZDogVVNFUlBBU1MsCiAgICAgICAgICAgIGJhc2VVcmw6IGNmZygpLmJpdGJ1Y2tldC51cmwsCiAgICAgICAgICAgIHJlcG86ICcnLAogICAgICAgICAgICBmaWxlOiAnJywKICAgICAgICAgICAgYnJhbmNoOiAnJwogICAgICAgICkKICAgICAgICBzaCBmaWxlQ29udGVudEN1cmwKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICBzaCAiY3VybCAtdSAke1VTRVJQQVNTfSBodHRwczovL2N1c29iaXRidWNrZXQuZXZyeS5jb20vcHJvamVjdHMvUEVTQ1BPQy9yZXBvcy9tcy5wb2MuYmFua2hvbGlkYXlzLWNmZy9yYXcvSmVua2luc2ZpbGU/YXQ9cmVmcy9oZWFkcy8xLjAueCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgYm9vbGVhblBhcmFtKG5hbWU6ICdBUFBST1ZFJywgdmFsdWU6IGVudmlyb25tZW50WzFdKQo=</text>
+        <text encoding="base64">ICAgICAgICBzaCAiY3VybCAtdSAke1VTRVJQQVNTfSAnJHtjZmcoKS5iaXRidWNrZXQudXJsfS9wcm9qZWN0cy9QRVNDUE9DL3JlcG9zL21zLnBvYy5iYW5raG9saWRheXMtY2ZnL3Jhdy9KZW5raW5zZmlsZT9hdD1yZWZzL2hlYWRzLzEuMC54Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgc3RyaW5nKG5hbWU6ICdFTlZJUk9OTUVOVCcsIHZhbHVlOiBlbnZpcm9ubWVudFswXSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImN1cmwgLWsgLXMgLXcgJyMle2h0dHBfY29kZX0nIC0vcHJvamVjdHMvJHtjb25maWcucHJvamVjdH0vcmVwb3MvJHtjb25maWcucmVwb30vcmF3LyR7Y29uZmlnLmZpbGV9P2F0PXJlZnMvaGVhZHMvJHtjb25maWcuYnJhbmNofSciCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgc3RyaW5nKG5hbWU6ICdDT01NSVRfSUQnLCB2YWx1ZTogcGFyYW1zLkNPTU1JVF9JRCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgc3RyaW5nKG5hbWU6ICdBUlRJRkFDVF9OQU1FJywgdmFsdWU6IHBhcmFtcy5BUlRJRkFDVF9OQU1FKSwK</text>
+        <text encoding="base64">Ly8gICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBidWlsZCBqb2I6ICJQRVNDUE9DX3JlbGVhc2VfJHtlbnZpcm9ubWVudFswXX0iLCB3YWl0OiB0cnVlLCBwYXJhbWV0ZXJzOiBbCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIF0uZWFjaCgpIHsgZW52aXJvbm1lbnQgLT4K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/releaseMsUtils.//gc</text>
