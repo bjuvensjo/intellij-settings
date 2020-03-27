@@ -36,11 +36,10 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment1/src/Valuable.java" timestamp="1585297995303">
-        <mark key="[" line="20" column="7" />
-        <mark key="]" line="31" column="40" />
-        <mark key="^" line="31" column="40" />
-        <mark key="." line="31" column="40" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment1/src/Valuable.java" timestamp="1585310049594">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="123" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/maven.settings/Jenkinsfile" timestamp="1584361748535">
         <mark key="[" line="1" column="6" />
@@ -138,10 +137,11 @@
         <mark key="^" line="16" column="27" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment1/src/Stock.java" timestamp="1585255149602">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment1/src/Stock.java" timestamp="1585310055635">
+        <mark key="[" line="35" column="15" />
+        <mark key="]" line="35" column="15" />
+        <mark key="^" line="37" column="27" />
+        <mark key="." line="35" column="15" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsDeploymentManifest.groovy" timestamp="1584967876788">
         <mark key="'" line="0" column="75" />
@@ -195,10 +195,11 @@
         <mark key="." line="13" column="12" />
         <mark key="^" line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment1/src/Appliance.java" timestamp="1585254969365">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment1/src/Appliance.java" timestamp="1585300762745">
+        <mark key="[" line="30" column="39" />
+        <mark key="]" line="25" column="39" />
+        <mark key="." line="25" column="39" />
+        <mark key="^" line="25" column="38" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMs.groovy" timestamp="1585147940301">
         <mark key="'" line="11" column="35" />
@@ -207,10 +208,11 @@
         <mark key="." line="13" column="41" />
         <mark key="^" line="11" column="36" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment1/src/Jewellery.java" timestamp="1585255014152">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment1/src/Jewellery.java" timestamp="1585300756700">
+        <mark key="[" line="39" column="39" />
+        <mark key="]" line="19" column="12" />
+        <mark key="." line="19" column="12" />
+        <mark key="^" line="19" column="20" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsConfiguration.groovy" timestamp="1585147918644">
         <mark key="'" line="57" column="0" />
@@ -370,7 +372,7 @@
         <mark key="]" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
-      <file name="/fragment.java" timestamp="1585147065288">
+      <file name="/fragment.java" timestamp="1585309835179">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -478,16 +480,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>)</text>
+        <text>jewellery</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJ2ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RvY2suZ2V0VmFsdWVQbHVzVkFUKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgamV3ZWxsZXJ5LnRvU3RyaW5nKCkuZXF1YWxzKCJOYW1lOiBSaW5nLCBWYWx1ZTogMzIwMC4wLCBWYWx1ZVBsdXNWYXQ6IDQwMDAuMCwgSmV3ZWxzOiA1LCBNYXRlcmlhbDogU0lMVkVSIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -508,28 +510,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuYWRkKGdldFZhbHVlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RvY2spOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PERvdWJsZT4gcmVzdWx0ID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgc3RvY2suZ2V0VmFsdWVQbHVzVkFUKCkgPT0gMzEuMjU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZG91YmxlIHZhbHVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RvY2spOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm5hbWUgPSBuYW1lOwo=</text>
+        <text encoding="base64">ZGQgICAgICAgIGFzc2VydCBmYWxzZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG5hbWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIsIEpld2VsczogIiArIGdldEpld2VscygpICsKICAgICAgICAgICAgICAgICIsIE1hdGVyaWFsOiAiICsgZ2V0TWF0ZXJpYWwoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RvY2suZ2V0VmFsdWVQbHVzVkFUKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIsIFZhdDogIiArIGdldFZhbHVlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm5hbWUgPSBuYW1lOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIsIFJhdGU6ICIgKyBnZXRSYXRlKCkgKwo=</text>
       </register>
       <register name=":" type="4">
         <text>di</text>
