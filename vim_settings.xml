@@ -58,6 +58,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/git-bitbucket-private/es-intro/git/camel-sample/src/main/java/sample/Main.java" timestamp="1585656334443" />
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/repositoryCurlTest.groovy" timestamp="1585148235381">
         <mark key="'" line="13" column="15" />
         <mark key="[" line="3" column="0" />
@@ -178,6 +179,7 @@
         <mark key="]" line="23" column="22" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/releaseMsUtils.groovy" timestamp="1584716090693" />
       <file name="$USER_HOME$/slask/lp/business.createcreditapplication.v1_0/src/main/java/com/evry/finance/loanprocess/business/createcreditapplication/v1_0/api/CreateCreditApplicationRequest.java" timestamp="1585574845835">
         <mark key="'" line="74" column="8" />
       </file>
@@ -217,6 +219,7 @@
         <mark key="^" line="24" column="95" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/git-bitbucket-private/es-intro/git/camel-sample/src/main/java/sample/ServiceRouteBuilder.java" timestamp="1585656375797" />
       <file name="$USER_HOME$/slask/zzzzz/groovy.stash.addjenkinscommithook/src/main/java/se/lf/service/groovy/stash/addjenkinscommithook/SetBitbucketPostWebhooks.groovy" timestamp="1583253063570">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="6" />
@@ -328,6 +331,11 @@
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="14" />
         <mark key="." line="12" column="13" />
+      </file>
+      <file name="$USER_HOME$/git-bitbucket-private/es-intro/git/camel-sample/src/test/java/sample/ServiceRouteBuilderIT.java" timestamp="1585656736334">
+        <mark key="[" line="14" column="90" />
+        <mark key="]" line="14" column="90" />
+        <mark key="." line="14" column="90" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/test.groovy" timestamp="1584025164796">
         <mark key="[" line="3" column="0" />
@@ -476,7 +484,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>.</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc29uV3JpdGVyXD4=</text>
