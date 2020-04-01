@@ -34,11 +34,11 @@
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" timestamp="1585235151145">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" timestamp="1585731048993">
+        <mark key="[" line="3" column="63" />
+        <mark key="]" line="3" column="63" />
+        <mark key="." line="3" column="63" />
+        <mark key="^" line="3" column="74" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/CreateMsDeploymentManifestTest.groovy" timestamp="1584392489149">
         <mark key="[" line="19" column="0" />
@@ -287,7 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="36" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/executePipelineTest.groovy" />
       <jump line="9" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/executePipelineTest.groovy" />
       <jump line="13" column="45" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/executePipelineTest.groovy" />
       <jump line="52" column="43" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsBinary.groovy" />
@@ -387,19 +386,20 @@
       <jump line="19" column="30" filename="$USER_HOME$/slask/lp/business.createcreditapplication.v1_0/src/main/java/com/evry/finance/loanprocess/business/createcreditapplication/v1_0/api/CreateCreditApplicationRequest.java" />
       <jump line="73" column="41" filename="$USER_HOME$/slask/lp/business.createcreditapplication.v1_0/src/main/java/com/evry/finance/loanprocess/business/createcreditapplication/v1_0/api/CreateCreditApplicationRequest.java" />
       <jump line="74" column="8" filename="$USER_HOME$/slask/lp/business.createcreditapplication.v1_0/src/main/java/com/evry/finance/loanprocess/business/createcreditapplication/v1_0/api/CreateCreditApplicationRequest.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>t</text>
+        <text>bankholidays</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc29uV3JpdGVyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgamV3ZWxsZXJ5LnRvU3RyaW5nKCkuZXF1YWxzKCJOYW1lOiBSaW5nLCBWYWx1ZTogMzIwMC4wLCBWYWx1ZVBsdXNWYXQ6IDQwMDAuMCwgSmV3ZWxzOiA1LCBNYXRlcmlhbDogU0lMVkVSIik7Cg==</text>
+      <register name="0" type="4">
+        <text>ms.poc.bankholidays-cfg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBJZ25vcmUK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oaXQuYWJzb2x1dGVQYXRoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -420,28 +420,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBJZ25vcmUK</text>
+        <text encoding="base64">Ly8gICAgcHJpbnRsbihpdC5hYnNvbHV0ZVBhdGgucmVwbGFjZUZpcnN0KHByb3BzLmFic29sdXRlUGF0aCArICcvJywgJycpLnJlcGxhY2VBbGwoL1wvLywgJy4nKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBKZXdlbGxlcnkoU3RyaW5nIG5hbWUsIGludCBudW1iZXJPZkpld2VscywgIG1hdGVyaWFsKSB7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsaWFuY2UuCg==</text>
+        <text encoding="base64">U3RyaW5nIHByb3BzID0gJy9Vc2Vycy9tYWdudXMvZ2l0LVBFU0NQT0MvUEVTQ1BPQy9tcy5wb2Muc2F2aW5nc2dvYWxzLWNmZy90YXJnZXQvY2xhc3Nlcy9zeXMnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsaWFuY2Uuc2V0VkFUKCk7Cg==</text>
+        <text encoding="base64">cHJpbnRsbihjb3VudEZpbGVzQW5kRGlycykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnZhbHVlID0gZ2V0UXVhbnRpdHkoKSAqIGdldFJhdGUoKTsK</text>
+        <text encoding="base64">ICAgIGNvdW50RmlsZXNBbmREaXJzKysK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJhdGUgPSByYXRlOwo=</text>
+        <text encoding="base64">ZGVmIGNvdW50RmlsZXNBbmREaXJzID0gMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0UmF0ZSgpICogZ2V0UXVhbnRpdHkoKTsK</text>
+        <text encoding="base64">TWFwIGRlcGxveWVyID0gWwogICAgY2FsbDoge3ByaW50bG4oJ1hYWCcpfSwKICAgIGFydGlmYWN0RGVwbG95bWVudFBhdHRlcm5zOiBbCiAgICAgICAgYWRkSW5jbHVkZTogewogICAgICAgICAgICBwcmludGxuKHRoaXMpCiAgICAgICAgICAgIHRoaXMKICAgICAgICB9CiAgICBdCgpdCgpkZXBsb3llci5jYWxsKCkKZGVwbG95ZXIoKQpkZXBsb3llci5hcnRpZmFjdERlcGxveW1lbnRQYXR0ZXJucy5hZGRJbmNsdWRlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBJZ25vcmUK</text>
       </register>
       <register name=":" type="4">
         <text>di</text>
