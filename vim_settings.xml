@@ -32,7 +32,8 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/ocCurl.groovy" timestamp="1584520139200">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/ocCurl.groovy" timestamp="1585841712905">
+        <mark key="'" line="50" column="41" />
         <mark key="[" line="23" column="6" />
         <mark key="]" line="23" column="22" />
         <mark key="." line="3" column="0" />
@@ -94,6 +95,11 @@
         <mark key="." line="17" column="53" />
         <mark key="^" line="17" column="53" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsConfiguration.groovy" timestamp="1585842477866">
+        <mark key="'" line="13" column="11" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="5" column="106" />
+      </file>
       <file name="$USER_HOME$/slask/zzzzz/groovy.stash.addjenkinscommithook/src/main/java/se/lf/service/groovy/stash/addjenkinscommithook/SetBitbucketPostWebhooks.groovy" timestamp="1583253063570">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="6" />
@@ -104,9 +110,10 @@
         <mark key="]" line="3" column="150" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsUtils.groovy" timestamp="1585834018445">
-        <mark key="[" line="48" column="31" />
-        <mark key="]" line="48" column="115" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsUtils.groovy" timestamp="1585842395756">
+        <mark key="[" line="86" column="49" />
+        <mark key="]" line="85" column="114" />
+        <mark key="." line="85" column="114" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/executePipelineTest.groovy" timestamp="1585164582257">
         <mark key="[" line="18" column="68" />
@@ -160,10 +167,11 @@
         <mark key="]" line="22" column="89" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsConfigMap.groovy" timestamp="1585832004561">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsConfigMap.groovy" timestamp="1585842678612">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="127" />
+        <mark key="." line="11" column="11" />
+        <mark key="^" line="11" column="11" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsBinary.groovy" timestamp="1585070889653">
         <mark key="[" line="29" column="0" />
@@ -308,8 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsUtils.groovy" />
-      <jump line="140" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsUtils.groovy" />
       <jump line="110" column="4" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/releaseMsUtilsTest.groovy" />
       <jump line="19" column="12" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/releaseMsBinaryTest.groovy" />
       <jump line="23" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/releaseMsBinaryTest.groovy" />
@@ -408,19 +414,21 @@
       <jump line="18" column="37" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/createConfigMapDataTest.groovy" />
       <jump line="38" column="32" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/createConfigMapDataTest.groovy" />
       <jump line="7" column="1" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createConfigMapData.groovy" />
+      <jump line="13" column="11" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsConfiguration.groovy" />
+      <jump line="50" column="41" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/ocCurl.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>configM</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>sh label: &quot;Get repo file content&quot;, script: fileContentCurlCommand, returnStdout: true</text>
+        <text>String artifactName, String branchName, String buildNumber, String commitId, String environment, String artifactPath) {</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ci8vZGVmIHJlYWRGaWxlKFN0cmluZyBwKSB7Ci8vICAgIHJldHVybiBwCi8vfQovLwovL2RlZiBzaChNYXAgbSkgewovLyAgICAnJydjb25maWcvc3lzL3NlL2xhbnNmb3JzYWtyaW5nYXIvZXNiL2NvbmZpZ3VyYXRpb24ucHJvcGVydGllcwovL2NvbmZpZy9zeXMvc2UvbGFuc2ZvcnNha3Jpbmdhci9nZW1pL3NlY3VyaXR5YXBpXzFfMC9TZWN1cml0eUFwaVNvYXAucHJvcGVydGllcwovL2NvbmZpZy9zeXMvc2UvbGYvc2VydmljZS9hcHAvY29tbW9uL2J1c2luZXNzcHJveHlfbXVsdGlwYXJ0L0NvbmZpZy5wcm9wZXJ0aWVzCi8vY29uZmlnL3N5cy9zZS9sZi9zZXJ2aWNlL2FwcC9zZXNzaW9uL2NyZWF0ZS9Db25maWcucHJvcGVydGllcwovL2NvbmZpZy9zeXMvc2UvbGYvc2VydmljZS9jb21tb24vY2FjaGUvaGF6ZWxjYXN0L0NvbmZpZy5wcm9wZXJ0aWVzCi8vY29uZmlnL3N5cy9zZS9sZi9zZXJ2aWNlL2NvbW1vbi9zZWN1cml0eS9Db25maWcucHJvcGVydGllcwovL2NvbmZpZy9zeXMvc2UvbGYvc2VydmljZS9jb21tb24vdXNlcnNlc3Npb24vQ29uZmlnLnByb3BlcnRpZXMKLy9jb25maWcvc3lzL3NlL2xmL3NlcnZpY2UvaW50ZWdyYXRpb24vYmFuY3MvZ2V0YmFua2hvbGlkYXlzL3YxXzAvQ29uZmlnLnByb3BlcnRpZXMKLy9jb25maWcvc3lzL3NlL2xmL3NlcnZpY2UvaW50ZWdyYXRpb24vYmFuY3MvZ2V0YmFua2hvbGlkYXlzL3YxXzAvY29uZmlndXJhdGlvbi5wcm9wZXJ0aWVzCi8vY29uZmlnL3N5cy9zZS9sZi9zZXJ2aWNlL2ludGVncmF0aW9uL2NvbW1vbi9nZW1pL0NvbmZpZy5wcm9wZXJ0aWVzCi8vY29uZmlnL3N5cy9zZS9sZi9zZXJ2aWNlL2ludGVncmF0aW9uL2dlbWkvYmlkc2VjdXJpdHlhcGkvY29sbGVjdG5ld3VzZXIvdjFfMC9jb25maWd1cmF0aW9uLnByb3BlcnRpZXMKLy9jb25maWcvc3lzL3NlL2xmL3NlcnZpY2UvaW50ZWdyYXRpb24vZ2VtaS9ieGlkc2VjdXJpdHlhcGkvYXV0aGVudGljYXRlL3YxXzAvY29uZmlndXJhdGlvbi5wcm9wZXJ0aWVzCi8vY29uZmlnL3N5cy9zZS9sZi9zZXJ2aWNlL2ludGVncmF0aW9uL2dlbWkvYnhpZHNlY3VyaXR5YXBpL2NvbGxlY3QvdjFfMC9jb25maWd1cmF0aW9uLnByb3BlcnRpZXMKLy9jb25maWcvc3lzL3NlL2xmL3NlcnZpY2UvaW50ZWdyYXRpb24vZ2VtaS9jb25maWd1cmF0aW9uLnByb3BlcnRpZXMKLy9jb25maWcvc3lzL2xvZ2JhY2sueG1sCi8vJycnCi8vfQovLwovL3ByaW50bG4oY2FsbCgnY29uZmlnL3N5cycpKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -441,28 +449,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVsZWFzZU1zVXRpbHMucmVzb3VyY2VFeGlzdHMob2NjLCByZXNvdXJjZVR5cGUsIGNvb3JkaW5hdGVzLm5hbWUgYXMgU3RyaW5nKSkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FsbCgqXykgPj4gJ3RleHQnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aENyZWRlbnRpYWxzKFt1c2VybmFtZUNvbG9uUGFzc3dvcmQoY3JlZGVudGlhbHNJZDogY2ZnKCkuYml0YnVja2V0LmNyZWRlbnRpYWxzSWQsIHZhcmlhYmxlOiAndXNlcm5hbWVDb2xvblBhc3N3b3JkJyldKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FwcGxpY2F0aW9uLnByb3BlcnRpZXMnICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDogJ3RleHQnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib2R5ID0gcmVwbGFjZUluTWFwKGJvZHksIHJlcGxhY2VtZW50cykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uZmlnL3N5cy9zZS9sZi9zZXJ2aWNlL2ludGVncmF0aW9uL2dlbWkvY29uZmlndXJhdGlvbi5wcm9wZXJ0aWVzCmNvbmZpZy9zeXMvbG9nYmFjay54bWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvICJGb3VuZCByZXBsYWNlbWVudHM6ICR7cmVwbGFjZW1lbnRzfSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNYXAgcmVwbGFjZW1lbnRzID0gRXZhbC5tZShmaWxlQ29udGVudCkgYXMgTWFwCg==</text>
       </register>
       <register name=":" type="4">
         <text>di</text>
