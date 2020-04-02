@@ -104,6 +104,10 @@
         <mark key="]" line="3" column="150" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsUtils.groovy" timestamp="1585834018445">
+        <mark key="[" line="48" column="31" />
+        <mark key="]" line="48" column="115" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/executePipelineTest.groovy" timestamp="1585164582257">
         <mark key="[" line="18" column="68" />
         <mark key="]" line="15" column="13" />
@@ -409,8 +413,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxfXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29weUFydGlmYWN0cyBmaW5nZXJwcmludEFydGlmYWN0czogdHJ1ZSwgcHJvamVjdE5hbWU6IGFydGlmYWN0TmFtZSwgc2VsZWN0b3I6IGxhc3RTdWNjZXNzZnVsKCkK</text>
+      <register name="0" type="4">
+        <text>sh label: &quot;Get repo file content&quot;, script: fileContentCurlCommand, returnStdout: true</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGdyb292eS5pbwo=</text>
