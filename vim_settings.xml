@@ -96,11 +96,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/createMsDeploymentManifestTest.groovy" timestamp="1584967897362">
-        <mark key="[" line="15" column="76" />
-        <mark key="]" line="13" column="44" />
-        <mark key="." line="17" column="53" />
-        <mark key="^" line="17" column="53" />
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/createMsDeploymentManifestTest.groovy" timestamp="1585918032365">
+        <mark key="[" line="123" column="80" />
+        <mark key="]" line="123" column="81" />
+        <mark key="." line="123" column="81" />
+        <mark key="^" line="124" column="75" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsConfiguration.groovy" timestamp="1585902429857">
         <mark key="'" line="13" column="11" />
@@ -283,6 +283,13 @@
         <mark key="^" line="16" column="37" />
         <mark key="." line="18" column="19" />
       </file>
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsDeploymentManifest.groovy" timestamp="1585917485044">
+        <mark key="'" line="35" column="30" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
+        <mark key="^" line="131" column="16" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/executeBuildPipelineTest.groovy" timestamp="1585147635799">
         <mark key="[" line="16" column="38" />
         <mark key="]" line="16" column="38" />
@@ -312,7 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/releaseMsBinaryTest.groovy" />
       <jump line="33" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/releaseMsBinaryTest.groovy" />
       <jump line="38" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/releaseMsBinaryTest.groovy" />
       <jump line="43" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/releaseMsBinaryTest.groovy" />
@@ -412,19 +418,20 @@
       <jump line="18" column="17" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" />
       <jump line="12" column="21" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/ocCurl.groovy" />
       <jump line="114" column="36" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/ocCurlTest.groovy" />
+      <jump line="35" column="30" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsDeploymentManifest.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>'</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>-d</text>
+        <text>volu</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnY29uZmlnbWFwJyAgfCBudWxsICAgICB8ICIiImN1cmwgLWsgLXMgLW8gL2Rldi9udWxsIC13ICcle2h0dHBfY29kZX0nIC1YIFBVVCAtSCAnQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uJyAtSCAnQXV0aG9yaXphdGlvbjogQmVhcmVyIGJlYXJlclRva2VuJyAtZCAneyJtZXRhZGF0YSI6eyJuYW1lIjoic2xhc2sifX0nIGh0dHBzOi8vb2NwbGFiLmxmbmV0LnNlL2FwaS92MS9uYW1lc3BhY2VzL2JhbmstZHNsLWFwcC0wMS9jb25maWdtYXBzL3NsYXNrIiIiCg==</text>
+      <register name="0" type="4">
+        <text>[configMap:[defaultMode:420, name:ms.poc.bankholidays-1.0]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnY29uZmlnbWFwJyAgfCBudWxsICAgICAgICAgICAgICAgICAgICAgICAgfCAnYm9keUZpbGUuanNvbicgfCAiIiJjdXJsIC1rIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBQT1NUIC1IICdDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24nIC1IICdBdXRob3JpemF0aW9uOiBCZWFyZXIgYmVhcmVyVG9rZW4nIC1kIEBib2R5RmlsZS5qc29uIGh0dHBzOi8vb2NwbGFiLmxmbmV0LnNlL2FwaS92MS9uYW1lc3BhY2VzL2JhbmstZHNsLWFwcC0wMS9jb25maWdtYXBzLyIiIgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -445,46 +452,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGhlQm9keUZpbGUgPSAnYm9keUZpbGUuanNvbicK</text>
+        <text encoding="base64">ICAgIGlmIChoYXNDb25maWcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNYXAgdGhlQm9keSA9IFttZXRhZGF0YTogW25hbWU6ICdzbGFzayddXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="8">
-        <text>heBody
-heBody
-heBody
-heBody</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="8">
-        <text>t
-t
-t
-t</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGhlQm9keUZpbGUgPSAnYm9keUZpbGUuanNvbicK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtkZDpdCg==</text>
       </register>
-      <register name="7" type="8">
-        <text>b
-b
-b
-b</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlYWRPbmx5OiB0cnVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU6IG1zLXBvYy1zYXZpbmdzZ29hbHMtMS0wCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIG1vdW50UGF0aDogL3Zhci9tcy1wb2Mtc2F2aW5nc2dvYWxzLTEtMAo=</text>
       </register>
       <register name=":" type="4">
         <text>di</text>
       </register>
     </registers>
     <search>
-      <last-search>-d</last-search>
+      <last-search>volu</last-search>
       <last-offset />
-      <last-pattern>-d</last-pattern>
+      <last-pattern>volu</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">U3RyaW5nIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -492,7 +490,6 @@ b</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">U3RyaW5nIA==</entry>
         <entry encoding="base64">XDxiaXRidWNrZXRGaWxlQ29udGVudEN1cmxcPg==</entry>
         <entry encoding="base64">XDxyZXBvc2l0b3J5Q3VybFw+</entry>
         <entry encoding="base64">XDxbXD4=</entry>
@@ -512,6 +509,7 @@ b</text>
         <entry encoding="base64">XDxfXD4=</entry>
         <entry>dataFileP</entry>
         <entry>-d</entry>
+        <entry>volu</entry>
       </history-search>
       <history-cmd>
         <entry>%s/resourceApi/curlgesourceApi/g</entry>
