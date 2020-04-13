@@ -246,11 +246,11 @@
         <mark key="^" line="31" column="12" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment1/src/ValuableRegister.java" timestamp="1586334187058">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="37" />
-        <mark key="^" line="61" column="36" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment1/src/ValuableRegister.java" timestamp="1586801321973">
+        <mark key="[" line="49" column="50" />
+        <mark key="]" line="49" column="49" />
+        <mark key="^" line="49" column="49" />
+        <mark key="." line="49" column="49" />
       </file>
       <file name="/Dummy.txt" timestamp="1585255129828">
         <mark key="[" line="0" column="0" />
@@ -356,7 +356,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="8" column="11" />
       </file>
-      <file name="/fragment.java" timestamp="1585745688853">
+      <file name="/fragment.java" timestamp="1586800923771">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/createMavenBuildCommitFileTest.groovy" timestamp="1585164431496">
@@ -470,7 +470,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">ZXh0ZW5kcyBBcHBsaWNhdGlvbiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyb290XD4=</text>
