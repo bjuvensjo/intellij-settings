@@ -3,8 +3,8 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="Pipeline" type="Groovy" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="Jenkinsfile_ci" type="Groovy" />
       <mapping pattern="Jenkinsfile_cd" type="Groovy" />
       <mapping pattern="slask2Request" type="PLAIN_TEXT" />
@@ -17,6 +17,7 @@
       <mapping pattern="IEC" type="PLAIN_TEXT" />
       <mapping pattern="slask" type="PLAIN_TEXT" />
       <mapping pattern="eslog" type="PLAIN_TEXT" />
+      <mapping pattern="log4j2-includes" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="table" type="PLAIN_TEXT" />
       <mapping ext="restclient" type="PLAIN_TEXT" />
