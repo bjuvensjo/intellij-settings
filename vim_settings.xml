@@ -132,12 +132,11 @@
         <mark key="." line="4" column="65" />
         <mark key="^" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/slask/log4j/slask/src/test/java/mygroup/slask/MaskAppenderTest.groovy" timestamp="1587122022372">
-        <mark key="'" line="22" column="32" />
-        <mark key="[" line="24" column="38" />
-        <mark key="]" line="24" column="38" />
-        <mark key="." line="24" column="38" />
-        <mark key="^" line="38" column="91" />
+      <file name="$USER_HOME$/slask/log4j/slask/src/test/java/mygroup/slask/MaskAppenderTest.groovy" timestamp="1587377291604">
+        <mark key="'" line="39" column="9" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/slask/log4j/slask/src/test/resources/log4j2.xml" timestamp="1587122255745">
         <mark key="'" line="11" column="30" />
@@ -167,6 +166,12 @@
         <mark key="]" line="3" column="150" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/slask/log4j/slask/src/test/resources/cfg/all.groovy" timestamp="1587376546514">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsUtils.groovy" timestamp="1585921648379">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
@@ -176,6 +181,13 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/slask/log4j/slask/src/test/java/mygroup/slask/maskCfg.groovy" timestamp="1587376318261">
+        <mark key="'" line="3" column="12" />
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+        <mark key="^" line="4" column="10" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/executePipelineTest.groovy" timestamp="1585164582257">
         <mark key="[" line="18" column="68" />
@@ -309,11 +321,6 @@
         <mark key="^" line="50" column="20" />
         <mark key="." line="50" column="20" />
       </file>
-      <file name="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/MaskAppender.groovy" timestamp="1587122459870">
-        <mark key="[" line="31" column="42" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/executeReleasePipelineTest.groovy" timestamp="1585164637228">
         <mark key="[" line="18" column="23" />
         <mark key="]" line="18" column="23" />
@@ -414,9 +421,9 @@
         <mark key="^" line="49" column="65" />
         <mark key="." line="49" column="65" />
       </file>
-      <file name="$USER_HOME$/slask/log4j/slask/src/test/resources/mygroup/slask/mask.json" timestamp="1587120798411">
+      <file name="$USER_HOME$/slask/log4j/slask/src/test/resources/mygroup/slask/mask.json" timestamp="1587375867260">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createConfigMapData.groovy" timestamp="1586416311960">
         <mark key="'" line="3" column="15" />
@@ -436,8 +443,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="29" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsBinary.groovy" />
-      <jump line="44" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/releaseMsUtilsTest.groovy" />
       <jump line="51" column="168" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/releaseMsUtilsTest.groovy" />
       <jump line="16" column="13" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/releaseMsUtilsTest.groovy" />
       <jump line="55" column="17" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/releaseMsUtilsTest.groovy" />
@@ -536,10 +541,12 @@
       <jump line="9" column="26" filename="$USER_HOME$/slask/log4j/slask/src/test/resources/log4j2.xml" />
       <jump line="14" column="30" filename="$USER_HOME$/slask/log4j/slask/src/test/resources/log4j2.xml" />
       <jump line="22" column="32" filename="$USER_HOME$/slask/log4j/slask/src/test/java/mygroup/slask/MaskAppenderTest.groovy" />
+      <jump line="3" column="12" filename="$USER_HOME$/slask/log4j/slask/src/test/java/mygroup/slask/maskCfg.groovy" />
+      <jump line="39" column="9" filename="$USER_HOME$/slask/log4j/slask/src/test/java/mygroup/slask/MaskAppenderTest.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>resource</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -548,7 +555,7 @@
         <text encoding="base64">ICAgICAgICBzcGVjLmVycm9yKCJIZWxsbyBXb3JsZCEiKQogICAgICAgIExvZ2dlckNvbnRleHQgY29udGV4dCA9IExvZ2dlckNvbnRleHQuZ2V0Q29udGV4dChmYWxzZSkKICAgICAgICBDb25maWd1cmF0aW9uIGNvbmZpZyA9IGNvbnRleHQuZ2V0Q29uZmlndXJhdGlvbigpCiAgICAgICAgTWFza0FwcGVuZGVyIGFwcGVuZGVyID0gY29uZmlnLmdldEFwcGVuZGVyKCJNYXNrQXBwZW5kZXIiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGZvciAoSW50ZWdlciBpIDogYikgewovLyAgICAgICAgICAgIGlmIChhLmNvbnRhaW5zKGkpKSB7Ci8vICAgICAgICAgICAgICAgIHJlc3VsdC5hZGQoaSk7Ci8vICAgICAgICAgICAgfQovLyAgICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIFVSTCByZXNvdXJjZSA9IE1hc2tBcHBlbmRlci5jbGFzcy5nZXRSZXNvdXJjZSgnL2NmZy9hbGwuZ3Jvb3Z5JykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -569,28 +576,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuIGNmZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXNvdXJjZS50b1VSSSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIENvbGxlY3Rpb248SW50ZWdlcj4gYSA9Cg==</text>
+        <text encoding="base64">ICAgICAgICBVUkwgdXJsPWdldENsYXNzKCkuZ2V0UmVzb3VyY2UoIi9nZXRyZXNvdXJjZXMvdGVzdC50eHQiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudE1hcC5wdXQoSW5zdGFudC5ub3coKS50b1N0cmluZygpLCBtYXNrZWRFdmVudCkK</text>
+        <text encoding="base64">cGFja2FnZSBjZmcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ29uY3VycmVudE1hcDxTdHJpbmcsIExvZ0V2ZW50PiBldmVudE1hcCA9IG5ldyBDb25jdXJyZW50SGFzaE1hcDw+KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IGdldENvbnRleHRNYXAoKSB7Ci8vICAgICAgICAgICAgICAgIHJldHVybiBldmVudC5nZXRDb250ZXh0TWFwKCkKLy8gICAgICAgICAgICB9Ci8vCi8vICAgICAgICAgICAgQE92ZXJyaWRlCi8vICAgICAgICAgICAgUmVhZE9ubHlTdHJpbmdNYXAgZ2V0Q29udGV4dERhdGEoKSB7Ci8vICAgICAgICAgICAgICAgIHJldHVybiBldmVudC5nZXRDb250ZXh0RGF0YSgpCi8vICAgICAgICAgICAgfQovLwovLyAgICAgICAgICAgIEBPdmVycmlkZQovLyAgICAgICAgICAgIFRocmVhZENvbnRleHQuQ29udGV4dFN0YWNrIGdldENvbnRleHRTdGFjaygpIHsKLy8gICAgICAgICAgICAgICAgcmV0dXJuIGV2ZW50LmdldENvbnRleHRTdGFjaygpCi8vICAgICAgICAgICAgfQovLwovLyAgICAgICAgICAgIEBPdmVycmlkZQovLyAgICAgICAgICAgIFN0cmluZyBnZXRMb2dnZXJGcWNuKCkgewovLyAgICAgICAgICAgICAgICByZXR1cm4gZXZlbnQuZ2V0TG9nZ2VyRnFjbigpCi8vICAgICAgICAgICAgfQovLwovLyAgICAgICAgICAgIEBPdmVycmlkZQovLyAgICAgICAgICAgIExldmVsIGdldExldmVsKCkgewovLyAgICAgICAgICAgICAgICByZXR1cm4gZXZlbnQuZ2V0TGV2ZWwoKQovLyAgICAgICAgICAgIH0KLy8KLy8gICAgICAgICAgICBAT3ZlcnJpZGUKLy8gICAgICAgICAgICBTdHJpbmcgZ2V0TG9nZ2VyTmFtZSgpIHsKLy8gICAgICAgICAgICAgICAgcmV0dXJuIGV2ZW50LmdldExvZ2dlck5hbWUoKQovLyAgICAgICAgICAgIH0KLy8KLy8gICAgICAgICAgICBAT3ZlcnJpZGUKLy8gICAgICAgICAgICBNYXJrZXIgZ2V0TWFya2VyKCkgewovLyAgICAgICAgICAgICAgICByZXR1cm4gZXZlbnQuZ2V0TWFya2VyKCkKLy8gICAgICAgICAgICB9Ci8vCi8vICAgICAgICAgICAgQE92ZXJyaWRlCi8vICAgICAgICAgICAgTWVzc2FnZSBnZXRNZXNzYWdlKCkgewovLyAgICAgICAgICAgICAgICByZXR1cm4gZXZlbnQuZ2V0TWVzc2FnZSgpCi8vICAgICAgICAgICAgfQovLwovLyAgICAgICAgICAgIEBPdmVycmlkZQovLyAgICAgICAgICAgIGxvbmcgZ2V0VGltZU1pbGxpcygpIHsKLy8gICAgICAgICAgICAgICAgcmV0dXJuIDAKLy8gICAgICAgICAgICB9Ci8vCi8vICAgICAgICAgICAgQE92ZXJyaWRlCi8vICAgICAgICAgICAgb3JnLmFwYWNoZS5sb2dnaW5nLmxvZzRqLmNvcmUudGltZS5JbnN0YW50IGdldEluc3RhbnQoKSB7Ci8vICAgICAgICAgICAgICAgIHJldHVybiBldmVudC5nZXRJbnN0YW50KCkKLy8gICAgICAgICAgICB9Ci8vCi8vICAgICAgICAgICAgQE92ZXJyaWRlCi8vICAgICAgICAgICAgU3RhY2tUcmFjZUVsZW1lbnQgZ2V0U291cmNlKCkgewovLyAgICAgICAgICAgICAgICByZXR1cm4gZXZlbnQuZ2V0U291cmNlKCkKLy8gICAgICAgICAgICB9Ci8vCi8vICAgICAgICAgICAgQE92ZXJyaWRlCi8vICAgICAgICAgICAgU3RyaW5nIGdldFRocmVhZE5hbWUoKSB7Ci8vICAgICAgICAgICAgICAgIHJldHVybiBldmVudC5nZXRUaHJlYWROYW1lKCkKLy8gICAgICAgICAgICB9Ci8vCi8vICAgICAgICAgICAgQE92ZXJyaWRlCi8vICAgICAgICAgICAgbG9uZyBnZXRUaHJlYWRJZCgpIHsKLy8gICAgICAgICAgICAgICAgcmV0dXJuIDAKLy8gICAgICAgICAgICB9Ci8vCi8vICAgICAgICAgICAgQE92ZXJyaWRlCi8vICAgICAgICAgICAgaW50IGdldFRocmVhZFByaW9yaXR5KCkgewovLyAgICAgICAgICAgICAgICByZXR1cm4gMAovLyAgICAgICAgICAgIH0KLy8KLy8gICAgICAgICAgICBAT3ZlcnJpZGUKLy8gICAgICAgICAgICBUaHJvd2FibGUgZ2V0VGhyb3duKCkgewovLyAgICAgICAgICAgICAgICByZXR1cm4gZXZlbnQuZ2V0VGhyb3duKCkKLy8gICAgICAgICAgICB9Ci8vCi8vICAgICAgICAgICAgQE92ZXJyaWRlCi8vICAgICAgICAgICAgVGhyb3dhYmxlUHJveHkgZ2V0VGhyb3duUHJveHkoKSB7Ci8vICAgICAgICAgICAgICAgIHJldHVybiBldmVudC5nZXRUaHJvd25Qcm94eSgpCi8vICAgICAgICAgICAgfQovLwovLyAgICAgICAgICAgIEBPdmVycmlkZQovLyAgICAgICAgICAgIGJvb2xlYW4gaXNFbmRPZkJhdGNoKCkgewovLyAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2UKLy8gICAgICAgICAgICB9Ci8vCi8vICAgICAgICAgICAgQE92ZXJyaWRlCi8vICAgICAgICAgICAgYm9vbGVhbiBpc0luY2x1ZGVMb2NhdGlvbigpIHsKLy8gICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlCi8vICAgICAgICAgICAgfQovLwovLyAgICAgICAgICAgIEBPdmVycmlkZQovLyAgICAgICAgICAgIHZvaWQgc2V0SW5jbHVkZUxvY2F0aW9uKGJvb2xlYW4gYikgewovLwovLyAgICAgICAgICAgIH0KLy8KLy8gICAgICAgICAgICBAT3ZlcnJpZGUKLy8gICAgICAgICAgICBsb25nIGdldE5hbm9UaW1lKCkgewovLyAgICAgICAgICAgICAgICByZXR1cm4gMAovLyAgICAgICAgICAgIH0KLy8KLy8gICAgICAgICAgICBAT3ZlcnJpZGUKLy8gICAgICAgICAgICB2b2lkIHNldEVuZE9mQmF0Y2goYm9vbGVhbiBiKSB7Ci8vCi8vICAgICAgICAgICAgfQovLyAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGluY2x1ZGVkOiBbXSwKICAgIGV4Y2x1ZGVkOiBbLy4qL10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBuZXcgTG9nRXZlbnQoKSB7Ci8vICAgICAgICAgICAgQE92ZXJyaWRlCi8vICAgICAgICAgICAgTG9nRXZlbnQgdG9JbW11dGFibGUoKSB7Ci8vICAgICAgICAgICAgICAgIHJldHVybiBldmVudC50b0ltbXV0YWJsZSgpCi8vICAgICAgICAgICAgfQovLwovLyAgICAgICAgICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGZvciAoSW50ZWdlciBpIDogYikgewovLyAgICAgICAgICAgIGlmIChhLmNvbnRhaW5zKGkpKSB7Ci8vICAgICAgICAgICAgICAgIHJlc3VsdC5hZGQoaSk7Ci8vICAgICAgICAgICAgfQovLyAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudE1hcC4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/public //g</text>
