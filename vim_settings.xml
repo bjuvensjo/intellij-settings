@@ -490,12 +490,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/slask/zzz/groovy.git/src/main/java/com/evry/finance/groovy/git/GitRemoteStash.groovy" timestamp="1588628187836">
-        <mark key="'" line="134" column="20" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
-        <mark key="^" line="135" column="22" />
+      <file name="$USER_HOME$/slask/zzz/groovy.git/src/main/java/com/evry/finance/groovy/git/GitRemoteStash.groovy" timestamp="1588629009858">
+        <mark key="'" line="136" column="20" />
+        <mark key="[" line="137" column="12" />
+        <mark key="]" line="137" column="14" />
+        <mark key="." line="137" column="14" />
+        <mark key="^" line="137" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -608,10 +608,10 @@
         <text encoding="base64">XDxycGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihycGUucmVzcG9uc2UucGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcnBlLnJlc3BvbnNlLnBhcmFtcy5lYWNoIHsKICAgICAgICAgICAgICAgIHByaW50bG4oaXQpCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHJlLnJlc3BvbnNlLnJlYXNvblBocmFzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihocmUucmVzcG9uc2UucGFyYW1zKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -632,34 +632,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnBlLnJlc3BvbnNlLnJlYXNvblBocmFzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaHJlLnJlc3BvbnNlLnJlYXNvblBocmFzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihycGUucmVzcG9uc2Uuc3RhdHVzTGluZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcnBlLnJlc3BvbnNlLnJlYXNvblBocmFzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihycGUucmVzcG9uc2Uuc3RhdHVzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihycGUucmVzcG9uc2Uuc3RhdHVzTGluZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihocmUucmVzcG9uc2Uuc3RhdHVzTGluZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihycGUucmVzcG9uc2Uuc3RhdHVzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihocmUucmVzcG9uc2Uuc3RhdHVzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihocmUucmVzcG9uc2Uuc3RhdHVzTGluZSkK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihocmUucmVzcG9uc2Uuc3RhdHVzKQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihocmUucmVzcG9uc2Uuc3RhdHVzQ29kZSkK</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text>pe
 pe
 pe
 pe</text>
-      </register>
-      <register name="9" type="8">
-        <text>w
-w
-w
-w</text>
       </register>
       <register name=":" type="4">
         <text>%s/public //g</text>
