@@ -121,7 +121,9 @@
         <mark key="^" line="13" column="42" />
       </file>
       <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/pom.xml" timestamp="1588613271406" />
-      <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" timestamp="1588615060963" />
+      <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" timestamp="1588623297710">
+        <mark key="'" line="115" column="25" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/releaseMsBinaryTest.groovy" timestamp="1584696592016">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -244,6 +246,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/README.md" timestamp="1588623595004" />
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/approveEnvironment.groovy" timestamp="1585146487123">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="118" />
@@ -487,14 +490,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/slask/zzz/groovy.git/src/main/java/com/evry/finance/groovy/git/GitRemoteStash.groovy" timestamp="1588614160801">
-        <mark key="[" line="160" column="56" />
+      <file name="$USER_HOME$/slask/zzz/groovy.git/src/main/java/com/evry/finance/groovy/git/GitRemoteStash.groovy" timestamp="1588623454684">
+        <mark key="[" line="97" column="45" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/releaseMsUtilsTest.groovy" />
-      <jump line="137" column="1" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/releaseMsUtilsTest.groovy" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/releaseMsUtilsTest.groovy" />
       <jump line="29" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/replaceInMap.groovy" />
       <jump line="10" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/releaseMsUtilsTest.groovy" />
       <jump line="73" column="4" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
@@ -592,13 +592,16 @@
       <jump line="49" column="0" filename="$USER_HOME$/slask/log4j/slask/src/test/java/mygroup/MasksTest.groovy" />
       <jump line="0" column="6" filename="$USER_HOME$/slask/log4j/slask/src/test/resources/cfg/all.groovy" />
       <jump line="22" column="31" filename="$USER_HOME$/slask/log4j/slask/src/test/java/mygroup/MasksTest.groovy" />
+      <jump line="144" column="0" filename="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" />
+      <jump line="115" column="25" filename="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>message</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>SSL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgbWFza2VkTWVzc2FnZSA9IG1hc2tzLmFwcGx5TWFza3MobWFza3MuZ2V0TWFza3MoKSwgZXZlbnQubWVzc2FnZS5mb3JtYXQpCiAgICAgICAgTWVzc2FnZSBtZXNzYWdlID0gbmV3IFNpbXBsZU1lc3NhZ2UobWFza2VkTWVzc2FnZSkKICAgICAgICBuZXcgTG9nNGpMb2dFdmVudChldmVudC5sb2dnZXJOYW1lLCBldmVudC5tYXJrZXIsIGV2ZW50LmxvZ2dlckZxY24sIGV2ZW50LmxldmVsLCBtZXNzYWdlLCBldmVudC50aHJvd24pCg==</text>
@@ -653,9 +656,9 @@
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>SSL</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>SSL</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">cHVibGljIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -663,7 +666,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxKc29uV3JpdGVyXD4=</entry>
         <entry encoding="base64">XDxqc29uV3JpdGVyXD4=</entry>
         <entry>'</entry>
         <entry encoding="base64">XDxfXD4=</entry>
@@ -683,6 +685,7 @@
         <entry>;</entry>
         <entry encoding="base64">cHVibGljIA==</entry>
         <entry>&quot;</entry>
+        <entry>SSL</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ocCurl/curl/gc</entry>
