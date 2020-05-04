@@ -490,8 +490,10 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/slask/zzz/groovy.git/src/main/java/com/evry/finance/groovy/git/GitRemoteStash.groovy" timestamp="1588623454684">
-        <mark key="[" line="97" column="45" />
+      <file name="$USER_HOME$/slask/zzz/groovy.git/src/main/java/com/evry/finance/groovy/git/GitRemoteStash.groovy" timestamp="1588625626730">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -598,7 +600,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>message</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>SSL</text>
@@ -607,7 +609,7 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgbWFza2VkTWVzc2FnZSA9IG1hc2tzLmFwcGx5TWFza3MobWFza3MuZ2V0TWFza3MoKSwgZXZlbnQubWVzc2FnZS5mb3JtYXQpCiAgICAgICAgTWVzc2FnZSBtZXNzYWdlID0gbmV3IFNpbXBsZU1lc3NhZ2UobWFza2VkTWVzc2FnZSkKICAgICAgICBuZXcgTG9nNGpMb2dFdmVudChldmVudC5sb2dnZXJOYW1lLCBldmVudC5tYXJrZXIsIGV2ZW50LmxvZ2dlckZxY24sIGV2ZW50LmxldmVsLCBtZXNzYWdlLCBldmVudC50aHJvd24pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xvciBjID0gQ29sb3IuQkxBQ0s7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFzaC5zZXRDb250ZW50VHlwZShIVE1MKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -628,28 +630,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xvciBjID0gQ29sb3IuQkxBQ0s7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGdpdFJlbW90ZVJlcG8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xvciBjID0gQ29sb3IuQkxBQ0s7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9wcmludGxuICJTaXplIG9mIHJlcG9zZTogIiArZ2l0UmVtb3RlUmVwb3Muc2l6ZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzcGVjID0gTG9nTWFuYWdlci5nZXRMb2dnZXIobG9nZ2VyKQogICAgICAgIHNwZWMuZXJyb3IobXNnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzcGVjID0gTG9nTWFuYWdlci5nZXRMb2dnZXIobG9nZ2VyKQogICAgICAgIHNwZWMuZXJyb3IobXNnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdpdFJlbW90ZVJlcG9zICs9IGdldFJlcG9zaXRvcmllcyhwcm9qZWN0S2V5LCBsaW1pdCwgaW5jbHVkZUJyYW5jaGVzLCBpbmNsdWRlVGFncywganNvbi5uZXh0UGFnZVN0YXJ0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFwcGVuZGVyLmxhdGVzdC5tZXNzYWdlLmZvcm1hdCA9PSBleHBlY3RlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFqc29uLmlzTGFzdFBhZ2UpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIExvZ0V2ZW50IGxhdGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsYXRlc3QgPSBtYXNrZWRFdmVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdpdFJlbW90ZVJlcG8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/public //g</text>
