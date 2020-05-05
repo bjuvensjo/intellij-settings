@@ -144,17 +144,24 @@
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="19" />
       </file>
+      <file name="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/Jenkinsfile" timestamp="1588698206015">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="23" column="49" />
+        <mark key="^" line="23" column="49" />
+        <mark key="." line="23" column="49" />
+      </file>
       <file name="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/README.md" timestamp="1588623595004" />
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/cfg.groovy" timestamp="1585921389517">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/src/main/java/se/lf/service/groovy/bitbucket/postwebhook/BitbucketPostWebhook.groovy" timestamp="1588670001044">
+      <file name="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/src/main/java/se/lf/service/groovy/bitbucket/postwebhook/BitbucketPostWebhook.groovy" timestamp="1588697022095">
         <mark key="'" line="9" column="76" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="77" />
-        <mark key="." line="12" column="45" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/slask/clara/slask/src/main/java/mygroup/slask/Slask.java" timestamp="1587048225846">
         <mark key="[" line="8" column="57" />
@@ -274,7 +281,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/slask/zzz/groovy.git/src/main/java/com/evry/finance/groovy/git/GitRemoteStash.groovy" timestamp="1588672449529" />
+      <file name="$USER_HOME$/slask/zzz/groovy.git/src/main/java/com/evry/finance/groovy/git/GitRemoteStash.groovy" timestamp="1588698679671">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+      </file>
       <file name="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/MyAppender.java" timestamp="1587113796904">
         <mark key="'" line="32" column="28" />
         <mark key="[" line="50" column="24" />
@@ -349,10 +360,10 @@
       <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" timestamp="1588623297710">
         <mark key="'" line="115" column="25" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsConfiguration.groovy" timestamp="1586158672698">
+      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsConfiguration.groovy" timestamp="1588696062399">
         <mark key="'" line="13" column="11" />
-        <mark key="[" line="4" column="65" />
-        <mark key="]" line="4" column="65" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="135" />
         <mark key="." line="4" column="65" />
         <mark key="^" line="10" column="24" />
       </file>
@@ -491,8 +502,10 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/slask/zzz/groovy.git/pom.xml" timestamp="1588670416033">
-        <mark key="[" line="70" column="17" />
+      <file name="$USER_HOME$/slask/zzz/groovy.git/pom.xml" timestamp="1588698633976">
+        <mark key="[" line="77" column="30" />
+        <mark key="]" line="77" column="31" />
+        <mark key="." line="77" column="31" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsConfigMapManifest.groovy" timestamp="1584394861617">
         <mark key="[" line="7" column="25" />
@@ -522,7 +535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="8" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
       <jump line="29" column="57" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
       <jump line="31" column="26" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
       <jump line="19" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
@@ -622,19 +634,20 @@
       <jump line="12" column="35" filename="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/src/main/java/se/lf/service/groovy/bitbucket/postwebhook/Slask.groovy" />
       <jump line="19" column="20" filename="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/src/main/java/se/lf/service/groovy/bitbucket/postwebhook/Slask.groovy" />
       <jump line="9" column="76" filename="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/src/main/java/se/lf/service/groovy/bitbucket/postwebhook/BitbucketPostWebhook.groovy" />
+      <jump line="159" column="0" filename="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>o</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
         <text>gitR</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEdpdFJlbW90ZVJlcG8+IHJlcG9zID0gZ2V0UmVwb3MocHJvamVjdEtleXMsIGNvbmZpZ3VyYXRpb24uYml0YnVja2V0LnVybCBhcyBTdHJpbmcsIHVzZXJuYW1lLCBwYXNzd29yZCwgMTAwMCwgMCkKICAgICAgICBwcmludGxuKHJlcG9zKQogICAgICAgIHByaW50bG4ocmVwb3Muc2l6ZSgpKQogICAgICAgIAogICAgICAgIExpc3Q8TWFwPiBwb3N0V2ViSG9va3MgPSBnZXRQb3N0V2ViaG9va3MoW2tleTonRVNBUCcsIG5hbWU6J2FwcC5zeXN0ZW0uc2VjdXJpdHkuc3RhcnRzaWduaW5nLnYxXzInXSwgY29uZmlndXJhdGlvbi5iaXRidWNrZXQudXJsIGFzIFN0cmluZywgdXNlcm5hbWUsIHBhc3N3b3JkKQogICAgICAgIHByaW50bG4ocG9zdFdlYkhvb2tzKQo=</text>
+      <register name="0" type="4">
+        <text>theCfg.bitbucket.credentialsId,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -655,28 +668,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxNYXA+IHBvc3RXZWJIb29rcyA9IGdldFBvc3RXZWJob29rcyhba2V5OidFU0FQJywgbmFtZTonYXBwLnN5c3RlbS5zZWN1cml0eS5zdGFydHNpZ25pbmcudjFfMiddLCBjb25maWd1cmF0aW9uLmJpdGJ1Y2tldC51cmwgYXMgU3RyaW5nLCB1c2VybmFtZSwgcGFzc3dvcmQpCiAgICAgICAgICAgIHByaW50bG4ocG9zdFdlYkhvb2tzKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCdAJyAqIDgwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEdpdFJlbW90ZVJlcG8+IHJlcG9zID0gZ2V0UmVwb3MocHJvamVjdEtleXMsIGNvbmZpZ3VyYXRpb24uYml0YnVja2V0LnVybCBhcyBTdHJpbmcsIHVzZXJuYW1lLCBwYXNzd29yZCwgMTAwMCwgMCkKICAgICAgICBwcmludGxuKHJlcG9zKQogICAgICAgIHByaW50bG4ocmVwb3Muc2l6ZSgpKQogICAgICAgIAogICAgICAgIExpc3Q8TWFwPiBwb3N0V2ViSG9va3MgPSBnZXRQb3N0V2ViaG9va3MoW2tleTonRVNBUCcsIG5hbWU6J2FwcC5zeXN0ZW0uc2VjdXJpdHkuc3RhcnRzaWduaW5nLnYxXzInXSwgY29uZmlndXJhdGlvbi5iaXRidWNrZXQudXJsIGFzIFN0cmluZywgdXNlcm5hbWUsIHBhc3N3b3JkKQogICAgICAgIHByaW50bG4ocG9zdFdlYkhvb2tzKQogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0gYXMgTGlzdDxNYXA+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdFByb3BlcnRpZXM6IFsnQXV0aG9yaXphdGlvbic6ICdCYXNpYyAnICsgKCIkdXNlcm5hbWU6JHBhc3N3b3JkIikuYnl0ZXMuZW5jb2RlQmFzZTY0KCldCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm4ganNvbgo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgcyA9IG5ldyBVUkwodXJsICsgQ09SRV9BUElfU1VGRklYICsgInByb2plY3RzLyR7cHJvamVjdEtleX0vcmVwb3M/bGltaXQ9JHtsaW1pdH0mc3RhcnQ9JHtzdGFydFBhZ2V9IikuZ2V0VGV4dCgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICkgeyByZXNwLCBqc29uIC0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCdAJyAqIDgwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBxdWVyeTogW2xpbWl0OiBMQVJHRV9QQUdJTkdfTElNSVRdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBwYXRoOiAicHJvamVjdHMvJHtnaXRSZW1vdGVSZXBvLnByb2plY3RLZXl9L3JlcG9zLyR7Z2l0UmVtb3RlUmVwby5uYW1lfS9jb25maWd1cmF0aW9ucyIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/public //g</text>
