@@ -147,12 +147,12 @@
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="19" />
       </file>
-      <file name="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/Jenkinsfile" timestamp="1588758158306">
+      <file name="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/Jenkinsfile" timestamp="1588770398550">
         <mark key="'" line="35" column="0" />
-        <mark key="[" line="19" column="44" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="21" column="25" />
-        <mark key="." line="22" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="16" column="8" />
+        <mark key="^" line="18" column="17" />
+        <mark key="." line="18" column="17" />
       </file>
       <file name="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/README.md" timestamp="1588623595004" />
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/cfg.groovy" timestamp="1585921389517">
@@ -646,8 +646,8 @@
       <register name="/" type="4">
         <text>gitR</text>
       </register>
-      <register name="0" type="4">
-        <text>theCfg.bitbucket.credentialsId,</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByb3BlcnRpZXMoW3BhcmFtZXRlcnMoWwogICAgICAgIHN0cmluZyhuYW1lOiAnQ09ORklHVVJBVElPTl9QQVRIJywgdHJpbTogdHJ1ZSwgZGVmYXVsdFZhbHVlOiAnQ29uZmlndXJhdGlvbi5qc29uJykKICAgIF0pXSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgZXh0ZW5zaW9uczogW10sIGdpdFRvb2w6ICdEZWZhdWx0Jywgc3VibW9kdWxlQ2ZnOiBbXSwgdXNlclJlbW90ZUNvbmZpZ3M6IFtbY3JlZGVudGlhbHNJZDogdGhlQ2ZnLmJpdGJ1Y2tldC5jcmVkZW50aWFsc0lkLCB1cmw6IHVybF1dXSkK</text>
