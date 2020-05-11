@@ -460,6 +460,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1589201243950">
+        <mark key="'" line="34" column="24" />
+        <mark key="[" line="248" column="0" />
+        <mark key="]" line="248" column="0" />
+        <mark key="." line="248" column="0" />
+        <mark key="^" line="261" column="76" />
+      </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/CoordinatesInputForm.java" timestamp="1589198579185">
         <mark key="[" line="24" column="5" />
       </file>
@@ -542,12 +549,11 @@
         <mark key="^" line="16" column="60" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1588669355575">
+      <file name="/fragment.java" timestamp="1589200689986">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="57" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
       <jump line="31" column="26" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
       <jump line="19" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
       <jump line="0" column="22" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/executeReleasePipeline.groovy" />
@@ -647,19 +653,20 @@
       <jump line="19" column="20" filename="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/src/main/java/se/lf/service/groovy/bitbucket/postwebhook/Slask.groovy" />
       <jump line="9" column="76" filename="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/src/main/java/se/lf/service/groovy/bitbucket/postwebhook/BitbucketPostWebhook.groovy" />
       <jump line="159" column="0" filename="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/Jenkinsfile" />
+      <jump line="34" column="24" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>VAM</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>gitR</text>
+        <text encoding="base64">XDxyYWRpb0J1dHRvbk5hbWVkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb3BlcnRpZXMoW3BhcmFtZXRlcnMoWwogICAgICAgIHN0cmluZyhuYW1lOiAnQ09ORklHVVJBVElPTl9QQVRIJywgdHJpbTogdHJ1ZSwgZGVmYXVsdFZhbHVlOiAnQ29uZmlndXJhdGlvbi5qc29uJykKICAgIF0pXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyYWRpb0J1dHRvbk5hbWVkLmlzU2VsZWN0ZWQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZXh0ZW5zaW9uczogW10sIGdpdFRvb2w6ICdEZWZhdWx0Jywgc3VibW9kdWxlQ2ZnOiBbXSwgdXNlclJlbW90ZUNvbmZpZ3M6IFtbY3JlZGVudGlhbHNJZDogdGhlQ2ZnLmJpdGJ1Y2tldC5jcmVkZW50aWFsc0lkLCB1cmw6IHVybF1dXSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFBsYWNlKCJIZWxsYXNnw6VyZGVuIiwgY2F0ZWdvcnksIHBvc2l0aW9uKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -680,37 +687,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja291dChbJGNsYXNzICAgIDogJ0dpdFNDTScsIGJyYW5jaGVzOiBbW25hbWU6IGJyYW5jaF1dLCBkb0dlbmVyYXRlU3VibW9kdWxlQ29uZmlndXJhdGlvbnM6IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJJIHdpbGwgY3JlYXRlIGEgZGVzY3JpYmVkIHBsYWNlIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzaCAncm0gLXJmIConCiAgICAgICAgc2ggJ3JtIC1yZiAuZ2l0JwogICAgICAgIHNoICdybSAtcmYgLmdpdGlnbm9yZScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJJIHdpbGwgY3JlYXRlIGEgbmFtZWQgcGxhY2UiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJvcGVydGllcyhbcGFyYW1ldGVycyhbCiAgICBzdHJpbmcobmFtZTogJ0NPTkZJR1VSQVRJT05fUEFUSCcsIHRyaW06IHRydWUsIGRlZmF1bHRWYWx1ZTogJ0NvbmZpZ3VyYXRpb24uanNvbicpCl0pXSkK</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0cmluZyhuYW1lOiAnQlJBTkNIX05BTUUnLCB2YWx1ZTogZW52LkJSQU5DSF9OQU1FKSwKICAgIHN0cmluZyhuYW1lOiAnQ09NTUlUX0lEJywgdHJpbTogdHJ1ZSksCiAgICBzdHJpbmcobmFtZTogJ0VOVklST05NRU5UJywgdHJpbTogdHJ1ZSksCiAgICBib29sZWFuUGFyYW0obmFtZTogJ0FQUFJPVkUnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly91cmw6ICdodHRwczovL2N1c29iaXRidWNrZXQuZXZyeS5jb20nCg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnaHR0cHM6Ly9jdXNvYml0YnVja2V0LmV2cnkuY29tL3NjbS9lc2F1dG8vZ3Jvb3Z5LmJpdGJ1Y2tldC5wb3N0d2ViaG9vay5naXQnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyYWRpb0J1dHRvbk5hbWVkLmlzU2VsZWN0ZWQoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIGJyYW5jaAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/public //g</text>
       </register>
     </registers>
     <search>
-      <last-search>gitR</last-search>
+      <last-search encoding="base64">XDxyYWRpb0J1dHRvbk5hbWVkXD4=</last-search>
       <last-offset />
-      <last-pattern>gitR</last-pattern>
+      <last-pattern encoding="base64">XDxyYWRpb0J1dHRvbk5hbWVkXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">cHVibGljIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -718,7 +725,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dataFileP</entry>
         <entry>-d</entry>
         <entry>volu</entry>
         <entry>ends</entry>
@@ -738,6 +744,7 @@
         <entry encoding="base64">XDxycGVcPg==</entry>
         <entry>new</entry>
         <entry>gitR</entry>
+        <entry encoding="base64">XDxyYWRpb0J1dHRvbk5hbWVkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ocCurl/curl/gc</entry>
