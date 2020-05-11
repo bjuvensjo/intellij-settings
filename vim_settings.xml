@@ -460,9 +460,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1589202113726">
-        <mark key="[" line="199" column="72" />
-        <mark key="]" line="34" column="67" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1589203677852">
+        <mark key="[" line="254" column="13" />
+        <mark key="]" line="257" column="0" />
+        <mark key="." line="257" column="0" />
       </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/CoordinatesInputForm.java" timestamp="1589198579185">
         <mark key="[" line="24" column="5" />
@@ -654,7 +655,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>)</text>
+        <text>V</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWRpb0J1dHRvbk5hbWVkXD4=</text>
@@ -663,7 +664,7 @@
         <text>namedRadioButton = createNamedRadioButton();</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFBsYWNlKCJIZWxsYXNnw6VyZGVuIiwgY2F0ZWdvcnksIHBvc2l0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBOYW1lZFBsYWNlKG5hbWUsIGNhdGVnb3J5LCBwb3NpdGlvbik7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -684,28 +685,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJJIHdpbGwgY3JlYXRlIGEgZGVzY3JpYmVkIHBsYWNlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IE5hbWVkUGxhY2UobmFtZSwgY2F0ZWdvcnksIHBvc2l0aW9uKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJJIHdpbGwgY3JlYXRlIGEgbmFtZWQgcGxhY2UiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgaGFuZGxlKEFjdGlvbkV2ZW50IGV2ZW50KSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9KSAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByYWRpb0J1dHRkZG9uLnNldE9uQWN0aW9uKG5ldyBFdmVudEhhbmRsZXI8QWN0aW9uRXZlbnQ+KCkgewo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyYWRpb0J1dHRvbk5hbWVkLmlzU2VsZWN0ZWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KSAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/public //g</text>
