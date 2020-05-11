@@ -194,6 +194,12 @@
         <mark key="." line="21" column="75" />
         <mark key="^" line="21" column="75" />
       </file>
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Position.java" timestamp="1589198074172">
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="22" column="27" />
+        <mark key="^" line="22" column="27" />
+        <mark key="." line="22" column="27" />
+      </file>
       <file name="$USER_HOME$/slask/log4j/slask/src/test/java/mygroup/slask/MyAppenderTest.groovy" timestamp="1587112906237">
         <mark key="'" line="10" column="14" />
         <mark key="[" line="24" column="41" />
@@ -453,6 +459,9 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/CoordinatesInputForm.java" timestamp="1589198579185">
+        <mark key="[" line="24" column="5" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/testCreateMsDeploymentManifest.groovy" timestamp="1584392372880">
         <mark key="[" line="4" column="0" />
