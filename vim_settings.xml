@@ -355,6 +355,9 @@
         <mark key="." line="25" column="39" />
         <mark key="^" line="25" column="38" />
       </file>
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/TODO.md" timestamp="1589272874380">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMs.groovy" timestamp="1585919998625">
         <mark key="[" line="13" column="42" />
         <mark key="]" line="13" column="42" />
@@ -365,9 +368,6 @@
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
-      </file>
-      <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" timestamp="1588623297710">
-        <mark key="'" line="115" column="25" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsConfiguration.groovy" timestamp="1588696062399">
         <mark key="'" line="13" column="11" />
