@@ -34,12 +34,10 @@
         <mark key="]" line="34" column="54" />
         <mark key="." line="34" column="54" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/FileHandler.java" timestamp="1589378692423">
-        <mark key="'" line="36" column="41" />
-        <mark key="[" line="7" column="67" />
-        <mark key="]" line="7" column="67" />
-        <mark key="." line="7" column="67" />
-        <mark key="^" line="32" column="53" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/FileHandler.java" timestamp="1589388295184">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/slask/log4j/slask/src/test/java/mygroup/MasksTest.groovy" timestamp="1587404253692">
         <mark key="'" line="22" column="31" />
@@ -167,11 +165,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Places.java" timestamp="1589378100545">
-        <mark key="[" line="20" column="14" />
-        <mark key="]" line="20" column="14" />
-        <mark key="." line="20" column="14" />
-        <mark key="^" line="9" column="30" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Places.java" timestamp="1589390155385">
+        <mark key="'" line="40" column="4" />
+        <mark key="[" line="32" column="32" />
+        <mark key="]" line="84" column="5" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="23" column="58" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsDeploymentManifest.groovy" timestamp="1586415430394">
         <mark key="'" line="1" column="4" />
@@ -254,10 +253,22 @@
         <mark key="." line="4" column="65" />
         <mark key="^" line="10" column="24" />
       </file>
+      <file name="$USER_HOME$/slask/log4j/slask/src/test/java/mygroup/slask/MaskAppenderTest.groovy" timestamp="1587389047232">
+        <mark key="'" line="41" column="9" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/slask/zzzzz/groovy.stash.addjenkinscommithook/src/main/java/se/lf/service/groovy/stash/addjenkinscommithook/SetBitbucketPostWebhooks.groovy" timestamp="1583253063570">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="6" />
         <mark key="." line="9" column="6" />
+      </file>
+      <file name="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/MyAppender.groovy" timestamp="1587120725868">
+        <mark key="'" line="162" column="4" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="31" column="117" />
       </file>
       <file name="$USER_HOME$/slask/log4j/slask/src/test/resources/cfg/all.groovy" timestamp="1587391459708">
         <mark key="'" line="0" column="6" />
@@ -319,11 +330,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1589378418945">
-        <mark key="[" line="305" column="54" />
-        <mark key="]" line="305" column="33" />
-        <mark key="^" line="305" column="33" />
-        <mark key="." line="305" column="33" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1589390099355">
+        <mark key="'" line="158" column="14" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/CoordinatesInputForm.java" timestamp="1589198579185">
         <mark key="[" line="24" column="5" />
@@ -377,11 +388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
-      <jump line="0" column="22" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/executeReleasePipeline.groovy" />
-      <jump line="38" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
-      <jump line="18" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
-      <jump line="33" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
       <jump line="9" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
       <jump line="17" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
       <jump line="32" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
@@ -477,19 +483,24 @@
       <jump line="159" column="0" filename="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/Jenkinsfile" />
       <jump line="34" column="24" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="36" column="41" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/FileHandler.java" />
+      <jump line="45" column="39" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Places.java" />
+      <jump line="10" column="7" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/FileHandler.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Places.java" />
+      <jump line="165" column="14" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="40" column="4" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Places.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyYWRpb0J1dHRvbk5hbWVkXD4=</text>
+        <text>changed</text>
       </register>
-      <register name="0" type="4">
-        <text>namedRadioButton = createNamedRadioButton();</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZVJlYWRlcjsKaW1wb3J0IGphdmEuaW8uRmlsZVdyaXRlcjsKaW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247CmltcG9ydCBqYXZhLmlvLlByaW50V3JpdGVyOwppbXBvcnQgamF2YS51dGlsLkNvbGxlY3Rpb247CmltcG9ydCBqYXZhLnV0aWwuSGFzaE1hcDsKaW1wb3J0IGphdmEudXRpbC5NYXA7CmltcG9ydCBqYXZhLnV0aWwuU2Nhbm5lcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHAuZ2V0Q2F0ZWdvcnkoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -510,37 +521,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm5hbWUgPSBuYW1lOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsK</text>
+        <text encoding="base64">Ly8gICAgICAgIHRoaXMucHJpbWFyeVN0YWdlLmdldFNjZW5lKCkuZ2V0V2luZG93KCkuc2V0T25DbG9zZVJlcXVlc3QobmV3IEV4aXRIYW5kbGVyKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGJvb2xlYW4gaWRkc0NoYW5nZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNlbnRlclBhbmUuZ2V0Q2hpbGRyZW4oKS5yZW1vdmVBbGwocGxhY2VzLmdldFBsYWNlcygpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNlbnRlclBhbmUuZ2V0Q2hpbGRyZW4oKS5yZW1vdmVBbGwocGxhY2VzLmdldFBsYWNlcygpKTsKICAgICAgICAgICAgICAgIFBsYWNlLmNsZWFyTWFya2VkUGxhY2VzKCk7CiAgICAgICAgICAgICAgICBjZW50ZXJQYW5lLmdldENoaWxkcmVuKCkuYWRkQWxsKHBvc2l0aW9uUGxhY2VNYXAudmFsdWVzKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVXcml0ZXIuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/public //g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyYWRpb0J1dHRvbk5hbWVkXD4=</last-search>
+      <last-search>changed</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyYWRpb0J1dHRvbk5hbWVkXD4=</last-pattern>
+      <last-pattern>changed</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">cHVibGljIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -548,7 +559,6 @@
     </search>
     <history>
       <history-search>
-        <entry>-d</entry>
         <entry>volu</entry>
         <entry>ends</entry>
         <entry>liven</entry>
@@ -568,6 +578,7 @@
         <entry>new</entry>
         <entry>gitR</entry>
         <entry encoding="base64">XDxyYWRpb0J1dHRvbk5hbWVkXD4=</entry>
+        <entry>changed</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ocCurl/curl/gc</entry>
