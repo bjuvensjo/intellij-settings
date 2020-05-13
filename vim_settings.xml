@@ -34,8 +34,12 @@
         <mark key="]" line="34" column="54" />
         <mark key="." line="34" column="54" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/FileHandler.java" timestamp="1589378242472">
-        <mark key="[" line="29" column="5" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/FileHandler.java" timestamp="1589378692423">
+        <mark key="'" line="36" column="41" />
+        <mark key="[" line="7" column="67" />
+        <mark key="]" line="7" column="67" />
+        <mark key="." line="7" column="67" />
+        <mark key="^" line="32" column="53" />
       </file>
       <file name="$USER_HOME$/slask/log4j/slask/src/test/java/mygroup/MasksTest.groovy" timestamp="1587404253692">
         <mark key="'" line="22" column="31" />
@@ -315,8 +319,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1589378216067">
-        <mark key="^" line="305" column="36" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1589378418945">
+        <mark key="[" line="305" column="54" />
+        <mark key="]" line="305" column="33" />
+        <mark key="^" line="305" column="33" />
+        <mark key="." line="305" column="33" />
       </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/CoordinatesInputForm.java" timestamp="1589198579185">
         <mark key="[" line="24" column="5" />
@@ -370,7 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="26" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
       <jump line="19" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
       <jump line="0" column="22" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/executeReleasePipeline.groovy" />
       <jump line="38" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
@@ -470,10 +476,11 @@
       <jump line="9" column="76" filename="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/src/main/java/se/lf/service/groovy/bitbucket/postwebhook/BitbucketPostWebhook.groovy" />
       <jump line="159" column="0" filename="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/Jenkinsfile" />
       <jump line="34" column="24" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="36" column="41" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/FileHandler.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>else if ()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWRpb0J1dHRvbk5hbWVkXD4=</text>
