@@ -154,7 +154,6 @@
         <mark key="^" line="18" column="17" />
         <mark key="." line="18" column="17" />
       </file>
-      <file name="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/README.md" timestamp="1588623595004" />
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/cfg.groovy" timestamp="1585921389517">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -194,11 +193,10 @@
         <mark key="." line="21" column="75" />
         <mark key="^" line="21" column="75" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Position.java" timestamp="1589198074172">
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="22" column="27" />
-        <mark key="^" line="22" column="27" />
-        <mark key="." line="22" column="27" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Position.java" timestamp="1589375444023">
+        <mark key="[" line="34" column="30" />
+        <mark key="]" line="34" column="30" />
+        <mark key="." line="34" column="30" />
       </file>
       <file name="$USER_HOME$/slask/log4j/slask/src/test/java/mygroup/slask/MyAppenderTest.groovy" timestamp="1587112906237">
         <mark key="'" line="10" column="14" />
@@ -446,6 +444,11 @@
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.bankholidays/src/main/java/se/lf/service/Slask.java" timestamp="1587047300913">
         <mark key="[" line="2" column="20" />
       </file>
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/DescribedPlace.java" timestamp="1589375759840">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="/Dummy.groovy" timestamp="1585754401663">
         <mark key="[" line="0" column="0" />
       </file>
@@ -459,6 +462,12 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1589376110140">
+        <mark key="[" line="314" column="0" />
+        <mark key="]" line="314" column="0" />
+        <mark key="^" line="305" column="36" />
+        <mark key="." line="314" column="0" />
       </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/CoordinatesInputForm.java" timestamp="1589198579185">
         <mark key="[" line="24" column="5" />
@@ -487,6 +496,7 @@
         <mark key="]" line="12" column="14" />
         <mark key="." line="12" column="13" />
       </file>
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Place.java" timestamp="1589375406643" />
       <file name="$USER_HOME$/git-bitbucket-private/es-intro/git/camel-sample/src/test/java/sample/ServiceRouteBuilderIT.java" timestamp="1585663309106">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -650,7 +660,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>V</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYWRpb0J1dHRvbk5hbWVkXD4=</text>
@@ -659,7 +669,7 @@
         <text>namedRadioButton = createNamedRadioButton();</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBOYW1lZFBsYWNlKG5hbWUsIGNhdGVnb3J5LCBwb3NpdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -680,28 +690,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IE5hbWVkUGxhY2UobmFtZSwgY2F0ZWdvcnksIHBvc2l0aW9uKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgaGFuZGxlKEFjdGlvbkV2ZW50IGV2ZW50KSB7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVXcml0ZXIuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9KSAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmdQb3NpdGlvbigpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByYWRpb0J1dHRkZG9uLnNldE9uQWN0aW9uKG5ldyBFdmVudEhhbmRsZXI8QWN0aW9uRXZlbnQ+KCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBOYW1lZFBsYWNlKG5hbWUsIGNhdGVnb3J5LCBwb3NpdGlvbik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9KSAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IE5hbWVkUGxhY2UobmFtZSwgY2F0ZWdvcnksIHBvc2l0aW9uKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgaGFuZGxlKEFjdGlvbkV2ZW50IGV2ZW50KSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/public //g</text>
