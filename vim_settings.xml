@@ -165,10 +165,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Places.java" timestamp="1589462689116">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Places.java" timestamp="1589463913418">
+        <mark key="[" line="51" column="31" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsDeploymentManifest.groovy" timestamp="1586415430394">
         <mark key="'" line="1" column="4" />
@@ -316,12 +316,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1589460382126">
-        <mark key="'" line="91" column="15" />
-        <mark key="[" line="390" column="17" />
-        <mark key="]" line="390" column="17" />
-        <mark key="^" line="390" column="16" />
-        <mark key="." line="390" column="17" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1589463881300">
+        <mark key="'" line="92" column="15" />
+        <mark key="[" line="389" column="50" />
+        <mark key="]" line="389" column="24" />
+        <mark key="^" line="389" column="24" />
+        <mark key="." line="389" column="24" />
       </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/CoordinatesInputForm.java" timestamp="1589198579185">
         <mark key="[" line="24" column="5" />
@@ -483,7 +483,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>s</text>
+        <text>createSearchField</text>
       </register>
       <register name="/" type="4">
         <text>search</text>
