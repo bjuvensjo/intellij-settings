@@ -165,10 +165,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Places.java" timestamp="1589460352913">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Places.java" timestamp="1589462689116">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsDeploymentManifest.groovy" timestamp="1586415430394">
         <mark key="'" line="1" column="4" />
@@ -344,8 +344,8 @@
         <mark key="]" line="12" column="14" />
         <mark key="." line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Place.java" timestamp="1589460416761">
-        <mark key="[" line="26" column="19" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Place.java" timestamp="1589462854387">
+        <mark key="[" line="25" column="50" />
         <mark key="]" line="25" column="42" />
         <mark key="." line="25" column="42" />
         <mark key="^" line="25" column="42" />
@@ -492,7 +492,7 @@
         <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZVJlYWRlcjsKaW1wb3J0IGphdmEuaW8uRmlsZVdyaXRlcjsKaW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247CmltcG9ydCBqYXZhLmlvLlByaW50V3JpdGVyOwppbXBvcnQgamF2YS51dGlsLkNvbGxlY3Rpb247CmltcG9ydCBqYXZhLnV0aWwuSGFzaE1hcDsKaW1wb3J0IGphdmEudXRpbC5NYXA7CmltcG9ydCBqYXZhLnV0aWwuU2Nhbm5lcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBuZXcgSGFzaFNldDxQbGFjZT4oYWxsUGxhY2VzLnZhbHVlcygpKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -513,28 +513,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGxQbGFjZXMucHV0QWxsKHBsYWNlcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChQbGFjZSBwIDogcGxhY2VzLmdldFBsYWNlcygpKQogICAgICAgICAgICAgICAgaWYgKHAuZ2V0TmFtZSgpLmVxdWFscyhrZXl3b3JkKSkgewogICAgICAgICAgICAgICAgICAgIHNlYXJjaGVkUGxhY2VzLmFkZChwKTsKICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2VhcmNoZWRQbGFjZXMpOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJrZWRQbGFjZXMuYWRkKHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPFN0cmluZywgPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJrZWRQbGFjZXMucmVtb3ZlKHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJVbm1hcmtpbmc6ICIgKyBwbGFjZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGxhY2UudW5tYXJrKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChQbGFjZSBwIDogcGxhY2VzLmdldFBsYWNlcygpKQogICAgICAgICAgICAgICAgaWYgKHAuZ2V0TmFtZSgpLmVxdWFscyhrZXl3b3JkKSkgewogICAgICAgICAgICAgICAgICAgIHNlYXJjaGVkUGxhY2VzLmFkZChwKTsKICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2VhcmNoZWRQbGFjZXMpOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/public //g</text>
