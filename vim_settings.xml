@@ -165,13 +165,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Places.java" timestamp="1589390302573">
-        <mark key="'" line="41" column="35" />
-        <mark key="[" line="45" column="22" />
-        <mark key="]" line="63" column="21" />
-        <mark key="." line="63" column="21" />
-        <mark key="^" line="63" column="21" />
-      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsDeploymentManifest.groovy" timestamp="1586415430394">
         <mark key="'" line="1" column="4" />
         <mark key="[" line="0" column="0" />
@@ -253,22 +246,10 @@
         <mark key="." line="4" column="65" />
         <mark key="^" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/slask/log4j/slask/src/test/java/mygroup/slask/MaskAppenderTest.groovy" timestamp="1587389047232">
-        <mark key="'" line="41" column="9" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
       <file name="$USER_HOME$/slask/zzzzz/groovy.stash.addjenkinscommithook/src/main/java/se/lf/service/groovy/stash/addjenkinscommithook/SetBitbucketPostWebhooks.groovy" timestamp="1583253063570">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="6" />
         <mark key="." line="9" column="6" />
-      </file>
-      <file name="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/MyAppender.groovy" timestamp="1587120725868">
-        <mark key="'" line="162" column="4" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="31" column="117" />
       </file>
       <file name="$USER_HOME$/slask/log4j/slask/src/test/resources/cfg/all.groovy" timestamp="1587391459708">
         <mark key="'" line="0" column="6" />
@@ -329,12 +310,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1589390099355">
-        <mark key="'" line="158" column="14" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/CoordinatesInputForm.java" timestamp="1589198579185">
         <mark key="[" line="24" column="5" />
