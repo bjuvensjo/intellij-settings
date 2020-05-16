@@ -55,6 +55,11 @@
         <mark key="]" line="23" column="17" />
         <mark key="." line="23" column="17" />
       </file>
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Slask.java" timestamp="1589658309300">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/ocCurl.groovy" timestamp="1585903679991">
         <mark key="'" line="12" column="21" />
         <mark key="[" line="55" column="31" />
@@ -330,7 +335,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Places.java" timestamp="1589638201821" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Places.java" timestamp="1589657850346">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="70" column="77" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/test.groovy" timestamp="1584025164796">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -478,7 +488,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Arrays.asList(&quot;1&quot;, &quot;2&quot;);</text>
       </register>
       <register name="/" type="4">
         <text>createRemo</text>
@@ -487,7 +497,7 @@
         <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZVJlYWRlcjsKaW1wb3J0IGphdmEuaW8uRmlsZVdyaXRlcjsKaW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247CmltcG9ydCBqYXZhLmlvLlByaW50V3JpdGVyOwppbXBvcnQgamF2YS51dGlsLkNvbGxlY3Rpb247CmltcG9ydCBqYXZhLnV0aWwuSGFzaE1hcDsKaW1wb3J0IGphdmEudXRpbC5NYXA7CmltcG9ydCBqYXZhLnV0aWwuU2Nhbm5lcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -508,28 +518,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYWNlcy5yZW1vdmVBbGwoUGxhY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcga2V5ID0gcGxhY2UuZ2V0TmFtZSgpLnRvTG93ZXJDYXNlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYWNlcy5hZGRBbGwocGxhY2VzLmdldFBsYWNlcygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhbmdlZCA9IHRydWU7CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYWNlcy5jbGVhcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjaGFuZ2VkID0gICghYWxsUGxhY2VzLmlzRW1wdHkoKSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwbGFjZXMuY2hhbmdlZCA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYWNlcy5yZW1vdmVBbGwoUGxhY2UpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYWNlcy5hZGRBbGwocGxhY2VzLmdldFBsYWNlcygpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGxhY2VzLmNoYW5nZWQgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYWNlcy5jbGVhcigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odHJ1ZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/public //g</text>
