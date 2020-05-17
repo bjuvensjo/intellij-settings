@@ -270,12 +270,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1589724603803">
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1589725895525">
         <mark key="'" line="38" column="4" />
-        <mark key="[" line="232" column="76" />
-        <mark key="]" line="238" column="40" />
-        <mark key="." line="238" column="40" />
-        <mark key="^" line="238" column="40" />
+        <mark key="[" line="185" column="28" />
+        <mark key="]" line="185" column="28" />
+        <mark key="." line="185" column="28" />
+        <mark key="^" line="185" column="27" />
       </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Position.java" timestamp="1589375444023">
         <mark key="[" line="34" column="30" />
@@ -335,11 +335,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Places.java" timestamp="1589657850346">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="70" column="77" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Places.java" timestamp="1589725515349">
+        <mark key="[" line="142" column="5" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="69" column="77" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/test.groovy" timestamp="1584025164796">
         <mark key="[" line="3" column="0" />
@@ -488,7 +488,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>active</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>Category</text>
