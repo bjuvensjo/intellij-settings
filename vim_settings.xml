@@ -270,11 +270,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1589637968553">
-        <mark key="'" line="43" column="12" />
-        <mark key="[" line="162" column="53" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1589724603803">
+        <mark key="'" line="38" column="4" />
+        <mark key="[" line="232" column="76" />
+        <mark key="]" line="238" column="40" />
+        <mark key="." line="238" column="40" />
+        <mark key="^" line="238" column="40" />
       </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Position.java" timestamp="1589375444023">
         <mark key="[" line="34" column="30" />
@@ -319,11 +320,10 @@
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/yaml/service.yaml" timestamp="1584637728668">
         <mark key="[" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Place.java" timestamp="1589462854387">
-        <mark key="[" line="25" column="50" />
-        <mark key="]" line="25" column="42" />
-        <mark key="." line="25" column="42" />
-        <mark key="^" line="25" column="42" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Place.java" timestamp="1589723643669">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="27" />
+        <mark key="." line="13" column="27" />
       </file>
       <file name="$USER_HOME$/git-bitbucket-private/es-intro/git/camel-sample/src/test/java/sample/ServiceRouteBuilderIT.java" timestamp="1585663309106">
         <mark key="[" line="11" column="0" />
@@ -385,7 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="33" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/buildMavenTest.groovy" />
       <jump line="37" column="63" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
       <jump line="43" column="129" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
       <jump line="14" column="50" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" />
@@ -467,7 +466,6 @@
       <jump line="19" column="20" filename="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/src/main/java/se/lf/service/groovy/bitbucket/postwebhook/Slask.groovy" />
       <jump line="9" column="76" filename="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/src/main/java/se/lf/service/groovy/bitbucket/postwebhook/BitbucketPostWebhook.groovy" />
       <jump line="159" column="0" filename="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/Jenkinsfile" />
-      <jump line="34" column="24" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="36" column="41" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/FileHandler.java" />
       <jump line="45" column="39" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Places.java" />
       <jump line="10" column="7" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/FileHandler.java" />
@@ -485,19 +483,21 @@
       <jump line="78" column="31" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="79" column="35" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="43" column="12" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="34" column="19" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="38" column="4" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Arrays.asList(&quot;1&quot;, &quot;2&quot;);</text>
+        <text>active</text>
       </register>
       <register name="/" type="4">
-        <text>createRemo</text>
+        <text>Category</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZVJlYWRlcjsKaW1wb3J0IGphdmEuaW8uRmlsZVdyaXRlcjsKaW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247CmltcG9ydCBqYXZhLmlvLlByaW50V3JpdGVyOwppbXBvcnQgamF2YS51dGlsLkNvbGxlY3Rpb247CmltcG9ydCBqYXZhLnV0aWwuSGFzaE1hcDsKaW1wb3J0IGphdmEudXRpbC5NYXA7CmltcG9ydCBqYXZhLnV0aWwuU2Nhbm5lcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjYXRlZ29yaWVzLmdldCgwKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -518,37 +518,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcga2V5ID0gcGxhY2UuZ2V0TmFtZSgpLnRvTG93ZXJDYXNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbC5zZXRPbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhbmdlZCA9IHRydWU7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjYXRlZ29yaWVzLnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFuZ2VkID0gICghYWxsUGxhY2VzLmlzRW1wdHkoKSkgewo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBpc0FjdGl2ZSgpIHsKICAgICAgICByZXR1cm4gYWN0aXZlOwogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBzZXRBY3RpdmUoYm9vbGVhbiBhY3RpdmUpIHsKICAgICAgICBQbGFjZS5hY3RpdmUgPSBhY3RpdmU7CiAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYWNlcy5yZW1vdmVBbGwoUGxhY2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYWNlcy5hZGRBbGwocGxhY2VzLmdldFBsYWNlcygpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYWNlcy5jbGVhcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGl2ZSA9IHRydWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBQbGFjZS5wbGFjZXNNYXAgPSB0aGlzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/public //g</text>
       </register>
     </registers>
     <search>
-      <last-search>createRemo</last-search>
+      <last-search>Category</last-search>
       <last-offset />
-      <last-pattern>createRemo</last-pattern>
+      <last-pattern>Category</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">cHVibGljIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -556,7 +556,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTdGFydFNpZ25pbmdSZXF1ZXN0XD4=</entry>
         <entry>MapAppender</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>1</entry>
@@ -576,6 +575,7 @@
         <entry>exit</entry>
         <entry>load</entry>
         <entry>createRemo</entry>
+        <entry>Category</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ocCurl/curl/gc</entry>
