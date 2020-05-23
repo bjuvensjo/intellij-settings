@@ -264,11 +264,12 @@
         <mark key="]" line="30" column="177" />
         <mark key="." line="30" column="177" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/tenta20180528/Kund.java" timestamp="1590253920165">
-        <mark key="'" line="34" column="7" />
-        <mark key="[" line="47" column="8" />
-        <mark key="]" line="43" column="30" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/tenta20180528/Kund.java" timestamp="1590255008311">
+        <mark key="'" line="31" column="7" />
+        <mark key="[" line="51" column="31" />
+        <mark key="]" line="70" column="42" />
+        <mark key="." line="70" column="42" />
+        <mark key="^" line="70" column="42" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/yaml/deployment.yaml" timestamp="1584637625832">
         <mark key="[" line="4" column="49" />
@@ -506,16 +507,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>// Vi itererar över PARtiER för att få med alla partier, dvs också de som inte fått några röster och inte finns i votesMap.</text>
+        <text>11</text>
       </register>
       <register name="/" type="4">
         <text>Category</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUZWxOciB0ZWxOciA9IG5ldyBUZWxOcigxLCAxKTsK</text>
+        <text encoding="base64">ICAgICAgICBUZWxOciBueXR0VGVsTnIxID0gbmV3IFRlbE5yKDExLCAxMSk7CiAgICAgICAga3VuZDEuc2V0VGVsKG55dHRUZWxOcjEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -536,28 +537,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBrdW5kLnNldFRlbCgpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CgoKcHVibGljIGNsYXNzIEt1bmQgewp9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFRlbE5yIHsKfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">fSAvLyBUZWxucgpwdWJsaWMgY2xhc3MgVGVsTnIgewp9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBUZWxOciB0ZWxOcjIgPSBuZXcgVGVsTnIoMiwgMik7CiAgICAgICAgS3VuZCBrdW5kMiA9IG5ldyBLdW5kKCJCIiwgdGVsTnIyKTsKICAgICAgICBtLnB1dCh0ZWxOcjIsIGt1bmQyKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKE1hcC5FbnRyeTxUZWxOciwgS3VuZD4gZW50cnk6IHRoZU1hcC5lbnRyeVNldCgpKSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFlbnRyeS5nZXRLZXkoKS5lcXVhbHMoZW50cnkuZ2V0VmFsdWUoKS5nZXRUZWwoKSkpIHsKICAgICAgICAgICAgICAgICBhdHRSZXBhcmVyYS5hZGQoZW50cnkuZ2V0VmFsdWUoKSk7CiAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obSk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8U3RyaW5nPiBuYW1lU2V0ID0gbmV3IEhhc2hTZXQ8PigpOwogICAgICAgIE1hcDxTdHJpbmcsIEludGVnZXI+IHZvdGVzTWFwID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBrdW5kLnNldFRlbCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU2V0PFN0cmluZz4gbmFtZVNldCA9IG5ldyBIYXNoU2V0PD4oKTsKICAgIHByaXZhdGUgTWFwPFN0cmluZywgSW50ZWdlcj4gdm90ZXNNYXAgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/public //g</text>
