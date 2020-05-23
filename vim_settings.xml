@@ -157,6 +157,11 @@
         <mark key="]" line="3" column="150" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/tenta20180528/TelNr.java" timestamp="1590252922832">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/slask/log4j/slask/src/test/resources/cfg/all.groovy" timestamp="1587391459708">
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="22" />
@@ -239,22 +244,17 @@
         <mark key="]" line="4" column="60" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/tenta20180528/Val2018.java" timestamp="1590251265453">
-        <mark key="'" line="101" column="3" />
-        <mark key="[" line="79" column="37" />
-        <mark key="]" line="79" column="37" />
-        <mark key="." line="79" column="37" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/tenta20180528/Val2018.java" timestamp="1590252881422">
+        <mark key="'" line="115" column="3" />
+        <mark key="[" line="82" column="137" />
+        <mark key="]" line="82" column="182" />
+        <mark key="." line="82" column="59" />
+        <mark key="^" line="85" column="58" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/slask.txt" timestamp="1584117477145">
         <mark key="[" line="22" column="56" />
         <mark key="]" line="22" column="89" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/src/main/java/se/lf/service/groovy/bitbucket/postwebhook/BitbucketPostWebhook.groovy" timestamp="1588697022095">
-        <mark key="'" line="9" column="76" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.bankholidays/src/main/java/se/lf/service/Slask.java" timestamp="1587047300913">
         <mark key="[" line="2" column="20" />
@@ -263,6 +263,12 @@
         <mark key="[" line="30" column="177" />
         <mark key="]" line="30" column="177" />
         <mark key="." line="30" column="177" />
+      </file>
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/tenta20180528/Kund.java" timestamp="1590253920165">
+        <mark key="'" line="34" column="7" />
+        <mark key="[" line="47" column="8" />
+        <mark key="]" line="43" column="30" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/yaml/deployment.yaml" timestamp="1584637625832">
         <mark key="[" line="4" column="49" />
@@ -397,7 +403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="129" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/buildMaven.groovy" />
       <jump line="14" column="50" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" />
       <jump line="19" column="30" filename="$USER_HOME$/slask/lp/business.createcreditapplication.v1_0/src/main/java/com/evry/finance/loanprocess/business/createcreditapplication/v1_0/api/CreateCreditApplicationRequest.java" />
@@ -497,19 +502,20 @@
       <jump line="34" column="19" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="38" column="4" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="40" column="3" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/tenta20180528/Val2018.java" />
+      <jump line="32" column="7" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/tenta20180528/Kund.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Field</text>
+        <text>// Vi itererar över PARtiER för att få med alla partier, dvs också de som inte fått några röster och inte finns i votesMap.</text>
       </register>
       <register name="/" type="4">
         <text>Category</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBKRGlhbG9nIGpEaWFsb2cgPSBuZXcgSkRpYWxvZyhWYWwyMDE4LnRoaXMsICJGZWxtZWRkZWxhbmRlIiwgdHJ1ZSk7CiAgICAgICAgakRpYWxvZy5hZGQobmV3IEpUZXh0RmllbGQobWVzc2FnZSkpOwogICAgICAgIGpEaWFsb2cuc2V0U2l6ZSgyNTAsIDUwKTsKICAgICAgICBqRGlhbG9nLnNldFZpc2libGUodHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBUZWxOciB0ZWxOciA9IG5ldyBUZWxOcigxLCAxKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBKRGlhbG9nIGpEaWFsb2cgPSBuZXcgSkRpYWxvZyhWYWwyMDE4LnRoaXMsICJSZXN1bHRhdCIsIHRydWUpOwogICAgICAgICAgICAgICAgICAgIGpEaWFsb2cuYWRkKG5ldyBKVGV4dEZpZWxkKHJlc3VsdC50cmltKCkpKTsKICAgICAgICAgICAgICAgICAgICBqRGlhbG9nLnNldFNpemUoMjUwLCA1MDApOwogICAgICAgICAgICAgICAgICAgIGpEaWFsb2cuc2V0VmlzaWJsZSh0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -530,28 +536,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwYXJ0eSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBrdW5kLnNldFRlbCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CgoKcHVibGljIGNsYXNzIEt1bmQgewp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgCg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFRlbE5yIHsKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">fSAvLyBUZWxucgpwdWJsaWMgY2xhc3MgVGVsTnIgewp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBwYXJ0eSA9IFBBUlRJRVJbcGFydGllci5nZXRTZWxlY3Rpb25Nb2RlbCgpLmdldFNlbGVjdGVkSW5kaWNlcygpWzBdXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8U3RyaW5nPiBuYW1lU2V0ID0gbmV3IEhhc2hTZXQ8PigpOwogICAgICAgIE1hcDxTdHJpbmcsIEludGVnZXI+IHZvdGVzTWFwID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBKTGlzdDxTdHJpbmc+IHBhcnRpZXIgPSBuZXcgSkxpc3Q8PihQQVJUSUVSKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU2V0PFN0cmluZz4gbmFtZVNldCA9IG5ldyBIYXNoU2V0PD4oKTsKICAgIHByaXZhdGUgTWFwPFN0cmluZywgSW50ZWdlcj4gdm90ZXNNYXAgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/public //g</text>
