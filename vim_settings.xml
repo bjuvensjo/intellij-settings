@@ -339,12 +339,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1590607573872">
-        <mark key="'" line="318" column="8" />
-        <mark key="[" line="423" column="0" />
-        <mark key="]" line="423" column="0" />
-        <mark key="^" line="235" column="19" />
-        <mark key="." line="423" column="0" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1590609472462">
+        <mark key="'" line="39" column="21" />
+        <mark key="[" line="306" column="65" />
       </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Position.java" timestamp="1590606253862">
         <mark key="[" line="13" column="0" />
@@ -467,8 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="21" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/ocCurl.groovy" />
-      <jump line="114" column="36" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/ocCurlTest.groovy" />
       <jump line="35" column="30" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsDeploymentManifest.groovy" />
       <jump line="15" column="14" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/src/main/java/com/evry/t1908/ms/poc/repository/RepositoryController.groovy" />
       <jump line="5" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.bankholidays/manifest/deployment.groovy" />
@@ -550,7 +545,6 @@
       <jump line="79" column="35" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="43" column="12" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="34" column="19" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
-      <jump line="38" column="4" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="40" column="3" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/tenta20180528/Val2018.java" />
       <jump line="32" column="7" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/tenta20180528/Kund.java" />
       <jump line="4" column="16" filename="$USER_HOME$/git-clarabjuvensjo/fx/.idea_hide/workspace.xml" />
@@ -567,19 +561,22 @@
       <jump line="134" column="0" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Places.java" />
       <jump line="45" column="0" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Places.java" />
       <jump line="318" column="8" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="51" column="31" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="367" column="40" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="38" column="21" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>PRIMA</text>
+        <text encoding="base64">XDxjaG9zZW5DYXRlZ29yeVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgIGlmIChsYWJlbC5lcXVhbHMoIkJ1cyIpKSB7Ci8vICAgICAgICAgICAgcmV0dXJuIEJVUzsKLy8gICAgICAgIH0KLy8gICAgICAgIGlmIChsYWJlbC5lcXVhbHMoIlVuZGVyZ3JvdW5kIikpIHsKLy8gICAgICAgICAgICByZXR1cm4gVU5ERVJHUk9VTkQ7Ci8vICAgICAgICB9Ci8vICAgICAgICBpZiAobGFiZWwuZXF1YWxzKCJUcmFpbiIpKSB7Ci8vICAgICAgICAgICAgcmV0dXJuIFRSQUlOOwovLyAgICAgICAgfQovLyAgICAgICAgcmV0dXJuIE5PTkU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJDbGlja2VkIik7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdFZpZXcgY2F0ZWdvcmllcyA9IGNyZWF0ZUNhdGVnb3J5TGlzdCgpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -600,37 +597,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTa2FwYXIgcGxhdHMiKTsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0VmlldyBjYXRlZ29yaWVzID0gY3JlYXRlQ2F0ZWdvcnlMaXN0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTm8gY2F0ZWdvcnkgd2FzIGNob3NlbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJDbGlja2VkIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwbGFjZXMuZ2V0UGxhY2VzKCkuc2l6ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTa2FwYXIgcGxhdHMiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihQbGFjZS5nZXRNYXJrZWRQbGFjZXMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwbGFjZXMuZ2V0UGxhY2VzKCkuc2l6ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTm8gY2F0ZWdvcnkgd2FzIGNob3NlbiIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGxvYWQoU3RyaW5nIGZpbGVQYXRoKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIGNsZWFyKCk7CiAgICAgICAgRmlsZVJlYWRlciBmaWxlUmVhZGVyID0gbmV3IEZpbGVSZWFkZXIoZmlsZVBhdGgpOwogICAgICAgIFNjYW5uZXIgc2Nhbm5lciA9IG5ldyBTY2FubmVyKGZpbGVSZWFkZXIpOwogICAgICAgIHNjYW5uZXIudXNlRGVsaW1pdGVyKCIsfFxuIik7CiAgICAgICAgd2hpbGUgKHNjYW5uZXIuaGFzTmV4dCgpKSB7CiAgICAgICAgICAgIFN0cmluZyB0eXBlID0gc2Nhbm5lci5uZXh0KCk7CiAgICAgICAgICAgIFN0cmluZyBjYXRlZ29yeSA9IHNjYW5uZXIubmV4dCgpOwogICAgICAgICAgICBpbnQgeCA9IHNjYW5uZXIubmV4dEludCgpOwogICAgICAgICAgICBpbnQgeSA9IHNjYW5uZXIubmV4dEludCgpOwogICAgICAgICAgICBTdHJpbmcgbmFtZSA9IHNjYW5uZXIubmV4dCgpLnRyaW0oKTsKICAgICAgICAgICAgUGxhY2UgcGxhY2U7CiAgICAgICAgICAgIGlmICh0eXBlLmVxdWFscygiRGVzY3JpYmVkIikpIHsKICAgICAgICAgICAgICAgIFN0cmluZyBkZXNjcmlwdGlvbiA9IHNjYW5uZXIubmV4dCgpOwogICAgICAgICAgICAgICAgcGxhY2UgPSBuZXcgRGVzY3JpYmVkUGxhY2UobmFtZSwgQ2F0ZWdvcnkudmFsdWVPZihjYXRlZ29yeS50b1VwcGVyQ2FzZSgpKSwgZGVzY3JpcHRpb24sIG5ldyBQb3NpdGlvbih4LCB5KSk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBwbGFjZSA9IG5ldyBOYW1lZFBsYWNlKG5hbWUsIENhdGVnb3J5LnZhbHVlT2YoY2F0ZWdvcnkudG9VcHBlckNhc2UoKSksIG5ldyBQb3NpdGlvbih4LCB5KSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgYWRkKHBsYWNlKTsKICAgICAgICB9CiAgICAgICAgc2Nhbm5lci5jbG9zZSgpOwogICAgICAgIGZpbGVSZWFkZXIuY2xvc2UoKTsKICAgICAgICBjaGFuZ2VkID0gZmFsc2U7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2F2ZShTdHJpbmcgZmlsZVBhdGgpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgRmlsZVdyaXRlciBmaWxlV3JpdGVyID0gbmV3IEZpbGVXcml0ZXIoZmlsZVBhdGgpOwogICAgICAgIFByaW50V3JpdGVyIHByaW50V3JpdGVyID0gbmV3IFByaW50V3JpdGVyKGZpbGVXcml0ZXIpOwoKICAgICAgICBmb3IgKFBsYWNlIHBsYWNlIDogZ2V0UGxhY2VzKCkpIHsKICAgICAgICAgICAgcHJpbnRXcml0ZXIucHJpbnRsbihwbGFjZS50b1N0cmluZygpKTsKICAgICAgICB9CgogICAgICAgIHByaW50V3JpdGVyLmNsb3NlKCk7CiAgICAgICAgZmlsZVdyaXRlci5jbG9zZSgpOwogICAgICAgIGNoYW5nZWQgPSBmYWxzZTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwbGFjZXMuZ2V0UGxhY2VzKCkuc2l6ZSgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgQ29sbGVjdGlvbjxQbGFjZT4gZ2V0UGxhY2VzKCkgewogICAgICAgIHJldHVybiBhbGxQbGFjZXMudmFsdWVzKCk7CiAgICB9CgogICAgcHVibGljIFNldDxQbGFjZT4gZmluZChTdHJpbmcgbmFtZSkgewogICAgICAgIHJldHVybiBuYW1lTWFwLmdldChuYW1lLnRvTG93ZXJDYXNlKCkpOwogICAgfQoKICAgIHB1YmxpYyBQbGFjZSBmaW5kKFBvc2l0aW9uIHBvc2l0aW9uKSB7CiAgICAgICAgcmV0dXJuIGFsbFBsYWNlcy5nZXQocG9zaXRpb24pOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihQbGFjZS5nZXRNYXJrZWRQbGFjZXMoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/public //g</text>
       </register>
     </registers>
     <search>
-      <last-search>PRIMA</last-search>
+      <last-search encoding="base64">XDxjaG9zZW5DYXRlZ29yeVw+</last-search>
       <last-offset />
-      <last-pattern>PRIMA</last-pattern>
+      <last-pattern encoding="base64">XDxjaG9zZW5DYXRlZ29yeVw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">cHVibGljIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -638,8 +635,6 @@
     </search>
     <history>
       <history-search>
-        <entry>;</entry>
-        <entry encoding="base64">cHVibGljIA==</entry>
         <entry>&quot;</entry>
         <entry>SSL</entry>
         <entry encoding="base64">XDxycGVcPg==</entry>
@@ -658,6 +653,8 @@
         <entry>)</entry>
         <entry>create</entry>
         <entry>PRIMA</entry>
+        <entry>Cate</entry>
+        <entry encoding="base64">XDxjaG9zZW5DYXRlZ29yeVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ocCurl/curl/gc</entry>
