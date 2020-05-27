@@ -17,10 +17,10 @@
         <mark key="." line="14" column="36" />
         <mark key="^" line="14" column="36" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Category.java" timestamp="1589377721564">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Category.java" timestamp="1590605245924">
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/renameBuildTest.groovy" timestamp="1585148086678">
         <mark key="[" line="16" column="0" />
@@ -243,6 +243,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/git-clarabjuvensjo/fx/src/Category.java" timestamp="1590604756670">
+        <mark key="[" line="66" column="58" />
+        <mark key="]" line="66" column="58" />
+        <mark key="." line="66" column="58" />
+        <mark key="^" line="66" column="57" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/ResourceUtils.groovy" timestamp="1583866780820">
         <mark key="[" line="2" column="21" />
       </file>
@@ -333,12 +339,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1589725895525">
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1590605100232">
         <mark key="'" line="38" column="4" />
-        <mark key="[" line="185" column="28" />
-        <mark key="]" line="185" column="28" />
-        <mark key="." line="185" column="28" />
-        <mark key="^" line="185" column="27" />
+        <mark key="[" line="219" column="88" />
+        <mark key="]" line="219" column="88" />
+        <mark key="." line="219" column="88" />
+        <mark key="^" line="239" column="19" />
       </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Position.java" timestamp="1589375444023">
         <mark key="[" line="34" column="30" />
@@ -403,11 +409,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Places.java" timestamp="1589725515349">
-        <mark key="[" line="142" column="5" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="69" column="77" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Places.java" timestamp="1590605467231">
+        <mark key="[" line="51" column="74" />
+        <mark key="]" line="53" column="61" />
+        <mark key="." line="53" column="61" />
+        <mark key="^" line="102" column="19" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/test.groovy" timestamp="1584025164796">
         <mark key="[" line="3" column="0" />
@@ -561,16 +567,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>d</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGkgKyAiIG1lZCBsYW1iZGEgIyMjIyMjIyMjIyMjIyMjIik7CiAgICAgICAgICAgIFBlcnNvbm5yLnNrcml2VXRNZWRMYW1iZGEoZm9saywgaSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmIChsYWJlbC5lcXVhbHMoIkJ1cyIpKSB7Ci8vICAgICAgICAgICAgcmV0dXJuIEJVUzsKLy8gICAgICAgIH0KLy8gICAgICAgIGlmIChsYWJlbC5lcXVhbHMoIlVuZGVyZ3JvdW5kIikpIHsKLy8gICAgICAgICAgICByZXR1cm4gVU5ERVJHUk9VTkQ7Ci8vICAgICAgICB9Ci8vICAgICAgICBpZiAobGFiZWwuZXF1YWxzKCJUcmFpbiIpKSB7Ci8vICAgICAgICAgICAgcmV0dXJuIFRSQUlOOwovLyAgICAgICAgfQovLyAgICAgICAgcmV0dXJuIE5PTkU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBQZXJzb24obmV3IFBlcnNvbm5yKDE5OTQwMTExLCAxODQ2KSwgIkNhcm9saW5lIiwgMiksCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -591,28 +597,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBQZXJzb24obmV3IFBlcnNvbm5yKDE5OTQwMTExLCAxODQ1KSwgIkNhcm9saW5lIiwgMiksCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2F0ZWdvcnkudmFsdWVPZkxhYmVsKCJUcmFpbiIpLm5hbWUoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9NYXAoKSkK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2F0ZWdvcnkudmFsdWVPZigiQlVTIikpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihDYXRlZ29yeS5CVVMuZ2V0TGFiZWwoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2F0ZWdvcnkuQlVTLm5hbWUoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBib2suYWRkU2lkYShzaWRhMSk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFRleHQ+IHRleHRlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/public //g</text>
