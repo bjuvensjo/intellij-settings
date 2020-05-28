@@ -17,10 +17,10 @@
         <mark key="." line="14" column="36" />
         <mark key="^" line="14" column="36" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Category.java" timestamp="1590605245924">
-        <mark key="[" line="24" column="5" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Category.java" timestamp="1590613696304">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="11" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/renameBuildTest.groovy" timestamp="1585148086678">
         <mark key="[" line="16" column="0" />
@@ -44,7 +44,7 @@
         <mark key="^" line="14" column="26" />
         <mark key="." line="14" column="40" />
       </file>
-      <file name="/a.dummy" timestamp="1587120589840">
+      <file name="/a.dummy" timestamp="1590615845362">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/ResourceApi.groovy" timestamp="1583866956823">
@@ -127,9 +127,6 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/fx/.idea_hide/workspace.xml" timestamp="1590328839923">
-        <mark key="'" line="138" column="121" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/CreateMsDeploymentManifestTest.groovy" timestamp="1584392489149">
         <mark key="[" line="19" column="0" />
@@ -339,9 +336,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1590609472462">
-        <mark key="'" line="39" column="21" />
-        <mark key="[" line="306" column="65" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1590616813591">
+        <mark key="'" line="76" column="49" />
+        <mark key="[" line="373" column="0" />
+        <mark key="]" line="373" column="0" />
+        <mark key="." line="373" column="0" />
       </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Position.java" timestamp="1590606253862">
         <mark key="[" line="13" column="0" />
@@ -391,10 +390,10 @@
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/yaml/service.yaml" timestamp="1584637728668">
         <mark key="[" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Place.java" timestamp="1590605827635">
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="13" column="27" />
-        <mark key="." line="13" column="27" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Place.java" timestamp="1590613634610">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/git-bitbucket-private/es-intro/git/camel-sample/src/test/java/sample/ServiceRouteBuilderIT.java" timestamp="1585663309106">
         <mark key="[" line="11" column="0" />
@@ -406,11 +405,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Places.java" timestamp="1590606392186">
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Places.java" timestamp="1590612779624">
         <mark key="'" line="45" column="0" />
-        <mark key="[" line="108" column="0" />
-        <mark key="^" line="75" column="19" />
-        <mark key="." line="108" column="0" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/test.groovy" timestamp="1584025164796">
         <mark key="[" line="3" column="0" />
@@ -464,19 +463,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="30" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsDeploymentManifest.groovy" />
-      <jump line="15" column="14" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/src/main/java/com/evry/t1908/ms/poc/repository/RepositoryController.groovy" />
-      <jump line="5" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.bankholidays/manifest/deployment.groovy" />
-      <jump line="25" column="13" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsDeploymentManifest.groovy" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsDeploymentManifest.groovy" />
-      <jump line="92" column="47" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/createMsDeploymentManifestTest.groovy" />
-      <jump line="129" column="0" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" />
-      <jump line="1" column="15" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/slask.groovy" />
-      <jump line="2" column="8" filename="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.bankholidays/manifest/deployment.groovy" />
-      <jump line="25" column="8" filename="$USER_HOME$/git-clarabjuvensjo/assignment1/src/ValuableRegister.java" />
-      <jump line="28" column="8" filename="$USER_HOME$/git-clarabjuvensjo/assignment1/src/ValuableRegister.java" />
-      <jump line="29" column="0" filename="$USER_HOME$/git-clarabjuvensjo/assignment1/src/ValuableRegister.java" />
-      <jump line="31" column="11" filename="$USER_HOME$/git-clarabjuvensjo/assignment1/src/ValuableRegister.java" />
       <jump line="35" column="7" filename="$USER_HOME$/git-clarabjuvensjo/assignment1/src/ValuableRegister.java" />
       <jump line="1" column="4" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsDeploymentManifest.groovy" />
       <jump line="3" column="15" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createConfigMapData.groovy" />
@@ -540,11 +526,9 @@
       <jump line="274" column="16" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="30" column="0" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="72" column="44" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
-      <jump line="76" column="39" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="78" column="31" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="79" column="35" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="43" column="12" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
-      <jump line="34" column="19" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="40" column="3" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/tenta20180528/Val2018.java" />
       <jump line="32" column="7" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/tenta20180528/Kund.java" />
       <jump line="4" column="16" filename="$USER_HOME$/git-clarabjuvensjo/fx/.idea_hide/workspace.xml" />
@@ -563,20 +547,35 @@
       <jump line="318" column="8" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="51" column="31" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="367" column="40" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
-      <jump line="38" column="21" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="436" column="32" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="12" column="20" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="381" column="23" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="44" column="24" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="45" column="24" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="41" column="24" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="278" column="27" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="279" column="12" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="314" column="16" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="387" column="12" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="39" column="17" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="160" column="16" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="301" column="16" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="38" column="32" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="76" column="49" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>l</text>
+        <text>load</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaG9zZW5DYXRlZ29yeVw+</text>
+        <text encoding="base64">XDxQbGFjZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmIChsYWJlbC5lcXVhbHMoIkJ1cyIpKSB7Ci8vICAgICAgICAgICAgcmV0dXJuIEJVUzsKLy8gICAgICAgIH0KLy8gICAgICAgIGlmIChsYWJlbC5lcXVhbHMoIlVuZGVyZ3JvdW5kIikpIHsKLy8gICAgICAgICAgICByZXR1cm4gVU5ERVJHUk9VTkQ7Ci8vICAgICAgICB9Ci8vICAgICAgICBpZiAobGFiZWwuZXF1YWxzKCJUcmFpbiIpKSB7Ci8vICAgICAgICAgICAgcmV0dXJuIFRSQUlOOwovLyAgICAgICAgfQovLyAgICAgICAgcmV0dXJuIE5PTkU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBsb2FkID0gZmFsc2U7CiAgICAgICAgICAgIGlmIChwbGFjZXMuaXNDaGFuZ2VkKCkpIHsKICAgICAgICAgICAgICAgIE9wdGlvbmFsPEJ1dHRvblR5cGU+IHJlc3VsdCA9IEFsZXJ0cy5zaG93Q29uZmlybWF0aW9uQWxlcnQoIlVuc2F2ZWQgY2hhbmdlcyIpOwogICAgICAgICAgICAgICAgaWYgKHJlc3VsdC5pc1ByZXNlbnQoKSAmJiByZXN1bHQuZ2V0KCkgIT0gQnV0dG9uVHlwZS5DQU5DRUwpIHsKICAgICAgICAgICAgICAgICAgICBsb2FkID0gdHJ1ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGxvYWQgPSB0cnVlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChsb2FkKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdFZpZXcgY2F0ZWdvcmllcyA9IGNyZWF0ZUNhdGVnb3J5TGlzdCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -597,37 +596,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0VmlldyBjYXRlZ29yaWVzID0gY3JlYXRlQ2F0ZWdvcnlMaXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNlbnRlclBhbmUuZ2V0Q2hpbGRyZW4oKS5jbGVhcigpOwogICAgICAgICAgICAgICAgY2VudGVyUGFuZS5nZXRDaGlsZHJlbigpLmFkZChpbWFnZVZpZXcpOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJDbGlja2VkIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiMjIyMjIyMjIyIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTa2FwYXIgcGxhdHMiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBsb2FkID0gc2hvdWxkTG9hZCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBsb2FkID0gc2hvdWxkTG9hZCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTm8gY2F0ZWdvcnkgd2FzIGNob3NlbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwbGFjZXMuZ2V0UGxhY2VzKCkuc2l6ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChyZXN1bHQuaXNQcmVzZW50KCkgJiYgcmVzdWx0LmdldCgpICE9IEJ1dHRvblR5cGUuQ0FOQ0VMKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihQbGFjZS5nZXRNYXJrZWRQbGFjZXMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbmFsPEJ1dHRvblR5cGU+IHJlc3VsdCA9IEFsZXJ0cy5zaG93Q29uZmlybWF0aW9uQWxlcnQoIlVuc2F2ZWQgY2hhbmdlcyIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/public //g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaG9zZW5DYXRlZ29yeVw+</last-search>
+      <last-search encoding="base64">XDxQbGFjZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaG9zZW5DYXRlZ29yeVw+</last-pattern>
+      <last-pattern encoding="base64">XDxQbGFjZXNcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">cHVibGljIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -635,17 +634,9 @@
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
-        <entry>SSL</entry>
-        <entry encoding="base64">XDxycGVcPg==</entry>
-        <entry>new</entry>
-        <entry>gitR</entry>
-        <entry encoding="base64">XDxyYWRpb0J1dHRvbk5hbWVkXD4=</entry>
-        <entry>changed</entry>
         <entry>M</entry>
         <entry>search</entry>
         <entry>loadPl</entry>
-        <entry>exit</entry>
         <entry>load</entry>
         <entry>createRemo</entry>
         <entry>Category</entry>
@@ -655,6 +646,14 @@
         <entry>PRIMA</entry>
         <entry>Cate</entry>
         <entry encoding="base64">XDxjaG9zZW5DYXRlZ29yeVw+</entry>
+        <entry>cursor</entry>
+        <entry encoding="base64">XDxub25lXD4=</entry>
+        <entry encoding="base64">XDxzZWFyY2hGaWVsZFw+</entry>
+        <entry encoding="base64">XDxuYW1lZFJhZGlvQnV0dG9uXD4=</entry>
+        <entry>centerPane</entry>
+        <entry>exit</entry>
+        <entry encoding="base64">XDxwbGFjZXNcPg==</entry>
+        <entry encoding="base64">XDxQbGFjZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ocCurl/curl/gc</entry>
