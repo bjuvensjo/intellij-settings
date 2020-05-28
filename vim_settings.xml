@@ -133,8 +133,8 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/TODO.md" timestamp="1589272874380">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/TODO.md" timestamp="1590656584327">
+        <mark key="[" line="6" column="104" />
       </file>
       <file name="$USER_HOME$/slask/zzz/groovy.jenkins.synchronizer/pom.xml" timestamp="1588670370067">
         <mark key="[" line="74" column="0" />
@@ -336,11 +336,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1590654577365">
-        <mark key="'" line="76" column="49" />
-        <mark key="[" line="348" column="0" />
-        <mark key="]" line="348" column="0" />
-        <mark key="." line="348" column="0" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1590656671967">
+        <mark key="'" line="124" column="23" />
+        <mark key="[" line="277" column="0" />
+        <mark key="]" line="277" column="45" />
+        <mark key="." line="277" column="17" />
+        <mark key="^" line="277" column="17" />
       </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Position.java" timestamp="1590606253862">
         <mark key="[" line="13" column="0" />
@@ -390,10 +391,10 @@
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/yaml/service.yaml" timestamp="1584637728668">
         <mark key="[" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Place.java" timestamp="1590613634610">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Place.java" timestamp="1590655803766">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/git-bitbucket-private/es-intro/git/camel-sample/src/test/java/sample/ServiceRouteBuilderIT.java" timestamp="1585663309106">
         <mark key="[" line="11" column="0" />
@@ -405,11 +406,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Places.java" timestamp="1590612779624">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Places.java" timestamp="1590656267943">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="127" column="24" />
+        <mark key="]" line="105" column="11" />
+        <mark key="." line="105" column="11" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/test.groovy" timestamp="1584025164796">
         <mark key="[" line="3" column="0" />
@@ -463,11 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="7" filename="$USER_HOME$/git-clarabjuvensjo/assignment1/src/ValuableRegister.java" />
-      <jump line="1" column="4" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsDeploymentManifest.groovy" />
-      <jump line="3" column="15" filename="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createConfigMapData.groovy" />
-      <jump line="136" column="0" filename="$USER_HOME$/git-diba/CSL/ms.security.signing/apip/CN0002/swagger_alt.json" />
-      <jump line="140" column="24" filename="$USER_HOME$/git-diba/CSL/ms.security.signing/apip/CN0002/swagger_alt.json" />
       <jump line="200" column="47" filename="$USER_HOME$/git-diba/CSL/ms.security.signing/apip/CN0002/swagger_alt.json" />
       <jump line="277" column="20" filename="$USER_HOME$/git-diba/CSL/ms.security.signing/apip/CN0002/swagger_alt.json" />
       <jump line="116" column="51" filename="$USER_HOME$/git-diba/CSL/ms.security.signing/apip/CN0002/swagger_alt.json" />
@@ -550,7 +546,6 @@
       <jump line="436" column="32" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="12" column="20" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="381" column="23" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
-      <jump line="44" column="24" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="45" column="24" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="34" column="0" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="41" column="24" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
@@ -563,19 +558,25 @@
       <jump line="301" column="16" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="38" column="32" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="76" column="49" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="44" column="38" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="251" column="8" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="14" column="28" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="122" column="30" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="277" column="19" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="124" column="23" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>load</text>
+        <text>imageView</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQbGFjZXNcPg==</text>
+        <text>setCursor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBsb2FkID0gZmFsc2U7CiAgICAgICAgICAgIGlmIChwbGFjZXMuaXNDaGFuZ2VkKCkpIHsKICAgICAgICAgICAgICAgIE9wdGlvbmFsPEJ1dHRvblR5cGU+IHJlc3VsdCA9IEFsZXJ0cy5zaG93Q29uZmlybWF0aW9uQWxlcnQoIlVuc2F2ZWQgY2hhbmdlcyIpOwogICAgICAgICAgICAgICAgaWYgKHJlc3VsdC5pc1ByZXNlbnQoKSAmJiByZXN1bHQuZ2V0KCkgIT0gQnV0dG9uVHlwZS5DQU5DRUwpIHsKICAgICAgICAgICAgICAgICAgICBsb2FkID0gdHJ1ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGxvYWQgPSB0cnVlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChsb2FkKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjZW50ZXJQYW5lLnNldEN1cnNvcihDdXJzb3IuREVGQVVMVCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBpbWFnZVZpZXcuc2V0Q2RkdXJzb3IoQ3Vyc29yLkNST1NTSEFJUik7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -596,37 +597,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNlbnRlclBhbmUuZ2V0Q2hpbGRyZW4oKS5jbGVhcigpOwogICAgICAgICAgICAgICAgY2VudGVyUGFuZS5nZXRDaGlsZHJlbigpLmFkZChpbWFnZVZpZXcpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGxhY2VzLmNsZWFyTWFya2VkUGxhY2VzKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPYmplY3QgbyA9IG1vdXNlRXZlbnQuZ2V0U291cmNlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiMjIyMjIyMjIyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9iamVjdCBvID0gbW91c2VFdmVudC5nZXRTb3VyY2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBsb2FkID0gc2hvdWxkTG9hZCgpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYXJrQWxsKFNldDxQbGFjZT4gcGxhY2VzKSB7CiAgICAgICAgaWYgKHBsYWNlcyAhPSBudWxsKSB7CiAgICAgICAgICAgIGZvciAoUGxhY2UgcGxhY2UgOiBwbGFjZXMpIHsKICAgICAgICAgICAgICAgIHBsYWNlLm1hcmsoKTsKICAgICAgICAgICAgICAgIG1hcmtlZFBsYWNlcy5hZGQocGxhY2UpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgQ29sbGVjdGlvbjxQbGFjZT4gZ2V0TWFya2VkUGxhY2VzKCkgewogICAgICAgIHJldHVybiBtYXJrZWRQbGFjZXM7CiAgICB9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBsb2FkID0gc2hvdWxkTG9hZCgpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFNldDxQbGFjZT4gbWFya2VkUGxhY2VzID0gbmV3IEhhc2hTZXQ8PigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBidXR0b24uc2V0T25BY3Rpb24obmV3IFNlYXJjaEhhbmRsZXIoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChyZXN1bHQuaXNQcmVzZW50KCkgJiYgcmVzdWx0LmdldCgpICE9IEJ1dHRvblR5cGUuQ0FOQ0VMKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWFyY2hCdXR0b24uc2V0T25BY3Rpb24obmV3IFNlYXJjaEhhbmRsZXIoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbmFsPEJ1dHRvblR5cGU+IHJlc3VsdCA9IEFsZXJ0cy5zaG93Q29uZmlybWF0aW9uQWxlcnQoIlVuc2F2ZWQgY2hhbmdlcyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/public //g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQbGFjZXNcPg==</last-search>
+      <last-search>setCursor</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQbGFjZXNcPg==</last-pattern>
+      <last-pattern>setCursor</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">cHVibGljIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -634,8 +635,6 @@
     </search>
     <history>
       <history-search>
-        <entry>M</entry>
-        <entry>search</entry>
         <entry>loadPl</entry>
         <entry>load</entry>
         <entry>createRemo</entry>
@@ -646,7 +645,6 @@
         <entry>PRIMA</entry>
         <entry>Cate</entry>
         <entry encoding="base64">XDxjaG9zZW5DYXRlZ29yeVw+</entry>
-        <entry>cursor</entry>
         <entry encoding="base64">XDxub25lXD4=</entry>
         <entry encoding="base64">XDxzZWFyY2hGaWVsZFw+</entry>
         <entry encoding="base64">XDxuYW1lZFJhZGlvQnV0dG9uXD4=</entry>
@@ -654,6 +652,9 @@
         <entry>exit</entry>
         <entry encoding="base64">XDxwbGFjZXNcPg==</entry>
         <entry encoding="base64">XDxQbGFjZXNcPg==</entry>
+        <entry encoding="base64">XDxpbWFnZVZpZXdcPg==</entry>
+        <entry>cursor</entry>
+        <entry>setCursor</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ocCurl/curl/gc</entry>
