@@ -336,11 +336,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1590656671967">
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1590742976609">
         <mark key="'" line="124" column="23" />
-        <mark key="[" line="277" column="0" />
-        <mark key="]" line="277" column="45" />
-        <mark key="." line="277" column="17" />
+        <mark key="[" line="317" column="65" />
+        <mark key="]" line="317" column="65" />
+        <mark key="." line="317" column="65" />
         <mark key="^" line="277" column="17" />
       </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Position.java" timestamp="1590606253862">
@@ -567,7 +567,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>imageView</text>
+        <text>CANCEL</text>
       </register>
       <register name="/" type="4">
         <text>setCursor</text>
