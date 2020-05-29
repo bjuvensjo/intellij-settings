@@ -336,8 +336,8 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1590742976609">
-        <mark key="'" line="124" column="23" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1590744839740">
+        <mark key="'" line="306" column="45" />
         <mark key="[" line="317" column="65" />
         <mark key="]" line="317" column="65" />
         <mark key="." line="317" column="65" />
@@ -464,9 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="47" filename="$USER_HOME$/git-diba/CSL/ms.security.signing/apip/CN0002/swagger_alt.json" />
-      <jump line="277" column="20" filename="$USER_HOME$/git-diba/CSL/ms.security.signing/apip/CN0002/swagger_alt.json" />
-      <jump line="116" column="51" filename="$USER_HOME$/git-diba/CSL/ms.security.signing/apip/CN0002/swagger_alt.json" />
       <jump line="33" column="0" filename="$USER_HOME$/slask/log4j/slask/src/main/resources/log4j2.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/slask/log4j/slask/src/main/resources/log4j2.xml" />
       <jump line="10" column="14" filename="$USER_HOME$/slask/log4j/slask/src/test/java/mygroup/slask/MyAppenderTest.groovy" />
@@ -542,7 +539,6 @@
       <jump line="45" column="0" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Places.java" />
       <jump line="318" column="8" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="51" column="31" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
-      <jump line="367" column="40" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="436" column="32" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="12" column="20" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="381" column="23" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
@@ -564,13 +560,17 @@
       <jump line="122" column="30" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="277" column="19" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="124" column="23" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="367" column="52" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="46" column="25" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="290" column="49" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="306" column="45" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>CANCEL</text>
       </register>
       <register name="/" type="4">
-        <text>setCursor</text>
+        <text encoding="base64">XDxjbGlja0hhbmRsZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjZW50ZXJQYW5lLnNldEN1cnNvcihDdXJzb3IuREVGQVVMVCk7Cg==</text>
@@ -625,9 +625,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setCursor</last-search>
+      <last-search encoding="base64">XDxjbGlja0hhbmRsZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>setCursor</last-pattern>
+      <last-pattern encoding="base64">XDxjbGlja0hhbmRsZXJcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">cHVibGljIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -635,7 +635,6 @@
     </search>
     <history>
       <history-search>
-        <entry>loadPl</entry>
         <entry>load</entry>
         <entry>createRemo</entry>
         <entry>Category</entry>
@@ -655,6 +654,7 @@
         <entry encoding="base64">XDxpbWFnZVZpZXdcPg==</entry>
         <entry>cursor</entry>
         <entry>setCursor</entry>
+        <entry encoding="base64">XDxjbGlja0hhbmRsZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ocCurl/curl/gc</entry>
