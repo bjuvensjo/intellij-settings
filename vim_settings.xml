@@ -25,12 +25,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/fx/src/tenta20170526/Personnr.java" timestamp="1590565342921">
-        <mark key="[" line="178" column="10" />
-        <mark key="]" line="172" column="0" />
-        <mark key="^" line="169" column="27" />
-        <mark key="." line="172" column="0" />
-      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/bitbucketFileContentCurl.groovy" timestamp="1585040231290">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="183" />
@@ -58,12 +52,6 @@
         <mark key="]" line="34" column="54" />
         <mark key="." line="34" column="54" />
       </file>
-      <file name="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/src/main/resources/Configuration.json" timestamp="1588703531771">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-        <mark key="^" line="2" column="19" />
-      </file>
       <file name="$USER_HOME$/git-lhb/LP_NORNORNA/configuration.war.loanprocess-dev/src/main/templates/com/evry/finance/loanprocess/lhb/integration/sap/saml-env.properties" timestamp="1591017806352">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="17" column="85" />
@@ -79,17 +67,14 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/git-lhb/LP_NORNORNA/xml.ws/src/main/java/com/evry/finance/xml/ws/PortFactory.java" timestamp="1591018381486">
-        <mark key="'" line="78" column="79" />
+      <file name="$USER_HOME$/git-lhb/LP_NORNORNA/xml.ws/src/main/java/com/evry/finance/xml/ws/PortFactory.java" timestamp="1591024250090">
+        <mark key="'" line="10" column="22" />
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/fx/src/tenta20170526/SerieTidning.java" timestamp="1590413618790">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="15" />
-        <mark key="^" line="7" column="38" />
-        <mark key="." line="12" column="15" />
+      <file name="$USER_HOME$/slask/cxf/rt/ws/policy/src/main/java/org/apache/cxf/ws/policy/PolicyEngineImpl.java" timestamp="1591024046685">
+        <mark key="'" line="574" column="30" />
       </file>
       <file name="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/Masks.groovy" timestamp="1587389041228">
         <mark key="[" line="3" column="0" />
@@ -123,11 +108,8 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/fx/src/tenta20160428/Dag.java" timestamp="1590397886486">
-        <mark key="[" line="54" column="41" />
-        <mark key="]" line="54" column="19" />
-        <mark key="." line="54" column="19" />
-        <mark key="^" line="54" column="14" />
+      <file name="$USER_HOME$/git-lhb/LP_NORNORNA/app.createcase_soap.v1_0/src/main/resources/com/evry/finance/loanprocess/app/createcase_soap/v1_0/beans.xml" timestamp="1591024445595">
+        <mark key="[" line="19" column="12" />
       </file>
       <file name="$USER_HOME$/slask/zzzzz/groovy.stash.addjenkinscommithook/src/main/java/se/lf/service/groovy/stash/addjenkinscommithook/SetBitbucketPostWebhooks.groovy" timestamp="1583253063570">
         <mark key="[" line="9" column="6" />
@@ -149,12 +131,6 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/fx/src/Triangle.java" timestamp="1590399863301">
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="22" />
-      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsUtils.groovy" timestamp="1585921648379">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
@@ -175,12 +151,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/fx/src/Category.java" timestamp="1590604756670">
-        <mark key="[" line="66" column="58" />
-        <mark key="]" line="66" column="58" />
-        <mark key="." line="66" column="58" />
-        <mark key="^" line="66" column="57" />
-      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/ResourceUtils.groovy" timestamp="1583866780820">
         <mark key="[" line="2" column="21" />
       </file>
@@ -191,12 +161,6 @@
         <mark key="[" line="41" column="27" />
         <mark key="]" line="41" column="27" />
         <mark key="." line="41" column="27" />
-      </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/sample/Slask.java" timestamp="1590243483657">
-        <mark key="[" line="16" column="19" />
-        <mark key="]" line="12" column="29" />
-        <mark key="^" line="12" column="29" />
-        <mark key="." line="12" column="29" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/repository.groovy" timestamp="1584207663055">
         <mark key="[" line="11" column="0" />
@@ -229,12 +193,6 @@
         <mark key="[" line="30" column="177" />
         <mark key="]" line="30" column="177" />
         <mark key="." line="30" column="177" />
-      </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/tenta20180528/Kund.java" timestamp="1590257719390">
-        <mark key="[" line="42" column="33" />
-        <mark key="]" line="42" column="33" />
-        <mark key="^" line="42" column="44" />
-        <mark key="." line="42" column="33" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/yaml/deployment.yaml" timestamp="1584637625832">
         <mark key="[" line="4" column="49" />
@@ -365,23 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="39" filename="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/MyAppender.java" />
-      <jump line="117" column="43" filename="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/MyAppender.java" />
-      <jump line="132" column="39" filename="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/MyAppender.java" />
-      <jump line="137" column="44" filename="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/MyAppender.java" />
-      <jump line="35" column="28" filename="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/MyAppender.java" />
-      <jump line="2" column="36" filename="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/MyAppender.groovy" />
-      <jump line="27" column="0" filename="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/MyAppender.groovy" />
-      <jump line="169" column="4" filename="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/MyAppender.groovy" />
-      <jump line="0" column="0" filename="$USER_HOME$/slask/log4j/slask/src/test/resources/mygroup/slask/mask.json" />
-      <jump line="9" column="26" filename="$USER_HOME$/slask/log4j/slask/src/test/resources/log4j2.xml" />
-      <jump line="14" column="30" filename="$USER_HOME$/slask/log4j/slask/src/test/resources/log4j2.xml" />
-      <jump line="22" column="32" filename="$USER_HOME$/slask/log4j/slask/src/test/java/mygroup/slask/MaskAppenderTest.groovy" />
-      <jump line="3" column="12" filename="$USER_HOME$/slask/log4j/slask/src/test/java/mygroup/slask/maskCfg.groovy" />
-      <jump line="39" column="9" filename="$USER_HOME$/slask/log4j/slask/src/test/java/mygroup/slask/MaskAppenderTest.groovy" />
-      <jump line="53" column="9" filename="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/MaskAppender.groovy" />
-      <jump line="10" column="6" filename="$USER_HOME$/slask/log4j/slask/src/test/java/mygroup/MasksTest.groovy" />
-      <jump line="0" column="0" filename="$USER_HOME$/slask/log4j/slask/src/test/java/mygroup/MasksTest.groovy" />
       <jump line="49" column="0" filename="$USER_HOME$/slask/log4j/slask/src/test/java/mygroup/MasksTest.groovy" />
       <jump line="0" column="6" filename="$USER_HOME$/slask/log4j/slask/src/test/resources/cfg/all.groovy" />
       <jump line="22" column="31" filename="$USER_HOME$/slask/log4j/slask/src/test/java/mygroup/MasksTest.groovy" />
@@ -465,13 +406,30 @@
       <jump line="31" column="32" filename="$USER_HOME$/git-lhb/LP_NORNORNA/xml.ws/src/main/java/com/evry/finance/xml/ws/PortFactory.java" />
       <jump line="78" column="79" filename="$USER_HOME$/git-lhb/LP_NORNORNA/xml.ws/src/main/java/com/evry/finance/xml/ws/PortFactory.java" />
       <jump line="49" column="31" filename="$USER_HOME$/slask/cxf/core/src/main/java/org/apache/cxf/bus/extension/ExtensionManagerImpl.java" />
+      <jump line="55" column="1" filename="$USER_HOME$/slask/cxf/rt/ws/policy/src/main/java/org/apache/cxf/ws/policy/PolicyEngineImpl.java" />
+      <jump line="73" column="27" filename="$USER_HOME$/slask/cxf/rt/ws/policy/src/main/java/org/apache/cxf/ws/policy/PolicyEngineImpl.java" />
+      <jump line="159" column="34" filename="$USER_HOME$/slask/cxf/rt/ws/policy/src/main/java/org/apache/cxf/ws/policy/PolicyEngineImpl.java" />
+      <jump line="160" column="8" filename="$USER_HOME$/slask/cxf/rt/ws/policy/src/main/java/org/apache/cxf/ws/policy/PolicyEngineImpl.java" />
+      <jump line="163" column="29" filename="$USER_HOME$/slask/cxf/rt/ws/policy/src/main/java/org/apache/cxf/ws/policy/PolicyEngineImpl.java" />
+      <jump line="164" column="15" filename="$USER_HOME$/slask/cxf/rt/ws/policy/src/main/java/org/apache/cxf/ws/policy/PolicyEngineImpl.java" />
+      <jump line="419" column="29" filename="$USER_HOME$/slask/cxf/rt/ws/policy/src/main/java/org/apache/cxf/ws/policy/PolicyEngineImpl.java" />
+      <jump line="439" column="76" filename="$USER_HOME$/slask/cxf/rt/ws/policy/src/main/java/org/apache/cxf/ws/policy/PolicyEngineImpl.java" />
+      <jump line="574" column="30" filename="$USER_HOME$/slask/cxf/rt/ws/policy/src/main/java/org/apache/cxf/ws/policy/PolicyEngineImpl.java" />
+      <jump line="16" column="17" filename="$USER_HOME$/git-lhb/LP_NORNORNA/xml.ws/src/main/java/com/evry/finance/xml/ws/PortFactory.java" />
+      <jump line="95" column="48" filename="$USER_HOME$/git-lhb/LP_NORNORNA/xml.ws/src/main/java/com/evry/finance/xml/ws/PortFactory.java" />
+      <jump line="96" column="18" filename="$USER_HOME$/git-lhb/LP_NORNORNA/xml.ws/src/main/java/com/evry/finance/xml/ws/PortFactory.java" />
+      <jump line="99" column="27" filename="$USER_HOME$/git-lhb/LP_NORNORNA/xml.ws/src/main/java/com/evry/finance/xml/ws/PortFactory.java" />
+      <jump line="100" column="58" filename="$USER_HOME$/git-lhb/LP_NORNORNA/xml.ws/src/main/java/com/evry/finance/xml/ws/PortFactory.java" />
+      <jump line="101" column="37" filename="$USER_HOME$/git-lhb/LP_NORNORNA/xml.ws/src/main/java/com/evry/finance/xml/ws/PortFactory.java" />
+      <jump line="9" column="22" filename="$USER_HOME$/git-lhb/LP_NORNORNA/xml.ws/src/main/java/com/evry/finance/xml/ws/PortFactory.java" />
+      <jump line="10" column="22" filename="$USER_HOME$/git-lhb/LP_NORNORNA/xml.ws/src/main/java/com/evry/finance/xml/ws/PortFactory.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCVVNfRVhURU5TSU9OX1JFU09VUkNFXD4=</text>
+        <text>bus</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">UG9saWN5SW50ZXJjZXB0b3JQcm92aWRlclJlZ2lzdHJ5SW1wbAogICAg</text>
@@ -526,9 +484,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCVVNfRVhURU5TSU9OX1JFU09VUkNFXD4=</last-search>
+      <last-search>bus</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCVVNfRVhURU5TSU9OX1JFU09VUkNFXD4=</last-pattern>
+      <last-pattern>bus</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">cHVibGljIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -536,9 +494,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Cate</entry>
-        <entry encoding="base64">XDxjaG9zZW5DYXRlZ29yeVw+</entry>
-        <entry encoding="base64">XDxub25lXD4=</entry>
         <entry encoding="base64">XDxzZWFyY2hGaWVsZFw+</entry>
         <entry encoding="base64">XDxuYW1lZFJhZGlvQnV0dG9uXD4=</entry>
         <entry>centerPane</entry>
@@ -556,6 +511,9 @@
         <entry encoding="base64">XDxTQU1MX1NJR05BVFVSRV9VU0VSTkFNRVw+</entry>
         <entry encoding="base64">XDxzYW1sU2lnbmF0dXJlVXNlcm5hbWVcPg==</entry>
         <entry encoding="base64">XDxCVVNfRVhURU5TSU9OX1JFU09VUkNFXD4=</entry>
+        <entry encoding="base64">XDxyZWdpc3RyeVw+</entry>
+        <entry>registry</entry>
+        <entry>bus</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ocCurl/curl/gc</entry>
