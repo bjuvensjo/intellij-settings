@@ -114,6 +114,9 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
+      <file name="$USER_HOME$/slask/cxf/core/src/main/java/org/apache/cxf/bus/extension/ExtensionManagerImpl.java" timestamp="1591020254925">
+        <mark key="'" line="49" column="31" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/releaseMsBinaryTest.groovy" timestamp="1584696592016">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -350,6 +353,10 @@
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Dialogs.java" timestamp="1590605905713">
         <mark key="[" line="5" column="31" />
       </file>
+      <file name="$USER_HOME$/slask/cxf/rt/ws/policy/src/main/java/org/apache/cxf/ws/policy/PolicyInterceptorProviderRegistryImpl.java" timestamp="1591019629127">
+        <mark key="[" line="45" column="13" />
+        <mark key="]" line="46" column="3" />
+      </file>
       <file name="$USER_HOME$/slask/zzz/groovy.git/src/main/java/com/evry/finance/groovy/git/GitRemoteStash.groovy" timestamp="1588698679671">
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="0" />
@@ -357,7 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="40" filename="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/MyAppender.java" />
       <jump line="112" column="39" filename="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/MyAppender.java" />
       <jump line="117" column="43" filename="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/MyAppender.java" />
       <jump line="132" column="39" filename="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/MyAppender.java" />
@@ -457,16 +463,17 @@
       <jump line="42" column="32" filename="$USER_HOME$/git-lhb/LP_NORNORNA/war.loanprocess-dev/pom.xml" />
       <jump line="31" column="32" filename="$USER_HOME$/git-lhb/LP_NORNORNA/xml.ws/src/main/java/com/evry/finance/xml/ws/PortFactory.java" />
       <jump line="78" column="79" filename="$USER_HOME$/git-lhb/LP_NORNORNA/xml.ws/src/main/java/com/evry/finance/xml/ws/PortFactory.java" />
+      <jump line="49" column="31" filename="$USER_HOME$/slask/cxf/core/src/main/java/org/apache/cxf/bus/extension/ExtensionManagerImpl.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYW1sU2lnbmF0dXJlVXNlcm5hbWVcPg==</text>
+        <text encoding="base64">XDxCVVNfRVhURU5TSU9OX1JFU09VUkNFXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBodHRwOi8vY29oZWlnZWEuYmxvZ3Nwb3Quc2UvMjAxMS8wNC9zYW1sLXN1cHBvcnQtaW4tY3hmLTI0MC5odG1sCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">UG9saWN5SW50ZXJjZXB0b3JQcm92aWRlclJlZ2lzdHJ5SW1wbAogICAg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzdHJpbmdzLmxlbmd0aAo=</text>
@@ -518,9 +525,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYW1sU2lnbmF0dXJlVXNlcm5hbWVcPg==</last-search>
+      <last-search encoding="base64">XDxCVVNfRVhURU5TSU9OX1JFU09VUkNFXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYW1sU2lnbmF0dXJlVXNlcm5hbWVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxCVVNfRVhURU5TSU9OX1JFU09VUkNFXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">cHVibGljIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -528,7 +535,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PRIMA</entry>
         <entry>Cate</entry>
         <entry encoding="base64">XDxjaG9zZW5DYXRlZ29yeVw+</entry>
         <entry encoding="base64">XDxub25lXD4=</entry>
@@ -548,6 +554,7 @@
         <entry encoding="base64">PA==</entry>
         <entry encoding="base64">XDxTQU1MX1NJR05BVFVSRV9VU0VSTkFNRVw+</entry>
         <entry encoding="base64">XDxzYW1sU2lnbmF0dXJlVXNlcm5hbWVcPg==</entry>
+        <entry encoding="base64">XDxCVVNfRVhURU5TSU9OX1JFU09VUkNFXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ocCurl/curl/gc</entry>
