@@ -3,20 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/MyAppender.java" timestamp="1587113796904">
-        <mark key="'" line="32" column="28" />
-        <mark key="[" line="50" column="24" />
-        <mark key="]" line="166" column="20" />
-        <mark key="^" line="166" column="20" />
-        <mark key="." line="166" column="20" />
-      </file>
-      <file name="$USER_HOME$/slask/log4j/slask/src/main/resources/log4j2.xml" timestamp="1587109375304">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="14" column="36" />
-        <mark key="." line="14" column="36" />
-        <mark key="^" line="14" column="36" />
-      </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Category.java" timestamp="1590766450229">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="52" />
@@ -27,22 +13,8 @@
         <mark key="]" line="18" column="36" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/ocCurlTest.groovy" timestamp="1585905157745">
-        <mark key="'" line="114" column="36" />
-        <mark key="[" line="114" column="175" />
-        <mark key="]" line="114" column="188" />
-        <mark key="." line="114" column="188" />
-        <mark key="^" line="114" column="188" />
-      </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Map.java" timestamp="1588751562828">
         <mark key="[" line="24" column="89" />
-      </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/fx/src/tenta20170526/Bok.java" timestamp="1590415072614">
-        <mark key="'" line="25" column="32" />
-        <mark key="[" line="14" column="40" />
-        <mark key="]" line="14" column="40" />
-        <mark key="^" line="14" column="26" />
-        <mark key="." line="14" column="40" />
       </file>
       <file name="/a.dummy" timestamp="1590615845362">
         <mark key="[" line="0" column="0" />
@@ -76,13 +48,6 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/ocCurl.groovy" timestamp="1585903679991">
-        <mark key="'" line="12" column="21" />
-        <mark key="[" line="55" column="31" />
-        <mark key="]" line="55" column="38" />
-        <mark key="." line="55" column="38" />
-        <mark key="^" line="55" column="38" />
       </file>
       <file name="$USER_HOME$/git-diba/CSL/ws.diba/pom.xml" timestamp="1586849925795">
         <mark key="[" line="10" column="1" />
@@ -121,13 +86,6 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/slask/log4j/slask/src/test/java/mygroup/MasksTest.groovy" timestamp="1587404253692">
-        <mark key="'" line="22" column="31" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="18" column="20" />
-      </file>
       <file name="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/Masks.groovy" timestamp="1587389041228">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="9" column="5" />
@@ -156,32 +114,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/createMsDeploymentManifestTest.groovy" timestamp="1586182988893">
-        <mark key="'" line="92" column="47" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="105" column="60" />
-        <mark key="^" line="124" column="75" />
-      </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/fx/src/tenta20160428/Dag.java" timestamp="1590397886486">
         <mark key="[" line="54" column="41" />
         <mark key="]" line="54" column="19" />
         <mark key="." line="54" column="19" />
         <mark key="^" line="54" column="14" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsConfiguration.groovy" timestamp="1588696062399">
-        <mark key="'" line="13" column="11" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="135" />
-        <mark key="." line="4" column="65" />
-        <mark key="^" line="10" column="24" />
-      </file>
-      <file name="$USER_HOME$/slask/log4j/slask/src/test/resources/log4j2.xml" timestamp="1587122255745">
-        <mark key="'" line="11" column="30" />
-        <mark key="[" line="4" column="68" />
-        <mark key="]" line="4" column="69" />
-        <mark key="^" line="11" column="41" />
-        <mark key="." line="4" column="69" />
       </file>
       <file name="$USER_HOME$/slask/zzzzz/groovy.stash.addjenkinscommithook/src/main/java/se/lf/service/groovy/stash/addjenkinscommithook/SetBitbucketPostWebhooks.groovy" timestamp="1583253063570">
         <mark key="[" line="9" column="6" />
@@ -209,20 +146,6 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/slask/log4j/slask/src/test/resources/cfg/all.groovy" timestamp="1587391459708">
-        <mark key="'" line="0" column="6" />
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="1" column="6" />
-        <mark key="." line="1" column="6" />
-        <mark key="^" line="1" column="6" />
-      </file>
-      <file name="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/settings.xml" timestamp="1588661045261">
-        <mark key="'" line="95" column="14" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="53" column="81" />
-      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/releaseMsUtils.groovy" timestamp="1585921648379">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
@@ -232,13 +155,6 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/slask/log4j/slask/src/test/java/mygroup/slask/maskCfg.groovy" timestamp="1587376318261">
-        <mark key="'" line="3" column="12" />
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="4" column="10" />
-        <mark key="." line="4" column="10" />
-        <mark key="^" line="4" column="10" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.bankholidays/manifest/deployment.groovy" timestamp="1586187407186">
         <mark key="[" line="16" column="0" />
@@ -267,25 +183,11 @@
         <mark key="]" line="41" column="27" />
         <mark key="." line="41" column="27" />
       </file>
-      <file name="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/src/main/java/se/lf/service/groovy/bitbucket/postwebhook/Slask.groovy" timestamp="1588673623385">
-        <mark key="'" line="24" column="20" />
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="19" />
-        <mark key="." line="13" column="19" />
-        <mark key="^" line="13" column="19" />
-      </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/sample/Slask.java" timestamp="1590243483657">
         <mark key="[" line="16" column="19" />
         <mark key="]" line="12" column="29" />
         <mark key="^" line="12" column="29" />
         <mark key="." line="12" column="29" />
-      </file>
-      <file name="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/Jenkinsfile" timestamp="1588770398550">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="16" column="8" />
-        <mark key="^" line="18" column="17" />
-        <mark key="." line="18" column="17" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/repository.groovy" timestamp="1584207663055">
         <mark key="[" line="11" column="0" />
@@ -302,13 +204,6 @@
         <mark key="[" line="10" column="32" />
         <mark key="]" line="4" column="60" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/tenta20180528/Val2018.java" timestamp="1590252881422">
-        <mark key="'" line="115" column="3" />
-        <mark key="[" line="82" column="137" />
-        <mark key="]" line="82" column="182" />
-        <mark key="." line="82" column="59" />
-        <mark key="^" line="85" column="58" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/slask.txt" timestamp="1584117477145">
         <mark key="[" line="22" column="56" />
@@ -380,22 +275,8 @@
         <mark key="]" line="30" column="30" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/slask/log4j/slask/src/test/java/mygroup/slask/MyAppenderTest.groovy" timestamp="1587112906237">
-        <mark key="'" line="10" column="14" />
-        <mark key="[" line="24" column="41" />
-        <mark key="]" line="24" column="42" />
-        <mark key="." line="24" column="42" />
-        <mark key="^" line="10" column="14" />
-      </file>
       <file name="/Dummy.txt" timestamp="1585255129828">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/MaskAppender.groovy" timestamp="1587378929655">
-        <mark key="'" line="67" column="9" />
-        <mark key="[" line="61" column="25" />
-        <mark key="]" line="61" column="31" />
-        <mark key="." line="61" column="31" />
-        <mark key="^" line="61" column="31" />
       </file>
       <file name="$USER_HOME$/git-bitbucket-private/es-intro/git/camel-sample/Exercises-1.md" timestamp="1583224261782">
         <mark key="[" line="12" column="13" />
@@ -435,12 +316,9 @@
         <mark key="]" line="77" column="31" />
         <mark key="." line="77" column="31" />
       </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createMsDeploymentManifest.groovy" timestamp="1586415430394">
-        <mark key="'" line="1" column="4" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="87" column="56" />
-        <mark key="^" line="131" column="16" />
+      <file name="$USER_HOME$/git-lhb/LP_NORNORNA/war.loanprocess-dev/pom.xml" timestamp="1591014946181">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="49" column="29" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/fileCurl.groovy" timestamp="1584961797881">
         <mark key="[" line="1" column="27" />
@@ -451,13 +329,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/createConfigMapData.groovy" timestamp="1586416311960">
-        <mark key="'" line="3" column="15" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="1" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="8" column="11" />
       </file>
       <file name="/fragment.java" timestamp="1590654312146">
         <mark key="[" line="0" column="0" />
@@ -581,7 +452,7 @@
         <text encoding="base64">XDxzYW1sU2FtbENhbGxiYWNrSGFuZGxlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2FtbC1zZWN1cml0eS1zYW1sLWNhbGxiYWNrLWhhbmRsZXI9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUuY3hmPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmN4Zi1ydC13cy1wb2xpY3k8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+JHtjeGYudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmN4ZjwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5jeGYtcnQtd3Mtc2VjdXJpdHk8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+JHtjeGYudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzdHJpbmdzLmxlbmd0aAo=</text>
