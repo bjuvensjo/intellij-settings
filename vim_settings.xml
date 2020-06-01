@@ -63,6 +63,10 @@
         <mark key="]" line="1" column="183" />
         <mark key="." line="1" column="16" />
       </file>
+      <file name="$USER_HOME$/git-lhb/LP_NORNORNA/configuration.war.loanprocess-dev/src/main/templates/com/evry/finance/loanprocess/lhb/integration/sap/configuration-env.properties" timestamp="1591012617455">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="36" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/createConfigMapManifestTest.groovy" timestamp="1585846020269">
         <mark key="[" line="23" column="17" />
         <mark key="]" line="23" column="17" />
@@ -104,6 +108,12 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-lhb/LP_NORNORNA/xml.ws/src/main/java/com/evry/finance/xml/ws/PortFactory.java" timestamp="1591012963569">
+        <mark key="'" line="78" column="54" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/fx/src/tenta20170526/SerieTidning.java" timestamp="1590413618790">
         <mark key="[" line="12" column="15" />
@@ -282,6 +292,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/git-lhb/LP_NORNORNA/loanprocess.v1_0/src/main/java/com/evry/finance/loanprocess/common/security/SAMLCallback.java" timestamp="1591012473925" />
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/cfg.groovy" timestamp="1585921389517">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -461,9 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/slask/log4j/slask/src/main/resources/log4j2.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/slask/log4j/slask/src/main/resources/log4j2.xml" />
-      <jump line="10" column="14" filename="$USER_HOME$/slask/log4j/slask/src/test/java/mygroup/slask/MyAppenderTest.groovy" />
       <jump line="87" column="43" filename="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/MyAppender.java" />
       <jump line="92" column="39" filename="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/MyAppender.java" />
       <jump line="97" column="40" filename="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/MyAppender.java" />
@@ -561,19 +569,22 @@
       <jump line="46" column="25" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="290" column="49" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="306" column="45" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
+      <jump line="30" column="32" filename="$USER_HOME$/git-lhb/LP_NORNORNA/xml.ws/src/main/java/com/evry/finance/xml/ws/PortFactory.java" />
+      <jump line="75" column="21" filename="$USER_HOME$/git-lhb/LP_NORNORNA/xml.ws/src/main/java/com/evry/finance/xml/ws/PortFactory.java" />
+      <jump line="78" column="54" filename="$USER_HOME$/git-lhb/LP_NORNORNA/xml.ws/src/main/java/com/evry/finance/xml/ws/PortFactory.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGlja0hhbmRsZXJcPg==</text>
+        <text encoding="base64">XDxzYW1sU2FtbENhbGxiYWNrSGFuZGxlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjZW50ZXJQYW5lLnNldEN1cnNvcihDdXJzb3IuREVGQVVMVCk7Cg==</text>
+        <text encoding="base64">c2FtbC1zZWN1cml0eS1zYW1sLWNhbGxiYWNrLWhhbmRsZXI9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2F0ZWdvcnkudmFsdWVPZigiQlVTIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdHJpbmdzLmxlbmd0aAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -594,37 +605,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQlVTLmNvbG9yKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2F0ZWdvcnkudmFsdWVPZigiQlVTIikpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpbWFnZVZpZXcuc2V0Q2RkdXJzb3IoQ3Vyc29yLkNST1NTSEFJUik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQlVTLmNvbG9yKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGxhY2VzLmNsZWFyTWFya2VkUGxhY2VzKCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBpbWFnZVZpZXcuc2V0Q2RkdXJzb3IoQ3Vyc29yLkNST1NTSEFJUik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPYmplY3QgbyA9IG1vdXNlRXZlbnQuZ2V0U291cmNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGxhY2VzLmNsZWFyTWFya2VkUGxhY2VzKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9iamVjdCBvID0gbW91c2VFdmVudC5nZXRTb3VyY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPYmplY3QgbyA9IG1vdXNlRXZlbnQuZ2V0U291cmNlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYXJrQWxsKFNldDxQbGFjZT4gcGxhY2VzKSB7CiAgICAgICAgaWYgKHBsYWNlcyAhPSBudWxsKSB7CiAgICAgICAgICAgIGZvciAoUGxhY2UgcGxhY2UgOiBwbGFjZXMpIHsKICAgICAgICAgICAgICAgIHBsYWNlLm1hcmsoKTsKICAgICAgICAgICAgICAgIG1hcmtlZFBsYWNlcy5hZGQocGxhY2UpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgQ29sbGVjdGlvbjxQbGFjZT4gZ2V0TWFya2VkUGxhY2VzKCkgewogICAgICAgIHJldHVybiBtYXJrZWRQbGFjZXM7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9iamVjdCBvID0gbW91c2VFdmVudC5nZXRTb3VyY2UoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFNldDxQbGFjZT4gbWFya2VkUGxhY2VzID0gbmV3IEhhc2hTZXQ8PigpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYXJrQWxsKFNldDxQbGFjZT4gcGxhY2VzKSB7CiAgICAgICAgaWYgKHBsYWNlcyAhPSBudWxsKSB7CiAgICAgICAgICAgIGZvciAoUGxhY2UgcGxhY2UgOiBwbGFjZXMpIHsKICAgICAgICAgICAgICAgIHBsYWNlLm1hcmsoKTsKICAgICAgICAgICAgICAgIG1hcmtlZFBsYWNlcy5hZGQocGxhY2UpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgQ29sbGVjdGlvbjxQbGFjZT4gZ2V0TWFya2VkUGxhY2VzKCkgewogICAgICAgIHJldHVybiBtYXJrZWRQbGFjZXM7CiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0b24uc2V0T25BY3Rpb24obmV3IFNlYXJjaEhhbmRsZXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFNldDxQbGFjZT4gbWFya2VkUGxhY2VzID0gbmV3IEhhc2hTZXQ8PigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/public //g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGlja0hhbmRsZXJcPg==</last-search>
+      <last-search encoding="base64">XDxzYW1sU2FtbENhbGxiYWNrSGFuZGxlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGlja0hhbmRsZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzYW1sU2FtbENhbGxiYWNrSGFuZGxlclw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">cHVibGljIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -632,8 +643,6 @@
     </search>
     <history>
       <history-search>
-        <entry>load</entry>
-        <entry>createRemo</entry>
         <entry>Category</entry>
         <entry>fx</entry>
         <entry>)</entry>
@@ -652,6 +661,8 @@
         <entry>cursor</entry>
         <entry>setCursor</entry>
         <entry encoding="base64">XDxjbGlja0hhbmRsZXJcPg==</entry>
+        <entry encoding="base64">XDxTQU1MX1NBTUxfQ0FMTEJBQ0tfSEFORExFUlw+</entry>
+        <entry encoding="base64">XDxzYW1sU2FtbENhbGxiYWNrSGFuZGxlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ocCurl/curl/gc</entry>
