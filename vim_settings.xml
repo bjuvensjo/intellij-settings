@@ -56,6 +56,16 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="17" column="85" />
       </file>
+      <file name="$USER_HOME$/git-meddelandehub/demo/src/main/java/se/lf/hub/kafka/demo/Producer.java" timestamp="1591108838213">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-meddelandehub/demo/src/main/java/com/demo/models/User.java" timestamp="1591108562421">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/fx/src/tenta20170526/Text.java" timestamp="1590415578503">
         <mark key="[" line="17" column="58" />
       </file>
@@ -75,6 +85,9 @@
       </file>
       <file name="$USER_HOME$/slask/cxf/rt/ws/policy/src/main/java/org/apache/cxf/ws/policy/PolicyEngineImpl.java" timestamp="1591024046685">
         <mark key="'" line="574" column="30" />
+      </file>
+      <file name="$USER_HOME$/git-meddelandehub/demo/README.md" timestamp="1591108724231">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/Masks.groovy" timestamp="1587389041228">
         <mark key="[" line="3" column="0" />
@@ -107,6 +120,11 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-meddelandehub/demo/src/main/resources/application.yaml" timestamp="1591108702219">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="80" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git-lhb/LP_NORNORNA/app.createcase_soap.v1_0/src/main/resources/com/evry/finance/loanprocess/app/createcase_soap/v1_0/beans.xml" timestamp="1591024445595">
         <mark key="[" line="19" column="12" />
@@ -145,6 +163,11 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-meddelandehub/demo/src/main/java/se/lf/hub/kafka/demo/Consumer.java" timestamp="1591108883439">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/configMap.json" timestamp="1583852384018">
         <mark key="[" line="0" column="0" />
@@ -212,13 +235,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" timestamp="1590744839740">
-        <mark key="'" line="306" column="45" />
-        <mark key="[" line="317" column="65" />
-        <mark key="]" line="317" column="65" />
-        <mark key="." line="317" column="65" />
-        <mark key="^" line="277" column="17" />
       </file>
       <file name="$USER_HOME$/git-lhb/LP_NORNORNA/app.addattachment_rest.v1_0/slask.txt" timestamp="1591011642550">
         <mark key="[" line="0" column="0" />
@@ -436,7 +452,7 @@
         <text encoding="base64">UG9saWN5SW50ZXJjZXB0b3JQcm92aWRlclJlZ2lzdHJ5SW1wbAogICAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJpbmdzLmxlbmd0aAo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIENvbnN1bWVyIHsKfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -457,28 +473,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2F0ZWdvcnkudmFsdWVPZigiQlVTIikpOwo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFByb2R1Y2VyIHsKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQlVTLmNvbG9yKCkpOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpbWFnZVZpZXcuc2V0Q2RkdXJzb3IoQ3Vyc29yLkNST1NTSEFJUik7Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFVzZXIgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGxhY2VzLmNsZWFyTWFya2VkUGxhY2VzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdHJpbmdzLmxlbmd0aAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPYmplY3QgbyA9IG1vdXNlRXZlbnQuZ2V0U291cmNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2F0ZWdvcnkudmFsdWVPZigiQlVTIikpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9iamVjdCBvID0gbW91c2VFdmVudC5nZXRTb3VyY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQlVTLmNvbG9yKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYXJrQWxsKFNldDxQbGFjZT4gcGxhY2VzKSB7CiAgICAgICAgaWYgKHBsYWNlcyAhPSBudWxsKSB7CiAgICAgICAgICAgIGZvciAoUGxhY2UgcGxhY2UgOiBwbGFjZXMpIHsKICAgICAgICAgICAgICAgIHBsYWNlLm1hcmsoKTsKICAgICAgICAgICAgICAgIG1hcmtlZFBsYWNlcy5hZGQocGxhY2UpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgQ29sbGVjdGlvbjxQbGFjZT4gZ2V0TWFya2VkUGxhY2VzKCkgewogICAgICAgIHJldHVybiBtYXJrZWRQbGFjZXM7CiAgICB9Cgo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBpbWFnZVZpZXcuc2V0Q2RkdXJzb3IoQ3Vyc29yLkNST1NTSEFJUik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFNldDxQbGFjZT4gbWFya2VkUGxhY2VzID0gbmV3IEhhc2hTZXQ8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGxhY2VzLmNsZWFyTWFya2VkUGxhY2VzKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/public //g</text>
