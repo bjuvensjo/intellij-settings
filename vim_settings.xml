@@ -400,9 +400,9 @@
         <mark key="]" line="6" column="6" />
         <mark key="." line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Place.java" timestamp="1590655803766">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
+      <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Place.java" timestamp="1591184339208">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="136" />
         <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/git-bitbucket-private/es-intro/git/camel-sample/src/test/java/sample/ServiceRouteBuilderIT.java" timestamp="1585663309106">
@@ -560,7 +560,7 @@
         <text>use</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGN1cmwgLVggUE9TVCAtRiAnbWVzc2FnZT1TZWN1cmUgbWVzc2FnZScgaHR0cDovL2xvY2FsaG9zdDo5MDAwL3NlY3VyZS8gIAo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihwb3NpdGlvbi5nZXRYKCksIHBvc2l0aW9uLmdldFkoKSwgcG9zaXRpb24uZ2V0WCgpIC0gMTUsIHBvc2l0aW9uLmdldFkoKSAtIDMwLCBwb3NpdGlvbi5nZXRYKCkgKyAxNSwgcG9zaXRpb24uZ2V0WSgpIC0gMzApOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB2YWx1ZS1kZXNlcmlhbGl6ZXI6IG9yZy5zcHJpbmdmcmFtZXdvcmsua2Fma2Euc3VwcG9ydC5zZXJpYWxpemVyLkpzb25EZXNlcmlhbGl6ZXIK</text>
