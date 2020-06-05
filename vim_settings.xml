@@ -17,7 +17,7 @@
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Map.java" timestamp="1588751562828">
         <mark key="[" line="24" column="89" />
       </file>
-      <file name="/a.dummy" timestamp="1591170509074">
+      <file name="/a.dummy" timestamp="1591277742442">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/createConfigMapManifestTest.groovy" timestamp="1585846020269">
@@ -32,8 +32,12 @@
         <mark key="." line="16" column="95" />
         <mark key="^" line="16" column="51" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushConfiguration.java" timestamp="1591175556559">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushConfiguration.java" timestamp="1591277316888">
+        <mark key="c" line="34" column="42" />
+        <mark key="[" line="35" column="5" />
+        <mark key="]" line="34" column="41" />
+        <mark key="." line="34" column="41" />
+        <mark key="^" line="34" column="41" />
       </file>
       <file name="$USER_HOME$/git-diba/CSL/ws.diba/pom.xml" timestamp="1586849925795">
         <mark key="[" line="10" column="1" />
@@ -76,19 +80,34 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushProducerConfig.java" timestamp="1591280599457">
+        <mark key="[" line="24" column="77" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/releaseMsBinaryTest.groovy" timestamp="1584696592016">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/resources/application.properties" timestamp="1591176375653">
-        <mark key="[" line="1" column="64" />
-        <mark key="]" line="1" column="100" />
-        <mark key="." line="1" column="100" />
-        <mark key="^" line="1" column="100" />
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/resources/application.properties" timestamp="1591279083999">
+        <mark key="[" line="3" column="37" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="4" column="19" />
       </file>
       <file name="$USER_HOME$/git-lhb/LP_NORNORNA/app.createcase_soap.v1_0/src/main/resources/com/evry/finance/loanprocess/app/createcase_soap/v1_0/beans.xml" timestamp="1591024445595">
         <mark key="[" line="19" column="12" />
+      </file>
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushTopicConfig.java" timestamp="1591277813407">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="18" column="25" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushConsumerConfig.java" timestamp="1591279757658">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="77" />
+        <mark key="." line="36" column="51" />
+        <mark key="^" line="34" column="66" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.bankholidays/kub/deployment.groovy" timestamp="1586157700994">
         <mark key="[" line="2" column="20" />
@@ -100,8 +119,8 @@
         <mark key="]" line="3" column="150" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushMessage.java" timestamp="1591176412902">
-        <mark key="[" line="9" column="5" />
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushMessage.java" timestamp="1591280447012">
+        <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="3" />
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
@@ -135,10 +154,10 @@
         <mark key="]" line="14" column="29" />
         <mark key="." line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/IOSConsumer.java" timestamp="1591175603225">
-        <mark key="[" line="14" column="47" />
-        <mark key="]" line="12" column="58" />
-        <mark key="." line="12" column="58" />
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/IOSConsumer.java" timestamp="1591278932325">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="24" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/cfg.groovy" timestamp="1585921389517">
         <mark key="[" line="24" column="0" />
@@ -177,11 +196,15 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushProducer.java" timestamp="1591176880631">
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="44" />
-        <mark key="." line="21" column="44" />
-        <mark key="^" line="21" column="42" />
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushController.java" timestamp="1591279032746">
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="20" column="31" />
+        <mark key="." line="20" column="31" />
+      </file>
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushProducer.java" timestamp="1591280125266">
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="16" column="34" />
+        <mark key="." line="16" column="34" />
       </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Dialogs.java" timestamp="1590605905713">
         <mark key="[" line="5" column="31" />
@@ -217,10 +240,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/AndroidConsumer.java" timestamp="1591170680385">
-        <mark key="[" line="12" column="58" />
-        <mark key="]" line="12" column="72" />
-        <mark key="." line="12" column="72" />
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/AndroidConsumer.java" timestamp="1591278954960">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="24" />
         <mark key="^" line="12" column="72" />
       </file>
       <file name="$USER_HOME$/slask/zzz/groovy.bitbucket.postwebhook/src/main/resources/Configuration.json" timestamp="1588703531771">
@@ -236,6 +259,9 @@
       </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/fx/src/sample/Slask.java" timestamp="1590477250277">
         <mark key="[" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/KafkaTopicConfiguration.java" timestamp="1591277726054">
+        <mark key="^" line="13" column="35" />
       </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/fx/src/tenta20170526/SerieTidning.java" timestamp="1590413618790">
         <mark key="[" line="12" column="15" />
@@ -435,12 +461,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/resources/application.yaml" timestamp="1591176452484">
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/resources/application.yaml" timestamp="1591279013944">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1591170544750">
+      <file name="/fragment.java" timestamp="1591277388230">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git-meddelandehub/demo/src/main/java/se/lf/hub/kafka/demo/DemoController.java" timestamp="1591111766461">
@@ -554,16 +580,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>use</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihwb3NpdGlvbi5nZXRYKCksIHBvc2l0aW9uLmdldFkoKSwgcG9zaXRpb24uZ2V0WCgpIC0gMTUsIHBvc2l0aW9uLmdldFkoKSAtIDMwLCBwb3NpdGlvbi5nZXRYKCkgKyAxNSwgcG9zaXRpb24uZ2V0WSgpIC0gMzApOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9wcy5wdXQoCiAgICAgICAgICAgICAgICBQcm9kdWNlckNvbmZpZy5WQUxVRV9TRVJJQUxJWkVSX0NMQVNTX0NPTkZJRywKICAgICAgICAgICAgICAgIEpzb25TZXJpYWxpemVyLmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZS1kZXNlcmlhbGl6ZXI6IG9yZy5zcHJpbmdmcmFtZXdvcmsua2Fma2Euc3VwcG9ydC5zZXJpYWxpemVyLkpzb25EZXNlcmlhbGl6ZXIK</text>
+        <text encoding="base64">Ly8gICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -584,28 +610,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGN1cmwgLVggUE9TVCAtRiAnbWVzc2FnZT1QdXNoIG1lc3NhZ2UnIGh0dHA6Ly9sb2NhbGhvc3Q6OTAwMC9wdXNoLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hc3Rlcgo=</text>
+        <text encoding="base64">Ly8gICAgQEJlYW4KLy8gICAgcHVibGljIE5ld1RvcGljIHB1c2hUb3BpYygpIHsKLy8gICAgICAgIHJldHVybiBuZXcgTmV3VG9waWMoInB1c2giLCAzLCAoc2hvcnQpMSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9wcy5wdXQoQ29uc3VtZXJDb25maWcuS0VZX0RFU0VSSUFMSVpFUl9DTEFTU19DT05GSUcsIFN0cmluZ0Rlc2VyaWFsaXplci5jbGFzcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IERlZmF1bHRLYWZrYUNvbnN1bWVyRmFjdG9yeTw+KHByb3BzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBjdXJsIC1YIFBPU1QgLUYgJ21lc3NhZ2U9SGVsbG8gV29ybGQhJyBodHRwOi8vbG9jYWxob3N0OjkwMDAvcHVzaC8K</text>
+        <text encoding="base64">ICAgICAgICBwcm9wcy5wdXQoQ29uc3VtZXJDb25maWcuVkFMVUVfREVTRVJJQUxJWkVSX0NMQVNTX0NPTkZJRywgbmV3IEpzb25EZXNlcmlhbGl6ZXI8PihQdXNoTWVzc2FnZS5jbGFzcykpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByb2R1Y2VyUHVzaCA9IHByb2R1Y2VyUHVzaDsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IERlZmF1bHRLYWZrYUNvbnN1bWVyRmFjdG9yeTw+KHByb3BzLCBuZXcgU3RyaW5nRGVzZXJpYWxpemVyKCksIG5ldyBKc29uRGVzZXJpYWxpemVyPD4oUHVzaE1lc3NhZ2UuY2xhc3MpKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>, ProducerPush producerPush</text>
-      </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUHJvZHVjZXJQdXNoIHByb2R1Y2VyUHVzaDsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFjdG9yeTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/public //g</text>
