@@ -65,11 +65,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/pom.xml" timestamp="1591354206579">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/pom.xml" timestamp="1591356450237">
+        <mark key="'" line="21" column="32" />
+        <mark key="[" line="158" column="42" />
+        <mark key="]" line="158" column="42" />
+        <mark key="^" line="158" column="40" />
+        <mark key="." line="158" column="42" />
       </file>
       <file name="$USER_HOME$/git-meddelandehub/demo/README.md" timestamp="1591165243979">
         <mark key="[" line="8" column="0" />
@@ -200,6 +201,11 @@
         <mark key="]" line="31" column="30" />
         <mark key="^" line="110" column="50" />
         <mark key="." line="31" column="30" />
+      </file>
+      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/mockserver/Slask.java" timestamp="1591355696325">
+        <mark key="[" line="47" column="16" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/yaml/service.yaml" timestamp="1584637728668">
         <mark key="[" line="4" column="49" />
@@ -482,7 +488,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1591277388230">
+      <file name="/fragment.java" timestamp="1591355463055">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git-meddelandehub/demo/src/main/java/se/lf/hub/kafka/demo/DemoController.java" timestamp="1591111766461">
@@ -493,7 +499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="26" filename="$USER_HOME$/git-clarabjuvensjo/fx/.idea_hide/workspace.xml" />
       <jump line="101" column="26" filename="$USER_HOME$/git-clarabjuvensjo/fx/.idea_hide/workspace.xml" />
       <jump line="137" column="20" filename="$USER_HOME$/git-clarabjuvensjo/fx/.idea_hide/workspace.xml" />
       <jump line="138" column="121" filename="$USER_HOME$/git-clarabjuvensjo/fx/.idea_hide/workspace.xml" />
@@ -593,10 +598,11 @@
       <jump line="145" column="42" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/mockserver/MockServerLiveTest.java" />
       <jump line="155" column="37" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/mockserver/MockServerLiveTest.java" />
       <jump line="1" column="0" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/mockserver/MockServerLiveTest.java" />
+      <jump line="21" column="32" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/pom.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>8000</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>port</text>
@@ -605,7 +611,7 @@
         <text encoding="base64">ICAgICAgICBwcm9wcy5wdXQoCiAgICAgICAgICAgICAgICBQcm9kdWNlckNvbmZpZy5WQUxVRV9TRVJJQUxJWkVSX0NMQVNTX0NPTkZJRywKICAgICAgICAgICAgICAgIEpzb25TZXJpYWxpemVyLmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uYmFlbGR1bmcubW9jay5zZXJ2ZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bWF2ZW4uY29tcGlsZXIudGFyZ2V0PjEuODwvbWF2ZW4uY29tcGlsZXIudGFyZ2V0Pgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -626,28 +632,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBoaXRUaGVTZXJ2ZXJXaXRoUG9zdFJlcXVlc3QoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIE1vY2tTZXJ2ZXJMaXZlVGVzdCB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVFeHBlY3RhdGlvbkZvckludmFsaWRBdXRoKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9jay1zZXZlci1uZXR0eS12ZXJzaW9uPjMuMTAuODwvbW9jay1zZXZlci1uZXR0eS12ZXJzaW9uPgogICAgICAgIDxhcGNoZS1odHRwLXZlcnNpb24+NC40LjE8L2FwY2hlLWh0dHAtdmVyc2lvbj4K</text>
+        <text encoding="base64">cGFja2FnZSBjb20uYmFlbGR1bmcubW9jay5zZXJ2ZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwvcHJvcGVydGllcz4K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0aWVzPiBkZAo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIE1vY2tTZXJ2ZXJMaXZlVGVzdCB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgQEJlYW4KLy8gICAgcHVibGljIE5ld1RvcGljIHB1c2hUb3BpYygpIHsKLy8gICAgICAgIHJldHVybiBuZXcgTmV3VG9waWMoInB1c2giLCAzLCAoc2hvcnQpMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bW9jay1zZXZlci1uZXR0eS12ZXJzaW9uPjMuMTAuODwvbW9jay1zZXZlci1uZXR0eS12ZXJzaW9uPgogICAgICAgIDxhcGNoZS1odHRwLXZlcnNpb24+NC40LjE8L2FwY2hlLWh0dHAtdmVyc2lvbj4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/public //g</text>
