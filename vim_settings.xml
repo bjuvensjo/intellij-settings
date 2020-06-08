@@ -64,6 +64,7 @@
         <mark key="]" line="8" column="76" />
         <mark key="." line="7" column="64" />
       </file>
+      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/main/java/jenkins/JenkinsRouteBuilder.groovy" timestamp="1591357078163" />
       <file name="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/Masks.groovy" timestamp="1587389041228">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="9" column="5" />
@@ -126,11 +127,11 @@
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/java/signing/StartSigningTest.groovy" timestamp="1591621035108">
-        <mark key="'" line="48" column="27" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/java/signing/StartSigningTest.groovy" timestamp="1591623042411">
+        <mark key="'" line="46" column="27" />
+        <mark key="[" line="23" column="71" />
+        <mark key="]" line="22" column="105" />
+        <mark key="." line="22" column="77" />
       </file>
       <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/resources/data/StartSigningTest/101/BidSecurityApi.asmx/GlobalRequest.groovy" timestamp="1591619194147">
         <mark key="[" line="0" column="0" />
@@ -246,12 +247,11 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/signing/StartSigningTest.groovy" timestamp="1591620193105">
+      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/signing/StartSigningTest.groovy" timestamp="1591623287469">
         <mark key="'" line="19" column="11" />
-        <mark key="[" line="209" column="35" />
-        <mark key="]" line="192" column="18" />
-        <mark key="^" line="192" column="18" />
-        <mark key="." line="192" column="18" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/resources/signing/StartSigning.properties" timestamp="1591618084439">
         <mark key="[" line="0" column="35" />
@@ -430,6 +430,7 @@
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.bankholidays/src/main/java/se/lf/service/Slask.java" timestamp="1587047300913">
         <mark key="[" line="2" column="20" />
       </file>
+      <file name="$USER_HOME$/git/rsimulator/rsimulator-camel-direct/src/main/java/com/github/bjuvensjo/rsimulator/camel/direct/DirectProcessor.java" timestamp="1591622906837" />
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/DescribedPlace.java" timestamp="1589375759840">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -657,7 +658,7 @@
         <text>context = new DefaultCamelContext()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -678,28 +679,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXR1cFNwZWMoKSB7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0LmFkZFJvdXRlcyhuZXcgU3RhcnRTaWduaW5nKCkpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgJ1Jlc3BvbnNlLnhtbCcK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgJ1Jlc3BvbnNlLnhtbCcK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgJ1Jlc3BvbnNlLnhtbCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0ID0gbmV3IERlZmF1bHRDYW1lbENvbnRleHQoKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIGRlZiBzZXR1cFNwZWMoKSB7Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb250ZXh0LmFkZFJvdXRlcyhuZXcgU3RhcnRTaWduaW5nKCkpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0ID0gbmV3IERlZmF1bHRDYW1lbENvbnRleHQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/;//g</text>
