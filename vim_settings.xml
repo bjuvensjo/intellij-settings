@@ -247,9 +247,9 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/signing/StartSigningTest.groovy" timestamp="1591625474308">
+      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/signing/StartSigningTest.groovy" timestamp="1591627265512">
         <mark key="'" line="20" column="11" />
-        <mark key="[" line="124" column="49" />
+        <mark key="[" line="124" column="39" />
         <mark key="]" line="124" column="49" />
         <mark key="." line="124" column="49" />
         <mark key="^" line="124" column="48" />
@@ -430,6 +430,12 @@
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.bankholidays/src/main/java/se/lf/service/Slask.java" timestamp="1587047300913">
         <mark key="[" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/mockserver/ExpectationCallbackHandler.java" timestamp="1591627348379">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/git/rsimulator/rsimulator-camel-direct/src/main/java/com/github/bjuvensjo/rsimulator/camel/direct/DirectProcessor.java" timestamp="1591622906837" />
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/DescribedPlace.java" timestamp="1589375759840">
@@ -658,8 +664,8 @@
       <register name="0" type="4">
         <text>context = new DefaultCamelContext()</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHhtbG5zOnNvYXA9Imh0dHA6Ly93d3cudzMub3JnLzIwMDMvMDUvc29hcC1lbnZlbG9wZSI+CiAgICA8c29hcDpCb2R5PgogICAgICAgIDxTaWduIHhtbG5zPSJodHRwOi8vZ2VtaS5sYW5zZm9yc2FrcmluZ2FyLnNlL1NlY3VyaXR5QXBpLTEuMC9CSURTZWN1cml0eUFwaSI+CiAgICAgICAgICAgIDxjYWxsSW5mbz5mb288L2NhbGxJbmZvPgogICAgICAgICAgICA8cG5yPjE5NzgwOTA0MTQyNDwvcG5yPgogICAgICAgICAgICA8dXNlclZpc2libGVEYXRhPkZsb3dpbmcgbGlrZSBhIHJpdmVyITwvdXNlclZpc2libGVEYXRhPgogICAgICAgICAgICA8cmVxdWlyZW1lbnRzPgogICAgICAgICAgICAgICAgPENvbmRpdGlvbj4KICAgICAgICAgICAgICAgICAgICA8dHlwZT5DZXJ0aWZpY2F0ZVBvbGljaWVzPC90eXBlPgogICAgICAgICAgICAgICAgICAgIDx2YWx1ZT4KICAgICAgICAgICAgICAgICAgICAgICAgPHN0cmluZz5iYXI8L3N0cmluZz4KICAgICAgICAgICAgICAgICAgICAgICAgPHN0cmluZz5iYXo8L3N0cmluZz4KICAgICAgICAgICAgICAgICAgICA8L3ZhbHVlPgogICAgICAgICAgICAgICAgPC9Db25kaXRpb24+CiAgICAgICAgICAgIDwvcmVxdWlyZW1lbnRzPgogICAgICAgIDwvU2lnbj4KICAgIDwvc29hcDpCb2R5Pg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaHR0cFJlc3BvbnNlLndpdGhCb2R5KCJIZWxsbyIpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -679,14 +685,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHhtbG5zOnNvYXA9Imh0dHA6Ly93d3cudzMub3JnLzIwMDMvMDUvc29hcC1lbnZlbG9wZSI+CiAgICA8c29hcDpCb2R5PgogICAgICAgIDxTaWduIHhtbG5zPSJodHRwOi8vZ2VtaS5sYW5zZm9yc2FrcmluZ2FyLnNlL1NlY3VyaXR5QXBpLTEuMC9CSURTZWN1cml0eUFwaSI+CiAgICAgICAgICAgIDxjYWxsSW5mbz5mb288L2NhbGxJbmZvPgogICAgICAgICAgICA8cG5yPjE5NzgwOTA0MTQyNDwvcG5yPgogICAgICAgICAgICA8dXNlclZpc2libGVEYXRhPkZsb3dpbmcgbGlrZSBhIHJpdmVyITwvdXNlclZpc2libGVEYXRhPgogICAgICAgICAgICA8cmVxdWlyZW1lbnRzPgogICAgICAgICAgICAgICAgPENvbmRpdGlvbj4KICAgICAgICAgICAgICAgICAgICA8dHlwZT5DZXJ0aWZpY2F0ZVBvbGljaWVzPC90eXBlPgogICAgICAgICAgICAgICAgICAgIDx2YWx1ZT4KICAgICAgICAgICAgICAgICAgICAgICAgPHN0cmluZz5iYXI8L3N0cmluZz4KICAgICAgICAgICAgICAgICAgICAgICAgPHN0cmluZz5iYXo8L3N0cmluZz4KICAgICAgICAgICAgICAgICAgICA8L3ZhbHVlPgogICAgICAgICAgICAgICAgPC9Db25kaXRpb24+CiAgICAgICAgICAgIDwvcmVxdWlyZW1lbnRzPgogICAgICAgIDwvU2lnbj4KICAgIDwvc29hcDpCb2R5Pg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgJ1Jlc3BvbnNlLnhtbCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgJ1Jlc3BvbnNlLnhtbCcK</text>
@@ -695,13 +701,13 @@
         <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgJ1Jlc3BvbnNlLnhtbCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgJ1Jlc3BvbnNlLnhtbCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXR1cFNwZWMoKSB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0LmFkZFJvdXRlcyhuZXcgU3RhcnRTaWduaW5nKCkpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBzZXR1cFNwZWMoKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/;//g</text>
