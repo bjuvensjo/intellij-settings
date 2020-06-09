@@ -64,7 +64,6 @@
         <mark key="]" line="8" column="76" />
         <mark key="." line="7" column="64" />
       </file>
-      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/main/java/jenkins/JenkinsRouteBuilder.groovy" timestamp="1591357078163" />
       <file name="$USER_HOME$/slask/log4j/slask/src/main/java/mygroup/slask/Masks.groovy" timestamp="1587389041228">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="9" column="5" />
@@ -127,12 +126,12 @@
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/java/signing/StartSigningTest.groovy" timestamp="1591633050007">
+      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/java/signing/StartSigningTest.groovy" timestamp="1591688875895">
         <mark key="'" line="47" column="27" />
-        <mark key="[" line="27" column="24" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
         <mark key="^" line="25" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/resources/data/StartSigningTest/101/BidSecurityApi.asmx/GlobalRequest.groovy" timestamp="1591619194147">
         <mark key="[" line="0" column="0" />
@@ -248,12 +247,11 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/signing/StartSigningTest.groovy" timestamp="1591627265512">
-        <mark key="'" line="20" column="11" />
-        <mark key="[" line="124" column="39" />
-        <mark key="]" line="124" column="49" />
-        <mark key="." line="124" column="49" />
-        <mark key="^" line="124" column="48" />
+      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/signing/StartSigningTest.groovy" timestamp="1591689420963">
+        <mark key="'" line="38" column="19" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
       </file>
       <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/resources/signing/StartSigning.properties" timestamp="1591618084439">
         <mark key="[" line="0" column="35" />
@@ -314,12 +312,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/resources/data/StartSigningTest/101/BidSecurityApi.asmx/Sign-HappyFlow.groovy" timestamp="1591619343216">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/resources/data/StartSigningTest/101/BidSecurityApi.asmx/Sign-HappyFlow.groovy" timestamp="1591688806173">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="10" column="46" />
+        <mark key="." line="10" column="46" />
+        <mark key="^" line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/.m2/repository/csl/com/github/bjuvensjo/rsimulator-core/2.1.2/rsimulator-core-2.1.2.jar!/com/github/bjuvensjo/rsimulator/core/config/CoreModule.class" timestamp="1591632245524" />
       <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/resources/signing/StartSigningTest-101-expected.xml" timestamp="1591436095637">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -388,21 +386,23 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/java/rsimulator/XmlSupport.groovy" timestamp="1591618922872">
+      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/java/rsimulator/XmlSupport.groovy" timestamp="1591688696475">
         <mark key="'" line="78" column="20" />
-        <mark key="[" line="77" column="4" />
-        <mark key="]" line="77" column="4" />
-        <mark key="." line="77" column="4" />
-        <mark key="^" line="67" column="22" />
+        <mark key="[" line="81" column="30" />
+        <mark key="]" line="81" column="31" />
+        <mark key="." line="81" column="31" />
+        <mark key="^" line="82" column="35" />
       </file>
       <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/resources/templates/BidSecurityApi.asmx/Request.xml" timestamp="1591440188793">
         <mark key="[" line="5" column="29" />
         <mark key="]" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/mockserver/Test1.java" timestamp="1591617163163">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="23" column="52" />
+      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/mockserver/Test1.java" timestamp="1591689147928">
+        <mark key="[" line="72" column="25" />
+        <mark key="]" line="72" column="25" />
+        <mark key="^" line="72" column="24" />
+        <mark key="." line="72" column="25" />
       </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/fx/src/tenta20170526/Översättare.java" timestamp="1590415620740">
         <mark key="[" line="41" column="27" />
@@ -439,7 +439,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/git/rsimulator/rsimulator-camel-direct/src/main/java/com/github/bjuvensjo/rsimulator/camel/direct/DirectProcessor.java" timestamp="1591622906837" />
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/DescribedPlace.java" timestamp="1589375759840">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -555,8 +554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="38" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
-      <jump line="251" column="8" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="14" column="28" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="122" column="30" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
       <jump line="277" column="19" filename="$USER_HOME$/git-clarabjuvensjo/assignment2/src/PlacesMap.java" />
@@ -655,10 +652,12 @@
       <jump line="60" column="94" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/java/rsimulator/XmlSupport.groovy" />
       <jump line="62" column="96" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/java/rsimulator/XmlSupport.groovy" />
       <jump line="78" column="20" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/java/rsimulator/XmlSupport.groovy" />
+      <jump line="9" column="38" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/resources/data/StartSigningTest/101/BidSecurityApi.asmx/Sign-HappyFlow.groovy" />
+      <jump line="38" column="19" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/signing/StartSigningTest.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>e</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -667,7 +666,7 @@
         <text>context = new DefaultCamelContext()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLndpdGhCb2R5KCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -688,28 +687,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgJ1Jlc3BvbnNlLnhtbCcKICAgICAgICAnUmVxdWVzdC54bWwnIHwgJ1Jlc3BvbnNlLnhtbCcKICAgICAgICAnUmVxdWVzdC54bWwnIHwgJ1Jlc3BvbnNlLnhtbCcK</text>
+        <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgJ1Jlc3BvbnNlLnhtbCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHR0cFJlc3BvbnNlLndpdGhCb2R5KCJIZWxsbyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgJ1Jlc3BvbnNlLnhtbCcK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IHhtbG5zOnNvYXA9Imh0dHA6Ly93d3cudzMub3JnLzIwMDMvMDUvc29hcC1lbnZlbG9wZSI+CiAgICA8c29hcDpCb2R5PgogICAgICAgIDxTaWduIHhtbG5zPSJodHRwOi8vZ2VtaS5sYW5zZm9yc2FrcmluZ2FyLnNlL1NlY3VyaXR5QXBpLTEuMC9CSURTZWN1cml0eUFwaSI+CiAgICAgICAgICAgIDxjYWxsSW5mbz5mb288L2NhbGxJbmZvPgogICAgICAgICAgICA8cG5yPjE5NzgwOTA0MTQyNDwvcG5yPgogICAgICAgICAgICA8dXNlclZpc2libGVEYXRhPkZsb3dpbmcgbGlrZSBhIHJpdmVyITwvdXNlclZpc2libGVEYXRhPgogICAgICAgICAgICA8cmVxdWlyZW1lbnRzPgogICAgICAgICAgICAgICAgPENvbmRpdGlvbj4KICAgICAgICAgICAgICAgICAgICA8dHlwZT5DZXJ0aWZpY2F0ZVBvbGljaWVzPC90eXBlPgogICAgICAgICAgICAgICAgICAgIDx2YWx1ZT4KICAgICAgICAgICAgICAgICAgICAgICAgPHN0cmluZz5iYXI8L3N0cmluZz4KICAgICAgICAgICAgICAgICAgICAgICAgPHN0cmluZz5iYXo8L3N0cmluZz4KICAgICAgICAgICAgICAgICAgICA8L3ZhbHVlPgogICAgICAgICAgICAgICAgPC9Db25kaXRpb24+CiAgICAgICAgICAgIDwvcmVxdWlyZW1lbnRzPgogICAgICAgIDwvU2lnbj4KICAgIDwvc29hcDpCb2R5Pg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgJ1Jlc3BvbnNlLnhtbCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgJ1Jlc3BvbnNlLnhtbCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgJ1Jlc3BvbnNlLnhtbCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgJ1Jlc3BvbnNlLnhtbCcK</text>
+        <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgMjAxICAgICAgICAgIHwgJ1Jlc3BvbnNlLnhtbCcKICAgICAgICAnUmVxdWVzdC54bWwnIHwgMjAxICAgICAgICAgIHwgJ1Jlc3BvbnNlLnhtbCcKICAgICAgICAnUmVxdWVzdC54bWwnIHwgMjAxICAgICAgICAgIHwgJ1Jlc3BvbnNlLnhtbCcKICAgICAgICAnUmVxdWVzdC54bWwnIHwgMjAxICAgICAgICAgIHwgJ1Jlc3BvbnNlLnhtbCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgJ1Jlc3BvbnNlLnhtbCcK</text>
+        <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgMjAxICAgICAgICAgIHwgJ1Jlc3BvbnNlLnhtbCcKICAgICAgICAnUmVxdWVzdC54bWwnIHwgMjAxICAgICAgICAgIHwgJ1Jlc3BvbnNlLnhtbCcKICAgICAgICAnUmVxdWVzdC54bWwnIHwgMjAxICAgICAgICAgIHwgJ1Jlc3BvbnNlLnhtbCcKICAgICAgICAnUmVxdWVzdC54bWwnIHwgMjAxICAgICAgICAgIHwgJ1Jlc3BvbnNlLnhtbCcKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgJ1Jlc3BvbnNlLnhtbCcK</text>
+        <text encoding="base64">T3B0aW9uYWw8UHJvcGVydGllcz4gcHJvcHMgPSBzaW11bGF0b3JSZXNwb25zZS5nZXQoKS5wcm9wZXJ0aWVzClN0cmluZyByZXNwb25zZSA9IHNpbXVsYXRvclJlc3BvbnNlLmdldCgpLnJlc3BvbnNlClN0cmluZyBtYXRjaGluZ1JlcXVlc3QgPSBzaW11bGF0b3JSZXNwb25zZS5nZXQoKS5tYXRjaGluZ1JlcXVlc3QKU3RyaW5nIHNpbXVsYXRvclJlcXVlc3QgPSB2YXJzLnNpbXVsYXRvclJlcXVlc3QKU3RyaW5nIHJvb3RQYXRoID0gdmFycy5yb290UGF0aApTdHJpbmcgY29udGVudFR5cGUgPSB2YXJzLmNvbnRlbnRUeXBlCgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/;//g</text>
