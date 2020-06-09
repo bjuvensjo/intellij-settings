@@ -53,11 +53,11 @@
       <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/main/java/signing/StartSigningTranslator.java" timestamp="1591435367555">
         <mark key="[" line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/pom.xml" timestamp="1591625843116">
-        <mark key="'" line="102" column="0" />
-        <mark key="[" line="18" column="39" />
-        <mark key="]" line="18" column="40" />
-        <mark key="." line="18" column="40" />
+      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/pom.xml" timestamp="1591692746471">
+        <mark key="'" line="107" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="57" column="21" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/git-meddelandehub/demo/README.md" timestamp="1591165243979">
         <mark key="[" line="8" column="0" />
@@ -127,11 +127,8 @@
         <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/java/signing/StartSigningTest.groovy" timestamp="1591688875895">
-        <mark key="'" line="47" column="27" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
+        <mark key="'" line="50" column="27" />
         <mark key="^" line="25" column="0" />
-        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/resources/data/StartSigningTest/101/BidSecurityApi.asmx/GlobalRequest.groovy" timestamp="1591619194147">
         <mark key="[" line="0" column="0" />
@@ -247,11 +244,12 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/signing/StartSigningTest.groovy" timestamp="1591689420963">
-        <mark key="'" line="38" column="19" />
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
+      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/signing/StartSigningTest.groovy" timestamp="1591694299729">
+        <mark key="'" line="39" column="19" />
+        <mark key="[" line="128" column="41" />
+        <mark key="]" line="139" column="44" />
+        <mark key="^" line="139" column="44" />
+        <mark key="." line="139" column="44" />
       </file>
       <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/resources/signing/StartSigning.properties" timestamp="1591618084439">
         <mark key="[" line="0" column="35" />
@@ -528,10 +526,10 @@
         <mark key="]" line="77" column="31" />
         <mark key="." line="77" column="31" />
       </file>
-      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/resources/data/StartSigningTest/101/BidSecurityApi.asmx/Sign-HappyFlow.properties" timestamp="1591619782693">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/resources/data/StartSigningTest/101/BidSecurityApi.asmx/Sign-HappyFlow.properties" timestamp="1591694129152">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="6" />
+        <mark key="." line="1" column="6" />
         <mark key="^" line="0" column="6" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/fileCurl.groovy" timestamp="1584961797881">
@@ -657,7 +655,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>.</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -666,7 +664,7 @@
         <text>context = new DefaultCamelContext()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLndpdGhCb2R5KCkK</text>
+        <text encoding="base64">ICAgIHZvaWQgaGFwcHlGbG93MigpIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -687,10 +685,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgJ1Jlc3BvbnNlLnhtbCcK</text>
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgJ1Jlc3BvbnNlLnhtbCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLndpdGhCb2R5KCkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgJ1Jlc3BvbnNlLnhtbCcK</text>
@@ -702,13 +700,13 @@
         <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgJ1Jlc3BvbnNlLnhtbCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgMjAxICAgICAgICAgIHwgJ1Jlc3BvbnNlLnhtbCcKICAgICAgICAnUmVxdWVzdC54bWwnIHwgMjAxICAgICAgICAgIHwgJ1Jlc3BvbnNlLnhtbCcKICAgICAgICAnUmVxdWVzdC54bWwnIHwgMjAxICAgICAgICAgIHwgJ1Jlc3BvbnNlLnhtbCcKICAgICAgICAnUmVxdWVzdC54bWwnIHwgMjAxICAgICAgICAgIHwgJ1Jlc3BvbnNlLnhtbCcK</text>
+        <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgJ1Jlc3BvbnNlLnhtbCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgMjAxICAgICAgICAgIHwgJ1Jlc3BvbnNlLnhtbCcKICAgICAgICAnUmVxdWVzdC54bWwnIHwgMjAxICAgICAgICAgIHwgJ1Jlc3BvbnNlLnhtbCcKICAgICAgICAnUmVxdWVzdC54bWwnIHwgMjAxICAgICAgICAgIHwgJ1Jlc3BvbnNlLnhtbCcKICAgICAgICAnUmVxdWVzdC54bWwnIHwgMjAxICAgICAgICAgIHwgJ1Jlc3BvbnNlLnhtbCcKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgJ1Jlc3BvbnNlLnhtbCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">T3B0aW9uYWw8UHJvcGVydGllcz4gcHJvcHMgPSBzaW11bGF0b3JSZXNwb25zZS5nZXQoKS5wcm9wZXJ0aWVzClN0cmluZyByZXNwb25zZSA9IHNpbXVsYXRvclJlc3BvbnNlLmdldCgpLnJlc3BvbnNlClN0cmluZyBtYXRjaGluZ1JlcXVlc3QgPSBzaW11bGF0b3JSZXNwb25zZS5nZXQoKS5tYXRjaGluZ1JlcXVlc3QKU3RyaW5nIHNpbXVsYXRvclJlcXVlc3QgPSB2YXJzLnNpbXVsYXRvclJlcXVlc3QKU3RyaW5nIHJvb3RQYXRoID0gdmFycy5yb290UGF0aApTdHJpbmcgY29udGVudFR5cGUgPSB2YXJzLmNvbnRlbnRUeXBlCgo=</text>
+        <text encoding="base64">ICAgICAgICAnUmVxdWVzdC54bWwnIHwgMjAxICAgICAgICAgIHwgJ1Jlc3BvbnNlLnhtbCcKICAgICAgICAnUmVxdWVzdC54bWwnIHwgMjAxICAgICAgICAgIHwgJ1Jlc3BvbnNlLnhtbCcKICAgICAgICAnUmVxdWVzdC54bWwnIHwgMjAxICAgICAgICAgIHwgJ1Jlc3BvbnNlLnhtbCcKICAgICAgICAnUmVxdWVzdC54bWwnIHwgMjAxICAgICAgICAgIHwgJ1Jlc3BvbnNlLnhtbCcK</text>
       </register>
       <register name=":" type="4">
         <text>%s/;//g</text>
