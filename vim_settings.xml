@@ -167,12 +167,12 @@
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/yaml/route.yaml" timestamp="1584637694086">
         <mark key="[" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/push1/src/main/java/se/lf/service/push1/Slask.java" timestamp="1592221192494">
-        <mark key="'" line="23" column="18" />
+      <file name="$USER_HOME$/git-meddelandehub/push1/src/main/java/se/lf/service/push1/Slask.java" timestamp="1592222051582">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="233" column="63" />
-        <mark key="]" line="20" column="2" />
-        <mark key="." line="20" column="2" />
-        <mark key="^" line="20" column="2" />
+        <mark key="]" line="238" column="35" />
+        <mark key="." line="238" column="35" />
+        <mark key="^" line="238" column="35" />
       </file>
       <file name="$USER_HOME$/git-meddelandehub/demo/src/main/java/se/lf/hub/secure/SecureConsumer.java" timestamp="1591801379186">
         <mark key="[" line="14" column="42" />
@@ -647,8 +647,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="13" filename="$USER_HOME$/git-meddelandehub/demo/src/main/java/se/lf/hub/kafka/demo/ConsumerSecureMessage.java" />
-      <jump line="16" column="55" filename="$USER_HOME$/git-meddelandehub/demo/src/main/java/se/lf/hub/kafka/demo/ConsumerSecureMessage.java" />
       <jump line="9" column="13" filename="$USER_HOME$/git-meddelandehub/demo/src/main/java/se/lf/hub/secure/SecureProducer.java" />
       <jump line="67" column="0" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/pom.xml" />
       <jump line="176" column="0" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/mockserver/MockServerLiveTest.java" />
@@ -747,13 +745,15 @@
       <jump line="1" column="0" filename="$USER_HOME$/git-meddelandehub/push1/src/main/java/se/lf/service/push1/Slask.java" />
       <jump line="250" column="0" filename="$USER_HOME$/git-meddelandehub/push1/src/main/java/se/lf/service/push1/Slask.java" />
       <jump line="23" column="18" filename="$USER_HOME$/git-meddelandehub/push1/src/main/java/se/lf/service/push1/Slask.java" />
+      <jump line="238" column="35" filename="$USER_HOME$/git-meddelandehub/push1/src/main/java/se/lf/service/push1/Slask.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-meddelandehub/push1/src/main/java/se/lf/service/push1/Slask.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>Messa</text>
+        <text>Override</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcm9wcy5wdXQoUHJvZHVjZXJDb25maWcuQk9PVFNUUkFQX1NFUlZFUlNfQ09ORklHLCBib290c3RyYXBBZGRyZXNzKQogICAgICAgIHByb3BzLnB1dCgKICAgICAgICAgICAgICAgIFByb2R1Y2VyQ29uZmlnLktFWV9TRVJJQUxJWkVSX0NMQVNTX0NPTkZJRywKICAgICAgICAgICAgICAgIFN0cmluZ1NlcmlhbGl6ZXIuY2xhc3MpCiAgICAgICAgcHJvcHMucHV0KAogICAgICAgICAgICAgICAgUHJvZHVjZXJDb25maWcuVkFMVUVfU0VSSUFMSVpFUl9DTEFTU19DT05GSUcsCiAgICAgICAgICAgICAgICBKc29uU2VyaWFsaXplci5jbGFzcykK</text>
@@ -809,9 +809,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Messa</last-search>
+      <last-search>Override</last-search>
       <last-offset />
-      <last-pattern>Messa</last-pattern>
+      <last-pattern>Override</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -819,7 +819,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bus</entry>
         <entry>C</entry>
         <entry>gro</entry>
         <entry>)</entry>
@@ -839,6 +838,7 @@
         <entry>&quot;</entry>
         <entry>props</entry>
         <entry>Messa</entry>
+        <entry>Override</entry>
       </history-search>
       <history-cmd>
         <entry>s/name,/cfg.name/gc</entry>
