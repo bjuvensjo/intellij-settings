@@ -167,10 +167,10 @@
         <mark key="]" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/README.md" timestamp="1592318718084">
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/README.md" timestamp="1592400682870">
         <mark key="'" line="24" column="3" />
-        <mark key="[" line="15" column="50" />
-        <mark key="]" line="15" column="4" />
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="143" />
         <mark key="." line="15" column="4" />
         <mark key="^" line="15" column="25" />
       </file>
@@ -662,8 +662,8 @@
       <register name="/" type="4">
         <text>FCM</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVzcG9uc2VCb2R5ID0gbmV3IEZDTVB1c2goKS5zZW5kTWVzc2FnZShwcm9qZWN0SWQsIGNyZWF0ZUZjbU1lc3NhZ2UobWVzc2FnZS50aXRsZSwgbWVzc2FnZS5ib2R5LCBtZXNzYWdlLnRvcGljKSkKICAgICAgICBsb2dnZXIuaW5mbygiIyMjIyByZXNwb25zZSAtPiAkcmVzcG9uc2VCb2R5IikK</text>
+      <register name="0" type="4">
+        <text>curl -X POST -H &quot;Content-Type: application/json&quot; -d '{&quot;title&quot;:&quot;title&quot;,&quot;body&quot;:&quot;body&quot;,&quot;topic&quot;:&quot;news&quot;}' http://localhost:9000/topicNotification</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyMjIGFydCBNYWluQWN0aXZpdHkgaW4gRmlyZWJhc2VQdXNoRXhhbXBsZS4gICAgCg==</text>
