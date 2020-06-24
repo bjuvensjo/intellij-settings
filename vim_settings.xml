@@ -167,10 +167,10 @@
         <mark key="]" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/README.md" timestamp="1592997181889">
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/README.md" timestamp="1592998664893">
         <mark key="'" line="24" column="3" />
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="25" column="143" />
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="170" />
         <mark key="." line="15" column="4" />
         <mark key="^" line="15" column="25" />
       </file>
@@ -663,7 +663,7 @@
         <text>FCM</text>
       </register>
       <register name="0" type="4">
-        <text>curl -X POST -H &quot;Content-Type: application/json&quot; -d '{&quot;title&quot;:&quot;title&quot;,&quot;body&quot;:&quot;body&quot;,&quot;topic&quot;:&quot;news&quot;}' http://localhost:9000/topicNotification</text>
+        <text>curl -X POST -H &quot;Content-Type: application/json&quot; -d '{&quot;title&quot;:&quot;LF&quot;,&quot;body&quot;:&quot;You have received a secure message&quot;,&quot;topic&quot;:&quot;news&quot;}' http://localhost:9000/topicNotification</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyMjIGFydCBNYWluQWN0aXZpdHkgaW4gRmlyZWJhc2VQdXNoRXhhbXBsZS4gICAgCg==</text>
