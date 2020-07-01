@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/IOSConsumer.groovy" timestamp="1592317068499">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="17" />
-        <mark key="." line="12" column="17" />
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/IOSConsumer.groovy" timestamp="1593595546684">
+        <mark key="[" line="12" column="54" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="12" column="22" />
+        <mark key="^" line="12" column="22" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/renameBuildTest.groovy" timestamp="1585148086678">
         <mark key="[" line="16" column="0" />
@@ -215,12 +216,12 @@
         <mark key="]" line="30" column="56" />
         <mark key="." line="30" column="56" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushProducer.groovy" timestamp="1592318125552">
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushProducer.groovy" timestamp="1593595165291">
         <mark key="'" line="10" column="6" />
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="14" column="34" />
-        <mark key="." line="14" column="34" />
-        <mark key="^" line="18" column="47" />
+        <mark key="[" line="23" column="76" />
+        <mark key="]" line="23" column="75" />
+        <mark key="." line="23" column="75" />
+        <mark key="^" line="23" column="75" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/jsonUtils.groovy" timestamp="1584113860496">
         <mark key="[" line="0" column="0" />
@@ -495,6 +496,12 @@
         <mark key="]" line="18" column="136" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/Slask.java" timestamp="1593596668726">
+        <mark key="[" line="19" column="54" />
+        <mark key="]" line="24" column="24" />
+        <mark key="." line="24" column="24" />
+        <mark key="^" line="24" column="42" />
+      </file>
       <file name="$USER_HOME$/git-bitbucket-private/es-intro/git/camel-sample/src/test/java/sample/ServiceRouteBuilderIT.java" timestamp="1585663309106">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -662,7 +669,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
         <text>FCM</text>
@@ -671,7 +678,7 @@
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5HZXRNYXBwaW5nCmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5iaW5kLmFubm90YXRpb24uUG9zdE1hcHBpbmcKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5SZXN0Q29udHJvbGxlcgoKaW1wb3J0IGphdmF4LnNlcnZsZXQuaHR0cC5IdHRwU2VydmxldFJlcXVlc3QKaW1wb3J0IGphdmF4LnNlcnZsZXQuaHR0cC5IdHRwU2VydmxldFJlc3BvbnNlCgpAUmVzdENvbnRyb2xsZXIKY2xhc3MgRXhhbXBsZUNvbnRyb2xsZXIgewoKICAgIEBHZXRNYXBwaW5nKCkKICAgIHZvaWQgZ2V0KEh0dHBTZXJ2bGV0UmVxdWVzdCByZXF1ZXN0LCBIdHRwU2VydmxldFJlc3BvbnNlIHJlc3BvbnNlKSB7CgogICAgfQoKICAgIEBQb3N0TWFwcGluZygpCiAgICB2b2lkIHBvc3QoSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcXVlc3QsIEh0dHBTZXJ2bGV0UmVzcG9uc2UgcmVzcG9uc2UpIHsKICAgIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHJvb3REaXIK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGF0Y2guZ2V0Q291bnQoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -693,28 +700,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgnJHtyb290RGlyfScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihsYXRjaC5nZXRDb3VudCgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFRocmVhZChuZXcgU2xhc2sobGF0Y2gpKS5zdGFydCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9nZ2VyIGxvZyA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKEV4YW1wbGVDb250cm9sbGVyLmNsYXNzKQogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFJFRl9QQVJBTUVURVIgPSAicmVmIgogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFJFU09VUkNFX1BBUkFNRVRFUiA9ICJyZXNvdXJjZSIK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDM7IGkrKykgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGF0Y2guZ2V0Q291bnQoKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGF0Y2guY291bnREb3duKCk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDM7IGkrKykgewogICAgICAgICAgICBsYXRjaC5jb3VudERvd24oKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGxhdGNoLmdldENvdW50KCkpOwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBpb2UpIHsKICAgICAgICAgICAgbG9nLmVycm9yKCJDYW4gbm90IHVwbG9hZDogJHJlZiwgJHJlc291cmNlIiwgaW9lKQogICAgICAgICAgICByZXNwb25zZS5zZXRTdGF0dXMoNTAwKQo=</text>
+        <text encoding="base64">ICAgICAgICBDb3VudERvd25MYXRjaCBsYXRjaCA9IG5ldyBDb3VudERvd25MYXRjaCgzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJVbnppcHBpbmcge30gdG8ge30iLCB6aXBGaWxlLCBvdXRwdXREaXIpCiAgICAgICAgICAgICAgICB1bnppcChvdXRwdXREaXIsIHppcEZpbGUpCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIENvdW50RG93bkxhdGNoIGxhdGNoID0gbmV3IENvdW50RG93bkxhdGNoKDMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/gc</text>
