@@ -188,6 +188,9 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/git/rsimulator/rsimulator-core/src/main/java/com/github/bjuvensjo/rsimulator/core/Slask.java" timestamp="1594454250437">
+        <mark key="[" line="2" column="20" />
+      </file>
       <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/mockserver/Slask.java" timestamp="1591355696325">
         <mark key="[" line="45" column="16" />
       </file>
@@ -667,7 +670,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>S</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>FCM</text>
