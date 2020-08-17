@@ -147,11 +147,11 @@
         <mark key="]" line="14" column="28" />
         <mark key="." line="14" column="28" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/AuthenticationHelper.groovy" timestamp="1597649849067">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="4" />
-        <mark key="^" line="15" column="10" />
-        <mark key="." line="15" column="4" />
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/AuthenticationHelper.groovy" timestamp="1597652766321">
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="18" column="4" />
+        <mark key="^" line="18" column="10" />
+        <mark key="." line="18" column="4" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/cfg.groovy" timestamp="1585921389517">
         <mark key="[" line="24" column="0" />
@@ -218,10 +218,10 @@
         <mark key="]" line="30" column="56" />
         <mark key="." line="30" column="56" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushProducer.groovy" timestamp="1597652231946">
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushProducer.groovy" timestamp="1597652734835">
         <mark key="'" line="10" column="6" />
-        <mark key="[" line="13" column="3" />
-        <mark key="]" line="14" column="55" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="69" />
         <mark key="." line="23" column="75" />
         <mark key="^" line="23" column="75" />
       </file>
@@ -338,11 +338,11 @@
         <mark key="]" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushMessage.groovy" timestamp="1592318333088">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="18" />
-        <mark key="^" line="10" column="1" />
-        <mark key="." line="7" column="18" />
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushMessage.groovy" timestamp="1597653400464">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/slask/zzzzz/groovy.stash.addjenkinscommithook/src/main/java/se/lf/service/groovy/stash/addjenkinscommithook/SetBitbucketPostWebhooks.groovy" timestamp="1583253063570">
         <mark key="[" line="9" column="6" />
@@ -400,11 +400,12 @@
         <mark key="]" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/AndroidConsumer.groovy" timestamp="1597652366534">
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/AndroidConsumer.groovy" timestamp="1597653304922">
         <mark key="'" line="22" column="36" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+        <mark key="[" line="50" column="48" />
+        <mark key="]" line="48" column="53" />
+        <mark key="." line="48" column="53" />
+        <mark key="^" line="47" column="11" />
       </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/fx/src/tenta20170526/Översättare.java" timestamp="1590415620740">
         <mark key="[" line="41" column="27" />
@@ -676,16 +677,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>top</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IEBBdXRvd2lyZWQKICAgIHByaXZhdGUgS2Fma2FUZW1wbGF0ZTxTdHJpbmcsIE1lc3NhZ2U+IGthZmthVGVtcGxhdGU=</text>
+        <text>TopicNotificationMessage message)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhZG1pbi4gICAgICAgIAo=</text>
+        <text encoding="base64">ZW51bSB7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -707,28 +708,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJ0b2tlbiI6ImJrM1JOd1RlM0gwOkNJMmtfSEh3Z0lwb0RLQ0ladnZETUV4VWRGUTNQMS4uLiIsCg==</text>
+        <text encoding="base64">ICAgICAgICBhZG1pbi4gICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ0b2tlbiI6ImJrM1JOd1RlM0gwOkNJMmtfSEh3Z0lwb0RLQ0ladnZETUV4VWRGUTNQMS4uLiIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiYm9keSI6ICJZb3UgaGF2ZSByZWNlaXZlZCBhIHNlY3VyZSBtZXNzYWdlIiwK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAidGl0bGUiOiAiTEYgbm90aWZpY2F0aW9uIiwK</text>
+        <text encoding="base64">ICAiYm9keSI6ICJZb3UgaGF2ZSByZWNlaXZlZCBhIHNlY3VyZSBtZXNzYWdlIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">ICAidGl0bGUiOiAiTEYgbm90aWZpY2F0aW9uIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAidG9waWMiOiAibmV3cyIK</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGF0Y2guZ2V0Q291bnQoKSk7Cg==</text>
+        <text encoding="base64">ICAidG9waWMiOiAibmV3cyIK</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/gc</text>
