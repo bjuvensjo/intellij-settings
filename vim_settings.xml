@@ -147,6 +147,12 @@
         <mark key="]" line="14" column="28" />
         <mark key="." line="14" column="28" />
       </file>
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/AuthenticationHelper.groovy" timestamp="1597649849067">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="4" />
+        <mark key="^" line="15" column="10" />
+        <mark key="." line="15" column="4" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/cfg.groovy" timestamp="1585921389517">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -250,9 +256,10 @@
         <mark key="]" line="14" column="34" />
         <mark key="." line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushTopicConfig.groovy" timestamp="1592318026593">
-        <mark key="[" line="15" column="29" />
-        <mark key="]" line="27" column="28" />
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushTopicConfig.groovy" timestamp="1597650277899">
+        <mark key="'" line="15" column="30" />
+        <mark key="[" line="15" column="52" />
+        <mark key="]" line="15" column="69" />
         <mark key="." line="27" column="28" />
       </file>
       <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/resources/signing/StartSigning.properties" timestamp="1591618084439">
@@ -634,7 +641,6 @@
       <jump line="30" column="8" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushTopicConfig.groovy" />
       <jump line="5" column="28" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/Slask.groovy" />
       <jump line="14" column="0" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushTopicConfig.groovy" />
-      <jump line="15" column="19" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushTopicConfig.groovy" />
       <jump line="18" column="19" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushTopicConfig.groovy" />
       <jump line="20" column="0" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushConsumerConfig.groovy" />
       <jump line="8" column="14" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushController.groovy" />
@@ -667,16 +673,17 @@
       <jump line="20" column="3" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/README.md" />
       <jump line="38" column="12" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/AndroidConsumer.groovy" />
       <jump line="18" column="36" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/AndroidConsumer.groovy" />
+      <jump line="15" column="30" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushTopicConfig.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
-        <text>FCM</text>
+        <text>top</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGN1cmwgLVggUE9TVCAtSCAiQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uIiAtZCAneyJ0aXRsZSI6IkxGIiwiYm9keSI6IllvdXIgY2FyZCB3YXMganVzdCB1c2VkIiwidG9waWMiOiJuZXdzIn0nIGh0dHA6Ly9sb2NhbGhvc3Q6OTAwMC90b3BpY05vdGlmaWNhdGlvbgo=</text>
+      <register name="0" type="4">
+        <text>topic_notification</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJ0b2tlbiI6ImJrM1JOd1RlM0gwOkNJMmtfSEh3Z0lwb0RLQ0ladnZETUV4VWRGUTNQMS4uLiIsCg==</text>
@@ -729,9 +736,9 @@
       </register>
     </registers>
     <search>
-      <last-search>FCM</last-search>
+      <last-search>top</last-search>
       <last-offset />
-      <last-pattern>FCM</last-pattern>
+      <last-pattern>top</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -739,7 +746,6 @@
     </search>
     <history>
       <history-search>
-        <entry>1080</entry>
         <entry>port</entry>
         <entry>tar</entry>
         <entry>E</entry>
@@ -759,6 +765,7 @@
         <entry>http</entry>
         <entry>.</entry>
         <entry>FCM</entry>
+        <entry>top</entry>
       </history-search>
       <history-cmd>
         <entry>s/name,/cfg.name/gc</entry>
