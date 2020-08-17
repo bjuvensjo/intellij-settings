@@ -414,11 +414,12 @@
         <mark key="]" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/AndroidConsumer.groovy" timestamp="1597665224893">
-        <mark key="'" line="24" column="36" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/AndroidConsumer.groovy" timestamp="1597668713093">
+        <mark key="'" line="25" column="36" />
+        <mark key="[" line="70" column="40" />
+        <mark key="]" line="70" column="40" />
+        <mark key="." line="70" column="40" />
+        <mark key="^" line="70" column="64" />
       </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/fx/src/tenta20170526/Översättare.java" timestamp="1590415620740">
         <mark key="[" line="41" column="27" />
@@ -517,10 +518,10 @@
         <mark key="]" line="18" column="136" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/Slask.java" timestamp="1597664376258">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/Slask.java" timestamp="1597668859521">
+        <mark key="[" line="25" column="44" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/git-bitbucket-private/es-intro/git/camel-sample/src/test/java/sample/ServiceRouteBuilderIT.java" timestamp="1585663309106">
         <mark key="[" line="11" column="0" />
@@ -689,7 +690,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>streamsBuilderFactoryBean.</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
@@ -698,7 +699,7 @@
         <text encoding="base64">ICAgIGN1cmwgLVggUE9TVCAtSCAiQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uIiAtZCAneyJ0aXRsZSI6IkxGIiwiYm9keSI6IllvdXIgY2FyZCB3YXMganVzdCB1c2VkIiwidG9waWMiOiJuZXdzIn0nIGh0dHA6Ly9sb2NhbGhvc3Q6OTAwMC90b3BpY05vdGlmaWNhdGlvbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdHJlYW1zQnVpbGRlckZhY3RvcnlCZWFuLmthZmthU3RyZWFtcy5zdGFydCgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -720,28 +721,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGZhY3Rvcnkuc2V0Q29uc3VtZXJGYWN0b3J5KGNvbnN1bWVyRmFjdG9yeSgpKQovLyAgICAgICAgZmFjdG9yeQovLyAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdHJlYW1zQnVpbGRlckZhY3RvcnlCZWFuLsKnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgS2Fma2FTdHJlYW1zQ29uZmlndXJhdGlvbiBkZWZhdWx0S2Fma2FTdHJlYW1zQ29uZmlnCgovLyAgICBAQmVhbgovLyAgICBGYWN0b3J5QmVhbjxTdHJlYW1zQnVpbGRlcj4gbXlLU3RyZWFtQnVpbGRlcihLYWZrYVN0cmVhbXNDb25maWd1cmF0aW9uIHN0cmVhbXNDb25maWcpIHsKLy8gICAgICAgIHJldHVybiBuZXcgU3RyZWFtc0J1aWxkZXJGYWN0b3J5QmVhbihzdHJlYW1zQ29uZmlnKQovLyAgICB9Ci8vICAgIAovLyAgICBAQmVhbgovLyAgICBLYWZrYVN0cmVhbXNDb25maWd1cmF0aW9uIGthZmthTGlzdGVuZXJDb250YWluZXJGYWN0b3J5KCkgewovLyAgICAgICAgS2Fma2FTdHJlYW1zQ29uZmlndXJhdGlvbiBjZmcgPSBuZXcgS2Fma2FTdHJlYW1zQ29uZmlndXJhdGlvbigpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgfSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlN0YXRlIHRyYW5zaXRpb24gZnJvbSAiICsgb2xkU3RhdGUgKyAiIHRvICIgKyBuZXdTdGF0ZSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBmYiAtPiBmYi5zZXRTdGF0ZUxpc3RlbmVyKChuZXdTdGF0ZSwgb2xkU3RhdGUpIC0+IHsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJlYW1zQnVpbGRlckZhY3RvcnlCZWFuLgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGZhY3Rvcnkuc2V0Q29uc3VtZXJGYWN0b3J5KGNvbnN1bWVyRmFjdG9yeSgpKQovLyAgICAgICAgZmFjdG9yeQovLyAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgS2Fma2FTdHJlYW1zQ29uZmlndXJhdGlvbiBkZWZhdWx0S2Fma2FTdHJlYW1zQ29uZmlnCgovLyAgICBAQmVhbgovLyAgICBGYWN0b3J5QmVhbjxTdHJlYW1zQnVpbGRlcj4gbXlLU3RyZWFtQnVpbGRlcihLYWZrYVN0cmVhbXNDb25maWd1cmF0aW9uIHN0cmVhbXNDb25maWcpIHsKLy8gICAgICAgIHJldHVybiBuZXcgU3RyZWFtc0J1aWxkZXJGYWN0b3J5QmVhbihzdHJlYW1zQ29uZmlnKQovLyAgICB9Ci8vICAgIAovLyAgICBAQmVhbgovLyAgICBLYWZrYVN0cmVhbXNDb25maWd1cmF0aW9uIGthZmthTGlzdGVuZXJDb250YWluZXJGYWN0b3J5KCkgewovLyAgICAgICAgS2Fma2FTdHJlYW1zQ29uZmlndXJhdGlvbiBjZmcgPSBuZXcgS2Fma2FTdHJlYW1zQ29uZmlndXJhdGlvbigpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgfSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlN0YXRlIHRyYW5zaXRpb24gZnJvbSAiICsgb2xkU3RhdGUgKyAiIHRvICIgKyBuZXdTdGF0ZSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBmYiAtPiBmYi5zZXRTdGF0ZUxpc3RlbmVyKChuZXdTdGF0ZSwgb2xkU3RhdGUpIC0+IHsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGJvb3RzdHJhcEFkZHJlc3MK</text>
+        <text encoding="base64">ICAgICAgICBzdHJlYW1zQnVpbGRlckZhY3RvcnlCZWFuLgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/;//g</text>
