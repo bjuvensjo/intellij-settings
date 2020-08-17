@@ -173,10 +173,10 @@
         <mark key="]" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/README.md" timestamp="1593678286837">
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/README.md" timestamp="1597648642322">
         <mark key="'" line="24" column="3" />
-        <mark key="[" line="27" column="57" />
-        <mark key="]" line="27" column="129" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="160" />
         <mark key="." line="15" column="4" />
         <mark key="^" line="15" column="25" />
       </file>
@@ -675,8 +675,8 @@
       <register name="/" type="4">
         <text>FCM</text>
       </register>
-      <register name="0" type="4">
-        <text>{&quot;title&quot;:&quot;LF&quot;,&quot;body&quot;:&quot;You have received a secure message&quot;,&quot;topic&quot;:&quot;news&quot;}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGN1cmwgLVggUE9TVCAtSCAiQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uIiAtZCAneyJ0aXRsZSI6IkxGIiwiYm9keSI6IllvdXIgY2FyZCB3YXMganVzdCB1c2VkIiwidG9waWMiOiJuZXdzIn0nIGh0dHA6Ly9sb2NhbGhvc3Q6OTAwMC90b3BpY05vdGlmaWNhdGlvbgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJ0b2tlbiI6ImJrM1JOd1RlM0gwOkNJMmtfSEh3Z0lwb0RLQ0ladnZETUV4VWRGUTNQMS4uLiIsCg==</text>
