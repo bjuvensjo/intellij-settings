@@ -218,10 +218,10 @@
         <mark key="]" line="30" column="56" />
         <mark key="." line="30" column="56" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushProducer.groovy" timestamp="1593595165291">
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushProducer.groovy" timestamp="1597652231946">
         <mark key="'" line="10" column="6" />
-        <mark key="[" line="23" column="76" />
-        <mark key="]" line="23" column="75" />
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="14" column="55" />
         <mark key="." line="23" column="75" />
         <mark key="^" line="23" column="75" />
       </file>
@@ -400,12 +400,11 @@
         <mark key="]" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/AndroidConsumer.groovy" timestamp="1592318097652">
-        <mark key="'" line="18" column="36" />
-        <mark key="[" line="22" column="44" />
-        <mark key="]" line="25" column="30" />
-        <mark key="^" line="18" column="36" />
-        <mark key="." line="25" column="30" />
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/AndroidConsumer.groovy" timestamp="1597652366534">
+        <mark key="'" line="22" column="36" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/fx/src/tenta20170526/Översättare.java" timestamp="1590415620740">
         <mark key="[" line="41" column="27" />
@@ -683,10 +682,10 @@
         <text>top</text>
       </register>
       <register name="0" type="4">
-        <text>topic_notification</text>
+        <text encoding="base64">IEBBdXRvd2lyZWQKICAgIHByaXZhdGUgS2Fma2FUZW1wbGF0ZTxTdHJpbmcsIE1lc3NhZ2U+IGthZmthVGVtcGxhdGU=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ0b2tlbiI6ImJrM1JOd1RlM0gwOkNJMmtfSEh3Z0lwb0RLQ0ladnZETUV4VWRGUTNQMS4uLiIsCg==</text>
+        <text encoding="base64">ICAgICAgICBhZG1pbi4gICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -708,28 +707,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ0b2tlbiI6ImJrM1JOd1RlM0gwOkNJMmtfSEh3Z0lwb0RLQ0ladnZETUV4VWRGUTNQMS4uLiIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiYm9keSI6ICJZb3UgaGF2ZSByZWNlaXZlZCBhIHNlY3VyZSBtZXNzYWdlIiwK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAidGl0bGUiOiAiTEYgbm90aWZpY2F0aW9uIiwK</text>
+        <text encoding="base64">ICAiYm9keSI6ICJZb3UgaGF2ZSByZWNlaXZlZCBhIHNlY3VyZSBtZXNzYWdlIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">ICAidGl0bGUiOiAiTEYgbm90aWZpY2F0aW9uIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAidG9waWMiOiAibmV3cyIK</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGF0Y2guZ2V0Q291bnQoKSk7Cg==</text>
+        <text encoding="base64">ICAidG9waWMiOiAibmV3cyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihsYXRjaC5nZXRDb3VudCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGF0Y2guZ2V0Q291bnQoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/gc</text>
