@@ -153,12 +153,11 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="12" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/AndroidStream.groovy" timestamp="1597755963317">
-        <mark key="'" line="96" column="4" />
-        <mark key="[" line="49" column="14" />
-        <mark key="]" line="49" column="41" />
-        <mark key="." line="49" column="41" />
-        <mark key="^" line="49" column="41" />
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/AndroidStream.groovy" timestamp="1597761502554">
+        <mark key="'" line="91" column="4" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/cfg.groovy" timestamp="1585921389517">
         <mark key="[" line="24" column="0" />
@@ -691,16 +690,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Hello World!</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>Pus</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJpbi9rYWZrYS10b3BpY3Muc2ggLS1ib290c3RyYXAtc2VydmVyIGxvY2FsaG9zdDo5MDkyIC0tdG9waWMgdG9waWNfbm90aWZpY2F0aW9uIC0tZGVsZXRlCiAgICBiaW4va2Fma2EtdG9waWNzLnNoIC0tYm9vdHN0cmFwLXNlcnZlciBsb2NhbGhvc3Q6OTA5MiAtLXRvcGljIHRvcGljX25vdGlmaWNhdGlvbl9sb2dfYmFuayAtLWRlbGV0ZQogICAgYmluL2thZmthLXRvcGljcy5zaCAtLWJvb3RzdHJhcC1zZXJ2ZXIgbG9jYWxob3N0OjkwOTIgLS10b3BpYyB0b3BpY19ub3RpZmljYXRpb25fbG9nX2VtbWEgLS1kZWxldGUK</text>
+        <text encoding="base64">ICAgICAgICBLU3RyZWFtW10gYnJhbmNoZXMgPSBidWlsZGVyLnN0cmVhbSgidG9waWNfbm90aWZpY2F0aW9uIikuYnJhbmNoKAo=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">KiAKKiAKKiAKKiAKKiAKKiAKKiAKKiAKKiA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -722,25 +721,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4gJ0hlbGxvJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdm9pZCBhcHBseShPYmplY3QgaywgT2JqZWN0IHYpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBicmFuY2hlc1swXS5mb3JlYWNoKG5ldyBGb3JlYWNoQWN0aW9uPE9iamVjdCwgT2JqZWN0PigpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
+        <text encoding="base64">ICAgICAgICBLU3RyZWFtIHN0cmVhbSA9IGJ1aWxkZXIuc3RyZWFtKCJ0b3BpY19ub3RpZmljYXRpb24iKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBLU3RyZWFtW10gYnJhbmNoZXMgPSBidWlsZGVyLnN0cmVhbSgidG9waWNfbm90aWZpY2F0aW9uIikuCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
