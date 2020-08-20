@@ -126,11 +126,12 @@
       <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/resources/data/StartSigningTest/101/BidSecurityApi.asmx/GlobalRequest.groovy" timestamp="1591619194147">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/NotificationStream.groovy" timestamp="1597924788890">
-        <mark key="[" line="38" column="25" />
-        <mark key="]" line="38" column="34" />
-        <mark key="." line="38" column="34" />
-        <mark key="^" line="38" column="34" />
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/NotificationStream.groovy" timestamp="1597925911948">
+        <mark key="'" line="56" column="86" />
+        <mark key="[" line="56" column="8" />
+        <mark key="]" line="58" column="64" />
+        <mark key="." line="58" column="64" />
+        <mark key="^" line="58" column="64" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.bankholidays/manifest/deployment.groovy" timestamp="1586187407186">
         <mark key="[" line="16" column="0" />
@@ -592,7 +593,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="42" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/mockserver/MockServerLiveTest.java" />
       <jump line="155" column="37" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/mockserver/MockServerLiveTest.java" />
       <jump line="1" column="0" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/mockserver/MockServerLiveTest.java" />
       <jump line="21" column="32" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/pom.xml" />
@@ -692,19 +692,20 @@
       <jump line="61" column="8" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStreamConfig.groovy" />
       <jump line="2" column="0" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/slask2.json" />
       <jump line="2" column="10" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/slask.json" />
+      <jump line="56" column="86" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/NotificationStream.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>to</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>Pus</text>
+        <text>{</text>
       </register>
       <register name="0" type="4">
         <text>authenticationHelper.getClientId()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRvKCdub3RpZmljYXRpb25fbG9nX2JhbmsnKSAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -726,45 +727,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdm9pZCBhcHBseShLIGssIFYgdikgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdm9pZCBhcHBseShLIGssIFYgdikgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldmljZUhlbHBlci5nZXREZXZpY2UoY3VzdG9tZXJJZCkK</text>
+        <text encoding="base64">ICAgICAgICB9KSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldmljZUhlbHBlci5nZXREZXZpY2UoY3VzdG9tZXJJZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzb24udG8uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25zLmZsYXRNYXBWYWx1ZXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzb24udG8uCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/;//g</text>
       </register>
     </registers>
     <search>
-      <last-search>Pus</last-search>
+      <last-search>{</last-search>
       <last-offset />
-      <last-pattern>Pus</last-pattern>
+      <last-pattern>{</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>XmlSpl</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry>class</entry>
         <entry encoding="base64">cmV0dXJuIA==</entry>
@@ -784,6 +784,7 @@
         <entry>bu</entry>
         <entry encoding="base64">XDxMb2dNZXNzYWdlXD4=</entry>
         <entry>Pus</entry>
+        <entry>{</entry>
       </history-search>
       <history-cmd>
         <entry>s/name,/cfg.name/gc</entry>
