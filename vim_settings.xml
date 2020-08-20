@@ -3,21 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/IOSConsumer.groovy" timestamp="1593595546684">
-        <mark key="[" line="12" column="54" />
-        <mark key="]" line="12" column="22" />
-        <mark key="." line="12" column="22" />
-        <mark key="^" line="12" column="22" />
-      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/renameBuildTest.groovy" timestamp="1585148086678">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="18" column="36" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/slask2.json" timestamp="1597919583561">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="167" />
+      </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Map.java" timestamp="1588751562828">
         <mark key="[" line="24" column="89" />
       </file>
-      <file name="/a.dummy" timestamp="1592232022519">
+      <file name="/a.dummy" timestamp="1597922796629">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/createConfigMapManifestTest.groovy" timestamp="1585846020269">
@@ -79,6 +80,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/DeviceHelper.groovy" timestamp="1597921555505">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/test/releaseMsBinaryTest.groovy" timestamp="1584696592016">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -117,14 +123,14 @@
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/push1/src/main/java/se/lf/service/push/fcm/FCMPush.groovy" timestamp="1592315856509">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="77" />
-        <mark key="." line="39" column="49" />
-        <mark key="^" line="39" column="49" />
-      </file>
       <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/resources/data/StartSigningTest/101/BidSecurityApi.asmx/GlobalRequest.groovy" timestamp="1591619194147">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/NotificationStream.groovy" timestamp="1597924788890">
+        <mark key="[" line="38" column="25" />
+        <mark key="]" line="38" column="34" />
+        <mark key="." line="38" column="34" />
+        <mark key="^" line="38" column="34" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.bankholidays/manifest/deployment.groovy" timestamp="1586187407186">
         <mark key="[" line="16" column="0" />
@@ -153,11 +159,11 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="12" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/AndroidStream.groovy" timestamp="1597917623705">
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/AndroidStream.groovy" timestamp="1597920879795">
         <mark key="'" line="86" column="4" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+        <mark key="[" line="53" column="24" />
+        <mark key="]" line="53" column="24" />
+        <mark key="." line="53" column="24" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.jenkins.lib/vars/cfg.groovy" timestamp="1585921389517">
         <mark key="[" line="24" column="0" />
@@ -186,12 +192,12 @@
         <mark key="]" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/README.md" timestamp="1597918392752">
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/README.md" timestamp="1597920849657">
         <mark key="'" line="24" column="3" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="42" column="102" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="34" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="97" />
+        <mark key="." line="45" column="42" />
+        <mark key="^" line="44" column="94" />
       </file>
       <file name="$USER_HOME$/git-lhb/LP_NORNORNA/app.addattachment_rest.v1_0/slask.txt" timestamp="1591011642550">
         <mark key="[" line="0" column="0" />
@@ -240,18 +246,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/push1/src/main/java/se/lf/service/push1/Push3.groovy" timestamp="1592235003417">
-        <mark key="[" line="84" column="19" />
-        <mark key="]" line="84" column="19" />
-        <mark key="." line="84" column="19" />
-        <mark key="^" line="95" column="32" />
-      </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStreamConfig.groovy" timestamp="1597680669769">
-        <mark key="'" line="62" column="8" />
-        <mark key="[" line="75" column="33" />
-        <mark key="]" line="75" column="33" />
-        <mark key="." line="75" column="33" />
-        <mark key="^" line="70" column="54" />
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStreamConfig.groovy" timestamp="1597920606605">
+        <mark key="'" line="65" column="8" />
+        <mark key="[" line="53" column="58" />
+        <mark key="]" line="53" column="58" />
+        <mark key="." line="53" column="58" />
+        <mark key="^" line="73" column="54" />
       </file>
       <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/data/StartSigningAST/101/BidSecurityApi.asmx/Sign-HappyFlowRequest.xml" timestamp="1591436084288">
         <mark key="[" line="0" column="0" />
@@ -273,11 +273,12 @@
         <mark key="]" line="14" column="34" />
         <mark key="." line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushTopicConfig.groovy" timestamp="1597674687870">
-        <mark key="'" line="15" column="30" />
-        <mark key="[" line="32" column="67" />
-        <mark key="]" line="32" column="66" />
-        <mark key="." line="27" column="28" />
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushTopicConfig.groovy" timestamp="1597920581546">
+        <mark key="'" line="12" column="30" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="35" />
+        <mark key="." line="30" column="28" />
+        <mark key="^" line="29" column="13" />
       </file>
       <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/resources/signing/StartSigning.properties" timestamp="1591618084439">
         <mark key="[" line="0" column="35" />
@@ -327,6 +328,9 @@
       <file name="$USER_HOME$/git-clarabjuvensjo/fx/src/sample/Slask.java" timestamp="1590477250277">
         <mark key="[" line="2" column="20" />
       </file>
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/KundHelper.groovy" timestamp="1597921310005">
+        <mark key="[" line="5" column="18" />
+      </file>
       <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/resources/data/example/Example1/101/AResponse.json" timestamp="1591609437471">
         <mark key="[" line="0" column="2" />
       </file>
@@ -356,8 +360,9 @@
         <mark key="]" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushMessage.groovy" timestamp="1597653520764">
-        <mark key="[" line="9" column="15" />
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushMessage.groovy" timestamp="1597921408251">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="10" />
       </file>
       <file name="$USER_HOME$/slask/zzzzz/groovy.stash.addjenkinscommithook/src/main/java/se/lf/service/groovy/stash/addjenkinscommithook/SetBitbucketPostWebhooks.groovy" timestamp="1583253063570">
         <mark key="[" line="9" column="6" />
@@ -395,10 +400,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/slask.json" timestamp="1593678916350">
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/slask.json" timestamp="1597920328336">
+        <mark key="'" line="2" column="10" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/git-meddelandehub/demo/src/main/java/se/lf/hub/kafka/demo/Consumer.java" timestamp="1591108883439">
         <mark key="[" line="19" column="0" />
@@ -576,19 +582,16 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/push1/src/main/java/se/lf/service/push/Http.groovy" timestamp="1592236838120">
-        <mark key="[" line="51" column="23" />
-        <mark key="]" line="51" column="23" />
-        <mark key="." line="51" column="23" />
-        <mark key="^" line="51" column="51" />
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/Device.groovy" timestamp="1597921431199">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1597672883828">
+      <file name="/fragment.java" timestamp="1597921374754">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="43" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/mockserver/MockServerLiveTest.java" />
-      <jump line="123" column="42" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/mockserver/MockServerLiveTest.java" />
       <jump line="145" column="42" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/mockserver/MockServerLiveTest.java" />
       <jump line="155" column="37" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/mockserver/MockServerLiveTest.java" />
       <jump line="1" column="0" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/mockserver/MockServerLiveTest.java" />
@@ -687,19 +690,21 @@
       <jump line="60" column="45" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStreamConfig.groovy" />
       <jump line="69" column="31" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStreamConfig.groovy" />
       <jump line="61" column="8" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStreamConfig.groovy" />
+      <jump line="2" column="0" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/slask2.json" />
+      <jump line="2" column="10" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/slask.json" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>s</text>
+        <text>to</text>
       </register>
       <register name="/" type="4">
         <text>Pus</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBLU3RyZWFtW10gYnJhbmNoZXMgPSBidWlsZGVyLnN0cmVhbSgidG9waWNfbm90aWZpY2F0aW9uIikuYnJhbmNoKAo=</text>
+      <register name="0" type="4">
+        <text>authenticationHelper.getClientId()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -721,28 +726,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdm9pZCBhcHBseShLIGssIFYgdikgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBicmFuY2hlc1tpXS5mb3JlYWNoKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgYnJhbmNoZXMubGVuZ3RoOyBpKyspIHsK</text>
+        <text encoding="base64">ICAgICAgICB9KSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldmljZUhlbHBlci5nZXREZXZpY2UoY3VzdG9tZXJJZCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4gJ0hlbGxvJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzb24udG8uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdm9pZCBhcHBseShPYmplY3QgaywgT2JqZWN0IHYpIHsK</text>
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25zLmZsYXRNYXBWYWx1ZXMoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/;//g</text>
