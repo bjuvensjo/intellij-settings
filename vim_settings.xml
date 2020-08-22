@@ -130,12 +130,12 @@
         <mark key="^" line="23" column="34" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushProducer.groovy" timestamp="1597928473195">
-        <mark key="'" line="10" column="6" />
-        <mark key="[" line="14" column="34" />
-        <mark key="]" line="14" column="39" />
-        <mark key="." line="14" column="39" />
-        <mark key="^" line="14" column="39" />
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushProducer.groovy" timestamp="1598097187201">
+        <mark key="'" line="23" column="37" />
+        <mark key="[" line="21" column="69" />
+        <mark key="]" line="38" column="37" />
+        <mark key="^" line="37" column="30" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/git-meddelandehub/push1/src/main/java/se/lf/service/push1/Push3.groovy" timestamp="1592235003417">
         <mark key="[" line="84" column="19" />
@@ -252,7 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="17" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/pom.xml" />
       <jump line="120" column="0" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/pom.xml" />
       <jump line="17" column="15" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/data/StartSigningAST/101/BidSecurityApi.asmx/Sign-HappyFlowRequest.xml" />
       <jump line="17" column="14" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/resources/signing/StartSigningTest-101-expected.xml" />
@@ -352,19 +351,20 @@
       <jump line="53" column="35" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/NotificationStream.groovy" />
       <jump line="56" column="29" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/NotificationStream.groovy" />
       <jump line="49" column="60" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/README.md" />
+      <jump line="20" column="37" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushProducer.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>e</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>topi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBOb3RlIHRoYXQgd2UgZWFjaCB0aW1lIG11dGF0ZSB0aGUgb25lIGpzb24gb2JqZWN0LiBJdCB3b3JrcyBzaW5jZSB3ZSBldmVyeSB0aW1lIHNhdmUgdGhlIG11dGF0aW9uIGluIG1lc3NhZ2VzIGFzIGEgU3RyaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBEbyB3aGF0IGlzIGFwcHJvcHJpYXRlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJpbi9rYWZrYS1jb25zb2xlLWNvbnN1bWVyLnNoIC0tdG9waWMgbm90aWZpY2F0aW9uX2xvZ19iYW5rIC0tYm9vdHN0cmFwLXNlcnZlciBsb2NhbGhvc3Q6OTA5MiAgICAgICAgICAgICAgIDEzMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -386,28 +386,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBTdHJpbmcgcHJvamVjdElkID0gJ2Zpci1wdXNoZXhhbXBsZS05ZDI0NScK</text>
+        <text encoding="base64">ICAgICAgICBsaXN0ZW5hYmxlRnV0dXJlLmdldCgxMDAwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKFB1c2hTdHJlYW0uY2xhc3MpCg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0ZW5hYmxlRnV0dXJlPFNlbmRSZXN1bHQ8U3RyaW5nLCBTdHJpbmc+PiBsaXN0ZW5hYmxlRnV0dXJlID0ga2Fma2FUZW1wbGF0ZS5zZW5kKFB1c2hUb3BpY0NvbmZpZy5UT1BJQ19OT1RJRklDQVRJT04sIG1lc3NhZ2UpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZW5kUmVzdWx0LnJlY29yZE1ldGFkYXRhLnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGJpbi9rYWZrYS1jb25zb2xlLWNvbnN1bWVyLnNoIC0tdG9waWMgbm90aWZpY2F0aW9uX2xvZ19iYW5rIC0tYm9vdHN0cmFwLXNlcnZlciBsb2NhbGhvc3Q6OTA5MiAgICAgICAgICAgICAgIDEzMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJpbi9rYWZrYS1jb25zb2xlLWNvbnN1bWVyLnNoIC0tdG9waWMgbm90aWZpY2F0aW9uX2xvZ19iYW5rIC0tYm9vdHN0cmFwLXNlcnZlciBsb2NhbGhvc3Q6OTA5Mgo=</text>
+        <text encoding="base64">CiAgICBTdHJpbmcgcHJvamVjdElkID0gJ2Zpci1wdXNoZXhhbXBsZS05ZDI0NScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJpbi9rYWZrYS10b3BpY3Muc2ggLS1ib290c3RyYXAtc2VydmVyIGxvY2FsaG9zdDo5MDkyIC0tdG9waWMgdG9waWNfbm90aWZpY2F0aW9uX2xvZ19iYW5rIC0tZGVsZXRlCiAgICBiaW4va2Fma2EtdG9waWNzLnNoIC0tYm9vdHN0cmFwLXNlcnZlciBsb2NhbGhvc3Q6OTA5MiAtLXRvcGljIHRvcGljX25vdGlmaWNhdGlvbl9sb2dfZW1tYSAtLWRlbGV0ZQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKFB1c2hTdHJlYW0uY2xhc3MpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJpbi9rYWZrYS10b3BpY3Muc2ggLS1ib290c3RyYXAtc2VydmVyIGxvY2FsaG9zdDo5MDkyIC0tdG9waWMgdG9waWNfbm90aWZpY2F0aW9uX2xvZ19iYW5rIC0tZGVzY3JpYmUKICAgIGJpbi9rYWZrYS10b3BpY3Muc2ggLS1ib290c3RyYXAtc2VydmVyIGxvY2FsaG9zdDo5MDkyIC0tdG9waWMgdG9waWNfbm90aWZpY2F0aW9uX2xvZ19lbW1hIC0tZGVzY3JpYmUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/;//g</text>
