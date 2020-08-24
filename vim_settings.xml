@@ -200,12 +200,12 @@
         <mark key="^" line="23" column="34" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushProducer.groovy" timestamp="1598278479202">
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushProducer.groovy" timestamp="1598280633528">
         <mark key="'" line="23" column="37" />
-        <mark key="[" line="26" column="36" />
-        <mark key="]" line="25" column="40" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
         <mark key="^" line="25" column="40" />
-        <mark key="." line="25" column="40" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/git-meddelandehub/push1/src/main/java/se/lf/service/push1/Push3.groovy" timestamp="1592235003417">
         <mark key="[" line="84" column="19" />
@@ -361,7 +361,7 @@
         <text>topi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBEbyB3aGF0IGlzIGFwcHJvcHJpYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gRG8gd2hhdCBpcyBhcHByb3ByaWF0ZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -386,28 +386,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0ZW5hYmxlRnV0dXJlLmdldCgxMDAwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0ZW5hYmxlRnV0dXJlPFNlbmRSZXN1bHQ8U3RyaW5nLCBTdHJpbmc+PiBsaXN0ZW5hYmxlRnV0dXJlID0ga2Fma2FUZW1wbGF0ZS5zZW5kKFB1c2hUb3BpY0NvbmZpZy5UT1BJQ19OT1RJRklDQVRJT04sIG1lc3NhZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBsaXN0ZW5hYmxlRnV0dXJlLmdldCgxMDAwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhCg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0ZW5hYmxlRnV0dXJlPFNlbmRSZXN1bHQ8U3RyaW5nLCBTdHJpbmc+PiBsaXN0ZW5hYmxlRnV0dXJlID0ga2Fma2FUZW1wbGF0ZS5zZW5kKFB1c2hUb3BpY0NvbmZpZy5UT1BJQ19OT1RJRklDQVRJT04sIG1lc3NhZ2UpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kUmVzdWx0LnJlY29yZE1ldGFkYXRhLnQK</text>
+        <text encoding="base64">ICAgICAgICBhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJpbi9rYWZrYS1jb25zb2xlLWNvbnN1bWVyLnNoIC0tdG9waWMgbm90aWZpY2F0aW9uX2xvZ19iYW5rIC0tYm9vdHN0cmFwLXNlcnZlciBsb2NhbGhvc3Q6OTA5MiAgICAgICAgICAgICAgIDEzMAo=</text>
+        <text encoding="base64">ICAgICAgICBzZW5kUmVzdWx0LnJlY29yZE1ldGFkYXRhLnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBTdHJpbmcgcHJvamVjdElkID0gJ2Zpci1wdXNoZXhhbXBsZS05ZDI0NScK</text>
+        <text encoding="base64">ICAgIGJpbi9rYWZrYS1jb25zb2xlLWNvbnN1bWVyLnNoIC0tdG9waWMgbm90aWZpY2F0aW9uX2xvZ19iYW5rIC0tYm9vdHN0cmFwLXNlcnZlciBsb2NhbGhvc3Q6OTA5MiAgICAgICAgICAgICAgIDEzMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKFB1c2hTdHJlYW0uY2xhc3MpCg==</text>
+        <text encoding="base64">CiAgICBTdHJpbmcgcHJvamVjdElkID0gJ2Zpci1wdXNoZXhhbXBsZS05ZDI0NScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKFB1c2hTdHJlYW0uY2xhc3MpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/;//g</text>
