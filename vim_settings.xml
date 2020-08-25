@@ -65,11 +65,10 @@
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/TODO.md" timestamp="1590656584327">
         <mark key="[" line="6" column="104" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStream.groovy" timestamp="1597932494300">
-        <mark key="[" line="57" column="99" />
-        <mark key="]" line="57" column="99" />
-        <mark key="." line="57" column="99" />
-        <mark key="^" line="42" column="46" />
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStream.groovy" timestamp="1598360415501">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="72" column="44" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/DeviceHelper.groovy" timestamp="1597928972922">
         <mark key="[" line="10" column="0" />
@@ -91,6 +90,12 @@
         <mark key="[" line="143" column="0" />
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStreamHelper.groovy" timestamp="1598360143747">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="19" column="3" />
+        <mark key="^" line="19" column="3" />
       </file>
       <file name="$USER_HOME$/git-meddelandehub/push1/src/main/java/se/lf/service/push/fcm/FCMPush.groovy" timestamp="1592315856509">
         <mark key="[" line="39" column="0" />
@@ -247,7 +252,7 @@
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Dialogs.java" timestamp="1590605905713">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1597921374754">
+      <file name="/fragment.java" timestamp="1598359571002">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -355,16 +360,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>topi</text>
       </register>
-      <register name="0" type="4">
-        <text>{&quot;to&quot;:&quot;customer-id-1&quot;,&quot;tags&quot;:[&quot;tag-1&quot;,&quot;tag-2&quot;,&quot;tag-3&quot;],&quot;message&quot;:{&quot;notification&quot;:{&quot;title&quot;:&quot;LF notification&quot;,&quot;body&quot;:&quot;You have received a secure message&quot;}},&quot;token&quot;:&quot;c8eB5mkrZbc:APA91bE8bs1SRw7QOzG17_uUj8Yjl1brbE_KQhwyPKBAE5bvvqgmHexr5kUlQftFOCtoz1-c-yQrIcKMNkcq2somqXxBmMM2TdkqU7tb9KQ6UFIDkMyrGTkRQgCSu1xU5lFycRztZjir&quot;,&quot;type&quot;:&quot;Android&quot;,&quot;result&quot;:&quot;Success&quot;,&quot;timeStamp&quot;:&quot;2020-08-20 15:59:29.718&quot;}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBidWlsZGVyLnN0cmVhbShQdXNoVG9waWNDb25maWcuVE9QSUNfTk9USUZJQ0FUSU9OKQogICAgICAgICAgICAuZmxhdE1hcFZhbHVlcyhuZXcgRGV2aWNlVmFsdWVNYXBwZXIoKSkKICAgICAgICAgICAgLm1hcFZhbHVlcyhuZXcgTG9nVmFsdWVNYXBwZXIoKSkKICAgICAgICAgICAgLnRvKG5ldyBMb2dUb3BpY05hbWVFeHRyYWN0b3IoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dNZXNzYWdlcwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -389,25 +394,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0ZW5hYmxlRnV0dXJlLmdldCgxMDAwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0ZW5hYmxlRnV0dXJlPFNlbmRSZXN1bHQ8U3RyaW5nLCBTdHJpbmc+PiBsaXN0ZW5hYmxlRnV0dXJlID0ga2Fma2FUZW1wbGF0ZS5zZW5kKFB1c2hUb3BpY0NvbmZpZy5UT1BJQ19OT1RJRklDQVRJT04sIG1lc3NhZ2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kUmVzdWx0LnJlY29yZE1ldGFkYXRhLnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJpbi9rYWZrYS1jb25zb2xlLWNvbnN1bWVyLnNoIC0tdG9waWMgbm90aWZpY2F0aW9uX2xvZ19iYW5rIC0tYm9vdHN0cmFwLXNlcnZlciBsb2NhbGhvc3Q6OTA5MiAgICAgICAgICAgICAgIDEzMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBTdHJpbmcgcHJvamVjdElkID0gJ2Zpci1wdXNoZXhhbXBsZS05ZDI0NScK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRkNNUHVzaCBmY21QdXNoCiAgICBAVmFsdWUodmFsdWUgPSAnJHtmaXJlYmFzZS5wcm9qZWN0SWR9JykKICAgIHByaXZhdGUgU3RyaW5nIGZpcmViYXNlUHJvamVjdElkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKFB1c2hTdHJlYW0uY2xhc3MpCg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQXV0aGVudGljYXRpb25IZWxwZXIgYXV0aGVudGljYXRpb25IZWxwZXIKICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRGV2aWNlSGVscGVyIGRldmljZUhlbHBlcgogICAgQEF1dG93aXJlZAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/;//g</text>
