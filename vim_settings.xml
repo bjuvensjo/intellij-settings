@@ -167,10 +167,10 @@
       <file name="/Dummy.groovy" timestamp="1597654912853">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/README.md" timestamp="1597932048046">
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/README.md" timestamp="1598353426579">
         <mark key="'" line="56" column="60" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="30" column="180" />
         <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/git-lhb/LP_NORNORNA/app.addattachment_rest.v1_0/slask.txt" timestamp="1591011642550">
@@ -360,8 +360,8 @@
       <register name="/" type="4">
         <text>topi</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gRG8gd2hhdCBpcyBhcHByb3ByaWF0ZQo=</text>
+      <register name="0" type="4">
+        <text>{&quot;to&quot;: [&quot;customer-id-1&quot;, &quot;customer-id-2&quot;],&quot;tags&quot;: [&quot;tag-1&quot;, &quot;tag-2&quot;, &quot;tag-3&quot;],&quot;message&quot;:{&quot;notification&quot;:{&quot;title&quot;:&quot;LF notification&quot;,&quot;body&quot;:&quot;You have received a secure message&quot;}}}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
