@@ -65,10 +65,11 @@
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/TODO.md" timestamp="1590656584327">
         <mark key="[" line="6" column="104" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStream.groovy" timestamp="1598368068045">
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStream.groovy" timestamp="1598520965143">
+        <mark key="'" line="10" column="17" />
         <mark key="[" line="73" column="4" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="43" column="0" />
+        <mark key="]" line="73" column="4" />
+        <mark key="." line="73" column="4" />
       </file>
       <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/DeviceHelper.groovy" timestamp="1597928972922">
         <mark key="[" line="10" column="0" />
@@ -172,10 +173,10 @@
       <file name="/Dummy.groovy" timestamp="1597654912853">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/README.md" timestamp="1598354293023">
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/README.md" timestamp="1598521571599">
         <mark key="'" line="56" column="60" />
-        <mark key="[" line="49" column="4" />
-        <mark key="]" line="49" column="394" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="181" />
         <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/git-lhb/LP_NORNORNA/app.addattachment_rest.v1_0/slask.txt" timestamp="1591011642550">
@@ -195,6 +196,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1591801208732">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStreamJava.java" timestamp="1598519577027">
+        <mark key="'" line="70" column="42" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/yaml/service.yaml" timestamp="1584637728668">
         <mark key="[" line="4" column="49" />
@@ -257,8 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/data/StartSigningAST/101/BidSecurityApi.asmx/Sign-HappyFlowRequest.xml" />
-      <jump line="16" column="15" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/resources/signing/StartSigningTest-101-Request.xml" />
       <jump line="10" column="10" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/data/StartSigning/101/BidSecurityApi.asmx/Sign-HappyFlowResponse.xml" />
       <jump line="20" column="19" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/java/rsimulator/TestSupport.groovy" />
       <jump line="10" column="15" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/data/StartSigningTest/101/BidSecurityApi.asmx/Sign-HappyFlowResponse.xml" />
@@ -357,19 +362,21 @@
       <jump line="43" column="0" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStream.groovy" />
       <jump line="48" column="0" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStream.groovy" />
       <jump line="59" column="0" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStream.groovy" />
+      <jump line="65" column="42" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStreamJava.java" />
+      <jump line="10" column="17" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStream.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>topi</text>
+        <text>return</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZGVyLnN0cmVhbShQdXNoVG9waWNDb25maWcuVE9QSUNfTk9USUZJQ0FUSU9OKQogICAgICAgICAgICAuZmxhdE1hcFZhbHVlcyhuZXcgRGV2aWNlVmFsdWVNYXBwZXIoKSkKICAgICAgICAgICAgLm1hcFZhbHVlcyhuZXcgTG9nVmFsdWVNYXBwZXIoKSkKICAgICAgICAgICAgLnRvKG5ldyBMb2dUb3BpY05hbWVFeHRyYWN0b3IoKSkK</text>
+        <text encoding="base64">ICAgIHsidG8iOiBbImN1c3RvbWVyLWlkLTEiLCAiY3VzdG9tZXItaWQtMiJdLCJ0YWdzIjogWyJ0YWctMSIsICJ0YWctMiIsICJ0YWctMyJdLCJtZXNzYWdlIjp7Im5vdGlmaWNhdGlvbiI6eyJ0aXRsZSI6IkxGIG5vdGlmaWNhdGlvbiIsImJvZHkiOiJZb3UgaGF2ZSByZWNlaXZlZCBhIHNlY3VyZSBtZXNzYWdlIn19fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRGV2aWNlSGVscGVyIGRldmljZUhlbHBlcgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -391,19 +398,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBjbGFzcyBEZXZpY2VWYWx1ZU1hcHBlciBpbXBsZW1lbnRzIFZhbHVlTWFwcGVyPFN0cmluZywgTGlzdD4gewogICAgICAgIEBPdmVycmlkZQogICAgICAgIExpc3QgYXBwbHkoU3RyaW5nIG5vdGlmaWNhdGlvbikgewogICAgICAgICAgICBkZWYganNvbiA9IG5ldyBKc29uU2x1cnBlcigpLnBhcnNlVGV4dChub3RpZmljYXRpb24pCiAgICAgICAgICAgIExpc3QgY3VzdG9tZXJJZHMgPSBqc29uLnRvCiAgICAgICAgICAgIExpc3QgbWVzc2FnZXMgPSBbXQogICAgICAgICAgICBjdXN0b21lcklkcy5lYWNoIHsgY3VzdG9tZXJJZCAtPgogICAgICAgICAgICAgICAgRGV2aWNlIGRldmljZSA9IGRldmljZUhlbHBlci5nZXREZXZpY2UoY3VzdG9tZXJJZCkKICAgICAgICAgICAgICAgIC8vIE5vdGUgdGhhdCB3ZSBlYWNoIHRpbWUgbXV0YXRlIHRoZSBvbmUganNvbiBvYmplY3QuIEl0IHdvcmtzIHNpbmNlIHdlIGV2ZXJ5IHRpbWUgc2F2ZSB0aGUgbXV0YXRpb24gaW4gbWVzc2FnZXMgYXMgYSBTdHJpbmcKICAgICAgICAgICAgICAgIGpzb24udG8gPSBjdXN0b21lcklkCiAgICAgICAgICAgICAgICBqc29uLnRva2VuID0gZGV2aWNlLnB1c2hUb2tlbgogICAgICAgICAgICAgICAganNvbi50eXBlID0gZGV2aWNlLnR5cGUubmFtZSgpCiAgICAgICAgICAgICAgICBtZXNzYWdlcyA8PCBKc29uT3V0cHV0LnRvSnNvbihqc29uKQoKICAgICAgICAgICAgfQogICAgICAgICAgICBtZXNzYWdlcwogICAgICAgIH0KICAgIH0KCiAgICBzdGF0aWMgY2xhc3MgTG9nVmFsdWVNYXBwZXIgaW1wbGVtZW50cyBWYWx1ZU1hcHBlcjxTdHJpbmcsIFN0cmluZz4gewogICAgICAgIEBPdmVycmlkZQogICAgICAgIFN0cmluZyBhcHBseShTdHJpbmcgbm90aWZpY2F0aW9uKSB7CiAgICAgICAgICAgIGRlZiBqc29uID0gbmV3IEpzb25TbHVycGVyKCkucGFyc2VUZXh0KG5vdGlmaWNhdGlvbikKICAgICAgICAgICAgLy8gTm90ZSB0aGF0IHdlIGVhY2ggdGltZSBtdXRhdGUgdGhlIG9uZSBqc29uIG9iamVjdC4gSXQgd29ya3Mgc2luY2Ugd2UgZXZlcnkgdGltZSByZXR1cm5zIHRoZSBtdXRhdGlvbiBhcyBhIFN0cmluZwogICAgICAgICAgICBqc29uLnJlc3VsdCA9IHNlbmQoanNvbikgLy8gUmVzdWx0IHNob3VsZCBiZSBhIGNvZGUuLi4KICAgICAgICAgICAganNvbi50aW1lU3RhbXAgPSBuZXcgVGltZXN0YW1wKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKS50b1N0cmluZygpCiAgICAgICAgICAgIEpzb25PdXRwdXQudG9Kc29uKGpzb24pCiAgICAgICAgfQogICAgfQoKICAgIHN0YXRpYyBjbGFzcyBMb2dUb3BpY05hbWVFeHRyYWN0b3IgaW1wbGVtZW50cyBUb3BpY05hbWVFeHRyYWN0b3I8U3RyaW5nLCBTdHJpbmc+IHsKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBTdHJpbmcgZXh0cmFjdChTdHJpbmcgaywgU3RyaW5nIHYsIFJlY29yZENvbnRleHQgcmVjb3JkQ29udGV4dCkgewogICAgICAgICAgICByZXR1cm4gIm5vdGlmaWNhdGlvbl9sb2dfJHthdXRoZW50aWNhdGlvbkhlbHBlci5jbGllbnRJZH0iCiAgICAgICAgfQogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mbGF0TWFwVmFsdWVzKG5ldyBEZXZpY2VWYWx1ZU1hcHBlcigpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dNZXNzYWdlcwo=</text>
+        <text encoding="base64">ICAgICAgICBBcnJheXMuYXNMaXN0KCkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBjbGFzcyBEZXZpY2VWYWx1ZU1hcHBlciBpbXBsZW1lbnRzIFZhbHVlTWFwcGVyPFN0cmluZywgTGlzdD4gewogICAgICAgIEBPdmVycmlkZQogICAgICAgIExpc3QgYXBwbHkoU3RyaW5nIG5vdGlmaWNhdGlvbikgewogICAgICAgICAgICBkZWYganNvbiA9IG5ldyBKc29uU2x1cnBlcigpLnBhcnNlVGV4dChub3RpZmljYXRpb24pCiAgICAgICAgICAgIExpc3QgY3VzdG9tZXJJZHMgPSBqc29uLnRvCiAgICAgICAgICAgIExpc3QgbWVzc2FnZXMgPSBbXQogICAgICAgICAgICBjdXN0b21lcklkcy5lYWNoIHsgY3VzdG9tZXJJZCAtPgogICAgICAgICAgICAgICAgRGV2aWNlIGRldmljZSA9IGRldmljZUhlbHBlci5nZXREZXZpY2UoY3VzdG9tZXJJZCkKICAgICAgICAgICAgICAgIC8vIE5vdGUgdGhhdCB3ZSBlYWNoIHRpbWUgbXV0YXRlIHRoZSBvbmUganNvbiBvYmplY3QuIEl0IHdvcmtzIHNpbmNlIHdlIGV2ZXJ5IHRpbWUgc2F2ZSB0aGUgbXV0YXRpb24gaW4gbWVzc2FnZXMgYXMgYSBTdHJpbmcKICAgICAgICAgICAgICAgIGpzb24udG8gPSBjdXN0b21lcklkCiAgICAgICAgICAgICAgICBqc29uLnRva2VuID0gZGV2aWNlLnB1c2hUb2tlbgogICAgICAgICAgICAgICAganNvbi50eXBlID0gZGV2aWNlLnR5cGUubmFtZSgpCiAgICAgICAgICAgICAgICBtZXNzYWdlcyA8PCBKc29uT3V0cHV0LnRvSnNvbihqc29uKQoKICAgICAgICAgICAgfQogICAgICAgICAgICBtZXNzYWdlcwogICAgICAgIH0KICAgIH0KCiAgICBzdGF0aWMgY2xhc3MgTG9nVmFsdWVNYXBwZXIgaW1wbGVtZW50cyBWYWx1ZU1hcHBlcjxTdHJpbmcsIFN0cmluZz4gewogICAgICAgIEBPdmVycmlkZQogICAgICAgIFN0cmluZyBhcHBseShTdHJpbmcgbm90aWZpY2F0aW9uKSB7CiAgICAgICAgICAgIGRlZiBqc29uID0gbmV3IEpzb25TbHVycGVyKCkucGFyc2VUZXh0KG5vdGlmaWNhdGlvbikKICAgICAgICAgICAgLy8gTm90ZSB0aGF0IHdlIGVhY2ggdGltZSBtdXRhdGUgdGhlIG9uZSBqc29uIG9iamVjdC4gSXQgd29ya3Mgc2luY2Ugd2UgZXZlcnkgdGltZSByZXR1cm5zIHRoZSBtdXRhdGlvbiBhcyBhIFN0cmluZwogICAgICAgICAgICBqc29uLnJlc3VsdCA9IHNlbmQoanNvbikgLy8gUmVzdWx0IHNob3VsZCBiZSBhIGNvZGUuLi4KICAgICAgICAgICAganNvbi50aW1lU3RhbXAgPSBuZXcgVGltZXN0YW1wKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKS50b1N0cmluZygpCiAgICAgICAgICAgIEpzb25PdXRwdXQudG9Kc29uKGpzb24pCiAgICAgICAgfQogICAgfQoKICAgIHN0YXRpYyBjbGFzcyBMb2dUb3BpY05hbWVFeHRyYWN0b3IgaW1wbGVtZW50cyBUb3BpY05hbWVFeHRyYWN0b3I8U3RyaW5nLCBTdHJpbmc+IHsKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBTdHJpbmcgZXh0cmFjdChTdHJpbmcgaywgU3RyaW5nIHYsIFJlY29yZENvbnRleHQgcmVjb3JkQ29udGV4dCkgewogICAgICAgICAgICByZXR1cm4gIm5vdGlmaWNhdGlvbl9sb2dfJHthdXRoZW50aWNhdGlvbkhlbHBlci5jbGllbnRJZH0iCiAgICAgICAgfQogICAgfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dNZXNzYWdlcwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -415,22 +422,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/;//g</text>
+        <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>topi</last-search>
+      <last-search>return</last-search>
       <last-offset />
-      <last-pattern>topi</last-pattern>
-      <last-replace />
-      <last-substitute>;</last-substitute>
+      <last-pattern>return</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>props</entry>
-        <entry>Messa</entry>
         <entry>Override</entry>
         <entry encoding="base64">cHVibGljIA==</entry>
         <entry encoding="base64">XDxhY2Nlc3NUb2tlblw+</entry>
@@ -449,6 +454,8 @@
         <entry>K</entry>
         <entry>Li</entry>
         <entry>topi</entry>
+        <entry>'</entry>
+        <entry>return</entry>
       </history-search>
       <history-cmd>
         <entry>s/name,/cfg.name/gc</entry>
@@ -466,11 +473,11 @@
         <entry encoding="base64">JzwsJz5zL1N0cmluZyAvL2c=</entry>
         <entry>di</entry>
         <entry>%s/MapAppender/MyAppender/g</entry>
-        <entry>%s/'/&quot;/g</entry>
         <entry>%s/return //g</entry>
         <entry>%s/public //g</entry>
         <entry>%s/&quot;/'/gc</entry>
         <entry>%s/;//g</entry>
+        <entry>%s/'/&quot;/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
