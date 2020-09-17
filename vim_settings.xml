@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/slask/log4j/slask/src/slask.puml" timestamp="1600332720758">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/IOSConsumer.groovy" timestamp="1593595546684">
         <mark key="[" line="12" column="54" />
         <mark key="]" line="12" column="22" />
@@ -230,6 +235,11 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/slask/log4j/slask/src/slask_mindmap.puml" timestamp="1600332827933">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushTopicConfig.groovy" timestamp="1597928539397">
         <mark key="'" line="11" column="30" />
         <mark key="[" line="25" column="0" />
@@ -367,7 +377,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>s</text>
+        <text>***</text>
       </register>
       <register name="/" type="4">
         <text>return</text>
