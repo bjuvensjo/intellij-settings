@@ -58,6 +58,18 @@
       <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/resources/data/example/Example1/101/AResponse.json" timestamp="1591609437471">
         <mark key="[" line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/git-evry/IPAAS/cd.kubernetes.client/README.md" timestamp="1602160574274">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="26" />
+        <mark key="^" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+      </file>
+      <file name="$USER_HOME$/git-evry/IPAAS/cd.kubernetes.client/emacs.restclient" timestamp="1602160270857">
+        <mark key="[" line="258" column="0" />
+        <mark key="]" line="258" column="51" />
+        <mark key="^" line="4" column="20" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/Http.groovy" timestamp="1597928997920">
         <mark key="[" line="1" column="0" />
       </file>
@@ -153,6 +165,12 @@
         <mark key="[" line="53" column="24" />
         <mark key="]" line="53" column="24" />
         <mark key="." line="53" column="24" />
+      </file>
+      <file name="$USER_HOME$/git-evry/IPAAS/cd.kubernetes.client/pom.xml" timestamp="1602160136641">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+        <mark key="^" line="5" column="17" />
       </file>
       <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushProducerConfig.groovy" timestamp="1597930812991">
         <mark key="[" line="21" column="13" />
@@ -377,16 +395,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>***</text>
+        <text>kubernetes</text>
       </register>
       <register name="/" type="4">
         <text>return</text>
       </register>
-      <register name="0" type="4">
-        <text>bin/kafka-console-consumer.sh --topic notification --from-beginning --bootstrap-server localhost:9092</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJob3N0IjogInBvYy5vY3BsYWItYmFuay5sZm5ldC5zZSIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRGV2aWNlSGVscGVyIGRldmljZUhlbHBlcgo=</text>
+        <text encoding="base64">IyBOb3RlIHRoYXQgdGhlcmUgYXJlIGEgbnVtYmVyIG9mIGRpZmZlcmVudCBBUElzLCBzZWUgaHR0cHM6Ly9kb2NzLm9wZW5zaGlmdC5jb20vY29udGFpbmVyLXBsYXRmb3JtLzQuMTEvcmVzdF9hcGkvYXBpL3YxLkFQSVJlc291cmNlTGlzdC5odG1sCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -408,22 +426,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mbGF0TWFwVmFsdWVzKG5ldyBEZXZpY2VWYWx1ZU1hcHBlcigpKQo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRGV2aWNlSGVscGVyIGRldmljZUhlbHBlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheXMuYXNMaXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mbGF0TWFwVmFsdWVzKG5ldyBEZXZpY2VWYWx1ZU1hcHBlcigpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBcnJheXMuYXNMaXN0KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBjbGFzcyBEZXZpY2VWYWx1ZU1hcHBlciBpbXBsZW1lbnRzIFZhbHVlTWFwcGVyPFN0cmluZywgTGlzdD4gewogICAgICAgIEBPdmVycmlkZQogICAgICAgIExpc3QgYXBwbHkoU3RyaW5nIG5vdGlmaWNhdGlvbikgewogICAgICAgICAgICBkZWYganNvbiA9IG5ldyBKc29uU2x1cnBlcigpLnBhcnNlVGV4dChub3RpZmljYXRpb24pCiAgICAgICAgICAgIExpc3QgY3VzdG9tZXJJZHMgPSBqc29uLnRvCiAgICAgICAgICAgIExpc3QgbWVzc2FnZXMgPSBbXQogICAgICAgICAgICBjdXN0b21lcklkcy5lYWNoIHsgY3VzdG9tZXJJZCAtPgogICAgICAgICAgICAgICAgRGV2aWNlIGRldmljZSA9IGRldmljZUhlbHBlci5nZXREZXZpY2UoY3VzdG9tZXJJZCkKICAgICAgICAgICAgICAgIC8vIE5vdGUgdGhhdCB3ZSBlYWNoIHRpbWUgbXV0YXRlIHRoZSBvbmUganNvbiBvYmplY3QuIEl0IHdvcmtzIHNpbmNlIHdlIGV2ZXJ5IHRpbWUgc2F2ZSB0aGUgbXV0YXRpb24gaW4gbWVzc2FnZXMgYXMgYSBTdHJpbmcKICAgICAgICAgICAgICAgIGpzb24udG8gPSBjdXN0b21lcklkCiAgICAgICAgICAgICAgICBqc29uLnRva2VuID0gZGV2aWNlLnB1c2hUb2tlbgogICAgICAgICAgICAgICAganNvbi50eXBlID0gZGV2aWNlLnR5cGUubmFtZSgpCiAgICAgICAgICAgICAgICBtZXNzYWdlcyA8PCBKc29uT3V0cHV0LnRvSnNvbihqc29uKQoKICAgICAgICAgICAgfQogICAgICAgICAgICBtZXNzYWdlcwogICAgICAgIH0KICAgIH0KCiAgICBzdGF0aWMgY2xhc3MgTG9nVmFsdWVNYXBwZXIgaW1wbGVtZW50cyBWYWx1ZU1hcHBlcjxTdHJpbmcsIFN0cmluZz4gewogICAgICAgIEBPdmVycmlkZQogICAgICAgIFN0cmluZyBhcHBseShTdHJpbmcgbm90aWZpY2F0aW9uKSB7CiAgICAgICAgICAgIGRlZiBqc29uID0gbmV3IEpzb25TbHVycGVyKCkucGFyc2VUZXh0KG5vdGlmaWNhdGlvbikKICAgICAgICAgICAgLy8gTm90ZSB0aGF0IHdlIGVhY2ggdGltZSBtdXRhdGUgdGhlIG9uZSBqc29uIG9iamVjdC4gSXQgd29ya3Mgc2luY2Ugd2UgZXZlcnkgdGltZSByZXR1cm5zIHRoZSBtdXRhdGlvbiBhcyBhIFN0cmluZwogICAgICAgICAgICBqc29uLnJlc3VsdCA9IHNlbmQoanNvbikgLy8gUmVzdWx0IHNob3VsZCBiZSBhIGNvZGUuLi4KICAgICAgICAgICAganNvbi50aW1lU3RhbXAgPSBuZXcgVGltZXN0YW1wKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKS50b1N0cmluZygpCiAgICAgICAgICAgIEpzb25PdXRwdXQudG9Kc29uKGpzb24pCiAgICAgICAgfQogICAgfQoKICAgIHN0YXRpYyBjbGFzcyBMb2dUb3BpY05hbWVFeHRyYWN0b3IgaW1wbGVtZW50cyBUb3BpY05hbWVFeHRyYWN0b3I8U3RyaW5nLCBTdHJpbmc+IHsKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBTdHJpbmcgZXh0cmFjdChTdHJpbmcgaywgU3RyaW5nIHYsIFJlY29yZENvbnRleHQgcmVjb3JkQ29udGV4dCkgewogICAgICAgICAgICByZXR1cm4gIm5vdGlmaWNhdGlvbl9sb2dfJHthdXRoZW50aWNhdGlvbkhlbHBlci5jbGllbnRJZH0iCiAgICAgICAgfQogICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dNZXNzYWdlcwo=</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBjbGFzcyBEZXZpY2VWYWx1ZU1hcHBlciBpbXBsZW1lbnRzIFZhbHVlTWFwcGVyPFN0cmluZywgTGlzdD4gewogICAgICAgIEBPdmVycmlkZQogICAgICAgIExpc3QgYXBwbHkoU3RyaW5nIG5vdGlmaWNhdGlvbikgewogICAgICAgICAgICBkZWYganNvbiA9IG5ldyBKc29uU2x1cnBlcigpLnBhcnNlVGV4dChub3RpZmljYXRpb24pCiAgICAgICAgICAgIExpc3QgY3VzdG9tZXJJZHMgPSBqc29uLnRvCiAgICAgICAgICAgIExpc3QgbWVzc2FnZXMgPSBbXQogICAgICAgICAgICBjdXN0b21lcklkcy5lYWNoIHsgY3VzdG9tZXJJZCAtPgogICAgICAgICAgICAgICAgRGV2aWNlIGRldmljZSA9IGRldmljZUhlbHBlci5nZXREZXZpY2UoY3VzdG9tZXJJZCkKICAgICAgICAgICAgICAgIC8vIE5vdGUgdGhhdCB3ZSBlYWNoIHRpbWUgbXV0YXRlIHRoZSBvbmUganNvbiBvYmplY3QuIEl0IHdvcmtzIHNpbmNlIHdlIGV2ZXJ5IHRpbWUgc2F2ZSB0aGUgbXV0YXRpb24gaW4gbWVzc2FnZXMgYXMgYSBTdHJpbmcKICAgICAgICAgICAgICAgIGpzb24udG8gPSBjdXN0b21lcklkCiAgICAgICAgICAgICAgICBqc29uLnRva2VuID0gZGV2aWNlLnB1c2hUb2tlbgogICAgICAgICAgICAgICAganNvbi50eXBlID0gZGV2aWNlLnR5cGUubmFtZSgpCiAgICAgICAgICAgICAgICBtZXNzYWdlcyA8PCBKc29uT3V0cHV0LnRvSnNvbihqc29uKQoKICAgICAgICAgICAgfQogICAgICAgICAgICBtZXNzYWdlcwogICAgICAgIH0KICAgIH0KCiAgICBzdGF0aWMgY2xhc3MgTG9nVmFsdWVNYXBwZXIgaW1wbGVtZW50cyBWYWx1ZU1hcHBlcjxTdHJpbmcsIFN0cmluZz4gewogICAgICAgIEBPdmVycmlkZQogICAgICAgIFN0cmluZyBhcHBseShTdHJpbmcgbm90aWZpY2F0aW9uKSB7CiAgICAgICAgICAgIGRlZiBqc29uID0gbmV3IEpzb25TbHVycGVyKCkucGFyc2VUZXh0KG5vdGlmaWNhdGlvbikKICAgICAgICAgICAgLy8gTm90ZSB0aGF0IHdlIGVhY2ggdGltZSBtdXRhdGUgdGhlIG9uZSBqc29uIG9iamVjdC4gSXQgd29ya3Mgc2luY2Ugd2UgZXZlcnkgdGltZSByZXR1cm5zIHRoZSBtdXRhdGlvbiBhcyBhIFN0cmluZwogICAgICAgICAgICBqc29uLnJlc3VsdCA9IHNlbmQoanNvbikgLy8gUmVzdWx0IHNob3VsZCBiZSBhIGNvZGUuLi4KICAgICAgICAgICAganNvbi50aW1lU3RhbXAgPSBuZXcgVGltZXN0YW1wKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKS50b1N0cmluZygpCiAgICAgICAgICAgIEpzb25PdXRwdXQudG9Kc29uKGpzb24pCiAgICAgICAgfQogICAgfQoKICAgIHN0YXRpYyBjbGFzcyBMb2dUb3BpY05hbWVFeHRyYWN0b3IgaW1wbGVtZW50cyBUb3BpY05hbWVFeHRyYWN0b3I8U3RyaW5nLCBTdHJpbmc+IHsKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBTdHJpbmcgZXh0cmFjdChTdHJpbmcgaywgU3RyaW5nIHYsIFJlY29yZENvbnRleHQgcmVjb3JkQ29udGV4dCkgewogICAgICAgICAgICByZXR1cm4gIm5vdGlmaWNhdGlvbl9sb2dfJHthdXRoZW50aWNhdGlvbkhlbHBlci5jbGllbnRJZH0iCiAgICAgICAgfQogICAgfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dNZXNzYWdlcwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
