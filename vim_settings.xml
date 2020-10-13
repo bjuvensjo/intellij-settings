@@ -100,8 +100,11 @@
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/notification.avsc" timestamp="1602593465292">
-        <mark key="[" line="0" column="25" />
+      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/notification.avsc" timestamp="1602597942715">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/AndroidConsumer.groovy" timestamp="1597928264902">
         <mark key="'" line="18" column="36" />
@@ -142,8 +145,11 @@
       <file name="/Dummy.groovy" timestamp="1597654912853">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/slask.avsc" timestamp="1602593938620">
-        <mark key="[" line="4" column="13" />
+      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/slask.avsc" timestamp="1602598193498">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/README.md" timestamp="1602059021168">
         <mark key="'" line="30" column="4" />
@@ -213,9 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="19" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/java/rsimulator/TestSupport.groovy" />
-      <jump line="10" column="15" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/data/StartSigningTest/101/BidSecurityApi.asmx/Sign-HappyFlowResponse.xml" />
-      <jump line="26" column="0" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/mockserver/ExpectationCallbackHandler.java" />
       <jump line="1" column="12" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/resources/data/example/Example1/101/ARequest.json" />
       <jump line="0" column="0" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/pom.xml" />
       <jump line="53" column="0" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/pom.xml" />
@@ -313,19 +316,22 @@
       <jump line="65" column="42" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStreamJava.java" />
       <jump line="10" column="17" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStream.groovy" />
       <jump line="30" column="4" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/README.md" />
+      <jump line="38" column="0" filename="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/slask.avsc" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/slask.avsc" />
+      <jump line="57" column="0" filename="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/notification.avsc" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>Notification</text>
       </register>
       <register name="/" type="4">
-        <text>return</text>
+        <text>heade</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aXZlUHJvZmlsZT4xLWxmPC9hY3RpdmVQcm9maWxlPgo=</text>
+        <text encoding="base64">ICAgICAgIm5hbWVzcGFjZSI6ICJzZS5sZi5jc2wubWh1Yi5hcGkubm90aWZpY2F0aW9uIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBOb3RlIHRoYXQgdGhlcmUgYXJlIGEgbnVtYmVyIG9mIGRpZmZlcmVudCBBUElzLCBzZWUgaHR0cHM6Ly9kb2NzLm9wZW5zaGlmdC5jb20vY29udGFpbmVyLXBsYXRmb3JtLzQuMTEvcmVzdF9hcGkvYXBpL3YxLkFQSVJlc291cmNlTGlzdC5odG1sCg==</text>
+        <text encoding="base64">ICAgICAgICAiZG9jIjogIkhlYWRlciIsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -347,45 +353,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRGV2aWNlSGVscGVyIGRldmljZUhlbHBlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mbGF0TWFwVmFsdWVzKG5ldyBEZXZpY2VWYWx1ZU1hcHBlcigpKQo=</text>
+        <text encoding="base64">ICAgICAgICAibmFtZXNwYWNlIjogInNlLmxmLmNzbC5taHViLmFwaS5ub3RpZmljYXRpb24iLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheXMuYXNMaXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAibmFtZSI6ICJfc2xhc2siLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICJ0eXBlIjogImFycmF5IiwKICAgICAgICAgICAgIml0ZW1zIjogInN0cmluZyIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBjbGFzcyBEZXZpY2VWYWx1ZU1hcHBlciBpbXBsZW1lbnRzIFZhbHVlTWFwcGVyPFN0cmluZywgTGlzdD4gewogICAgICAgIEBPdmVycmlkZQogICAgICAgIExpc3QgYXBwbHkoU3RyaW5nIG5vdGlmaWNhdGlvbikgewogICAgICAgICAgICBkZWYganNvbiA9IG5ldyBKc29uU2x1cnBlcigpLnBhcnNlVGV4dChub3RpZmljYXRpb24pCiAgICAgICAgICAgIExpc3QgY3VzdG9tZXJJZHMgPSBqc29uLnRvCiAgICAgICAgICAgIExpc3QgbWVzc2FnZXMgPSBbXQogICAgICAgICAgICBjdXN0b21lcklkcy5lYWNoIHsgY3VzdG9tZXJJZCAtPgogICAgICAgICAgICAgICAgRGV2aWNlIGRldmljZSA9IGRldmljZUhlbHBlci5nZXREZXZpY2UoY3VzdG9tZXJJZCkKICAgICAgICAgICAgICAgIC8vIE5vdGUgdGhhdCB3ZSBlYWNoIHRpbWUgbXV0YXRlIHRoZSBvbmUganNvbiBvYmplY3QuIEl0IHdvcmtzIHNpbmNlIHdlIGV2ZXJ5IHRpbWUgc2F2ZSB0aGUgbXV0YXRpb24gaW4gbWVzc2FnZXMgYXMgYSBTdHJpbmcKICAgICAgICAgICAgICAgIGpzb24udG8gPSBjdXN0b21lcklkCiAgICAgICAgICAgICAgICBqc29uLnRva2VuID0gZGV2aWNlLnB1c2hUb2tlbgogICAgICAgICAgICAgICAganNvbi50eXBlID0gZGV2aWNlLnR5cGUubmFtZSgpCiAgICAgICAgICAgICAgICBtZXNzYWdlcyA8PCBKc29uT3V0cHV0LnRvSnNvbihqc29uKQoKICAgICAgICAgICAgfQogICAgICAgICAgICBtZXNzYWdlcwogICAgICAgIH0KICAgIH0KCiAgICBzdGF0aWMgY2xhc3MgTG9nVmFsdWVNYXBwZXIgaW1wbGVtZW50cyBWYWx1ZU1hcHBlcjxTdHJpbmcsIFN0cmluZz4gewogICAgICAgIEBPdmVycmlkZQogICAgICAgIFN0cmluZyBhcHBseShTdHJpbmcgbm90aWZpY2F0aW9uKSB7CiAgICAgICAgICAgIGRlZiBqc29uID0gbmV3IEpzb25TbHVycGVyKCkucGFyc2VUZXh0KG5vdGlmaWNhdGlvbikKICAgICAgICAgICAgLy8gTm90ZSB0aGF0IHdlIGVhY2ggdGltZSBtdXRhdGUgdGhlIG9uZSBqc29uIG9iamVjdC4gSXQgd29ya3Mgc2luY2Ugd2UgZXZlcnkgdGltZSByZXR1cm5zIHRoZSBtdXRhdGlvbiBhcyBhIFN0cmluZwogICAgICAgICAgICBqc29uLnJlc3VsdCA9IHNlbmQoanNvbikgLy8gUmVzdWx0IHNob3VsZCBiZSBhIGNvZGUuLi4KICAgICAgICAgICAganNvbi50aW1lU3RhbXAgPSBuZXcgVGltZXN0YW1wKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKS50b1N0cmluZygpCiAgICAgICAgICAgIEpzb25PdXRwdXQudG9Kc29uKGpzb24pCiAgICAgICAgfQogICAgfQoKICAgIHN0YXRpYyBjbGFzcyBMb2dUb3BpY05hbWVFeHRyYWN0b3IgaW1wbGVtZW50cyBUb3BpY05hbWVFeHRyYWN0b3I8U3RyaW5nLCBTdHJpbmc+IHsKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBTdHJpbmcgZXh0cmFjdChTdHJpbmcgaywgU3RyaW5nIHYsIFJlY29yZENvbnRleHQgcmVjb3JkQ29udGV4dCkgewogICAgICAgICAgICByZXR1cm4gIm5vdGlmaWNhdGlvbl9sb2dfJHthdXRoZW50aWNhdGlvbkhlbHBlci5jbGllbnRJZH0iCiAgICAgICAgfQogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgIm5hbWVzcGFjZSI6ICJzZS5sZi5jc2wubWh1Yi5hcGkubm90aWZpY2F0aW9uIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dNZXNzYWdlcwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICJkb2MiOiAiVGhlIG5vdGlmaWNhdGlvbiBtZXNzYWdlIiwKICAgICAgICAgICJuYW1lIjogIm1lc3NhZ2UiLAogICAgICAgICAgInR5cGUiOiAiYXJyYXkiLAogICAgICAgICAgIml0ZW1zIjogInN0cmluZyIKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>return</last-search>
+      <last-search>heade</last-search>
       <last-offset />
-      <last-pattern>return</last-pattern>
+      <last-pattern>heade</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Override</entry>
         <entry encoding="base64">cHVibGljIA==</entry>
         <entry encoding="base64">XDxhY2Nlc3NUb2tlblw+</entry>
         <entry>&quot;</entry>
@@ -405,6 +410,7 @@
         <entry>topi</entry>
         <entry>'</entry>
         <entry>return</entry>
+        <entry>heade</entry>
       </history-search>
       <history-cmd>
         <entry>s/name,/cfg.name,/gc</entry>
