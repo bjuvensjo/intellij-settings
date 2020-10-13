@@ -86,6 +86,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/java/se/lf/csl/mhub/api/notification/Slask.java" timestamp="1602598991101">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/resources/data/StartSigningTest/101/BidSecurityApi.asmx/GlobalRequest.groovy" timestamp="1591619194147">
         <mark key="[" line="0" column="0" />
       </file>
@@ -322,7 +327,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Notification</text>
+        <text>Builder()</text>
       </register>
       <register name="/" type="4">
         <text>heade</text>
@@ -331,7 +336,7 @@
         <text encoding="base64">ICAgICAgIm5hbWVzcGFjZSI6ICJzZS5sZi5jc2wubWh1Yi5hcGkubm90aWZpY2F0aW9uIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiZG9jIjogIkhlYWRlciIsCg==</text>
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24uCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -353,28 +358,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAibmFtZXNwYWNlIjogInNlLmxmLmNzbC5taHViLmFwaS5ub3RpZmljYXRpb24iLAo=</text>
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24uc2V0SGVhZGVyKEhlYWRlci5uZXdCdWlsZGVyKCkuYnVpbGQoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAibmFtZSI6ICJfc2xhc2siLAo=</text>
+        <text encoding="base64">ICAgICAgICBOb3RpZmljYXRpb24gbm90aWZpY2F0aW9uID0gbmV3IE5vdGlmaWNhdGlvbigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICJ0eXBlIjogImFycmF5IiwKICAgICAgICAgICAgIml0ZW1zIjogInN0cmluZyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAiZG9jIjogIkhlYWRlciIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIm5hbWVzcGFjZSI6ICJzZS5sZi5jc2wubWh1Yi5hcGkubm90aWZpY2F0aW9uIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAibmFtZXNwYWNlIjogInNlLmxmLmNzbC5taHViLmFwaS5ub3RpZmljYXRpb24iLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAibmFtZSI6ICJfc2xhc2siLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICJkb2MiOiAiVGhlIG5vdGlmaWNhdGlvbiBtZXNzYWdlIiwKICAgICAgICAgICJuYW1lIjogIm1lc3NhZ2UiLAogICAgICAgICAgInR5cGUiOiAiYXJyYXkiLAogICAgICAgICAgIml0ZW1zIjogInN0cmluZyIKICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICJ0eXBlIjogImFycmF5IiwKICAgICAgICAgICAgIml0ZW1zIjogInN0cmluZyIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
