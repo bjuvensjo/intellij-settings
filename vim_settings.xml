@@ -25,8 +25,8 @@
       <file name="$USER_HOME$/git-clarabjuvensjo/fx/src/tenta20170526/Text.java" timestamp="1590415578503">
         <mark key="[" line="17" column="58" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/NotificationLog.avsc" timestamp="1602679227781">
-        <mark key="[" line="73" column="20" />
+      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/NotificationLog.avsc" timestamp="1602685053230">
+        <mark key="[" line="74" column="94" />
         <mark key="]" line="73" column="20" />
         <mark key="^" line="73" column="19" />
         <mark key="." line="73" column="20" />
@@ -138,6 +138,7 @@
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/yaml/route.yaml" timestamp="1584637694086">
         <mark key="[" line="4" column="49" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/NotificationExample.json" timestamp="1602684334941" />
       <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/AndroidStream.groovy" timestamp="1597920879795">
         <mark key="'" line="86" column="4" />
         <mark key="[" line="53" column="24" />
@@ -159,9 +160,11 @@
         <mark key="]" line="22" column="21" />
         <mark key="." line="35" column="32" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avsc" timestamp="1602678922579">
+      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avsc" timestamp="1602684362933">
         <mark key="'" line="46" column="65" />
-        <mark key="[" line="46" column="65" />
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="17" />
       </file>
       <file name="/Dummy.groovy" timestamp="1597654912853">
         <mark key="[" line="0" column="0" />
@@ -210,6 +213,7 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/NotificationLogExample.json" timestamp="1602685500052" />
       <file name="$USER_HOME$/git-evry/IPAAS/cd.jenkins.lib/test/createConfigMapDataTest.groovy" timestamp="1602229768303">
         <mark key="[" line="23" column="20" />
         <mark key="]" line="23" column="20" />
@@ -343,7 +347,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>H</text>
+        <text>Header</text>
       </register>
       <register name="/" type="4">
         <text>heade</text>
