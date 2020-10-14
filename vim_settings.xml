@@ -20,6 +20,12 @@
       <file name="$USER_HOME$/git-clarabjuvensjo/fx/src/tenta20170526/Text.java" timestamp="1590415578503">
         <mark key="[" line="17" column="58" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/NotificationLog.avsc" timestamp="1602676749846">
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="19" column="19" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/fx/src/sample/Slask.java" timestamp="1590477250277">
         <mark key="[" line="2" column="20" />
       </file>
@@ -85,10 +91,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/java/se/lf/csl/mhub/api/notification/Slask.java" timestamp="1602598991101">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/java/se/lf/csl/mhub/api/notification/Slask.java" timestamp="1602676083760">
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="39" />
       </file>
       <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/resources/data/StartSigningTest/101/BidSecurityApi.asmx/GlobalRequest.groovy" timestamp="1591619194147">
         <mark key="[" line="0" column="0" />
@@ -104,11 +110,12 @@
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/notification.avsc" timestamp="1602675019021">
+      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/notification.avsc" timestamp="1602676407411">
         <mark key="'" line="56" column="0" />
-        <mark key="[" line="44" column="21" />
-        <mark key="]" line="44" column="21" />
-        <mark key="." line="44" column="21" />
+        <mark key="[" line="46" column="81" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="45" column="20" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/AndroidConsumer.groovy" timestamp="1597928264902">
         <mark key="'" line="18" column="36" />
@@ -155,10 +162,10 @@
         <mark key="." line="4" column="11" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/README.md" timestamp="1602059021168">
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/README.md" timestamp="1602675917135">
         <mark key="'" line="30" column="4" />
-        <mark key="[" line="54" column="4" />
-        <mark key="]" line="54" column="104" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="270" />
         <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/git-lhb/LP_NORNORNA/app.addattachment_rest.v1_0/slask.txt" timestamp="1591011642550">
@@ -326,16 +333,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>title</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>heade</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIm5hbWVzcGFjZSI6ICJzZS5sZi5jc2wubWh1Yi5hcGkubm90aWZpY2F0aW9uIiwK</text>
+        <text encoding="base64">ICAgIGN1cmwgLVggUE9TVCAtSCAiQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uIiAtZCAneyJ0byI6IFsiY3VzdG9tZXItaWQtMSIsICJjdXN0b21lci1pZC0yIl0sInRhZ3MiOiBbInRhZy0xIiwgInRhZy0yIiwgInRhZy0zIl0sIm1lc3NhZ2UiOnsibm90aWZpY2F0aW9uIjp7InRpdGxlIjoiTEYgbm90aWZpY2F0aW9uIiwiYm9keSI6IllvdSBoYXZlIHJlY2VpdmVkIGEgc2VjdXJlIG1lc3NhZ2UifX19JyBodHRwOi8vbG9jYWxob3N0OjkwMDAvbm90aWZpY2F0aW9uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -357,28 +364,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImRlZmF1bHQiOiAibnVsbCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24uc2V0SGVhZGVyKEhlYWRlci5uZXdCdWlsZGVyKCkuYnVpbGQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBOb3RpZmljYXRpb24gbm90aWZpY2F0aW9uID0gbmV3IE5vdGlmaWNhdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiZG9jIjogIkhlYWRlciIsCg==</text>
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24uc2V0SGVhZGVyKEhlYWRlci5uZXdCdWlsZGVyKCkuYnVpbGQoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBOb3RpZmljYXRpb24gbm90aWZpY2F0aW9uID0gbmV3IE5vdGlmaWNhdGlvbigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAibmFtZXNwYWNlIjogInNlLmxmLmNzbC5taHViLmFwaS5ub3RpZmljYXRpb24iLAo=</text>
+        <text encoding="base64">ICAgICAgICAiZG9jIjogIkhlYWRlciIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAibmFtZSI6ICJfc2xhc2siLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICJ0eXBlIjogImFycmF5IiwKICAgICAgICAgICAgIml0ZW1zIjogInN0cmluZyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAibmFtZXNwYWNlIjogInNlLmxmLmNzbC5taHViLmFwaS5ub3RpZmljYXRpb24iLAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
