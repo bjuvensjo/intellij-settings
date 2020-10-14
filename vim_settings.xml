@@ -20,6 +20,12 @@
       <file name="$USER_HOME$/git-clarabjuvensjo/fx/src/tenta20170526/Text.java" timestamp="1590415578503">
         <mark key="[" line="17" column="58" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/NotificationLog.avsc" timestamp="1602679227781">
+        <mark key="[" line="73" column="20" />
+        <mark key="]" line="73" column="20" />
+        <mark key="^" line="73" column="19" />
+        <mark key="." line="73" column="20" />
+      </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/fx/src/sample/Slask.java" timestamp="1590477250277">
         <mark key="[" line="2" column="20" />
       </file>
@@ -147,6 +153,10 @@
         <mark key="]" line="22" column="21" />
         <mark key="." line="35" column="32" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avsc" timestamp="1602678922579">
+        <mark key="'" line="46" column="65" />
+        <mark key="[" line="46" column="65" />
+      </file>
       <file name="/Dummy.groovy" timestamp="1597654912853">
         <mark key="[" line="0" column="0" />
       </file>
@@ -224,7 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="12" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/resources/data/example/Example1/101/ARequest.json" />
       <jump line="0" column="0" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/pom.xml" />
       <jump line="53" column="0" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/pom.xml" />
       <jump line="139" column="8" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/pom.xml" />
@@ -324,10 +333,11 @@
       <jump line="38" column="0" filename="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/slask.avsc" />
       <jump line="0" column="0" filename="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/slask.avsc" />
       <jump line="57" column="0" filename="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/notification.avsc" />
+      <jump line="46" column="65" filename="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avsc" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>],</text>
       </register>
       <register name="/" type="4">
         <text>heade</text>
@@ -336,7 +346,7 @@
         <text encoding="base64">ICAgIGN1cmwgLVggUE9TVCAtSCAiQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uIiAtZCAneyJ0byI6IFsiY3VzdG9tZXItaWQtMSIsICJjdXN0b21lci1pZC0yIl0sInRhZ3MiOiBbInRhZy0xIiwgInRhZy0yIiwgInRhZy0zIl0sIm1lc3NhZ2UiOnsibm90aWZpY2F0aW9uIjp7InRpdGxlIjoiTEYgbm90aWZpY2F0aW9uIiwiYm9keSI6IllvdSBoYXZlIHJlY2VpdmVkIGEgc2VjdXJlIG1lc3NhZ2UifX19JyBodHRwOi8vbG9jYWxob3N0OjkwMDAvbm90aWZpY2F0aW9uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -358,28 +368,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgInN5bWJvbHMiOiBbCiAgICAgICAgICAgICAgICAgICAgIlRPRE8iLAogICAgICAgICAgICAgICAgICAgICIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImRvYyI6ICJUaGUgcGF5bG9hZCB0byBiZSBzZW50IHRvIHRhcmdldGVkIGN1c3RvbWVycyBpT1MgZGV2aWNlcyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInR5cGUiOiAiZW51bSIsCiAgICAgICAgICAgICJzeW1ib2xzIiA6IFsiVE9ETyIsICIiXSwKICAgICAgICAgICAgImRvYyI6ICJUaGUgcmVzdWx0IGNvZGUuIFR5cGljYWxseSwgdGhlIGh0dHAgcmVzcG9uc2UgY29kZSBvZiB0aGUgR29vZ2xlIG9yIEFwcGxlIFBOUyBzZXJ2aWNlLiBPdGhlcndpc2UsIDEwOiBJbnRlcm5hbCBlcnJvciBpbiBtZXNzYWdlIGh1YiwgMjA6IENvbW11bmljYXRpb24gZXJyb3Igd2l0aCBQTlMiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAibnVsbCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImRlZmF1bHQiOiAibnVsbCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgIm5hbWUiOiAiaU9TX3BheWxvYWQiLAogICAgICAgICAgICAidHlwZSI6IFsKICAgICAgICAgICAgICAic3RyaW5nIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgXSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgInN5bWJvbHMiOiBbCiAgICAgICAgICAgICAgICAgICAgIlRPRE8iLAogICAgICAgICAgICAgICAgICAgICIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24uc2V0SGVhZGVyKEhlYWRlci5uZXdCdWlsZGVyKCkuYnVpbGQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInR5cGUiOiAiZW51bSIsCiAgICAgICAgICAgICJzeW1ib2xzIiA6IFsiVE9ETyIsICIiXSwKICAgICAgICAgICAgImRvYyI6ICJUaGUgcmVzdWx0IGNvZGUuIFR5cGljYWxseSwgdGhlIGh0dHAgcmVzcG9uc2UgY29kZSBvZiB0aGUgR29vZ2xlIG9yIEFwcGxlIFBOUyBzZXJ2aWNlLiBPdGhlcndpc2UsIDEwOiBJbnRlcm5hbCBlcnJvciBpbiBtZXNzYWdlIGh1YiwgMjA6IENvbW11bmljYXRpb24gZXJyb3Igd2l0aCBQTlMiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBOb3RpZmljYXRpb24gbm90aWZpY2F0aW9uID0gbmV3IE5vdGlmaWNhdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
