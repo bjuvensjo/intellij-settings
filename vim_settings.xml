@@ -105,6 +105,11 @@
       <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/resources/data/StartSigningTest/101/BidSecurityApi.asmx/GlobalRequest.groovy" timestamp="1591619194147">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/slask.request.json" timestamp="1602755128134">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/slask.json" timestamp="1597920328336">
         <mark key="'" line="2" column="10" />
         <mark key="[" line="0" column="0" />
@@ -199,6 +204,9 @@
       <file name="/Dummy.txt" timestamp="1591801208732">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/slask.response.json" timestamp="1602754574657">
+        <mark key="[" line="6" column="3" />
+      </file>
       <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStreamJava.java" timestamp="1598519577027">
         <mark key="'" line="70" column="42" />
         <mark key="[" line="42" column="0" />
@@ -236,8 +244,8 @@
         <mark key="]" line="11" column="33" />
         <mark key="." line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/slask.json" timestamp="1602753669657">
-        <mark key="[" line="83" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/slask.json" timestamp="1602754921190">
+        <mark key="[" line="3" column="68" />
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
@@ -352,7 +360,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>A service provided to consumers who want to find customer information for GKL</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>heade</text>
@@ -361,7 +369,7 @@
         <text>se.lf.csl.mhub.api.notificationlog.Header</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -383,28 +391,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LAo=</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImRlc2NyaXB0aW9uIjogIkVycm9yQ29kZSB8IE1lc3NhZ2UgfCBIdHRwQ29kZVxuLS0tLS0tLS0tIHwgLS0tLS0tLSB8IC0tLS0tLS0tXG4xMCB8IEFjY2VzcyBkZW5pZWQgfCA0MDFcbjExIHwgU3lzdGVtIGVycm9yIHwgNTAwXG4xMiB8IEJhZCByZXF1ZXN0IHwgNDAwXG4xMDAgfCBUaGUgaW50ZXJhY3Rpb24gaWQgaXMgaW52YWxpZCB8IDQyMlxuMTAxIHwgVGhlIHJlc291cmNlIHR5cGUgaXMgaW52YWxpZCB8IDQyMlxuMTAyIHwgVGhlIHZhbHVlIG9mIHZlcmlmaWVkIGlzIGludmFsaWQgfCA0MjJcbjEwMyB8IFRoZSB2YWx1ZSBvZiBwcml2YXRlT3JDb3JwIGlzIGludmFsaWQgfCA0MjIiCg==</text>
+        <text encoding="base64">LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInRpdGxlIjogIlNFcnJvciIsCg==</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImRlc2NyaXB0aW9uIjogIkVycm9yQ29kZSB8IE1lc3NhZ2UgfCBIdHRwQ29kZVxuLS0tLS0tLS0tIHwgLS0tLS0tLSB8IC0tLS0tLS0tXG4xMCB8IEFjY2VzcyBkZW5pZWQgfCA0MDFcbjExIHwgU3lzdGVtIGVycm9yIHwgNTAwXG4xMiB8IEJhZCByZXF1ZXN0IHwgNDAwXG4xMDAgfCBUaGUgaW50ZXJhY3Rpb24gaWQgaXMgaW52YWxpZCB8IDQyMlxuMTAxIHwgVGhlIHJlc291cmNlIHR5cGUgaXMgaW52YWxpZCB8IDQyMlxuMTAyIHwgVGhlIHZhbHVlIG9mIHZlcmlmaWVkIGlzIGludmFsaWQgfCA0MjJcbjEwMyB8IFRoZSB2YWx1ZSBvZiBwcml2YXRlT3JDb3JwIGlzIGludmFsaWQgfCA0MjIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgInRpdGxlIjogIlNFcnJvciIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiZXhhbXBsZSI6ICJUaGUgaW50ZXJhY3Rpb24gaWQgaXMgaW52YWxpZCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJzdHJpbmciLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
