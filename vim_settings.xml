@@ -31,8 +31,10 @@
         <mark key="^" line="73" column="19" />
         <mark key="." line="73" column="20" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/pom.xml" timestamp="1603091040358">
-        <mark key="[" line="34" column="48" />
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/pom.xml" timestamp="1603093960123">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/fx/src/sample/Slask.java" timestamp="1590477250277">
         <mark key="[" line="2" column="20" />
@@ -98,6 +100,11 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/README.md" timestamp="1603095440658">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="180" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/java/se/lf/csl/mhub/api/notification/Slask.java" timestamp="1602681532003">
         <mark key="[" line="36" column="60" />
@@ -183,12 +190,13 @@
         <mark key="." line="4" column="11" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/README.md" timestamp="1602675917135">
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/README.md" timestamp="1603094046783">
         <mark key="'" line="30" column="4" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="270" />
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="8" column="60" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/service/ms/mhub/notification/fcm/FCMNotification.groovy" timestamp="1603094921976" />
       <file name="$USER_HOME$/git-lhb/LP_NORNORNA/app.addattachment_rest.v1_0/slask.txt" timestamp="1591011642550">
         <mark key="[" line="0" column="0" />
       </file>
@@ -224,6 +232,11 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/resources/application.properties" timestamp="1603095367428">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+      </file>
       <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/NotificationLogExample.json" timestamp="1602685500052" />
       <file name="$USER_HOME$/git-evry/IPAAS/cd.jenkins.lib/test/createConfigMapDataTest.groovy" timestamp="1602229768303">
         <mark key="[" line="23" column="20" />
@@ -235,6 +248,9 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/resources/service-account.json" timestamp="1603095396261">
+        <mark key="'" line="1" column="21" />
       </file>
       <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/fcm/FCMPush.groovy" timestamp="1597926768970">
         <mark key="'" line="21" column="56" />
@@ -258,10 +274,13 @@
       <file name="/fragment.java" timestamp="1598359571002">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/ws-csphub/pom.xml" timestamp="1603094397548">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="12" column="39" />
+        <mark key="." line="12" column="39" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/pom.xml" />
-      <jump line="53" column="0" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/pom.xml" />
       <jump line="139" column="8" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/pom.xml" />
       <jump line="47" column="27" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/java/signing/StartSigningTest.groovy" />
       <jump line="140" column="0" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/pom.xml" />
@@ -360,19 +379,21 @@
       <jump line="0" column="0" filename="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/slask.avsc" />
       <jump line="57" column="0" filename="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/notification.avsc" />
       <jump line="46" column="65" filename="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avsc" />
+      <jump line="15" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/README.md" />
+      <jump line="1" column="21" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/resources/service-account.json" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>heade</text>
+        <text>notification</text>
       </register>
       <register name="0" type="4">
-        <text>se.lf.csl.mhub.api.notificationlog.Header</text>
+        <text>{&quot;to&quot;: [&quot;customer-id-1&quot;, &quot;customer-id-2&quot;],&quot;tags&quot;: [&quot;tag-1&quot;, &quot;tag-2&quot;, &quot;tag-3&quot;],&quot;message&quot;:{&quot;notification&quot;:{&quot;title&quot;:&quot;LF notification&quot;,&quot;body&quot;:&quot;You have received a secure message&quot;}}}</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="1" type="4">
+        <text>mhub.api.repository</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -394,46 +415,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">CQkJPHR5cGU+cG9tPC90eXBlPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LAo=</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImRlc2NyaXB0aW9uIjogIkVycm9yQ29kZSB8IE1lc3NhZ2UgfCBIdHRwQ29kZVxuLS0tLS0tLS0tIHwgLS0tLS0tLSB8IC0tLS0tLS0tXG4xMCB8IEFjY2VzcyBkZW5pZWQgfCA0MDFcbjExIHwgU3lzdGVtIGVycm9yIHwgNTAwXG4xMiB8IEJhZCByZXF1ZXN0IHwgNDAwXG4xMDAgfCBUaGUgaW50ZXJhY3Rpb24gaWQgaXMgaW52YWxpZCB8IDQyMlxuMTAxIHwgVGhlIHJlc291cmNlIHR5cGUgaXMgaW52YWxpZCB8IDQyMlxuMTAyIHwgVGhlIHZhbHVlIG9mIHZlcmlmaWVkIGlzIGludmFsaWQgfCA0MjJcbjEwMyB8IFRoZSB2YWx1ZSBvZiBwcml2YXRlT3JDb3JwIGlzIGludmFsaWQgfCA0MjIiCg==</text>
+        <text encoding="base64">LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInRpdGxlIjogIlNFcnJvciIsCg==</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImRlc2NyaXB0aW9uIjogIkVycm9yQ29kZSB8IE1lc3NhZ2UgfCBIdHRwQ29kZVxuLS0tLS0tLS0tIHwgLS0tLS0tLSB8IC0tLS0tLS0tXG4xMCB8IEFjY2VzcyBkZW5pZWQgfCA0MDFcbjExIHwgU3lzdGVtIGVycm9yIHwgNTAwXG4xMiB8IEJhZCByZXF1ZXN0IHwgNDAwXG4xMDAgfCBUaGUgaW50ZXJhY3Rpb24gaWQgaXMgaW52YWxpZCB8IDQyMlxuMTAxIHwgVGhlIHJlc291cmNlIHR5cGUgaXMgaW52YWxpZCB8IDQyMlxuMTAyIHwgVGhlIHZhbHVlIG9mIHZlcmlmaWVkIGlzIGludmFsaWQgfCA0MjJcbjEwMyB8IFRoZSB2YWx1ZSBvZiBwcml2YXRlT3JDb3JwIGlzIGludmFsaWQgfCA0MjIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgInRpdGxlIjogIlNFcnJvciIsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>%s/notification/push/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>heade</last-search>
+      <last-search>notification</last-search>
       <last-offset />
-      <last-pattern>heade</last-pattern>
-      <last-replace>&quot;</last-replace>
-      <last-substitute>'</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-pattern>notification</last-pattern>
+      <last-replace>push</last-replace>
+      <last-substitute>notification</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">cHVibGljIA==</entry>
-        <entry encoding="base64">XDxhY2Nlc3NUb2tlblw+</entry>
         <entry>&quot;</entry>
         <entry>http</entry>
         <entry>.</entry>
@@ -452,9 +471,10 @@
         <entry>'</entry>
         <entry>return</entry>
         <entry>heade</entry>
+        <entry encoding="base64">PA==</entry>
+        <entry>notification</entry>
       </history-search>
       <history-cmd>
-        <entry>s/name,/cfg.name,/gc</entry>
         <entry>%s/name/cfg.name/gc</entry>
         <entry encoding="base64">JzwsJz5zL3ZlcnNpb24sL2NmZy52ZXJzaW9uLC9nYw==</entry>
         <entry encoding="base64">JzwsJz5zL3ZlcnNpb24vY2ZnLnZlcnNpb24vZ2M=</entry>
@@ -474,6 +494,7 @@
         <entry>%s/;//g</entry>
         <entry>%s/'/&quot;/g</entry>
         <entry>wq</entry>
+        <entry>%s/notification/push/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
