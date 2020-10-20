@@ -14,6 +14,7 @@
       <file name="/a.dummy" timestamp="1597922796629">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/test1/src/main/java/se/lf/csl/test1/StreamExampleGroovy.groovy" timestamp="1603182273999" />
       <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/README.md" timestamp="1602680372100">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="12" />
@@ -150,8 +151,10 @@
       <file name="$USER_HOME$/git-evry/IPAAS/cd.jenkins.lib/README.md" timestamp="1602230294149">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/test1/pom.xml" timestamp="1603180892589">
-        <mark key="[" line="15" column="16" />
+      <file name="$USER_HOME$/git-CSPHUB/test1/pom.xml" timestamp="1603182386602">
+        <mark key="[" line="33" column="21" />
+        <mark key="]" line="23" column="21" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/yaml/route.yaml" timestamp="1584637694086">
         <mark key="[" line="4" column="49" />
@@ -172,6 +175,13 @@
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.bankholidays/src/main/java/se/lf/service/Slask.java" timestamp="1587047300913">
         <mark key="[" line="2" column="20" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/test1/src/main/java/se/lf/csl/test1/StreamsExample.java" timestamp="1603183917203">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="27" column="31" />
+        <mark key="." line="27" column="31" />
+        <mark key="^" line="28" column="17" />
+      </file>
       <file name="$USER_HOME$/git-meddelandehub/push1/pom.xml" timestamp="1592315521526">
         <mark key="'" line="27" column="21" />
         <mark key="[" line="18" column="0" />
@@ -183,6 +193,12 @@
         <mark key="[" line="10" column="17" />
         <mark key="]" line="10" column="17" />
         <mark key="." line="10" column="17" />
+      </file>
+      <file name="$USER_HOME$/git-CSPHUB/test1/src/main/java/se/lf/csl/test1/StreamExample.groovy" timestamp="1603182179934">
+        <mark key="[" line="25" column="65" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="25" column="64" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/Dummy.groovy" timestamp="1597654912853">
         <mark key="[" line="0" column="0" />
@@ -240,6 +256,10 @@
         <mark key="]" line="4" column="23" />
         <mark key="." line="4" column="23" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/pom.xml" timestamp="1603182036552">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="47" />
+      </file>
       <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/NotificationLogExample.json" timestamp="1602685500052" />
       <file name="$USER_HOME$/git-evry/IPAAS/cd.jenkins.lib/test/createConfigMapDataTest.groovy" timestamp="1602229768303">
         <mark key="[" line="23" column="20" />
@@ -284,7 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="8" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/pom.xml" />
       <jump line="47" column="27" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/java/signing/StartSigningTest.groovy" />
       <jump line="140" column="0" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/pom.xml" />
       <jump line="20" column="11" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/signing/StartSigningTest.groovy" />
@@ -384,19 +403,20 @@
       <jump line="46" column="65" filename="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avsc" />
       <jump line="15" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/README.md" />
       <jump line="1" column="21" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/resources/service-account.json" />
+      <jump line="27" column="0" filename="$USER_HOME$/git-CSPHUB/test1/src/main/java/se/lf/csl/test1/StreamsExample.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>ms.mhub.notification</text>
+        <text>Long</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PA==</text>
+        <text>&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text>{&quot;to&quot;: [&quot;customer-id-1&quot;, &quot;customer-id-2&quot;],&quot;tags&quot;: [&quot;tag-1&quot;, &quot;tag-2&quot;, &quot;tag-3&quot;],&quot;message&quot;:{&quot;notification&quot;:{&quot;title&quot;:&quot;LF notification&quot;,&quot;body&quot;:&quot;You have received a secure message&quot;}}}</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQk8Z3Jvb3Z5LnZlcnNpb24+Mi40LjIwPC9ncm9vdnkudmVyc2lvbj4K</text>
       </register>
       <register name="1" type="4">
-        <text>ms.mhub.notification</text>
+        <text>word-counts-input-topic</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -417,38 +437,38 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>mhub.api.repository</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvL2J1aWxkZXIuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJPHR5cGU+cG9tPC90eXBlPgo=</text>
+        <text encoding="base64">ICAgIC8vIFNldCBhIGZldyBrZXkgcGFyYW1ldGVycwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBzZXR0aW5ncy5wdXQoU3RyZWFtc0NvbmZpZy4sIDEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUua2Fma2Euc3RyZWFtcy5wcm9jZXNzb3IuVG9wb2xvZ3k7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUua2Fma2Euc3RyZWFtcy5rc3RyZWFtLlN0cmVhbXNCdWlsZGVyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LAo=</text>
+        <text encoding="base64">ICAgICAgICAuLi47ICAvLyB3aGVuIHVzaW5nIHRoZSBEU0wK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAuLi47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImRlc2NyaXB0aW9uIjogIkVycm9yQ29kZSB8IE1lc3NhZ2UgfCBIdHRwQ29kZVxuLS0tLS0tLS0tIHwgLS0tLS0tLSB8IC0tLS0tLS0tXG4xMCB8IEFjY2VzcyBkZW5pZWQgfCA0MDFcbjExIHwgU3lzdGVtIGVycm9yIHwgNTAwXG4xMiB8IEJhZCByZXF1ZXN0IHwgNDAwXG4xMDAgfCBUaGUgaW50ZXJhY3Rpb24gaWQgaXMgaW52YWxpZCB8IDQyMlxuMTAxIHwgVGhlIHJlc291cmNlIHR5cGUgaXMgaW52YWxpZCB8IDQyMlxuMTAyIHwgVGhlIHZhbHVlIG9mIHZlcmlmaWVkIGlzIGludmFsaWQgfCA0MjJcbjEwMyB8IFRoZSB2YWx1ZSBvZiBwcml2YXRlT3JDb3JwIGlzIGludmFsaWQgfCA0MjIiCg==</text>
+        <text encoding="base64">ICAgICAgICBQcm9wZXJ0aWVzIHByb3BzID0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/notification/push/gc</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PA==</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PA==</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-replace>push</last-replace>
       <last-substitute>notification</last-substitute>
       <last-dir>1</last-dir>
@@ -456,7 +476,6 @@
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
         <entry>http</entry>
         <entry>.</entry>
         <entry>FCM</entry>
@@ -476,9 +495,9 @@
         <entry>heade</entry>
         <entry>notification</entry>
         <entry encoding="base64">PA==</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/name/cfg.name/gc</entry>
         <entry encoding="base64">JzwsJz5zL3ZlcnNpb24sL2NmZy52ZXJzaW9uLC9nYw==</entry>
         <entry encoding="base64">JzwsJz5zL3ZlcnNpb24vY2ZnLnZlcnNpb24vZ2M=</entry>
         <entry>%s/develop/ms/gc</entry>
@@ -498,6 +517,7 @@
         <entry>%s/'/&quot;/g</entry>
         <entry>wq</entry>
         <entry>%s/notification/push/gc</entry>
+        <entry>&quot;p</entry>
       </history-cmd>
       <history-expr />
       <history-input />
