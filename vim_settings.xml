@@ -64,6 +64,12 @@
       <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/Http.groovy" timestamp="1597928997920">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/test1/src/main/java/se/lf/csl/test1/API.java" timestamp="1603201948512">
+        <mark key="[" line="4" column="69" />
+        <mark key="]" line="7" column="14" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+      </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/TODO.md" timestamp="1590656584327">
         <mark key="[" line="6" column="104" />
       </file>
@@ -72,6 +78,18 @@
         <mark key="[" line="73" column="4" />
         <mark key="]" line="73" column="4" />
         <mark key="." line="73" column="4" />
+      </file>
+      <file name="$USER_HOME$/git/buyandsellgold/src/main/java/mygroup/buyandsellgold/Solution.java" timestamp="1603202114696">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/buyandsellgold/src/main/java/mygroup/buyandsellgold/API.java" timestamp="1603202678216">
+        <mark key="[" line="6" column="44" />
+        <mark key="]" line="6" column="44" />
+        <mark key="^" line="4" column="76" />
+        <mark key="." line="6" column="44" />
       </file>
       <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/resources/logback.xml" timestamp="1591354280585">
         <mark key="[" line="0" column="0" />
@@ -188,6 +206,12 @@
         <mark key="]" line="22" column="21" />
         <mark key="." line="35" column="32" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avsc" timestamp="1602684362933">
+        <mark key="'" line="46" column="65" />
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+      </file>
       <file name="$USER_HOME$/git-CSPHUB/test1/src/main/java/se/lf/csl/test1/StreamExample.groovy" timestamp="1603182179934">
         <mark key="[" line="25" column="65" />
         <mark key="]" line="18" column="0" />
@@ -213,11 +237,10 @@
       <file name="$USER_HOME$/git-lhb/LP_NORNORNA/app.addattachment_rest.v1_0/slask.txt" timestamp="1591011642550">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/test1/src/main/java/se/lf/csl/test1/Solution.java" timestamp="1603199846144">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/test1/src/main/java/se/lf/csl/test1/Solution.java" timestamp="1603201870070">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/TODO.md" timestamp="1597677985938">
         <mark key="[" line="0" column="24" />
@@ -245,6 +268,9 @@
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/yaml/service.yaml" timestamp="1584637728668">
         <mark key="[" line="4" column="49" />
+      </file>
+      <file name="$USER_HOME$/git/buyandsellgold/pom.xml" timestamp="1603202355294">
+        <mark key="[" line="15" column="16" />
       </file>
       <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStreamConfig.groovy" timestamp="1597928622984">
         <mark key="[" line="55" column="0" />
@@ -294,7 +320,7 @@
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Dialogs.java" timestamp="1590605905713">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1603197320621">
+      <file name="/fragment.java" timestamp="1603202183177">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/ws-csphub/pom.xml" timestamp="1603180863095">
@@ -304,7 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="27" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/java/signing/StartSigningTest.groovy" />
       <jump line="140" column="0" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/pom.xml" />
       <jump line="20" column="11" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/signing/StartSigningTest.groovy" />
       <jump line="12" column="23" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/resources/data/StartSigningTest/101/BidSecurityApi.asmx/Sign-HappyFlowRequest.xml" />
@@ -404,19 +429,20 @@
       <jump line="15" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/README.md" />
       <jump line="1" column="21" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/resources/service-account.json" />
       <jump line="27" column="0" filename="$USER_HOME$/git-CSPHUB/test1/src/main/java/se/lf/csl/test1/StreamsExample.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/git/buyandsellgold/src/main/java/mygroup/buyandsellgold/Solution.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>2</text>
+        <text>7, 12, 5, 3, 11, 1, 6, 10, 12, 2</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50W10gZGF5czsKCiAgICBwdWJsaWMgU29sdXRpb24oKSB7CiAgICAgICAgdGhpcy5kYXlzID0gZmluZERheXMoKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgYmVzdFByb2ZpdCA9IEludGVnZXIuTUlOX1ZBTFVFOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGxlbmd0aDsK</text>
+      <register name="1" type="4">
+        <text>7, 12, 5, 3, 11, 1, 6, 10, 12, 2</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -438,37 +464,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50W10gZ29sZFByaWNlOyAK</text>
+        <text encoding="base64">cGFja2FnZSBzZS5sZi5jc2wudGVzdDE7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc1Byb2ZpdDsK</text>
+        <text encoding="base64">CnB1YmxpYyBjbGFzcyBTb2x1dGlvbiB7Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGJlc3RQcm9maXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSW50ZWdlci5NSU5fVkFMVUUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgYnV5RGF5ID0gMDsKICAgICAgICBpbnQgc2VsbERheSA9IDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly90aGlzLmdvbGRQcmljZT1BUEkuZ2V0UHJpY2VPbkRheShkYXkpO3RoaXMubGVuZ3RoPUFQSS5nZXROdW1EYXlzKCk7Ly9TeXN0ZW0ub3V0LnByaW50bG4oIlRoaXNpc2dpdmVnb2xkcHJpY2U6Ij0rZ29sZFByaWNlKTsvL2lmKGdvbGRQcmljZT09bnVsbHx8Z29sZFByaWNlLmxlbmd0aDwyKXsvL1N5c3RlbS5vdXQucHJpbnRsbigiSW52YWxpZElucHV0Iik7Ly99Ly9lbHNle3RoaXMuYnV5aW5nRGF5PTA7dGhpcy5iZXN0UHJvZml0PTA7dGhpcy5pc1Byb2ZpdD1mYWxzZTtmaW5kaW5nRGF5cygpOy8vfX0vL0ZpbmRIZWlnaGVzdFByb2ZpdHB1YmxpY3ZvaWRmaW5kaW5nRGF5cygpe2ZvcihpbnRpPTA7aTwodGhpcy5sZW5ndGgtMSk7aSsrKXtmb3IoaW50aj1pKzE7ajxsZW5ndGg7aisrKXtpZihBUEkuZ2V0UHJpY2VPbkRheShqKS1BUEkuZ2V0UHJpY2VPbkRheShqKT5iZXN0UHJvZml0KXtiZXN0UHJvZml0PUFQSS5nZXRQcmljZU9uRGF5KGopLUFQSS5nZXRQcmljZU9uRGF5KGkpO2J1eWluZ0RheT1pO3NlbGxpbmdEYXk9ajtpc1Byb2ZpdD10cnVlO319fS8vUmVkdWNldGhlbG9zc2lmKCFpc1Byb2ZpdCl7YmVzdFByb2ZpdD1BUEkuZ2V0UHJpY2VPbkRheSgxKS1BUEkuZ2V0UHJpY2VPbkRheSgwKTtidXlpbmdEYXk9MDtzZWxsaW5nRGF5PTE7Zm9yKGludGk9MDtpPGxlbmd0aC0xO2krKyl7Zm9yKGludGo9aSsxO2o8bGVuZ3RoO2orKyl7aWYoQVBJLmdldFByaWNlT25EYXkoaiktQVBJLmdldFByaWNlT25EYXkoaSk+YmVzdFByb2ZpdCl7YmVzdFByb2ZpdD1BUEkuZ2V0UHJpY2VPbkRheShqKS1BUEkuZ2V0UHJpY2VPbkRheShpKTtidXlpbmdEYXk9aTtzZWxsaW5nRGF5PWo7fX19fX0vKioqUmV0dXJudGhlZGF5d2hpY2h5b3VidXlnb2xkLlRoZWZpcnN0ZGF5aGFzbnVtYmVyemVyby5UaGlzbWV0aG9kaXMqY2FsbGVkZmlyc3QsYW5kb25seW9uY2UuKi9wdWJsaWNpbnRnZXRCdXlEYXkoKXsvL1dyaXRleW91cmNvZGVoZXJlcmV0dXJuYnV5aW5nRGF5O30vKioqUmV0dXJudGhlZGF5dG9zZWxsZ29sZG9uLlRoaXNkYXloYXN0b2JlYWZ0ZXIoZ3JlYXRlcnRoYW4pdGhlYnV5KmRheS5UaGVmaXJzdGRheWhhc251bWJlcnplcm8oYWx0aG91Z2h0aGlzaXNub3RhdmFsaWRzZWxsZGF5KS5UaGlzKm1ldGhvZGlzY2FsbGVkc2Vjb25kLGFuZG9ubHlvbmNlLiovcHVibGljaW50Z2V0U2VsbERheSgpey8vV3JpdGV5b3VyY29kZWhlcmVyZXR1cm5zZWxsaW5nRGF5O31wdWJsaWN2b2lkc2V0YnV5aW5nRGF5KGludGJ1eSl7dGhpcy5idXlpbmdEYXk9YnV5O31wdWJsaWN2b2lkc2V0c2VsbGluZ0RheShpbnRzZWwK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgYmVzdFByb2ZpdCA9IEludGVnZXIuTUlOX1ZBTFVFOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0amF2YS51dGlsLio7cHVibGljY2xhc3NTb2x1dGlvbmltcGxlbWVudHNTb2x1dGlvbkludGVyZmFjZXtwcml2YXRlaW50YnV5aW5nRGF5LHNlbGxpbmdEYXk7cHJpdmF0ZWludGJlc3RQcm9maXQ7cHJpdmF0ZWJvb2xlYW5pc1Byb2ZpdDtwcml2YXRlaW50W11nb2xkUHJpY2U7cHJpdmF0ZWludGxlbmd0aDtwdWJsaWNTb2x1dGlvbigpey8vWW91Y2FuaW5pdGlhdGVhbmRjYWxjdWxhdGV0aGluZ3NoZXJldGhpcy5zZXRidXlpbmdEYXkoLTEpO3RoaXMuc2V0c2VsbGluZ0RheSgtMSk7Ly90aGlsZFBpQVBJdFBpT0QoZCkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGxlbmd0aDsK</text>
       </register>
-      <register name="8" type="4">
-        <text>word-counts-input-topic</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50W10gZ29sZFByaWNlOyAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL2J1aWxkZXIuCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc1Byb2ZpdDsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/notification/push/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>}</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>}</last-pattern>
       <last-replace>push</last-replace>
       <last-substitute>notification</last-substitute>
       <last-dir>1</last-dir>
@@ -476,7 +502,6 @@
     </search>
     <history>
       <history-search>
-        <entry>http</entry>
         <entry>.</entry>
         <entry>FCM</entry>
         <entry>top</entry>
@@ -496,6 +521,7 @@
         <entry>notification</entry>
         <entry encoding="base64">PA==</entry>
         <entry>&quot;</entry>
+        <entry>}</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ZlcnNpb24sL2NmZy52ZXJzaW9uLC9nYw==</entry>
