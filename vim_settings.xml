@@ -213,10 +213,11 @@
       <file name="$USER_HOME$/git-lhb/LP_NORNORNA/app.addattachment_rest.v1_0/slask.txt" timestamp="1591011642550">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/test1/src/main/java/se/lf/csl/test1/Solution.java" timestamp="1603198481672">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/test1/src/main/java/se/lf/csl/test1/Solution.java" timestamp="1603199846144">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/TODO.md" timestamp="1597677985938">
         <mark key="[" line="0" column="24" />
@@ -406,13 +407,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQk8Z3Jvb3Z5LnZlcnNpb24+Mi40LjIwPC9ncm9vdnkudmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50W10gZGF5czsKCiAgICBwdWJsaWMgU29sdXRpb24oKSB7CiAgICAgICAgdGhpcy5kYXlzID0gZmluZERheXMoKTsKICAgIH0KCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgaW50IGxlbmd0aDsK</text>
