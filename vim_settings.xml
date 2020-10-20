@@ -188,12 +188,6 @@
         <mark key="]" line="22" column="21" />
         <mark key="." line="35" column="32" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avsc" timestamp="1602684362933">
-        <mark key="'" line="46" column="65" />
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="17" />
-        <mark key="." line="10" column="17" />
-      </file>
       <file name="$USER_HOME$/git-CSPHUB/test1/src/main/java/se/lf/csl/test1/StreamExample.groovy" timestamp="1603182179934">
         <mark key="[" line="25" column="65" />
         <mark key="]" line="18" column="0" />
@@ -218,6 +212,12 @@
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/service/ms/mhub/notification/fcm/FCMNotification.groovy" timestamp="1603094921976" />
       <file name="$USER_HOME$/git-lhb/LP_NORNORNA/app.addattachment_rest.v1_0/slask.txt" timestamp="1591011642550">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-CSPHUB/test1/src/main/java/se/lf/csl/test1/Solution.java" timestamp="1603197340938">
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/TODO.md" timestamp="1597677985938">
         <mark key="[" line="0" column="24" />
@@ -294,7 +294,7 @@
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Dialogs.java" timestamp="1590605905713">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1598359571002">
+      <file name="/fragment.java" timestamp="1603197320621">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/ws-csphub/pom.xml" timestamp="1603180863095">
@@ -407,7 +407,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Long</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -415,8 +415,8 @@
       <register name="0" type="2">
         <text encoding="base64">CQk8Z3Jvb3Z5LnZlcnNpb24+Mi40LjIwPC9ncm9vdnkudmVyc2lvbj4K</text>
       </register>
-      <register name="1" type="4">
-        <text>word-counts-input-topic</text>
+      <register name="1" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -438,28 +438,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL2J1aWxkZXIuCg==</text>
+        <text encoding="base64">Ly90aGlzLmdvbGRQcmljZT1BUEkuZ2V0UHJpY2VPbkRheShkYXkpO3RoaXMubGVuZ3RoPUFQSS5nZXROdW1EYXlzKCk7Ly9TeXN0ZW0ub3V0LnByaW50bG4oIlRoaXNpc2dpdmVnb2xkcHJpY2U6Ij0rZ29sZFByaWNlKTsvL2lmKGdvbGRQcmljZT09bnVsbHx8Z29sZFByaWNlLmxlbmd0aDwyKXsvL1N5c3RlbS5vdXQucHJpbnRsbigiSW52YWxpZElucHV0Iik7Ly99Ly9lbHNle3RoaXMuYnV5aW5nRGF5PTA7dGhpcy5iZXN0UHJvZml0PTA7dGhpcy5pc1Byb2ZpdD1mYWxzZTtmaW5kaW5nRGF5cygpOy8vfX0vL0ZpbmRIZWlnaGVzdFByb2ZpdHB1YmxpY3ZvaWRmaW5kaW5nRGF5cygpe2ZvcihpbnRpPTA7aTwodGhpcy5sZW5ndGgtMSk7aSsrKXtmb3IoaW50aj1pKzE7ajxsZW5ndGg7aisrKXtpZihBUEkuZ2V0UHJpY2VPbkRheShqKS1BUEkuZ2V0UHJpY2VPbkRheShqKT5iZXN0UHJvZml0KXtiZXN0UHJvZml0PUFQSS5nZXRQcmljZU9uRGF5KGopLUFQSS5nZXRQcmljZU9uRGF5KGkpO2J1eWluZ0RheT1pO3NlbGxpbmdEYXk9ajtpc1Byb2ZpdD10cnVlO319fS8vUmVkdWNldGhlbG9zc2lmKCFpc1Byb2ZpdCl7YmVzdFByb2ZpdD1BUEkuZ2V0UHJpY2VPbkRheSgxKS1BUEkuZ2V0UHJpY2VPbkRheSgwKTtidXlpbmdEYXk9MDtzZWxsaW5nRGF5PTE7Zm9yKGludGk9MDtpPGxlbmd0aC0xO2krKyl7Zm9yKGludGo9aSsxO2o8bGVuZ3RoO2orKyl7aWYoQVBJLmdldFByaWNlT25EYXkoaiktQVBJLmdldFByaWNlT25EYXkoaSk+YmVzdFByb2ZpdCl7YmVzdFByb2ZpdD1BUEkuZ2V0UHJpY2VPbkRheShqKS1BUEkuZ2V0UHJpY2VPbkRheShpKTtidXlpbmdEYXk9aTtzZWxsaW5nRGF5PWo7fX19fX0vKioqUmV0dXJudGhlZGF5d2hpY2h5b3VidXlnb2xkLlRoZWZpcnN0ZGF5aGFzbnVtYmVyemVyby5UaGlzbWV0aG9kaXMqY2FsbGVkZmlyc3QsYW5kb25seW9uY2UuKi9wdWJsaWNpbnRnZXRCdXlEYXkoKXsvL1dyaXRleW91cmNvZGVoZXJlcmV0dXJuYnV5aW5nRGF5O30vKioqUmV0dXJudGhlZGF5dG9zZWxsZ29sZG9uLlRoaXNkYXloYXN0b2JlYWZ0ZXIoZ3JlYXRlcnRoYW4pdGhlYnV5KmRheS5UaGVmaXJzdGRheWhhc251bWJlcnplcm8oYWx0aG91Z2h0aGlzaXNub3RhdmFsaWRzZWxsZGF5KS5UaGlzKm1ldGhvZGlzY2FsbGVkc2Vjb25kLGFuZG9ubHlvbmNlLiovcHVibGljaW50Z2V0U2VsbERheSgpey8vV3JpdGV5b3VyY29kZWhlcmVyZXR1cm5zZWxsaW5nRGF5O31wdWJsaWN2b2lkc2V0YnV5aW5nRGF5KGludGJ1eSl7dGhpcy5idXlpbmdEYXk9YnV5O31wdWJsaWN2b2lkc2V0c2VsbGluZ0RheShpbnRzZWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFNldCBhIGZldyBrZXkgcGFyYW1ldGVycwo=</text>
+        <text encoding="base64">aW1wb3J0amF2YS51dGlsLio7cHVibGljY2xhc3NTb2x1dGlvbmltcGxlbWVudHNTb2x1dGlvbkludGVyZmFjZXtwcml2YXRlaW50YnV5aW5nRGF5LHNlbGxpbmdEYXk7cHJpdmF0ZWludGJlc3RQcm9maXQ7cHJpdmF0ZWJvb2xlYW5pc1Byb2ZpdDtwcml2YXRlaW50W11nb2xkUHJpY2U7cHJpdmF0ZWludGxlbmd0aDtwdWJsaWNTb2x1dGlvbigpey8vWW91Y2FuaW5pdGlhdGVhbmRjYWxjdWxhdGV0aGluZ3NoZXJldGhpcy5zZXRidXlpbmdEYXkoLTEpO3RoaXMuc2V0c2VsbGluZ0RheSgtMSk7Ly90aGlsZFBpQVBJdFBpT0QoZCkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXR0aW5ncy5wdXQoU3RyZWFtc0NvbmZpZy4sIDEpOwo=</text>
+      <register name="4" type="4">
+        <text>word-counts-input-topic</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUua2Fma2Euc3RyZWFtcy5wcm9jZXNzb3IuVG9wb2xvZ3k7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2J1aWxkZXIuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUua2Fma2Euc3RyZWFtcy5rc3RyZWFtLlN0cmVhbXNCdWlsZGVyOwo=</text>
+        <text encoding="base64">ICAgIC8vIFNldCBhIGZldyBrZXkgcGFyYW1ldGVycwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAuLi47ICAvLyB3aGVuIHVzaW5nIHRoZSBEU0wK</text>
+        <text encoding="base64">ICAgICAgICBzZXR0aW5ncy5wdXQoU3RyZWFtc0NvbmZpZy4sIDEpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuLi47Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUua2Fma2Euc3RyZWFtcy5wcm9jZXNzb3IuVG9wb2xvZ3k7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9wZXJ0aWVzIHByb3BzID0K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUua2Fma2Euc3RyZWFtcy5rc3RyZWFtLlN0cmVhbXNCdWlsZGVyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/notification/push/gc</text>
