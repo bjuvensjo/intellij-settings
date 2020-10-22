@@ -337,10 +337,10 @@
       <file name="/fragment.java" timestamp="1603202183177">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ws-csphub/pom.xml" timestamp="1603180863095">
-        <mark key="[" line="13" column="24" />
-        <mark key="]" line="13" column="24" />
-        <mark key="." line="13" column="24" />
+      <file name="$USER_HOME$/git-CSPHUB/ws-csphub/pom.xml" timestamp="1603382555344">
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="14" column="38" />
+        <mark key="." line="14" column="38" />
       </file>
     </filemarks>
     <jumps>
@@ -447,7 +447,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>assertTrue</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
