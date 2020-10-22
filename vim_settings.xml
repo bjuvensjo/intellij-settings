@@ -85,12 +85,6 @@
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/TODO.md" timestamp="1590656584327">
         <mark key="[" line="6" column="104" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStream.groovy" timestamp="1598524299623">
-        <mark key="'" line="10" column="17" />
-        <mark key="[" line="73" column="4" />
-        <mark key="]" line="73" column="4" />
-        <mark key="." line="73" column="4" />
-      </file>
       <file name="$USER_HOME$/git/buyandsellgold/src/main/java/mygroup/buyandsellgold/Solution.java" timestamp="1603270936168">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="9" column="0" />
@@ -120,12 +114,6 @@
         <mark key="." line="246" column="25" />
         <mark key="^" line="246" column="27" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/push1/src/main/java/se/lf/service/push1/Push2.groovy" timestamp="1592233616358">
-        <mark key="'" line="15" column="12" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
-      </file>
       <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushConsumer.groovy" timestamp="1597928863669">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -150,12 +138,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/slask.json" timestamp="1597920328336">
-        <mark key="'" line="2" column="10" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/api/notification/notification.avsc" timestamp="1602593375037">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="15" />
@@ -167,12 +149,6 @@
         <mark key="]" line="51" column="0" />
         <mark key="^" line="45" column="20" />
         <mark key="." line="51" column="0" />
-      </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/AndroidConsumer.groovy" timestamp="1597928264902">
-        <mark key="'" line="18" column="36" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/cd.kubernetes.client/vars/ResourceUtils.groovy" timestamp="1583866780820">
         <mark key="[" line="2" column="21" />
@@ -189,12 +165,6 @@
         <mark key="[" line="4" column="49" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/NotificationExample.json" timestamp="1602684334941" />
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/AndroidStream.groovy" timestamp="1597920879795">
-        <mark key="'" line="86" column="4" />
-        <mark key="[" line="53" column="24" />
-        <mark key="]" line="53" column="24" />
-        <mark key="." line="53" column="24" />
-      </file>
       <file name="$USER_HOME$/git-evry/IPAAS/cd.kubernetes.client/pom.xml" timestamp="1602160136641">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="17" />
@@ -210,12 +180,6 @@
         <mark key="]" line="22" column="51" />
         <mark key="." line="22" column="51" />
         <mark key="^" line="22" column="51" />
-      </file>
-      <file name="$USER_HOME$/git-meddelandehub/push1/pom.xml" timestamp="1592315521526">
-        <mark key="'" line="27" column="21" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="22" column="21" />
-        <mark key="." line="35" column="32" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avsc" timestamp="1602684362933">
         <mark key="'" line="46" column="65" />
@@ -238,12 +202,6 @@
         <mark key="." line="4" column="11" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/README.md" timestamp="1603094046783">
-        <mark key="'" line="30" column="4" />
-        <mark key="[" line="8" column="7" />
-        <mark key="]" line="8" column="60" />
-        <mark key="." line="49" column="0" />
-      </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/service/ms/mhub/notification/fcm/FCMNotification.groovy" timestamp="1603379959532">
         <mark key="[" line="19" column="44" />
         <mark key="]" line="19" column="71" />
@@ -255,6 +213,9 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-CSPHUB/secure.message.test/src/main/resources/mygroup/secure/message/test/CreateCaseService_v6.wsdl" timestamp="1603384330669">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/TODO.md" timestamp="1597677985938">
         <mark key="[" line="0" column="24" />
@@ -273,12 +234,6 @@
       </file>
       <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/slask.response.json" timestamp="1602754574657">
         <mark key="[" line="6" column="3" />
-      </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStreamJava.java" timestamp="1598519577027">
-        <mark key="'" line="70" column="42" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/yaml/service.yaml" timestamp="1584637728668">
         <mark key="[" line="4" column="49" />
@@ -315,15 +270,10 @@
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/resources/service-account.json" timestamp="1603095396261">
         <mark key="'" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/secure.message.test/src/main/resources/mygroup/secure/message/test/CreateCaseV6_20201020.xml" timestamp="1603383415060">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="16" column="28" />
-      </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/fcm/FCMPush.groovy" timestamp="1597926768970">
-        <mark key="'" line="21" column="56" />
-        <mark key="[" line="16" column="3" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/secure.message.test/src/main/resources/mygroup/secure/message/test/CreateCaseV6_20201020.xml" timestamp="1603386783760">
+        <mark key="'" line="92" column="53" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="63" />
       </file>
       <file name="$USER_HOME$/git-evry/IPAAS/ws-ipaas/pom.xml" timestamp="1602229293273">
         <mark key="[" line="11" column="33" />
@@ -348,15 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="0" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/pom.xml" />
-      <jump line="20" column="11" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/signing/StartSigningTest.groovy" />
-      <jump line="12" column="23" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/resources/data/StartSigningTest/101/BidSecurityApi.asmx/Sign-HappyFlowRequest.xml" />
-      <jump line="18" column="0" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/resources/StartSigningTest/101/Request.xml" />
-      <jump line="16" column="0" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/java/rsimulator/XmlSupport.groovy" />
-      <jump line="49" column="79" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/java/rsimulator/XmlSupport.groovy" />
-      <jump line="60" column="94" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/java/rsimulator/XmlSupport.groovy" />
-      <jump line="62" column="96" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/java/rsimulator/XmlSupport.groovy" />
-      <jump line="78" column="20" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/java/rsimulator/XmlSupport.groovy" />
       <jump line="9" column="38" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test2/src/test/resources/data/StartSigningTest/101/BidSecurityApi.asmx/Sign-HappyFlow.groovy" />
       <jump line="38" column="19" filename="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/java/signing/StartSigningTest.groovy" />
       <jump line="65" column="12" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/pom.xml" />
@@ -448,16 +389,25 @@
       <jump line="1" column="21" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/resources/service-account.json" />
       <jump line="27" column="0" filename="$USER_HOME$/git-CSPHUB/test1/src/main/java/se/lf/csl/test1/StreamsExample.java" />
       <jump line="55" column="0" filename="$USER_HOME$/git/buyandsellgold/src/main/java/mygroup/buyandsellgold/Solution.java" />
+      <jump line="1" column="24" filename="$USER_HOME$/git-CSPHUB/secure.message.test/src/main/resources/mygroup/secure/message/test/CreateCaseService_v6.wsdl" />
+      <jump line="16" column="39" filename="$USER_HOME$/git-CSPHUB/secure.message.test/src/main/resources/mygroup/secure/message/test/CreateCaseService_v6.wsdl" />
+      <jump line="23" column="39" filename="$USER_HOME$/git-CSPHUB/secure.message.test/src/main/resources/mygroup/secure/message/test/CreateCaseService_v6.wsdl" />
+      <jump line="31" column="45" filename="$USER_HOME$/git-CSPHUB/secure.message.test/src/main/resources/mygroup/secure/message/test/CreateCaseService_v6.wsdl" />
+      <jump line="44" column="113" filename="$USER_HOME$/git-CSPHUB/secure.message.test/src/main/resources/mygroup/secure/message/test/CreateCaseService_v6.wsdl" />
+      <jump line="463" column="12" filename="$USER_HOME$/git-CSPHUB/secure.message.test/src/main/resources/mygroup/secure/message/test/CreateCaseService_v6.wsdl" />
+      <jump line="480" column="12" filename="$USER_HOME$/git-CSPHUB/secure.message.test/src/main/resources/mygroup/secure/message/test/CreateCaseService_v6.wsdl" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-CSPHUB/secure.message.test/src/main/resources/mygroup/secure/message/test/CreateCaseService_v6.wsdl" />
+      <jump line="92" column="53" filename="$USER_HOME$/git-CSPHUB/secure.message.test/src/main/resources/mygroup/secure/message/test/CreateCaseV6_20201020.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>}</text>
+        <text>pri</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJPG5zOlN5c3RlbUluZm8+CgkJCQk8bnM6U3lzdGVtQ29kZT5LUzwvbnM6U3lzdGVtQ29kZT4KCQkJCTxuczpTdWJTeXN0ZW1Db2RlPldJTjwvbnM6U3ViU3lzdGVtQ29kZT4KCQkJCTxuczpDYWxsZXJzUG9pbnQ+MDE8L25zOkNhbGxlcnNQb2ludD4KCQkJPC9uczpTeXN0ZW1JbmZvPgo=</text>
+        <text encoding="base64">CQkJCQk8bnMxOk1hcmtldFNlZ21lbnRTcGVjaWZpYyB4c2k6bmlsPSJ0cnVlIi8+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgIGxvbmcgZW5kID0gU3lzdGVtLm5hbm9UaW1lKCk7Cg==</text>
@@ -510,9 +460,9 @@
       </register>
     </registers>
     <search>
-      <last-search>}</last-search>
+      <last-search>pri</last-search>
       <last-offset />
-      <last-pattern>}</last-pattern>
+      <last-pattern>pri</last-pattern>
       <last-replace>push</last-replace>
       <last-substitute>notification</last-substitute>
       <last-dir>1</last-dir>
@@ -520,8 +470,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.</entry>
-        <entry>FCM</entry>
         <entry>top</entry>
         <entry>stream</entry>
         <entry>publi</entry>
@@ -540,6 +488,8 @@
         <entry encoding="base64">PA==</entry>
         <entry>&quot;</entry>
         <entry>}</entry>
+        <entry>CreateCase</entry>
+        <entry>pri</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ZlcnNpb24sL2NmZy52ZXJzaW9uLC9nYw==</entry>
