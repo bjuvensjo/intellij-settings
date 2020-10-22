@@ -315,6 +315,10 @@
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/resources/service-account.json" timestamp="1603095396261">
         <mark key="'" line="1" column="21" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/secure.message.test/src/main/resources/mygroup/secure/message/test/CreateCaseV6_20201020.xml" timestamp="1603383415060">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="16" column="28" />
+      </file>
       <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/fcm/FCMPush.groovy" timestamp="1597926768970">
         <mark key="'" line="21" column="56" />
         <mark key="[" line="16" column="3" />
@@ -452,8 +456,8 @@
       <register name="/" type="4">
         <text>}</text>
       </register>
-      <register name="0" type="4">
-        <text>https://fcm.googleapis.com/v</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJPG5zOlN5c3RlbUluZm8+CgkJCQk8bnM6U3lzdGVtQ29kZT5LUzwvbnM6U3lzdGVtQ29kZT4KCQkJCTxuczpTdWJTeXN0ZW1Db2RlPldJTjwvbnM6U3ViU3lzdGVtQ29kZT4KCQkJCTxuczpDYWxsZXJzUG9pbnQ+MDE8L25zOkNhbGxlcnNQb2ludD4KCQkJPC9uczpTeXN0ZW1JbmZvPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgIGxvbmcgZW5kID0gU3lzdGVtLm5hbm9UaW1lKCk7Cg==</text>
