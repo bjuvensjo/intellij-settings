@@ -244,7 +244,10 @@
         <mark key="]" line="8" column="60" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/service/ms/mhub/notification/fcm/FCMNotification.groovy" timestamp="1603094921976" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/service/ms/mhub/notification/fcm/FCMNotification.groovy" timestamp="1603379959532">
+        <mark key="[" line="19" column="44" />
+        <mark key="]" line="19" column="71" />
+      </file>
       <file name="$USER_HOME$/git-lhb/LP_NORNORNA/app.addattachment_rest.v1_0/slask.txt" timestamp="1591011642550">
         <mark key="[" line="0" column="0" />
       </file>
@@ -449,8 +452,8 @@
       <register name="/" type="4">
         <text>}</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGJlZ2luID0gU3lzdGVtLm5hbm9UaW1lKCk7Cg==</text>
+      <register name="0" type="4">
+        <text>https://fcm.googleapis.com/v</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgIGxvbmcgZW5kID0gU3lzdGVtLm5hbm9UaW1lKCk7Cg==</text>
