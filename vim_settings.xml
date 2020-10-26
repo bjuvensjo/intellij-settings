@@ -20,7 +20,13 @@
       <file name="/a.dummy" timestamp="1597922796629">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/test1/src/main/java/se/lf/csl/test1/StreamExampleGroovy.groovy" timestamp="1603182273999" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/avro/se/lf/csl/mhub/api/notification/NotificationLog.avsc" timestamp="1603718427903">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="80" column="144" />
+        <mark key="." line="80" column="83" />
+        <mark key="^" line="80" column="83" />
+      </file>
       <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/README.md" timestamp="1602680372100">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="12" />
@@ -99,10 +105,15 @@
       <file name="$USER_HOME$/git-bitbucket-private/rsim-vs-mock-server/test1/src/test/resources/logback.xml" timestamp="1591354280585">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/resources/NotificationLog.avsc" timestamp="1603718418827">
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="4" column="123" />
+      </file>
       <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/resources/application.properties" timestamp="1597931430495">
         <mark key="[" line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/pom.xml" timestamp="1602584579163">
+      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/pom.xml" timestamp="1603713912657">
+        <mark key="'" line="20" column="19" />
         <mark key="[" line="23" column="10" />
       </file>
       <file name="$USER_HOME$/git-lhb/LP_NORNORNA/app.createcase_soap.v1_0/src/main/resources/com/evry/finance/loanprocess/app/createcase_soap/v1_0/beans.xml" timestamp="1591024445595">
@@ -124,6 +135,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/README.md" timestamp="1603713819863">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="63" column="30" />
+        <mark key="]" line="31" column="180" />
+      </file>
       <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/java/se/lf/csl/mhub/api/notification/Slask.java" timestamp="1602681532003">
         <mark key="[" line="36" column="60" />
         <mark key="]" line="36" column="60" />
@@ -142,6 +158,13 @@
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/PNS.md" timestamp="1603716530162">
+        <mark key="'" line="22" column="27" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="7" />
+        <mark key="." line="152" column="7" />
+        <mark key="^" line="152" column="7" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/notification.avsc" timestamp="1602676407411">
         <mark key="'" line="56" column="0" />
@@ -164,7 +187,6 @@
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/yaml/route.yaml" timestamp="1584637694086">
         <mark key="[" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/NotificationExample.json" timestamp="1602684334941" />
       <file name="$USER_HOME$/git-evry/IPAAS/cd.kubernetes.client/pom.xml" timestamp="1602160136641">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="17" />
@@ -259,16 +281,22 @@
         <mark key="]" line="4" column="23" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/pom.xml" timestamp="1603182036552">
-        <mark key="[" line="15" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/pom.xml" timestamp="1603713928181">
+        <mark key="[" line="96" column="21" />
         <mark key="]" line="15" column="47" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/NotificationLogExample.json" timestamp="1602685500052" />
       <file name="$USER_HOME$/git-evry/IPAAS/cd.jenkins.lib/test/createConfigMapDataTest.groovy" timestamp="1602229768303">
         <mark key="[" line="23" column="20" />
         <mark key="]" line="23" column="20" />
         <mark key="." line="23" column="20" />
         <mark key="^" line="23" column="19" />
+      </file>
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avsc" timestamp="1603717411778">
+        <mark key="'" line="82" column="116" />
+        <mark key="[" line="32" column="47" />
+        <mark key="]" line="80" column="27" />
+        <mark key="." line="80" column="27" />
+        <mark key="^" line="91" column="89" />
       </file>
       <file name="$USER_HOME$/slask/log4j/slask/src/slask_mindmap.puml" timestamp="1600332827933">
         <mark key="[" line="3" column="0" />
@@ -299,20 +327,13 @@
       <file name="/fragment.java" timestamp="1603202183177">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ws-csphub/pom.xml" timestamp="1603382555344">
-        <mark key="[" line="14" column="38" />
-        <mark key="]" line="14" column="38" />
-        <mark key="." line="14" column="38" />
+      <file name="$USER_HOME$/git-CSPHUB/ws-csphub/pom.xml" timestamp="1603714014998">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="8" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/pom.xml" />
-      <jump line="1" column="0" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushProducer.groovy" />
-      <jump line="7" column="26" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/AndroidConsumer.groovy" />
-      <jump line="16" column="8" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/AndroidConsumer.groovy" />
-      <jump line="1" column="0" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushApplication.groovy" />
-      <jump line="9" column="8" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushApplication.groovy" />
       <jump line="18" column="13" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushConsumerConfig.groovy" />
       <jump line="50" column="0" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushConsumerConfig.groovy" />
       <jump line="10" column="13" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushController.groovy" />
@@ -406,19 +427,26 @@
       <jump line="147" column="0" filename="$USER_HOME$/slask/serok/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" />
       <jump line="31" column="17" filename="$USER_HOME$/slask/serok/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/jenkins/JenkinsSynchronizer.groovy" />
       <jump line="125" column="0" filename="$USER_HOME$/slask/serok/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" />
+      <jump line="20" column="19" filename="$USER_HOME$/git-CSPHUB/mhub.api.repository/pom.xml" />
+      <jump line="74" column="10" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avsc" />
+      <jump line="73" column="37" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avsc" />
+      <jump line="38" column="45" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avsc" />
+      <jump line="22" column="27" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/PNS.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/avro/se/lf/csl/mhub/api/notification/NotificationLog.avsc" />
+      <jump line="82" column="116" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avsc" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>OPEN</text>
       </register>
       <register name="/" type="4">
-        <text>pri</text>
+        <text>notification</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHByaW50bG4gIkplbmtpbnM6ICRqZW5raW5zVXNlcm5hbWU6JGplbmtpbnNUb2tlbiIKLy8gICAgICAgIHByaW50bG4gIlN0YXNoOiAkc3Rhc2hVc2VyTmFtZTokc3Rhc2hQYXNzd29yZCIK</text>
+      <register name="0" type="4">
+        <text>There will be one notification log message for each device targeted by a notification.&quot;,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCIjIiAqIDgwKQo=</text>
+        <text encoding="base64">LAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -440,47 +468,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJTdGFzaDogJHN0YXNoVXNlck5hbWU6JHN0YXNoUGFzc3dvcmQiLnJldmVyc2UoKSkK</text>
+        <text encoding="base64">ImxvYy1rZXkiIDogIkdBTUVfUExBWV9SRVFVRVNUX0ZPUk1BVCIsCiJsb2MtYXJncyIgOiBbICJKZW5uYSIsICJGcmFuayJdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJKZW5raW5zOiAkamVua2luc1VzZXJuYW1lOiRqZW5raW5zVG9rZW4iLnJldmVyc2UoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInR5cGUiOiAic3RyaW5nIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHByaW50bG4gIlN0YXNoOiAkc3Rhc2hVc2VyTmFtZTokc3Rhc2hQYXNzd29yZCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInR5cGUiOiAic3RyaW5nIgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHByaW50bG4gIkplbmtpbnM6ICRqZW5raW5zVXNlcm5hbWU6JGplbmtpbnNUb2tlbiIK</text>
+      <register name="5" type="4">
+        <text>push token - to be sent to the Android (Google) PNS. Push token will be added to the payload.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCIjIiAqIDgwKQo=</text>
+      <register name="6" type="4">
+        <text>A collapsible message is a message that may be replaced by a new message if it has yet to be delivered.</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPi4uL21odWIuYXBpLnJlcG9zaXRvcnk8L21vZHVsZT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCIjIiAqIDgwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN0Q2xpZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJTdGFzaDogJHN0YXNoVXNlck5hbWU6JHN0YXNoUGFzc3dvcmQiLnJldmVyc2UoKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/notification/push/gc</text>
+        <text>%s/notification/notification_log/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>pri</last-search>
+      <last-search>notification</last-search>
       <last-offset />
-      <last-pattern>pri</last-pattern>
-      <last-replace>push</last-replace>
+      <last-pattern>notification</last-pattern>
+      <last-replace>notification_log</last-replace>
       <last-substitute>notification</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>top</entry>
-        <entry>stream</entry>
-        <entry>publi</entry>
         <entry>;</entry>
         <entry>bu</entry>
         <entry encoding="base64">XDxMb2dNZXNzYWdlXD4=</entry>
@@ -492,17 +517,17 @@
         <entry>'</entry>
         <entry>return</entry>
         <entry>heade</entry>
-        <entry>notification</entry>
         <entry encoding="base64">PA==</entry>
-        <entry>&quot;</entry>
         <entry>}</entry>
         <entry>CreateCase</entry>
         <entry>pri</entry>
+        <entry>api</entry>
+        <entry>&quot;</entry>
+        <entry>tit</entry>
+        <entry>message</entry>
+        <entry>notification</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3ZlcnNpb24sL2NmZy52ZXJzaW9uLC9nYw==</entry>
-        <entry encoding="base64">JzwsJz5zL3ZlcnNpb24vY2ZnLnZlcnNpb24vZ2M=</entry>
-        <entry>%s/develop/ms/gc</entry>
         <entry encoding="base64">JzwsJz5zL2RlcGxveW1lbnQvc2VydmljZS9n</entry>
         <entry encoding="base64">JzwsJz5zL2RlcGxveW1lbnQvcm91dGUvZw==</entry>
         <entry>%s/releaseMsUtils.//gc</entry>
@@ -520,6 +545,9 @@
         <entry>wq</entry>
         <entry>%s/notification/push/gc</entry>
         <entry>&quot;p</entry>
+        <entry>%/message/notification/gc</entry>
+        <entry>%s/message/notification/gc</entry>
+        <entry>%s/notification/notification_log/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
