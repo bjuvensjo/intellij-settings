@@ -135,6 +135,10 @@
         <mark key="." line="152" column="7" />
         <mark key="^" line="152" column="7" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/service/ms/mhub/notification/NotificationStreamConfig.groovy" timestamp="1603801469256">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="35" />
+      </file>
       <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/notification.avsc" timestamp="1602676407411">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="46" column="81" />
@@ -188,14 +192,21 @@
         <mark key="]" line="10" column="17" />
         <mark key="." line="10" column="17" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/com/example/test2/DemoApplication.groovy" timestamp="1603802015096">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="23" column="66" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="/Dummy.groovy" timestamp="1597654912853">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/service/ms/mhub/notification/NotificationStream.java" timestamp="1603797116792">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="33" column="63" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/service/ms/mhub/notification/NotificationStream.java" timestamp="1603801899698">
+        <mark key="'" line="47" column="75" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="22" column="65" />
       </file>
       <file name="$USER_HOME$/git-lhb/LP_NORNORNA/app.addattachment_rest.v1_0/slask.txt" timestamp="1591011642550">
         <mark key="[" line="0" column="0" />
@@ -281,6 +292,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/resources/application.properties" timestamp="1603801765879">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="28" />
+        <mark key="^" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+      </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/service/ms/mhub/notification/NotificationProducer.groovy" timestamp="1603740695685">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -315,9 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="0" filename="$USER_HOME$/git-meddelandehub/push1/src/main/java/se/lf/service/push1/Slask.java" />
-      <jump line="23" column="18" filename="$USER_HOME$/git-meddelandehub/push1/src/main/java/se/lf/service/push1/Slask.java" />
-      <jump line="238" column="35" filename="$USER_HOME$/git-meddelandehub/push1/src/main/java/se/lf/service/push1/Slask.java" />
       <jump line="0" column="0" filename="$USER_HOME$/git-meddelandehub/push1/src/main/java/se/lf/service/push1/Slask.java" />
       <jump line="16" column="46" filename="$USER_HOME$/git-meddelandehub/push1/src/main/java/se/lf/service/push1/Push2.groovy" />
       <jump line="31" column="21" filename="$USER_HOME$/git-meddelandehub/push1/pom.xml" />
@@ -415,16 +429,19 @@
       <jump line="110" column="34" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/service/ms/mhub/notification/NotificationStream.groovy" />
       <jump line="4" column="14" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/PNS.md" />
       <jump line="34" column="58" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/service/ms/mhub/notification/NotificationStreamTest.groovy" />
+      <jump line="22" column="4" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/service/ms/mhub/notification/NotificationStream.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/com/example/test2/DemoApplication.groovy" />
+      <jump line="47" column="75" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/service/ms/mhub/notification/NotificationStream.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>k</text>
+        <text>topology</text>
       </register>
       <register name="/" type="4">
         <text>clients</text>
       </register>
-      <register name="0" type="4">
-        <text>{&quot;to&quot;: [&quot;customer-id-1&quot;, &quot;customer-id-2&quot;],&quot;tags&quot;: [&quot;tag-1&quot;, &quot;tag-2&quot;, &quot;tag-3&quot;],&quot;message&quot;:{&quot;notification&quot;:{&quot;title&quot;:&quot;LF notification&quot;,&quot;body&quot;:&quot;You have received a secure message&quot;}}}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBWYWx1ZSh2YWx1ZSA9ICcke2thZmthLmJvb3RzdHJhcFNlcnZlcnN9JykKICAgIHByaXZhdGUgU3RyaW5nIGJvb3RzdHJhcFNlcnZlcnMK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -449,28 +466,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHdvcmRDb3VudHMudG9TdHJlYW0oKS5mb3JlYWNoKCh3LCBjKSAtPiBTeXN0ZW0ub3V0LnByaW50bG4oIndvcmQ6ICIgKyB3ICsgIiAtPiAiICsgYykpOwo=</text>
+        <text encoding="base64">ICAgICAgICBOb3RpZmljYXRpb25TdHJlYW0gbm90aWZpY2F0aW9uU3RyZWFtID0gbmV3IE5vdGlmaWNhdGlvblN0cmVhbSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICBUb3BvbG9neSB0b3BvbG9neSA9IG5vdGlmaWNhdGlvblN0cmVhbS5jcmVhdGVUb3BvbG9neShpbnB1dFRvcGljKQogICAgICAgIFByb3BlcnRpZXMgY29uZmlndXJhdGlvbiA9IG5vdGlmaWNhdGlvblN0cmVhbS5jcmVhdGVDb25maWd1cmF0aW9uKGJvb3RzdHJhcFNlcnZlcnMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmNvdW50KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmdyb3VwQnkoKGtleSwgd29yZCkgLT4gd29yZCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmZsYXRNYXBWYWx1ZXModmFsdWUgLT4gQXJyYXlzLmFzTGlzdChwYXR0ZXJuLnNwbGl0KHZhbHVlLnRvTG93ZXJDYXNlKCkpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEtUYWJsZTxTdHJpbmcsIExvbmc+IHdvcmRDb3VudHMgPSBzdHJlYW0K</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW5wdXRUb3BpYyA9ICJub3RpZmljYXRpb24iOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgID0gOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFBhdHRlcm4gcGF0dGVybiA9IFBhdHRlcm4uY29tcGlsZSgiXFxXKyIsIFBhdHRlcm4uVU5JQ09ERV9DSEFSQUNURVJfQ0xBU1MpOwo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/notification/notification_log/gc</text>
