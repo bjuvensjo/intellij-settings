@@ -118,6 +118,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/service/ms/mhub/notification/NotificationStreamConfig.groovy" timestamp="1603802709239">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="37" column="4" />
+      </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/service/ms/mhub/notification/Slask.java" timestamp="1603792709848">
         <mark key="[" line="23" column="28" />
         <mark key="]" line="23" column="28" />
@@ -192,19 +198,19 @@
         <mark key="]" line="10" column="17" />
         <mark key="." line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/com/example/test2/DemoApplication.groovy" timestamp="1603802015096">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/com/example/test2/DemoApplication.groovy" timestamp="1603802415188">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="15" column="29" />
         <mark key="^" line="23" column="66" />
         <mark key="." line="21" column="0" />
       </file>
       <file name="/Dummy.groovy" timestamp="1597654912853">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/service/ms/mhub/notification/NotificationStream.java" timestamp="1603801899698">
+      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/service/ms/mhub/notification/NotificationStream.java" timestamp="1603802614171">
         <mark key="'" line="47" column="75" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="20" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="68" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="22" column="65" />
       </file>
@@ -435,13 +441,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>topology</text>
+        <text>streamsConfiguration</text>
       </register>
       <register name="/" type="4">
         <text>clients</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSh2YWx1ZSA9ICcke2thZmthLmJvb3RzdHJhcFNlcnZlcnN9JykKICAgIHByaXZhdGUgU3RyaW5nIGJvb3RzdHJhcFNlcnZlcnMK</text>
+      <register name="0" type="4">
+        <text encoding="base64">S1N0cmVhbTxTdHJpbmcsIFN0cmluZz4g</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -466,28 +472,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBOb3RpZmljYXRpb25TdHJlYW0gbm90aWZpY2F0aW9uU3RyZWFtID0gbmV3IE5vdGlmaWNhdGlvblN0cmVhbSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUb3BvbG9neSB0b3BvbG9neSA9IG5vdGlmaWNhdGlvblN0cmVhbS5jcmVhdGVUb3BvbG9neShpbnB1dFRvcGljKQogICAgICAgIFByb3BlcnRpZXMgY29uZmlndXJhdGlvbiA9IG5vdGlmaWNhdGlvblN0cmVhbS5jcmVhdGVDb25maWd1cmF0aW9uKGJvb3RzdHJhcFNlcnZlcnMpCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJlYW1zQnVpbGRlciBidWlsZGVyID0gbmV3IFN0cmVhbXNCdWlsZGVyKCk7CiAgICBLU3RyZWFtPFN0cmluZywgU3RyaW5nPiBzdHJlYW0gPSBidWlsZGVyLnN0cmVhbShpbnB1dFRvcGljKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VyZGVzLlN0cmluZygpLmdldENsYXNzKCkuZ2V0TmFtZSgpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyZWFtc0NvbmZpZy5ERUZBVUxUX1ZBTFVFX1NFUkRFX0NMQVNTX0NPTkZJRywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdHJlYW1zQ29uZmlndXJhdGlvbi5wdXQoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW5wdXRUb3BpYyA9ICJub3RpZmljYXRpb24iOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VyZGVzLlN0cmluZygpLmdldENsYXNzKCkuZ2V0TmFtZSgpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyZWFtc0NvbmZpZy5ERUZBVUxUX0tFWV9TRVJERV9DTEFTU19DT05GSUcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdHJlYW1zQ29uZmlndXJhdGlvbi5wdXQoCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/notification/notification_log/gc</text>
