@@ -66,10 +66,11 @@
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/TODO.md" timestamp="1590656584327">
         <mark key="[" line="6" column="104" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/NotificationApplication.groovy" timestamp="1603806290727">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/NotificationApplication.groovy" timestamp="1603887091225">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="11" column="31" />
       </file>
       <file name="$USER_HOME$/git/buyandsellgold/src/main/java/mygroup/buyandsellgold/Solution.java" timestamp="1603270936168">
         <mark key="'" line="46" column="0" />
@@ -141,6 +142,11 @@
       </file>
       <file name="$USER_HOME$/git-evry/IPAAS/cd.jenkins.lib/README.md" timestamp="1602230294149">
         <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-CSPHUB/test1/pom.xml" timestamp="1603794343734">
+        <mark key="[" line="33" column="21" />
+        <mark key="]" line="23" column="21" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/resources/log4j.properties" timestamp="1603797252550">
         <mark key="[" line="10" column="34" />
@@ -260,6 +266,11 @@
         <mark key="^" line="180" column="59" />
         <mark key="." line="137" column="21" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/NotificationConfig.groovy" timestamp="1603887050545">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/slask/log4j/slask/src/slask_mindmap.puml" timestamp="1600332827933">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -305,8 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git-meddelandehub/push1/src/main/java/se/lf/service/push1/Slask.java" />
-      <jump line="16" column="46" filename="$USER_HOME$/git-meddelandehub/push1/src/main/java/se/lf/service/push1/Push2.groovy" />
       <jump line="31" column="21" filename="$USER_HOME$/git-meddelandehub/push1/pom.xml" />
       <jump line="15" column="12" filename="$USER_HOME$/git-meddelandehub/push1/src/main/java/se/lf/service/push1/Push2.groovy" />
       <jump line="65" column="21" filename="$USER_HOME$/.m2/repository/hub/com/google/oauth-client/google-oauth-client/1.30.5/google-oauth-client-1.30.5.jar!/com/google/api/client/auth/oauth2/Credential.class" />
@@ -405,19 +414,21 @@
       <jump line="12" column="0" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/com/example/test2/DemoApplication.groovy" />
       <jump line="47" column="75" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/service/ms/mhub/notification/NotificationStream.java" />
       <jump line="22" column="8" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/service/ms/mhub/notification/NotificationStream.java" />
+      <jump line="30" column="4" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/NotificationConfig.groovy" />
+      <jump line="43" column="56" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/NotificationConfig.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>service</text>
+        <text>Properties props</text>
       </register>
       <register name="/" type="4">
         <text>clients</text>
       </register>
       <register name="0" type="4">
-        <text>{&quot;to&quot;: [&quot;customer-id-1&quot;, &quot;customer-id-2&quot;],&quot;tags&quot;: [&quot;tag-1&quot;, &quot;tag-2&quot;, &quot;tag-3&quot;],&quot;message&quot;:{&quot;notification&quot;:{&quot;title&quot;:&quot;LF notification&quot;,&quot;body&quot;:&quot;You have received a secure message&quot;}}}</text>
+        <text>KafkaStreams streams = new KafkaStreams(topology, props)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPG1vZHVsZT4uLi90ZXN0MTwvbW9kdWxlPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICBLYWZrYVN0cmVhbXMgc3RyZWFtcyA9IG5ldyBLYWZrYVN0cmVhbXModG9wb2xvZ3ksIHByb3BzKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -439,28 +450,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgVG9wb2xvZ3kgdG9wb2xvZ3kK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsK</text>
+        <text encoding="base64">ICAgIEBCZWFuCiAgICBLYWZrYVN0cmVhbXMgc3RyZWFtcygpIHsKICAgICAgICBuZXcgS2Fma2FTdHJlYW1zKHRvcG9sb2d5KCksIHByb3BzKCkpCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBUaHJlYWQuc2xlZXAoNjAwMDApCg==</text>
+        <text encoding="base64">ICAgIEBCZWFuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgIEBCZWFuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG5ldyBOb3RpZmljYXRpb25TdHJlYW0oKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBub3RpZmljYXRpb25TdHJlYW0uY3JlYXRlVG9wb2xvZ3koaW5wdXRUb3BpYyksCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/notification/notification_log/gc</text>
