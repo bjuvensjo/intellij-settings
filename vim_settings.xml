@@ -108,6 +108,11 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="22" column="25" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/avro/se/lf/csl/mhub/api/notification/NotificationLog.avsc" timestamp="1603961413908">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="17" column="12" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/service/ms/mhub/notification/Slask.java" timestamp="1603792709848">
         <mark key="[" line="23" column="28" />
         <mark key="]" line="23" column="28" />
@@ -139,11 +144,11 @@
         <mark key="." line="10" column="40" />
         <mark key="^" line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/test2/TODO.md" timestamp="1603901220905">
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="0" column="1" />
+      <file name="$USER_HOME$/git-CSPHUB/test2/TODO.md" timestamp="1603961440169">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
         <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/yaml/route.yaml" timestamp="1584637694086">
         <mark key="[" line="4" column="49" />
@@ -217,8 +222,9 @@
       <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/slask.response.json" timestamp="1602754574657">
         <mark key="[" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avsc" timestamp="1603959621718">
-        <mark key="[" line="11" column="19" />
+      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avsc" timestamp="1603961405450">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="17" column="12" />
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/yaml/service.yaml" timestamp="1584637728668">
         <mark key="[" line="4" column="49" />
@@ -409,11 +415,11 @@
       <register name="/" type="4">
         <text>clients</text>
       </register>
-      <register name="0" type="4">
-        <text>KafkaStreams streams = new KafkaStreams(topology, props)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgIm5hbWUiOiAidmVyc2lvbiIsCiAgICAgICAgICAgICJ0eXBlIjogInN0cmluZyIsCiAgICAgICAgICAgICJkZWZhdWx0IjogIjEuMCIsCiAgICAgICAgICAgICJkb2MiOiAiVGhlIHZlcnNpb24gb2YgdGhpcyBzcGVjaWZpY2F0aW9uLiBTaG91bGQgYWx3YXlzIGJlIHRoZSBkZWZhdWx0IHZhbHVlLiIKICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBLYWZrYVN0cmVhbXMgc3RyZWFtcyA9IG5ldyBLYWZrYVN0cmVhbXModG9wb2xvZ3ksIHByb3BzKQo=</text>
+        <text encoding="base64">KiB2ZXJzaW9uIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -435,28 +441,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgVG9wb2xvZ3kgdG9wb2xvZ3kK</text>
+        <text encoding="base64">ICAgICAgICBLYWZrYVN0cmVhbXMgc3RyZWFtcyA9IG5ldyBLYWZrYVN0cmVhbXModG9wb2xvZ3ksIHByb3BzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgVG9wb2xvZ3kgdG9wb2xvZ3kK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCiAgICBLYWZrYVN0cmVhbXMgc3RyZWFtcygpIHsKICAgICAgICBuZXcgS2Fma2FTdHJlYW1zKHRvcG9sb2d5KCksIHByb3BzKCkpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCg==</text>
+        <text encoding="base64">ICAgIEBCZWFuCiAgICBLYWZrYVN0cmVhbXMgc3RyZWFtcygpIHsKICAgICAgICBuZXcgS2Fma2FTdHJlYW1zKHRvcG9sb2d5KCksIHByb3BzKCkpCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIEBCZWFuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBCZWFuCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBub3RpZmljYXRpb25TdHJlYW0uY3JlYXRlVG9wb2xvZ3koaW5wdXRUb3BpYyksCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/notification/notification_log/gc</text>
