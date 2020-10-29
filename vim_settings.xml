@@ -8,12 +8,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/service/ms/mhub/notification/NotificationStream.groovy" timestamp="1603795031515">
-        <mark key="'" line="102" column="34" />
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="41" />
-        <mark key="." line="124" column="0" />
-      </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/assignment2/src/Map.java" timestamp="1588751562828">
         <mark key="[" line="24" column="89" />
       </file>
@@ -25,7 +19,7 @@
       <file name="/a.dummy" timestamp="1597922796629">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/test2/pom.xml" timestamp="1603796232738">
+      <file name="$USER_HOME$/git-CSPHUB/test2/pom.xml" timestamp="1603961213426">
         <mark key="[" line="60" column="21" />
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
@@ -39,14 +33,11 @@
       <file name="$USER_HOME$/git-diba/CSL/ws.diba/pom.xml" timestamp="1586849925795">
         <mark key="[" line="10" column="1" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/maven.settings/pom.xml" timestamp="1603960777709">
+        <mark key="[" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/fx/src/tenta20170526/Text.java" timestamp="1590415578503">
         <mark key="[" line="17" column="58" />
-      </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/pom.xml" timestamp="1603740089100">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/git-clarabjuvensjo/fx/src/sample/Slask.java" timestamp="1590477250277">
         <mark key="[" line="2" column="20" />
@@ -71,12 +62,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="11" column="31" />
-      </file>
-      <file name="$USER_HOME$/git/buyandsellgold/src/main/java/mygroup/buyandsellgold/Solution.java" timestamp="1603270936168">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="25" column="5" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/git/buyandsellgold/src/main/java/mygroup/buyandsellgold/API.java" timestamp="1603204377601">
         <mark key="[" line="4" column="0" />
@@ -175,12 +160,6 @@
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avsc" timestamp="1602684362933">
-        <mark key="'" line="46" column="65" />
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="17" />
-        <mark key="." line="10" column="17" />
-      </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/com/example/test2/DemoApplication.groovy" timestamp="1603805618792">
         <mark key="[" line="0" column="22" />
         <mark key="]" line="0" column="0" />
@@ -243,6 +222,9 @@
       </file>
       <file name="$USER_HOME$/git-PESCPOC/PESCPOC/ms.poc.repository/yaml/service.yaml" timestamp="1584637728668">
         <mark key="[" line="4" column="49" />
+      </file>
+      <file name="$USER_HOME$/git-CSPHUB/maven.settings/src/main/java/Slask.java" timestamp="1603960724654">
+        <mark key="[" line="0" column="20" />
       </file>
       <file name="$USER_HOME$/git/buyandsellgold/pom.xml" timestamp="1603202355294">
         <mark key="[" line="15" column="16" />
