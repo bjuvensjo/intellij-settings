@@ -27,11 +27,6 @@
       <file name="$USER_HOME$/software/jdk-11.0.6+10/Contents/Home/lib/src.zip!/java.base/java/time/Instant.java" timestamp="1604258953501">
         <mark key="'" line="1369" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/TODO.md" timestamp="1603975591429">
-        <mark key="'" line="0" column="4" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="26" />
-      </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/NotificationApplication.groovy" timestamp="1604256562919">
         <mark key="[" line="8" column="22" />
         <mark key="]" line="15" column="0" />
@@ -49,10 +44,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/LogMapper.groovy" timestamp="1604258812579">
-        <mark key="[" line="38" column="48" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/LogMapper.groovy" timestamp="1604261503851">
+        <mark key="[" line="78" column="24" />
+        <mark key="]" line="78" column="23" />
+        <mark key="." line="78" column="23" />
+        <mark key="^" line="78" column="23" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/AvroSerializer.groovy" timestamp="1603969617821">
         <mark key="'" line="13" column="0" />
@@ -100,10 +96,10 @@
         <mark key="]" line="41" column="9" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/avro/se/lf/csl/mhub/api/notification/NotificationLog.avsc" timestamp="1603975509152">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/avro/se/lf/csl/mhub/api/notification/NotificationLog.avsc" timestamp="1604261258011">
+        <mark key="[" line="66" column="45" />
+        <mark key="]" line="66" column="46" />
+        <mark key="." line="66" column="46" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/service/ms/mhub/notification/Slask.java" timestamp="1603792709848">
         <mark key="[" line="23" column="28" />
@@ -224,8 +220,8 @@
       <file name="/Dummy.txt" timestamp="1604256759969">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avsc" timestamp="1603975493953">
-        <mark key="[" line="12" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avsc" timestamp="1604259604875">
+        <mark key="[" line="79" column="42" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
@@ -413,16 +409,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>t</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>An</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VuZEFuZHJvaWRNZXNzYWdlKGRldmljZU1hcHBpbmcuZGV2aWNlTWVzc2FnZSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZGV2aWNlLnR5cGUgPT0gRGV2aWNlTWFwcGluZy5EZXZpY2VUeXBlLkFuZHJvaWQpIHsKICAgICAgICAgICAgZGV2aWNlUmVzdWx0ID0gc2VuZEFuZHJvaWRNZXNzYWdlKGRldmljZU1hcHBpbmcuZGV2aWNlTWVzc2FnZSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAvLyBpT1MKICAgICAgICAgICAgZGV2aWNlUmVzdWx0ID0gc2VuZElPU01lc3NhZ2UoZGV2aWNlTWFwcGluZy5kZXZpY2VNZXNzYWdlKQogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -443,29 +439,29 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgLg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAyMDEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgMjAwOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3dpdGNoIChjb2RlKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIE5vdGlmaWNhdGlvbiBub3RpZmljYXRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBwdXNoVG9rZW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIERldmljZU1hcHBlci5EZXZpY2VNZXNzYWdlIGRldmljZU1lc3NhZ2UK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGRldmljZVJlc3VsdCA9IHNlbmRJT1NNZXNzYWdlKGRldmljZU1hcHBpbmcuZGV2aWNlTWVzc2FnZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIERldmljZVR5cGUgZGV2aWNlVHlwZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNldFJlc3VsdChSZXN1bHQubmV3QnVpbGRlcigpCiAgICAgICAgICAgIC5zZXRDb2RlKG1hcENvZGUoZGV2aWNlUmVzdWx0LmNvZGUpKQogICAgICAgICAgICAuc2V0TWVzc2FnZShkZXZpY2VSZXN1bHQuYm9keSkKICAgICAgICAgICAgLmJ1aWxkKCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBjdXN0b21lcklkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNldFJlc3VsdChSZXN1bHQubmV3QnVpbGRlcigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/;//g</text>
