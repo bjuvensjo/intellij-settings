@@ -8,6 +8,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/Http.groovy" timestamp="1604312302881">
+        <mark key="[" line="61" column="69" />
+      </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/service/ms/mhub/notification/NotificationController.groovy" timestamp="1603793007940">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -46,6 +49,13 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/AndroidPNS.groovy" timestamp="1604312270457">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="26" column="71" />
+        <mark key="]" line="24" column="45" />
+        <mark key="." line="24" column="45" />
+        <mark key="^" line="24" column="45" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/LogMapper.groovy" timestamp="1604310592670">
         <mark key="'" line="24" column="8" />
@@ -130,8 +140,8 @@
         <mark key="." line="10" column="40" />
         <mark key="^" line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/test2/TODO.md" timestamp="1604262609756">
-        <mark key="[" line="4" column="58" />
+      <file name="$USER_HOME$/git-CSPHUB/test2/TODO.md" timestamp="1604311373918">
+        <mark key="[" line="7" column="34" />
         <mark key="]" line="4" column="57" />
         <mark key="^" line="4" column="57" />
         <mark key="." line="4" column="57" />
@@ -156,12 +166,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" timestamp="1604310697767">
-        <mark key="'" line="89" column="11" />
-        <mark key="[" line="85" column="17" />
-        <mark key="]" line="90" column="12" />
-        <mark key="^" line="83" column="13" />
-        <mark key="." line="90" column="12" />
+      <file name="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" timestamp="1604312012960">
+        <mark key="'" line="50" column="12" />
+        <mark key="[" line="55" column="8" />
+        <mark key="]" line="55" column="8" />
+        <mark key="^" line="50" column="12" />
+        <mark key="." line="55" column="8" />
       </file>
       <file name="/Dummy.groovy" timestamp="1604309736507">
         <mark key="[" line="0" column="0" />
@@ -283,7 +293,7 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1604306658768">
+      <file name="/fragment.java" timestamp="1604311397681">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/ws-csphub/pom.xml" timestamp="1603806480374">
@@ -293,8 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStream.groovy" />
-      <jump line="43" column="0" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStream.groovy" />
       <jump line="48" column="0" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStream.groovy" />
       <jump line="59" column="0" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStream.groovy" />
       <jump line="65" column="42" filename="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStreamJava.java" />
@@ -393,19 +401,21 @@
       <jump line="83" column="11" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
       <jump line="84" column="11" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
       <jump line="85" column="11" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
+      <jump line="19" column="0" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/AndroidPNS.groovy" />
+      <jump line="50" column="12" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>iOS</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>:</text>
+        <text>tru</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDIwMDogMjAwLAogICAgICAgICAgICAgICAgNDAwOiA0MDAsCiAgICAgICAgICAgICAgICA0MDQ6IDUyMSwKICAgICAgICAgICAgICAgIDQyOTogNTIwLAogICAgICAgICAgICAgICAgNTAwOiA1MjAsCiAgICAgICAgICAgICAgICA1MDM6IDUyMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YW5kcm9pZC51cmw9aHR0cHM6Ly9mY20uZ29vZ2xlYXBpcy5jb206NDQzZGQK</text>
+        <text encoding="base64">aW1wb3J0IHNlLmxmLmNzbC5tcy5taHViLm5vdGlmaWNhdGlvbi5IdHRwCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -417,37 +427,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA1MDMgIHwgNTIwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA0MjkgIHwgNTIwCg==</text>
+        <text encoding="base64">ICAgICAgICBib2R5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA0MTMgIHwgNDAwCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiYm9keTogJHtyZXN1bHQuYm9keX0iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA0MTAgIHwgNTIxCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYm9keSA9IHJlc3VsdC5ib2R5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA0MTAgIHwgNTIxCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA0MDAgIHwgNDAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IElPRXhjZXB0aW9uKCJDb3VsZCBub3Qgc2VuZCBtZXNzYWdlLCByZXNwb25zZSBjb2RlOiAke3Jlc3VsdC5yZXNwb25zZUNvZGV9IikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAyMDAgIHwgMjAwCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVzdWx0LnJlc3BvbnNlQ29kZSAhPSAyMDApIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZS5sZi5jc2wubWh1Yi5ub3RpZmljYXRpb24uUHJpb3JpdHkuTk9STUFMIHwgUHJpb3JpdHkuTk9STUFMCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy86L3wvZ2M=</text>
       </register>
     </registers>
     <search>
-      <last-search>:</last-search>
+      <last-search>tru</last-search>
       <last-offset />
-      <last-pattern>:</last-pattern>
+      <last-pattern>tru</last-pattern>
       <last-replace>|</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
@@ -455,8 +465,6 @@
     </search>
     <history>
       <history-search>
-        <entry>create</entry>
-        <entry>=</entry>
         <entry>titl</entry>
         <entry>act</entry>
         <entry>clients</entry>
@@ -475,6 +483,8 @@
         <entry>16</entry>
         <entry>NO</entry>
         <entry>:</entry>
+        <entry>FCM</entry>
+        <entry>tru</entry>
       </history-search>
       <history-cmd>
         <entry>di</entry>
