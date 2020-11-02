@@ -62,12 +62,11 @@
         <mark key="." line="10" column="4" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/LogMapper.groovy" timestamp="1604317577253">
-        <mark key="'" line="35" column="50" />
-        <mark key="[" line="117" column="13" />
-        <mark key="]" line="33" column="5" />
-        <mark key="." line="33" column="5" />
-        <mark key="^" line="33" column="5" />
+      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/LogMapper.groovy" timestamp="1604330431911">
+        <mark key="'" line="37" column="50" />
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="30" column="12" />
+        <mark key="." line="30" column="12" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/IOSPNS.groovy" timestamp="1604316620827">
         <mark key="[" line="12" column="26" />
@@ -108,12 +107,11 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="22" column="25" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/DeviceMapper.groovy" timestamp="1604329012437">
-        <mark key="'" line="109" column="0" />
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="28" column="21" />
-        <mark key="^" line="28" column="21" />
-        <mark key="." line="28" column="21" />
+      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/DeviceMapper.groovy" timestamp="1604331449197">
+        <mark key="'" line="143" column="0" />
+        <mark key="[" line="119" column="32" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/avro/se/lf/csl/mhub/api/notification/NotificationLog.avsc" timestamp="1604261258011">
         <mark key="[" line="66" column="45" />
@@ -182,12 +180,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" timestamp="1604318499280">
-        <mark key="'" line="77" column="13" />
-        <mark key="[" line="52" column="15" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="48" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" timestamp="1604331205978">
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
       </file>
       <file name="/Dummy.groovy" timestamp="1604309736507">
         <mark key="[" line="0" column="0" />
@@ -210,12 +206,12 @@
         <mark key="]" line="11" column="77" />
         <mark key="." line="11" column="77" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/DeviceMapperTest.groovy" timestamp="1604329854174">
+      <file name="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/DeviceMapperTest.groovy" timestamp="1604330891372">
         <mark key="'" line="9" column="30" />
-        <mark key="[" line="38" column="17" />
-        <mark key="]" line="38" column="12" />
-        <mark key="." line="38" column="12" />
-        <mark key="^" line="38" column="12" />
+        <mark key="[" line="41" column="90" />
+        <mark key="]" line="45" column="82" />
+        <mark key="." line="45" column="82" />
+        <mark key="^" line="45" column="82" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/README.md" timestamp="1603975404386">
         <mark key="[" line="60" column="4" />
@@ -321,9 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/slask.avsc" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/slask.avsc" />
-      <jump line="57" column="0" filename="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/notification.avsc" />
       <jump line="46" column="65" filename="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avsc" />
       <jump line="15" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/README.md" />
       <jump line="1" column="21" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/resources/service-account.json" />
@@ -421,13 +414,16 @@
       <jump line="106" column="0" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/DeviceMapper.groovy" />
       <jump line="26" column="7" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/DeviceMapperTest.groovy" />
       <jump line="9" column="30" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/DeviceMapperTest.groovy" />
+      <jump line="131" column="0" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/DeviceMapper.groovy" />
+      <jump line="72" column="0" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
+      <jump line="155" column="32" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>= new DeviceMapper(androidProjectId: &quot;androidProjectId&quot;, androidUrl: &quot;androidUrl&quot;, iOSUrl: &quot;iOSUrl&quot;)</text>
+        <text>iOS</text>
       </register>
       <register name="/" type="4">
-        <text>byte</text>
+        <text>ios</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBnaXZlbjoKICAgICAgICBNYXAgZGV2aWNlID0gW3R5cGU6IERldmljZU1hcHBlci5EZXZpY2VNYXBwaW5nLkRldmljZVR5cGUuQW5kcm9pZCwgcHVzaFRva2VuOiAidDEiXQo=</text>
@@ -445,37 +441,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGJvZHkgPT0gJ3sibWVzc2FnZSI6eyJuYW1lIjoicHJvamVjdHMvYW5kcm9pZFByb2plY3RJZC9tZXNzYWdlcy9uMSIsImRhdGEiOnsidGl0bGUiOiJ0aXRsZSIsInRleHQiOiJ0ZXh0IiwicGFyYW1zIjpbImlkMSJdfSwiYW5kcm9pZCI6eyJwcmlvcml0eSI6Ik5PUk1BTCIsInR0bCI6IjBzIiwibm90aWZpY2F0aW9uIjp7ImNsaWNrX2FjdGlvbiI6IlNFQ1VSRV9NRVNTQUdFIn19LCJ0b2tlbiI6InQxIn19Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGxvZ01lc3NhZ2UuaGVhZGVycyA9PSBudWxsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25Mb2cgIT0gbnVsbAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGxvZ01lc3NhZ2UuYWRkcmVzcyA9PSAiYW5kcm9pZFVybCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgIHRoZW46Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZXZpY2VSZXN1bHQgPT0gbmV3IExvZ01hcHBlci5EZXZpY2VSZXN1bHQoY29kZTogMjAwLCBib2R5OiAiIikK</text>
+        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBib2R5ID0gSnNvbk91dHB1dC50b0pzb24obG9nTWVzc2FnZS5ib2R5KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3Q6CiAgICAgICAgZmFsc2UK</text>
+        <text encoding="base64">Ly8gICAgICAgIExvZ01hcHBlci5Mb2dNZXNzYWdlIGxvZ01lc3NhZ2UgPSBsb2dNYXBwZXIuY3JlYXRlTG9nTWVzc2FnZShsb2csIG5vdGlmaWNhdGlvbikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3Q6CiAgICAgICAgZmFsc2UK</text>
+        <text encoding="base64">Ly8gICAgICAgIHdoZW46Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy86L3wvZ2M=</text>
       </register>
     </registers>
     <search>
-      <last-search>byte</last-search>
+      <last-search>ios</last-search>
       <last-offset />
-      <last-pattern>byte</last-pattern>
+      <last-pattern>ios</last-pattern>
       <last-replace>|</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
@@ -483,7 +479,6 @@
     </search>
     <history>
       <history-search>
-        <entry>clients</entry>
         <entry>;</entry>
         <entry>Push</entry>
         <entry>json</entry>
@@ -503,6 +498,7 @@
         <entry>tru</entry>
         <entry>head</entry>
         <entry>byte</entry>
+        <entry>ios</entry>
       </history-search>
       <history-cmd>
         <entry>di</entry>
