@@ -212,10 +212,11 @@
         <mark key="]" line="11" column="77" />
         <mark key="." line="11" column="77" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/DeviceMapperTest.groovy" timestamp="1604313360277">
-        <mark key="[" line="45" column="70" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/DeviceMapperTest.groovy" timestamp="1604328589469">
+        <mark key="[" line="30" column="47" />
+        <mark key="]" line="30" column="47" />
+        <mark key="." line="30" column="47" />
+        <mark key="^" line="34" column="13" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/README.md" timestamp="1603975404386">
         <mark key="[" line="60" column="4" />
@@ -424,13 +425,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>deviceType</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>byte</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBBbmRyb2lkUE5TIHBucyA9IE1vY2soKQogICAgICAgIGxvZ01hcHBlci5hbmRyb2lkUE5TID0gcG5zCiAgICAgICAgd2hlbjoKICAgICAgICBMb2dNYXBwZXIuRGV2aWNlUmVzdWx0IGRldmljZVJlc3VsdCA9IGxvZ01hcHBlci5zZW5kQW5kcm9pZE1lc3NhZ2UoZGV2aWNlTWVzc2FnZSkKICAgICAgICB0aGVuOgogICAgICAgIDEgKiBwbnMucG9zdCgiYWRkcmVzcyIsIFtoMTogInYxIl0sIFsiYjEiOiAidjEiXSkgPj4gW3Jlc3BvbnNlQ29kZTogMjAwLCBib2R5OiAiIl0KICAgICAgICBkZXZpY2VSZXN1bHQgPT0gbmV3IExvZ01hcHBlci5EZXZpY2VSZXN1bHQoY29kZTogMjAwLCBib2R5OiAiIikK</text>
+        <text encoding="base64">ICAgICAgICBnaXZlbjoKICAgICAgICBNYXAgZGV2aWNlID0gW3R5cGU6IERldmljZU1hcHBlci5EZXZpY2VNYXBwaW5nLkRldmljZVR5cGUuQW5kcm9pZCwgcHVzaFRva2VuOiAidDEiXQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25Mb2cgIT0gbnVsbAo=</text>
