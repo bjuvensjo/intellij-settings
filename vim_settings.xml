@@ -32,8 +32,10 @@
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/software/jdk-11.0.6+10/Contents/Home/lib/src.zip!/java.base/java/time/Instant.java" timestamp="1604258953501">
-        <mark key="'" line="1369" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/NotificationErrors.groovy" timestamp="1604333231899">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/NotificationApplication.groovy" timestamp="1604256562919">
         <mark key="[" line="8" column="22" />
@@ -114,9 +116,9 @@
         <mark key="." line="58" column="44" />
         <mark key="^" line="58" column="44" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/avro/se/lf/csl/mhub/api/notification/NotificationLog.avsc" timestamp="1604332597754">
-        <mark key="[" line="64" column="27" />
-        <mark key="]" line="64" column="27" />
+      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/avro/se/lf/csl/mhub/api/notification/NotificationLog.avsc" timestamp="1604333060788">
+        <mark key="[" line="66" column="43" />
+        <mark key="]" line="66" column="259" />
         <mark key="." line="64" column="27" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/iOSPNS.groovy" timestamp="1604312782413">
@@ -421,16 +423,16 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>int</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>ios</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBnaXZlbjoKICAgICAgICBNYXAgZGV2aWNlID0gW3R5cGU6IERldmljZU1hcHBlci5EZXZpY2VNYXBwaW5nLkRldmljZVR5cGUuQW5kcm9pZCwgcHVzaFRva2VuOiAidDEiXQo=</text>
+      <register name="0" type="4">
+        <text>200: Notification sent, 400: Bad request, 500: Internal error in message hub, 520: Communication error with notification service, 521: No registered notification address., 523: Invalid registered notification address&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwdXNoVG9rZW46IChTdHJpbmcpIGRldmljZS5wdXNoVG9rZW4sCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -442,28 +444,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZXZpY2VNZXNzYWdlOiBjcmVhdGVEZXZpY2VNZXNzYWdlKGRldmljZSwgbm90aWZpY2F0aW9uKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBTRXJyb3IoZXJyb3IuZ2V0Q29kZSgpLCBlcnJvci5nZXRNZXNzYWdlKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZXZpY2VUeXBlOiAoRGV2aWNlTWFwcGluZy5EZXZpY2VUeXBlKSBkZXZpY2UudHlwZSwK</text>
+        <text encoding="base64">ICAgICAgICBTRXJyb3IgdG9TRXJyb3IoRXJyb3IgZXJyb3IpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRvU0Vycm9yKHRoaXMpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTRXJyb3IgdG9TRXJyb3IoKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGJvZHkgPT0gJ3sibWVzc2FnZSI6eyJuYW1lIjoicHJvamVjdHMvYW5kcm9pZFByb2plY3RJZC9tZXNzYWdlcy9uMSIsImRhdGEiOnsidGl0bGUiOiJ0aXRsZSIsInRleHQiOiJ0ZXh0IiwicGFyYW1zIjpbImlkMSJdfSwiYW5kcm9pZCI6eyJwcmlvcml0eSI6Ik5PUk1BTCIsInR0bCI6IjBzIiwibm90aWZpY2F0aW9uIjp7ImNsaWNrX2FjdGlvbiI6IlNFQ1VSRV9NRVNTQUdFIn19LCJ0b2tlbiI6InQxIn19Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGxvZ01lc3NhZ2UuaGVhZGVycyA9PSBudWxsCg==</text>
+        <text encoding="base64">ICAgIC8vIDIwMDogTm90aWZpY2F0aW9uIHNlbnQsIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4lcy86L3wvZ2M=</text>
