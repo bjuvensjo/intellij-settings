@@ -68,11 +68,11 @@
         <mark key="." line="10" column="4" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/LogMapper.groovy" timestamp="1604395616468">
+      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/LogMapper.groovy" timestamp="1604406483705">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="46" column="47" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
+        <mark key="[" line="28" column="108" />
+        <mark key="]" line="28" column="108" />
+        <mark key="." line="28" column="108" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/IOSPNS.groovy" timestamp="1604316620827">
         <mark key="[" line="12" column="26" />
@@ -186,10 +186,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" timestamp="1604395537245">
-        <mark key="[" line="82" column="5" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" timestamp="1604406754285">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="80" column="48" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="/Dummy.groovy" timestamp="1604309736507">
         <mark key="[" line="0" column="0" />
@@ -332,13 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="34" filename="$USER_HOME$/slask/serok/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" />
-      <jump line="147" column="0" filename="$USER_HOME$/slask/serok/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" />
-      <jump line="31" column="17" filename="$USER_HOME$/slask/serok/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/jenkins/JenkinsSynchronizer.groovy" />
-      <jump line="125" column="0" filename="$USER_HOME$/slask/serok/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" />
-      <jump line="20" column="19" filename="$USER_HOME$/git-CSPHUB/mhub.api.repository/pom.xml" />
-      <jump line="74" column="10" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avsc" />
-      <jump line="73" column="37" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avsc" />
       <jump line="38" column="45" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avsc" />
       <jump line="22" column="27" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/PNS.md" />
       <jump line="0" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/avro/se/lf/csl/mhub/api/notification/NotificationLog.avsc" />
@@ -391,7 +385,6 @@
       <jump line="1369" column="0" filename="$USER_HOME$/software/jdk-11.0.6+10/Contents/Home/lib/src.zip!/java.base/java/time/Instant.java" />
       <jump line="1" column="0" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/LogMapper.groovy" />
       <jump line="43" column="8" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
       <jump line="50" column="65" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/LogMapper.groovy" />
       <jump line="23" column="0" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
       <jump line="8" column="8" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
@@ -432,19 +425,39 @@
       <jump line="24" column="17" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/DeviceMapper.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/git-CSPHUB/secure.message.test/src/main/resources/mygroup/secure/message/test/CreateCaseService_v6.wsdl" />
       <jump line="661" column="50" filename="$USER_HOME$/git-CSPHUB/secure.message.test/src/main/resources/mygroup/secure/message/test/CreateCaseService_v6.wsdl" />
+      <jump line="136" column="11" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
+      <jump line="49" column="7" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
+      <jump line="36" column="44" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
+      <jump line="119" column="0" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
+      <jump line="187" column="0" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
+      <jump line="51" column="15" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
+      <jump line="41" column="12" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
     </jumps>
     <registers>
+      <register name="b" type="4">
+        <text>NotificationError.Error.BAD_REQUEST.code</text>
+      </register>
+      <register name="i" type="4">
+        <text>NotificationError.Error.INTEGRATION.code</text>
+      </register>
+      <register name="*" type="4">
+        <text>NotificationError.Error.INTEGRATION.code</text>
+      </register>
       <register name="-" type="4">
-        <text>Service</text>
+        <text>NotificationError.Error.BAD_REQUEST.code</text>
+      </register>
+      <register name="n" type="4">
+        <text>NotificationError.Error.NO_ADDRESS.code</text>
       </register>
       <register name="/" type="4">
         <text>ServiceRequest</text>
       </register>
-      <register name="0" type="4">
-        <text>Can not retrieve device info for c1.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25Mb2cuaGVhZGVyLnJlc3VsdC5jb2RlID09IE5vdGlmaWNhdGlvbkVycm9yLkVycm9yLkJBRF9SRVFVRVNULmNvZGUKICAgICAgICBub3RpZmljYXRpb25Mb2cuaGVhZGVyLnJlc3VsdC5tZXNzYWdlID09ICJtc2ciCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBVbnJvbGwK</text>
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25Mb2cgIT0gbnVsbAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -456,31 +469,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBEZXZpY2VUeXBlLk5vbmUgICAgfCAwICAgICAgICAgICAgICAgfCAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlTWVzc2FnZTogZGV2aWNlTWVzc2FnZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIExvZ2dlciBsb2cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihMb2dNYXBwZXIuY2xhc3MpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlVHlwZTogRGV2aWNlVHlwZS5BbmRyb2lkLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpZGRuYWwgTG9nZ2VyIGxvZyA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKERldmljZU1hcHBlci5jbGFzcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVzaFRva2VuOiAicHVzaHRva2VuIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGVycm9yTWVzc2FnZXMgPSBkZXZpY2VNYXBwaW5ncy5jb2xsZWN0KCkgeyBpdC5ub3RpZmljYXRpb25FcnJvcj8uZXJyb3I/Lm1lc3NhZ2UgfQo=</text>
+        <text encoding="base64">ICAgICAgICBkZXZpY2VNYXBwaW5nID0gbmV3IERldmljZU1hcHBlci5EZXZpY2VNYXBwaW5nKAogICAgICAgICAgICBub3RpZmljYXRpb246IG5vdGlmaWNhdGlvbiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBVbnJvbGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBbImMxIiwgImMyIl0gfCAgfCAzCg==</text>
+        <text encoding="base64">ZGV2aWNlTWFwcGluZyA9IAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjdXN0b21lcklkcyAgfCBkZXZpY2VzICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IGV4cGVjdGVkU2l6ZQo=</text>
+      <register name="9" type="4">
+        <text>= new DeviceMapper.DeviceMapping(
+        notification: notification,
+        pushToken: &quot;pushtoken&quot;,
+        deviceType: DeviceType.Android,
+        deviceMessage: deviceMessage,
+        customerId: &quot;c1&quot;,
+    )</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz4lcy86L3wvZ2M=</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
@@ -516,8 +535,6 @@
         <entry>ServiceRequest</entry>
       </history-search>
       <history-cmd>
-        <entry>di</entry>
-        <entry>%s/MapAppender/MyAppender/g</entry>
         <entry>%s/return //g</entry>
         <entry>%s/public //g</entry>
         <entry>%s/&quot;/'/gc</entry>
@@ -536,6 +553,8 @@
         <entry encoding="base64">JzwsJz5zL30vXFx9L2dj</entry>
         <entry encoding="base64">JzwsJz5zL1svXFxbL2dj</entry>
         <entry encoding="base64">JzwsJz4lcy86L3wvZ2M=</entry>
+        <entry>ewg</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
