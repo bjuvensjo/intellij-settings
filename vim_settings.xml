@@ -40,6 +40,9 @@
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/AvroSerde.groovy" timestamp="1604594233509">
+        <mark key="[" line="6" column="17" />
+      </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/AndroidPNS.groovy" timestamp="1604587339451">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="14" />
@@ -300,11 +303,11 @@
         <mark key="." line="30" column="22" />
         <mark key="^" line="30" column="22" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/NotificationConfig.groovy" timestamp="1604592883059">
-        <mark key="[" line="37" column="9" />
-        <mark key="]" line="51" column="80" />
-        <mark key="." line="51" column="80" />
-        <mark key="^" line="51" column="80" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/NotificationConfig.groovy" timestamp="1604594147978">
+        <mark key="[" line="40" column="48" />
+        <mark key="]" line="40" column="48" />
+        <mark key="." line="40" column="48" />
+        <mark key="^" line="40" column="47" />
       </file>
       <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStreamConfig.groovy" timestamp="1597928622984">
         <mark key="[" line="55" column="0" />
@@ -320,12 +323,6 @@
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="23" />
         <mark key="." line="4" column="23" />
-      </file>
-      <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/NotificationConfig.groovy" timestamp="1604563538374">
-        <mark key="[" line="62" column="32" />
-        <mark key="]" line="62" column="44" />
-        <mark key="^" line="62" column="44" />
-        <mark key="." line="62" column="44" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/avro/se/lf/csl/mhub/api/notification/NotificationLog.avdl" timestamp="1604563940984">
         <mark key="[" line="26" column="29" />
@@ -369,6 +366,12 @@
         <mark key="[" line="3" column="68" />
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/DeviceMapper.groovy" timestamp="1604593182574">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="18" column="19" />
+        <mark key="^" line="18" column="17" />
+        <mark key="." line="18" column="19" />
       </file>
       <file name="/fragment.java" timestamp="1604407660277">
         <mark key="[" line="0" column="0" />
@@ -492,7 +495,7 @@
         <text>NotificationError.Error.INTEGRATION.code</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text encoding="base64">U2VyZGVzLnNlcmRlRnJvbShuZXcgQXZyb1NlcmlhbGl6ZXI8Tm90aWZpY2F0aW9uPigpLCBuZXcgQXZyb0Rlc2VyaWFsaXplcihOb3RpZmljYXRpb24uY2xhc3MpKQ==</text>
       </register>
       <register name="n" type="4">
         <text>NotificationError.Error.NO_ADDRESS.code</text>
@@ -504,7 +507,7 @@
         <text encoding="base64">ICAgICAgICBLU3RyZWFtPFN0cmluZywgTm90aWZpY2F0aW9uPiBzdHJlYW0gPSBidWlsZGVyLnN0cmVhbShpbnB1dFRvcGljKQogICAgICAgIEtTdHJlYW08U3RyaW5nLCBEZXZpY2VNYXBwZXIuRGV2aWNlTWFwcGluZz4gZGV2aWNlU3RyZWFtID0gc3RyZWFtLmZsYXRNYXBWYWx1ZXMoZGV2aWNlTWFwcGVyKQogICAgICAgIEtTdHJlYW08U3RyaW5nLCBOb3RpZmljYXRpb25Mb2c+IGxvZ1N0cmVhbSA9IGRldmljZVN0cmVhbS5tYXBWYWx1ZXMobG9nTWFwcGVyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgZnJvbSA9IFNlcmRlcy5zZXJkZUZyb20obmV3IEF2cm9TZXJpYWxpemVyPE5vdGlmaWNhdGlvbkxvZz4oKSwgbmV3IEF2cm9EZXNlcmlhbGl6ZXIoTm90aWZpY2F0aW9uLmNsYXNzKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -516,28 +519,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBdnJvU2VyZGUoKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wcy5wdXQoU3RyZWFtc0NvbmZpZy5ERUZBVUxUX1ZBTFVFX1NFUkRFX0NMQVNTX0NPTkZJRywgU2VyZGVzLnNlcmRlRnJvbShuZXcgQXZyb1NlcmlhbGl6ZXI8Tm90aWZpY2F0aW9uTG9nPigpLCBuZXcgQXZyb0Rlc2VyaWFsaXplcihOb3RpZmljYXRpb24uY2xhc3MpKS5jbGFzcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBjbGFzcyBYIGV4dGVuZHMgU2VyZGVzLldyYXBwZXJTZXJkZTxOb3RpZmljYXRpb25Mb2c+IHsKICAgICAgICBYKCkgewogICAgICAgICAgICBzdXBlcihuZXcgQXZyb1NlcmlhbGl6ZXI8Tm90aWZpY2F0aW9uTG9nPigpLCBuZXcgQXZyb0Rlc2VyaWFsaXplcihOb3RpZmljYXRpb24uY2xhc3MpKQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTZXJkZSAK</text>
+        <text encoding="base64">Ly8gICAgICAgIHByb3BzLnB1dChTdHJlYW1zQ29uZmlnLkRFRkFVTFRfVkFMVUVfU0VSREVfQ0xBU1NfQ09ORklHLCBBdnJvU2VyZGUuY2xhc3MpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wcy5wdXQoU3RyZWFtc0NvbmZpZy5ERUZBVUxUX1ZBTFVFX1NFUkRFX0NMQVNTX0NPTkZJRywgQXZyb1NlcmRlLmNsYXNzKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHByb3BzLnB1dChTdHJlYW1zQ29uZmlnLkRFRkFVTFRfS0VZX1NFUkRFX0NMQVNTX0NPTkZJRywgU2VyZGVzLlN0cmluZygpLmNsYXNzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IFJlcGxhY2UgZm9yZWFjaCB3aXRoIGR5bmFtaWMgdG8K</text>
+        <text encoding="base64">Ly8gICAgVmFsdWVNYXBwZXI8Tm90aWZpY2F0aW9uLCBMaXN0PERldmljZU1hcHBlci5EZXZpY2VNYXBwaW5nPj4gZGV2aWNlTWFwcGVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGxvZ1N0cmVhbS5mb3JlYWNoKHsgaywgdiAtPiBTeXN0ZW0ub3V0LnByaW50bG4oayArICI6ICIgKyB2KSB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgZnJvbSA9IFNlcmRlcy5zZXJkZUZyb20obmV3IEF2cm9TZXJpYWxpemVyPE5vdGlmaWNhdGlvbkxvZz4oKSwgbmV3IEF2cm9EZXNlcmlhbGl6ZXIoTm90aWZpY2F0aW9uLmNsYXNzKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGxvZ1N0cmVhbS50byhuZXcgTG9nVG9waWNOYW1lRXh0cmFjdG9yKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBBdnJvU2VyZGUoKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
