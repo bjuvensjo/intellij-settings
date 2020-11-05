@@ -37,6 +37,12 @@
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/AndroidPNS.groovy" timestamp="1604587339451">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="14" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+      </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/NotificationErrors.groovy" timestamp="1604334139822">
         <mark key="[" line="9" column="37" />
         <mark key="]" line="11" column="3" />
@@ -59,6 +65,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/AvroDeserializer.groovy" timestamp="1604587412802">
+        <mark key="[" line="28" column="119" />
+        <mark key="]" line="12" column="14" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/git/buyandsellgold/src/main/java/mygroup/buyandsellgold/API.java" timestamp="1603204377601">
         <mark key="[" line="4" column="0" />
@@ -202,11 +213,6 @@
         <mark key="[" line="16" column="20" />
         <mark key="]" line="16" column="20" />
         <mark key="." line="16" column="20" />
-      </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/NotificationStream.groovy" timestamp="1604421426498">
-        <mark key="'" line="155" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="53" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/com/example/test2/DemoApplication.groovy" timestamp="1603805618792">
         <mark key="[" line="0" column="22" />
@@ -479,7 +485,7 @@
         <text>not</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVyZToKICAgICAgICBhY3Rpb24gICAgICAgICAgICAgICAgfCBwYXJhbXMgIHwgZXhwZWN0ZWQKICAgICAgICBBY3Rpb24uU0VDVVJFX01FU1NBR0UgfCBbImlkMSJdIHwgJ3siYXBzIjp7ImFsZXJ0Ijp7InRpdGxlIjoidGl0bGUiLCJib2R5IjoidGV4dCJ9LCJjYXRlZ29yeSI6IlNFQ1VSRV9NRVNTQUdFIn0sImRhdGEiOnsicGFyYW1zIjpbImlkMSJdfX0nCiAgICAgICAgbnVsbCAgICAgICAgICAgICAgICAgIHwgbnVsbCAgICB8ICd7ImFwcyI6eyJhbGVydCI6eyJ0aXRsZSI6InRpdGxlIiwiYm9keSI6InRleHQifX19Jwo=</text>
+        <text encoding="base64">QENvbXBpbGVTdGF0aWMK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAogICAgcmVjb3JkIExvZyB7CiAgICAgICAgc3RyaW5nIGN1c3RvbWVySWQ7IC8vIEN1c3RvbWVyIGlkIGZvciBjdXN0b21lciB0YXJnZXRlZCBieSB0aGUgbm90aWZpY2F0aW9uLgogICAgICAgIHVuaW9uIHtzdHJpbmcsIG51bGx9IGFkZHJlc3M7IC8vIFRoZSBhZGRyZXNzIHRoYXQgdGhlIE1lc3NhZ2UgSHViIHNlbmRzIHRoZSBub3RpZmljYXRpb24gdG8sIGUuZy4gPGRldmljZVR5cGU+LzxwdXNoVG9rZW4+LiBBYnNlbnQgb3IgZW1wdHkgaWYgdGhlIGN1c3RvbWVyIGhhcyBubyByZWdpc3RlcmVkIG5vdGlmaWNhdGlvbiBhZGRyZXNzLgogICAgICAgIGxvbmcgdGltZXN0YW1wOyAvLyBUaGUgdGltZXN0YW1wIChpbiBtaWxsaXNlY29uZHMpIHdoZW4gdGhlIG5vdGlmaWNhdGlvbiB3YXMgc2VudC4gTnVsbCBpZiB0aGUgY3VzdG9tZXIgaGFzIG5vIHJlZ2lzdGVyZWQgbm90aWZpY2F0aW9uIGFkZHJlc3Mgb3IgdGhlIG1lc3NhZ2UgaHViIHdhcyB1bmFibGUgdG8gY29tbXVuaWNhdGUgd2l0aCB0aGUgbm90aWZpY2F0aW9uIHNlcnZpY2UuCiAgICAgICAgUmVzdWx0IHJlc3VsdDsKICAgIH0K</text>
