@@ -24,7 +24,6 @@
       <mapping ext="restclient" type="PLAIN_TEXT" />
       <mapping ext="bpmn" type="PLAIN_TEXT" />
       <mapping ext="story" type="PLAIN_TEXT" />
-      <mapping ext="avdl" type="PLAIN_TEXT" />
       <removed_mapping ext="avsc" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
