@@ -71,10 +71,12 @@
         <mark key="^" line="66" column="3" />
         <mark key="." line="64" column="26" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/DeviceMapperTest.groovy" timestamp="1605014577314">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/DeviceMapperTest.groovy" timestamp="1605023687349">
+        <mark key="'" line="84" column="153" />
+        <mark key="[" line="84" column="153" />
+        <mark key="]" line="84" column="153" />
+        <mark key="." line="84" column="153" />
+        <mark key="^" line="89" column="72" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/slask.request.json" timestamp="1602755128134">
         <mark key="[" line="5" column="0" />
@@ -92,10 +94,11 @@
         <mark key="]" line="23" column="28" />
         <mark key="." line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avdl" timestamp="1605018687261">
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="19" column="21" />
-        <mark key="." line="19" column="21" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avdl" timestamp="1605024300562">
+        <mark key="'" line="20" column="73" />
+        <mark key="[" line="20" column="73" />
+        <mark key="]" line="20" column="73" />
+        <mark key="." line="20" column="73" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avdl" timestamp="1604569069792">
         <mark key="[" line="21" column="40" />
@@ -134,11 +137,10 @@
         <mark key="]" line="32" column="24" />
         <mark key="." line="32" column="24" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/Slask.groovy" timestamp="1605017252337">
-        <mark key="[" line="64" column="111" />
-        <mark key="]" line="63" column="0" />
-        <mark key="^" line="25" column="79" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/Slask.groovy" timestamp="1605023437771">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/groovy/com/example/test2/DemoApplication.groovy" timestamp="1603794931143">
         <mark key="[" line="17" column="28" />
@@ -157,10 +159,10 @@
         <mark key="]" line="10" column="32" />
         <mark key="." line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/Slask2.groovy" timestamp="1605006843975">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/Slask2.groovy" timestamp="1605023411630">
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="23" />
+        <mark key="." line="19" column="23" />
       </file>
       <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushStreamConfig.groovy" timestamp="1597928622984">
         <mark key="[" line="55" column="0" />
@@ -211,8 +213,8 @@
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/LogTransformerSupplierTest.groovy" timestamp="1605014545159">
-        <mark key="[" line="58" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/LogTransformerSupplierTest.groovy" timestamp="1605023579094">
+        <mark key="[" line="181" column="236" />
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
         <mark key="^" line="54" column="11" />
@@ -223,16 +225,18 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/NotificationConfigTest.groovy" timestamp="1605015867599">
-        <mark key="[" line="37" column="36" />
-        <mark key="]" line="37" column="36" />
-        <mark key="." line="37" column="36" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/NotificationConfigTest.groovy" timestamp="1605024264230">
+        <mark key="'" line="42" column="199" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="84" column="10" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/TODO.md" timestamp="1605017921455">
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/TODO.md" timestamp="1605024412277">
         <mark key="'" line="0" column="4" />
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/Device.groovy" timestamp="1603981259802">
         <mark key="[" line="6" column="0" />
@@ -467,9 +471,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="75" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/service/ms/mhub/notification/NotificationStream.java" />
-      <jump line="22" column="8" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/service/ms/mhub/notification/NotificationStream.java" />
-      <jump line="30" column="4" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/NotificationConfig.groovy" />
       <jump line="43" column="56" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/NotificationConfig.groovy" />
       <jump line="11" column="0" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/AvroSerializer.groovy" />
       <jump line="0" column="4" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/TODO.md" />
@@ -567,6 +568,9 @@
       <jump line="22" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/LogMapper.groovy" />
       <jump line="31" column="4" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/LogTransformerSupplier.groovy" />
       <jump line="29" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/LogTransformerSupplier.groovy" />
+      <jump line="42" column="199" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/NotificationConfigTest.groovy" />
+      <jump line="84" column="153" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/DeviceMapperTest.groovy" />
+      <jump line="20" column="73" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avdl" />
     </jumps>
     <registers>
       <register name="b" type="4">
@@ -579,7 +583,7 @@
         <text>NotificationError.Error.INTEGRATION.code</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[</text>
       </register>
       <register name="n" type="4">
         <text>NotificationError.Error.NO_ADDRESS.code</text>
@@ -591,7 +595,7 @@
         <text encoding="base64">ICAgIHJlY29yZCBTZWN1cmVNZXNzYWdlQWN0aW9uIHsKICAgICAgICBzdHJpbmcgaWQ7IC8vIFRoZSBpZCBvZiB0aGUgc2VyY3VyZSBtZXNzYWdlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB1bmlvbiB7YXJyYXk8c3RyaW5nPiwgbnVsbH0gcGFyYW1zOyAvLyBUaGUgYWN0aW9uIHBhcmFtZXRlcnMsIGUuZy4gWyI8U2VjdXJlIE1lc3NhZ2UgSWQ+Il0uIAo=</text>
+        <text encoding="base64">KiBDaGFuZ2UgcGFyYW1zIHRvIE1hcAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -603,28 +607,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG91dHB1dFRvcGljLnJlYWRLZXlWYWx1ZSgpID09IG5ldyBLZXlWYWx1ZTw+KCJrZXkxIiwgbm90aWZpY2F0aW9uTG9nKQovLyAgICAgICAgb3V0cHV0VG9waWMucmVhZEtleVZhbHVlKCkgPT0gbmV3IEtleVZhbHVlPD4oImtleTIiLCBub3RpZmljYXRpb25Mb2cpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KiBIYW5kbGUgc2VyaWFsaXphdGlvbi9kZXNlcmlhbGl6YXRpb24gZXJyb3JzCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuIG5vdGlmaWNhdGlvbkxvZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vdGlmaWNhdGlvbjogbnVsbAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAuc2V0UGFyYW1zKEFycmF5cy5hc0xpc3QoImlkMSIpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1c3RvbWVySWQ6IG51bGwsCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzdHJpbmcgaWQ7IC8vIFRoZSBpZCBvZiB0aGUgc2VyY3VyZSBtZXNzYWdlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFByb2R1Y2VyUmVjb3JkPE9iamVjdCwgT2JqZWN0PiByZWNvcmQgPSBuZXcgUHJvZHVjZXJSZWNvcmQ8PigidG9waWMxIiwga2V5LCBhdnJvUmVjb3JkKTsK</text>
+        <text encoding="base64">ICAgIHJlY29yZCBGb29BY3Rpb24gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PERldmljZU1hcHBpbmc+IHJlc3VsdCA9IFtdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KiBNb3ZlIEh0dHAgdG8gY29tbW9uIHJlcG8K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
