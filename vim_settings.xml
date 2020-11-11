@@ -71,11 +71,11 @@
         <mark key="^" line="66" column="3" />
         <mark key="." line="64" column="26" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/DeviceMapperTest.groovy" timestamp="1605023687349">
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/DeviceMapperTest.groovy" timestamp="1605090570424">
         <mark key="'" line="84" column="153" />
-        <mark key="[" line="84" column="153" />
-        <mark key="]" line="84" column="153" />
-        <mark key="." line="84" column="153" />
+        <mark key="[" line="103" column="45" />
+        <mark key="]" line="103" column="46" />
+        <mark key="." line="103" column="46" />
         <mark key="^" line="89" column="72" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/slask.request.json" timestamp="1602755128134">
@@ -440,10 +440,11 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/DeviceMapper.groovy" timestamp="1605017712638">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/DeviceMapper.groovy" timestamp="1605091284846">
+        <mark key="[" line="138" column="9" />
+        <mark key="]" line="142" column="28" />
+        <mark key="." line="142" column="28" />
+        <mark key="^" line="142" column="27" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/TopicDetailsTransformer.groovy" timestamp="1605005003011">
         <mark key="[" line="19" column="12" />
@@ -583,19 +584,19 @@
         <text>NotificationError.Error.INTEGRATION.code</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="n" type="4">
         <text>NotificationError.Error.NO_ADDRESS.code</text>
       </register>
       <register name="/" type="4">
-        <text>as</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlY29yZCBTZWN1cmVNZXNzYWdlQWN0aW9uIHsKICAgICAgICBzdHJpbmcgaWQ7IC8vIFRoZSBpZCBvZiB0aGUgc2VyY3VyZSBtZXNzYWdlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpdGxlOiBub3RpZmljYXRpb24uYm9keS50aXRsZSwKICAgICAgICAgICAgICAgIGJvZHkgOiBub3RpZmljYXRpb24uYm9keS50ZXh0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KiBDaGFuZ2UgcGFyYW1zIHRvIE1hcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -607,37 +608,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG91dHB1dFRvcGljLnJlYWRLZXlWYWx1ZSgpID09IG5ldyBLZXlWYWx1ZTw+KCJrZXkxIiwgbm90aWZpY2F0aW9uTG9nKQovLyAgICAgICAgb3V0cHV0VG9waWMucmVhZEtleVZhbHVlKCkgPT0gbmV3IEtleVZhbHVlPD4oImtleTIiLCBub3RpZmljYXRpb25Mb2cpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhZGdlOiAxCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuIG5vdGlmaWNhdGlvbkxvZwo=</text>
+      <register name="3" type="4">
+        <text>{</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAuc2V0UGFyYW1zKEFycmF5cy5hc0xpc3QoImlkMSIpKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJpbmcgaWQ7IC8vIFRoZSBpZCBvZiB0aGUgc2VyY3VyZSBtZXNzYWdlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlY29yZCBGb29BY3Rpb24gewo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBdIDogbnVsbAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2RlZXBsaW5rJzogbm90aWZpY2F0aW9uLmJvZHkucGFyYW1zCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBNYXAgZGF0YSA9IG5vdGlmaWNhdGlvbi5ib2R5LnBhcmFtcyA/IFsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">KiBDaGFuZ2UgcGFyYW1zIHRvIE1hcAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgIG91dHB1dFRvcGljLnJlYWRLZXlWYWx1ZSgpID09IG5ldyBLZXlWYWx1ZTw+KCJrZXkxIiwgbm90aWZpY2F0aW9uTG9nKQovLyAgICAgICAgb3V0cHV0VG9waWMucmVhZEtleVZhbHVlKCkgPT0gbmV3IEtleVZhbHVlPD4oImtleTIiLCBub3RpZmljYXRpb25Mb2cpCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>as</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>as</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-replace>|</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
@@ -645,7 +646,6 @@
     </search>
     <history>
       <history-search>
-        <entry>}</entry>
         <entry>[/\\[/gc</entry>
         <entry>16</entry>
         <entry>NO</entry>
@@ -665,6 +665,7 @@
         <entry>camel</entry>
         <entry>c1</entry>
         <entry>as</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>%s/return //g</entry>
