@@ -145,7 +145,7 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/DeviceMapperTest.groovy" timestamp="1605103688808">
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/DeviceMapperTest.groovy" timestamp="1605109673873">
         <mark key="'" line="84" column="153" />
         <mark key="[" line="86" column="32" />
         <mark key="]" line="86" column="32" />
@@ -417,6 +417,9 @@
         <mark key="[" line="8" column="47" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/slask.json" timestamp="1605109342495">
+        <mark key="[" line="26" column="1" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/resources/logback.groovy" timestamp="1603797576005">
         <mark key="[" line="36" column="47" />
