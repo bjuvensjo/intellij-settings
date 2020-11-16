@@ -156,6 +156,9 @@
         <mark key="[" line="16" column="22" />
         <mark key="]" line="17" column="15" />
       </file>
+      <file name="$USER_HOME$/git-csp/CSL/ms.insurance.construction/pom.xml" timestamp="1605540665662">
+        <mark key="'" line="20" column="52" />
+      </file>
       <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/slask.request.json" timestamp="1602755128134">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -486,9 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="39" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/DeviceValueMapper.groovy" />
-      <jump line="18" column="7" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/DeviceValueMapper.groovy" />
-      <jump line="35" column="0" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/DeviceValueMapper.groovy" />
       <jump line="20" column="9" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/DeviceValueMapper.groovy" />
       <jump line="54" column="0" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/DeviceMapper.groovy" />
       <jump line="98" column="19" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/NotificationStream.groovy" />
@@ -586,6 +586,9 @@
       <jump line="64" column="64" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/README.md" />
       <jump line="61" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/Slask.groovy" />
+      <jump line="238" column="50" filename="$USER_HOME$/git-csp/CSL/ms.insurance.construction/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-csp/CSL/ms.insurance.construction/pom.xml" />
+      <jump line="20" column="52" filename="$USER_HOME$/git-csp/CSL/ms.insurance.construction/pom.xml" />
     </jumps>
     <registers>
       <register name="b" type="4">
@@ -604,7 +607,7 @@
         <text>NotificationError.Error.NO_ADDRESS.code</text>
       </register>
       <register name="/" type="4">
-        <text>foo</text>
+        <text>swagger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QENvbnRleHRDb25maWd1cmF0aW9uKGNsYXNzZXMgPSBbTm90aWZpY2F0aW9uQXBwbGljYXRpb24sIE1vY2tDYW1lbEh0dHBdKQpAU3ByaW5nQm9vdFRlc3QK</text>
@@ -650,9 +653,9 @@
       </register>
     </registers>
     <search>
-      <last-search>foo</last-search>
+      <last-search>swagger</last-search>
       <last-offset />
-      <last-pattern>foo</last-pattern>
+      <last-pattern>swagger</last-pattern>
       <last-replace>|</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
@@ -660,7 +663,6 @@
     </search>
     <history>
       <history-search>
-        <entry>:</entry>
         <entry>FCM</entry>
         <entry>tru</entry>
         <entry>head</entry>
@@ -680,6 +682,7 @@
         <entry encoding="base64">XDxhbmRyb2lkXD4=</entry>
         <entry>2.5</entry>
         <entry>foo</entry>
+        <entry>swagger</entry>
       </history-search>
       <history-cmd>
         <entry>%s/return //g</entry>
