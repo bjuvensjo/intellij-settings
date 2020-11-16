@@ -152,6 +152,10 @@
         <mark key="]" line="131" column="32" />
         <mark key="." line="131" column="32" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/SlaskAST.groovy" timestamp="1605537433923">
+        <mark key="[" line="16" column="73" />
+        <mark key="]" line="17" column="15" />
+      </file>
       <file name="$USER_HOME$/git-CSPHUB/mhub.api.repository/src/main/avro/se/lf/csl/mhub/api/notification/slask.request.json" timestamp="1602755128134">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -602,8 +606,8 @@
       <register name="/" type="4">
         <text>foo</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">VE9ETzogVmFsdWU/IE5vdyBkZWZhdWx0LiA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">QENvbnRleHRDb25maWd1cmF0aW9uKGNsYXNzZXMgPSBbTm90aWZpY2F0aW9uQXBwbGljYXRpb24sIE1vY2tDYW1lbEh0dHBdKQpAU3ByaW5nQm9vdFRlc3QK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcm9wcy5wdXQoU3RyZWFtc0NvbmZpZy5SRVBMSUNBVElPTl9GQUNUT1JfQ09ORklHLCAzKQo=</text>
