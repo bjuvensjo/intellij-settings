@@ -221,6 +221,12 @@
         <mark key="." line="20" column="44" />
         <mark key="^" line="20" column="43" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification-configuration/src/main/templates/application-env.properties" timestamp="1605609491385">
+        <mark key="[" line="46" column="17" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="43" column="4" />
+      </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/AvroSerdes.groovy" timestamp="1603969448595">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="7" column="0" />
@@ -477,10 +483,11 @@
       <file name="/fragment.java" timestamp="1605009541011">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ws-csphub/pom.xml" timestamp="1603806480374">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/ws-csphub/pom.xml" timestamp="1605608792769">
+        <mark key="[" line="11" column="39" />
+        <mark key="]" line="11" column="52" />
+        <mark key="." line="11" column="52" />
+        <mark key="^" line="11" column="52" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/ContextTransformerSupplier.groovy" timestamp="1605008519616">
         <mark key="[" line="28" column="31" />
@@ -601,7 +608,7 @@
         <text>NotificationError.Error.INTEGRATION.code</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>#</text>
       </register>
       <register name="n" type="4">
         <text>NotificationError.Error.NO_ADDRESS.code</text>
@@ -609,11 +616,11 @@
       <register name="/" type="4">
         <text>swagger</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QENvbnRleHRDb25maWd1cmF0aW9uKGNsYXNzZXMgPSBbTm90aWZpY2F0aW9uQXBwbGljYXRpb24sIE1vY2tDYW1lbEh0dHBdKQpAU3ByaW5nQm9vdFRlc3QK</text>
+      <register name="0" type="4">
+        <text>ms_insurance_construction_1.2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wcy5wdXQoU3RyZWFtc0NvbmZpZy5SRVBMSUNBVElPTl9GQUNUT1JfQ09ORklHLCAzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -625,28 +632,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQuYwo=</text>
+        <text encoding="base64">a2lkbWFwLjI9TUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUFyUmF1RHlmU1lKc2FiTkxQUVpMV2JtZGxqSlZ5TkNhNWFpR0kza1NoMEFSYytGRTlsZ2JycmtLbXM1bU5kRFozNW1EM2tlVkFIYWw2QnN4aTBERFN0SVFBVkpmOUpEcitkWXkxNHdxdndRL3JOenEra3Iwa0JGL21oYVJRMStEVHMzcnd3TngxYXJqeW9zdWs5anE0aVo1dWtVVWRUNnl3b3ZxNTlsaVp6Mzkyc00xMEhRWndnT1VKU2c2Y1BrVm50Z3MwaEFBVkc0YXdKSjFML2dtR3ducGpNS3RUU0NQZ2VYZGFPcG1IVWxPU1FRRnllOHRYK1JlNC9TQkttVjhZWjBOMFJCQXk0SWxKT1ZoaE5rTDJ5ajN3enJZaVBhRENGTEN5QlN4dXQ0NHAvamJ2enNHaEYvSENDMmQwMFNBZTR6T3VjMDFtcFQ3N3pBQkVNclBFV1FJREFRQUIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJlYW1zQ29uZmlnLgo=</text>
+        <text encoding="base64">a2lkbWFwLmFzdD1NSUlCSWpBTkJna3Foa2lHOXcwQkFRRUZBQU9DQVE4QU1JSUJDZ0tDQVFFQXpUbCtobVN4SUY5eEE0ZDFXQTB0Ukg1aUFRQmpCYXEvaVBHSUN6MTZmcnVHMkdNQWN4VHdlc2NaZTZoY0tkTGQzUW45RDgxeTV1U2NhdWY2akZaZjJseTE1UEF0SGFYbmQybHdIWHo4bG9CNzFnYzdMRHFZczVXTkVOcGhLaExhVllOcmUxNjNkdEVlZWVObWIxSHUrOEhFTjl2TU1pTUdZcmNHdmpBNUxqYkpYdVpIcjFoM2NHM3RYM1FVbHFlWG5CNkNPdjdaUDZYbkpTb1VUd3FjTzlYMkdkZDVvSStycHY0SHk3OGx6cVBBVGJzZnEyd3JENFVLcW8vZHBuTWl5STNnZnJHMFBqTmNBZkQzYm03WGtFZlVwbDg4T21LZWFoem9Oc1J6YVRnNHREZXRCOStPVGJyTmlFbkVubE9lRlV5bGVmL0llVVZVdHg1UXcyK1pod0lEQVFBQgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wcy5wdXQoU3RyZWFtc0NvbmZpZy5BQykK</text>
+        <text encoding="base64">a2lkbWFwLjE9TUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUF4amd5UzJjam1SVFJGTjNzU1BPcUFrQ1h2QXlYN2duU2trNjBwQVJybFQ4NWVUUXVBQy9sYVZhdjhCdUUvV0l6VjNzNDlYL01OS0h3UTdaN25ubnZGbUU0bmcyVkFBYi9DYlpPemhrNURia25LblNxaDRlQU5XWVkxZ1NqNkt2V25FVWdOSkFNNHN5SnExWGs3MUI2T2k4U2FDYmkyZTcvMkhYRjBXdXZ6TVJjVkcyR3ZpcUVwaXN2eG5PNGhtdXBEYUVOSnRGTm9jdTM5NkNMakNaZFJPemdWQmFrbjNwOFNsejIvMVJSeWVkdWFtSGhzdGhBNHdkK2hPSW14MHRPWjFaWk5YNTVJbzlrcTY4Z0hPMnVHZzlha3cxZTk3UXUxSnZPY01vTzk1ZjZYTEJrL2dIeCtqMXNVT0NWbXM3dUNEa09SZGc2bWVjZlB2RERkRHhGVFFJREFRQUIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wcy5wdXQoU3RyZWFtc0NvbmZpZy5DTElFTlRfSURfQ09ORklHLCB0aGlzLmNsYXNzLm5hbWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wcy5wdXQoU3RyZWFtc0NvbmZpZy5TVEFURV9ESVJfQ09ORklHLCAnL3RtcC9rYWZrYS1zdHJlYW1zJykgLy8gVE9ETzogVmFsdWU/IE5vdyBkZWZhdWx0Lgo=</text>
+        <text encoding="base64">dGVtcGxhdGUubWVzc2FnZS5maW5pc2hlZD1Hw6RsbGFuZGUgZGluIHNrYWRlYW5tw6RsYW4gbWVkIHNrYWRlbnVtbWVyOiB7MH0uXG5cbkRpbiBza2FkYSDDpHIgbnUgcmVnbGVyYWQuIEkgYXZzbHV0c2JyZXZldCwgc29tIGZpbm5zIHDDpSBNaW5hIHNpZG9yLCBrYW4gZHUgc2UgZGl0dCBlcnPDpHR0bmluZ3NiZWxvcHAsIGRpbiBzasOkbHZyaXNrIG9jaCB0b3RhbGtvc3RuYWRlbiBmw7ZyIGF0dCDDpXRlcnN0w6RsbGEgc2thZGFuLiBEdSBoaXR0YXIgYnJldmV0IHVuZGVyIGZsaWtlbiBGw7Zyc8Oka3Jpbmdhci5cblxuVsOkbmxpZ2EgaMOkbHNuaW5nYXIsXG5cbkJ5Z2dza2FkZWF2ZGVsbmluZ2VuIFxuTMOkbnNmw7Zyc8Oka3JpbmdhciB7MX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBDb25zaWRlciBwcm9jZXNzb3JDb250ZXh0LnRpbWVzdGFtcCB0byBzZXQgdHRsIGNvcnJlY3RseQo=</text>
+        <text encoding="base64">dGVtcGxhdGUuaGVhZGxpbmUuZmluaXNoZWQ9RGl0dCBza2FkZcOkcmVuZGUgw6RyIGF2c2x1dGF0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0LnRpbWVzdGFtcCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wcy5wdXQoU3RyZWFtc0NvbmZpZy5ERSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
