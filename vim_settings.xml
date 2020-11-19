@@ -413,10 +413,10 @@
         <mark key="]" line="11" column="77" />
         <mark key="." line="11" column="77" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/NotificationApplication.groovy" timestamp="1605177034761">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/NotificationApplication.groovy" timestamp="1605784260044">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/README.md" timestamp="1603975404386">
         <mark key="[" line="60" column="4" />
@@ -441,10 +441,10 @@
         <mark key="." line="30" column="22" />
         <mark key="^" line="30" column="22" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/NotificationConfig.groovy" timestamp="1605684607180">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="31" column="26" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/NotificationConfig.groovy" timestamp="1605784346947">
+        <mark key="[" line="42" column="8" />
+        <mark key="]" line="42" column="8" />
+        <mark key="." line="42" column="8" />
       </file>
       <file name="$USER_HOME$/slask/serok/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" timestamp="1603461354371">
         <mark key="[" line="120" column="0" />
@@ -638,7 +638,7 @@
         <text>NotificationError.Error.INTEGRATION.code</text>
       </register>
       <register name="-" type="4">
-        <text>==</text>
+        <text>def</text>
       </register>
       <register name="n" type="4">
         <text>NotificationError.Error.NO_ADDRESS.code</text>
@@ -650,7 +650,7 @@
         <text>Exchange.CONTENT_TYPE, 'application/json'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBNZXNzYWdlIG1lc3NhZ2UgPSBNb2NrKCkKLy8gICAgICAgICAgICBtZXNzYWdlLmdldEhlYWRlcihfLCBfKSA+PiByZXNwb25zZUNvZGUKLy8gICAgICAgICAgICBtZXNzYWdlLmdldEJvZHkoXykgPj4gcmVzcG9uc2VCb2R5Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHN0cmVhbXMuY2xvc2UoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -661,29 +661,29 @@
           <key char="124" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBNZXNzYWdlIG1lc3NhZ2UgPSBNb2NrKCkKLy8gICAgICAgICAgICBtZXNzYWdlLmdldEhlYWRlcihfLCBfKSA+PiByZXNwb25zZUNvZGUKLy8gICAgICAgICAgICBtZXNzYWdlLmdldEJvZHkoXykgPj4gcmVzcG9uc2VCb2R5Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">XywgXykgPj4gcmVzcG9uc2VDb2RlCiAgICAgICAgICAgICAgICBnZXRCb2R5KF8pLA==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZS5nZXRIZWFkZXIoXywgXykgPj4gcmVzcG9uc2VDb2RlCiAgICAgICAgICAgIG1lc3NhZ2UuZ2V0Qm9keShfKSA+PiByZXNwb25zZUJvZHkK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIEBVbnJvbGwKICAgIGRlZiAicG9zdCAjcmVzcG9uc2VDb2RlLCAjYm9keSIoSW50ZWdlciByZXNwb25zZUNvZGUsIFN0cmluZyByZXNwb25zZUJvZHksIEV4Y2VwdGlvbiBleGNlcHRpb24sIFN0cmluZyBleHBlY3RlZFJlc3BvbnNlQm9keSwgaW50IGV4cGVjdGVkUmVzcG9uc2VDb2RlKSB7CiAgICAgICAgaW50IHRpbWVvdXQgPSAxMAogICAgICAgIFN0cmluZyB1cmwgPSAiaHR0cDovL29sZEhvc3Q/aHR0cE1ldGhvZD1QT1NUJmNvbm5lY3Rpb25SZXF1ZXN0VGltZW91dD0kdGltZW91dCZjb25uZWN0VGltZW91dD0kdGltZW91dCZzb2NrZXRUaW1lb3V0PSR0aW1lb3V0IgogICAgICAgIHdoZW46CiAgICAgICAgTWFwIHJlc3VsdCA9IHJlc3RDbGllbnQucG9zdCh1cmwsIFs6XSwgWzpdLCB0aW1lb3V0KQogICAgICAgIHRoZW46CiAgICAgICAgMSAqIHByb2R1Y2VyVGVtcGxhdGUuc2VuZCh1cmwsIF8pID4+IHsgU3RyaW5nIHUsIEV4Y2hhbmdlIGUgLT4KICAgICAgICAgICAgZS5pbi5nZXRIZWFkZXIoRXhjaGFuZ2UuSFRUUF9VUkkpICE9IHVybAogICAgICAgICAgICBNZXNzYWdlIG1lc3NhZ2UgPSBNb2NrKCkKICAgICAgICAgICAgbWVzc2FnZS5nZXRIZWFkZXIoXywgXykgPj4gcmVzcG9uc2VDb2RlCiAgICAgICAgICAgIG1lc3NhZ2UuZ2V0Qm9keShfKSA+PiByZXNwb25zZUJvZHkKICAgICAgICAgICAgZS5vdXQgPSBtZXNzYWdlCiAgICAgICAgICAgIGUuZXhjZXB0aW9uID0gZXhjZXB0aW9uCiAgICAgICAgICAgIGUKICAgICAgICB9CiAgICAgICAgcmVzdWx0LnJlc3BvbnNlQ29kZSA9PSBleHBlY3RlZFJlc3BvbnNlQ29kZQogICAgICAgIHJlc3VsdC5ib2R5ID09IGV4cGVjdGVkUmVzcG9uc2VCb2R5CiAgICAgICAgcmVzdWx0LmV4Y2VwdGlvbiA9PSBleGNlcHRpb24KICAgICAgICB3aGVyZToKICAgICAgICByZXNwb25zZUNvZGUgfCByZXNwb25zZUJvZHkgfCBleGNlcHRpb24gICAgICAgICAgICAgIHwgZXhwZWN0ZWRSZXNwb25zZUJvZHkgfCBleHBlY3RlZFJlc3BvbnNlQ29kZQogICAgICAgIG51bGwgICAgICAgICB8IG51bGwgICAgICAgICB8IG51bGwgICAgICAgICAgICAgICAgICAgfCAnJyAgICAgICAgICAgICAgICAgICB8IDUwMAogICAgICAgIDUwMCAgICAgICAgICB8ICcnICAgICAgICAgICB8IG5ldyBSdW50aW1lRXhjZXB0aW9uKCkgfCAnJyAgICAgICAgICAgICAgICAgICB8IDUwMAogICAgICAgIDIwMCAgICAgICAgICB8ICdib2R5JyAgICAgICB8IG51bGwgICAgICAgICAgICAgICAgICAgfCAnYm9keScgICAgICAgICAgICAgICB8IDIwMAogICAgfQp9</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgdGltZW91dCA9IDEwCiAgICAgICAgdXJsID0gImh0dHA6Ly9vbGRIb3N0P2h0dHBNZXRob2Q9UE9TVCZjb25uZWN0aW9uUmVxdWVzdFRpbWVvdXQ9JHRpbWVvdXQmY29ubmVjdFRpbWVvdXQ9JHRpbWVvdXQmc29ja2V0VGltZW91dD0kdGltZW91dCIK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBNYXAgaGVhZGVycyA9IFtoMTogJ3YxJ10KICAgICAgICBNYXAgYm9keSA9IFtrMTogJ3YxJ10K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRlZiBoZWFkZXJzID0gbnVsbAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGRlZiBoZWFkZXJzID0gbnVsbAo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
