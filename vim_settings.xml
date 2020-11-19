@@ -55,6 +55,13 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/slask4.json" timestamp="1605794136746">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+      </file>
       <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/PushConsumer.groovy" timestamp="1597928863669">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -507,7 +514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="8" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
       <jump line="30" column="7" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
       <jump line="48" column="235" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
       <jump line="14" column="4" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/LogMapper.groovy" />
@@ -607,6 +613,7 @@
       <jump line="102" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/LogTransformerSupplier.groovy" />
       <jump line="116" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/LogTransformerSupplier.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/LogTransformerSupplier.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/slask4.json" />
     </jumps>
     <registers>
       <register name="b" type="4">
@@ -631,7 +638,7 @@
         <text>Exchange.CONTENT_TYPE, 'application/json'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBHb29nbGVDcmVkZW50aWFsIGdjID0gCg==</text>
+        <text encoding="base64">ICAgICAiY2hhbm5lbF9pZCI6ICJTRUNVUkVfTUVTU0FHRSIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -643,28 +650,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHN0cmVhbXMuY2xvc2UoKQo=</text>
+        <text encoding="base64">ICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBNZXNzYWdlIG1lc3NhZ2UgPSBNb2NrKCkKLy8gICAgICAgICAgICBtZXNzYWdlLmdldEhlYWRlcihfLCBfKSA+PiByZXNwb25zZUNvZGUKLy8gICAgICAgICAgICBtZXNzYWdlLmdldEJvZHkoXykgPj4gcmVzcG9uc2VCb2R5Cg==</text>
+        <text encoding="base64">ICAgICAiZGVlcGxpbmsiOiAibGZtb2JpbDovL2RlZXBsaW5rL3NlY3VyZV9tZXNzYWdlcy9zZWN1cmVfbWVzc2FnZXMiCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">XywgXykgPj4gcmVzcG9uc2VDb2RlCiAgICAgICAgICAgICAgICBnZXRCb2R5KF8pLA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgImRhdGEiOiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZS5nZXRIZWFkZXIoXywgXykgPj4gcmVzcG9uc2VDb2RlCiAgICAgICAgICAgIG1lc3NhZ2UuZ2V0Qm9keShfKSA+PiByZXNwb25zZUJvZHkK</text>
+        <text encoding="base64">ICAgICAgICBHb29nbGVDcmVkZW50aWFsIGdjID0gCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIEBVbnJvbGwKICAgIGRlZiAicG9zdCAjcmVzcG9uc2VDb2RlLCAjYm9keSIoSW50ZWdlciByZXNwb25zZUNvZGUsIFN0cmluZyByZXNwb25zZUJvZHksIEV4Y2VwdGlvbiBleGNlcHRpb24sIFN0cmluZyBleHBlY3RlZFJlc3BvbnNlQm9keSwgaW50IGV4cGVjdGVkUmVzcG9uc2VDb2RlKSB7CiAgICAgICAgaW50IHRpbWVvdXQgPSAxMAogICAgICAgIFN0cmluZyB1cmwgPSAiaHR0cDovL29sZEhvc3Q/aHR0cE1ldGhvZD1QT1NUJmNvbm5lY3Rpb25SZXF1ZXN0VGltZW91dD0kdGltZW91dCZjb25uZWN0VGltZW91dD0kdGltZW91dCZzb2NrZXRUaW1lb3V0PSR0aW1lb3V0IgogICAgICAgIHdoZW46CiAgICAgICAgTWFwIHJlc3VsdCA9IHJlc3RDbGllbnQucG9zdCh1cmwsIFs6XSwgWzpdLCB0aW1lb3V0KQogICAgICAgIHRoZW46CiAgICAgICAgMSAqIHByb2R1Y2VyVGVtcGxhdGUuc2VuZCh1cmwsIF8pID4+IHsgU3RyaW5nIHUsIEV4Y2hhbmdlIGUgLT4KICAgICAgICAgICAgZS5pbi5nZXRIZWFkZXIoRXhjaGFuZ2UuSFRUUF9VUkkpICE9IHVybAogICAgICAgICAgICBNZXNzYWdlIG1lc3NhZ2UgPSBNb2NrKCkKICAgICAgICAgICAgbWVzc2FnZS5nZXRIZWFkZXIoXywgXykgPj4gcmVzcG9uc2VDb2RlCiAgICAgICAgICAgIG1lc3NhZ2UuZ2V0Qm9keShfKSA+PiByZXNwb25zZUJvZHkKICAgICAgICAgICAgZS5vdXQgPSBtZXNzYWdlCiAgICAgICAgICAgIGUuZXhjZXB0aW9uID0gZXhjZXB0aW9uCiAgICAgICAgICAgIGUKICAgICAgICB9CiAgICAgICAgcmVzdWx0LnJlc3BvbnNlQ29kZSA9PSBleHBlY3RlZFJlc3BvbnNlQ29kZQogICAgICAgIHJlc3VsdC5ib2R5ID09IGV4cGVjdGVkUmVzcG9uc2VCb2R5CiAgICAgICAgcmVzdWx0LmV4Y2VwdGlvbiA9PSBleGNlcHRpb24KICAgICAgICB3aGVyZToKICAgICAgICByZXNwb25zZUNvZGUgfCByZXNwb25zZUJvZHkgfCBleGNlcHRpb24gICAgICAgICAgICAgIHwgZXhwZWN0ZWRSZXNwb25zZUJvZHkgfCBleHBlY3RlZFJlc3BvbnNlQ29kZQogICAgICAgIG51bGwgICAgICAgICB8IG51bGwgICAgICAgICB8IG51bGwgICAgICAgICAgICAgICAgICAgfCAnJyAgICAgICAgICAgICAgICAgICB8IDUwMAogICAgICAgIDUwMCAgICAgICAgICB8ICcnICAgICAgICAgICB8IG5ldyBSdW50aW1lRXhjZXB0aW9uKCkgfCAnJyAgICAgICAgICAgICAgICAgICB8IDUwMAogICAgICAgIDIwMCAgICAgICAgICB8ICdib2R5JyAgICAgICB8IG51bGwgICAgICAgICAgICAgICAgICAgfCAnYm9keScgICAgICAgICAgICAgICB8IDIwMAogICAgfQp9</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHN0cmVhbXMuY2xvc2UoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBNZXNzYWdlIG1lc3NhZ2UgPSBNb2NrKCkKLy8gICAgICAgICAgICBtZXNzYWdlLmdldEhlYWRlcihfLCBfKSA+PiByZXNwb25zZUNvZGUKLy8gICAgICAgICAgICBtZXNzYWdlLmdldEJvZHkoXykgPj4gcmVzcG9uc2VCb2R5Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgdGltZW91dCA9IDEwCiAgICAgICAgdXJsID0gImh0dHA6Ly9vbGRIb3N0P2h0dHBNZXRob2Q9UE9TVCZjb25uZWN0aW9uUmVxdWVzdFRpbWVvdXQ9JHRpbWVvdXQmY29ubmVjdFRpbWVvdXQ9JHRpbWVvdXQmc29ja2V0VGltZW91dD0kdGltZW91dCIK</text>
+      <register name="8" type="4">
+        <text encoding="base64">XywgXykgPj4gcmVzcG9uc2VDb2RlCiAgICAgICAgICAgICAgICBnZXRCb2R5KF8pLA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNYXAgaGVhZGVycyA9IFtoMTogJ3YxJ10KICAgICAgICBNYXAgYm9keSA9IFtrMTogJ3YxJ10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZS5nZXRIZWFkZXIoXywgXykgPj4gcmVzcG9uc2VDb2RlCiAgICAgICAgICAgIG1lc3NhZ2UuZ2V0Qm9keShfKSA+PiByZXNwb25zZUJvZHkK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
