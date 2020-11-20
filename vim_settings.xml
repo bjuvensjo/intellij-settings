@@ -112,9 +112,9 @@
         <mark key="]" line="21" column="45" />
         <mark key="." line="21" column="45" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification-configuration/src/main/templates/application-env.properties" timestamp="1605864656756">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="54" column="13" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification-configuration/src/main/templates/application-env.properties" timestamp="1605872671368">
+        <mark key="[" line="48" column="27" />
+        <mark key="]" line="48" column="47" />
         <mark key="." line="54" column="13" />
         <mark key="^" line="54" column="13" />
       </file>
@@ -234,11 +234,10 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/AndroidPNS.groovy" timestamp="1605864742451">
-        <mark key="[" line="36" column="55" />
-        <mark key="]" line="19" column="9" />
-        <mark key="." line="19" column="9" />
-        <mark key="^" line="19" column="9" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/AndroidPNS.groovy" timestamp="1605872676693">
+        <mark key="[" line="43" column="31" />
+        <mark key="]" line="42" column="4" />
+        <mark key="." line="42" column="4" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/PNS.groovy" timestamp="1605703605760">
         <mark key="[" line="49" column="33" />
@@ -633,7 +632,7 @@
         <text>NotificationError.Error.INTEGRATION.code</text>
       </register>
       <register name="-" type="4">
-        <text>SERVICE_ACCOUNT_JSON</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="n" type="4">
         <text>NotificationError.Error.NO_ADDRESS.code</text>
@@ -641,11 +640,11 @@
       <register name="/" type="4">
         <text>camel</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSh2YWx1ZSA9ICcke3Bucy50aW1lb3V0fScpCiAgICBpbnQgdGltZW91dAo=</text>
+      <register name="0" type="4">
+        <text>/service-account.json</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgU0VSVklDRV9BQ0NPVU5UX0pTT04gPSAnL3NlcnZpY2UtYWNjb3VudC5qc29uJwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -657,30 +656,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXJzID0gKGhlYWRlcnMgPzogWzpdKSArICggYXMgTWFwPFN0cmluZywgT2JqZWN0PikK</text>
+        <text encoding="base64">ICAgICAgICBkZWYgbSA9IFszZGRrZXk6ICd2YWx1ZSddCiAgICAgICAgbS5wdXRBbGwobnVsbCkKICAgICAgICBwcmludGxuIG0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZAo=</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgU0VSVklDRV9BQ0NPVU5UX0pTT04gPSAnL3NlcnZpY2UtYWNjb3VudC5qc29uJwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBjYW1lbENvbnRleHQgPSBuZXcgRGVmYXVsdENhbWVsQ29udGV4dCgpCiAgICAgICAgcHJvZHVjZXJUZW1wbGF0ZSA9IE1vY2soKQogICAgICAgIHJlc3RDbGllbnQgPSBuZXcgUmVzdENsaWVudChwcm9kdWNlclRlbXBsYXRlOiBwcm9kdWNlclRlbXBsYXRlKQogICAgICAgIHByb2R1Y2VyVGVtcGxhdGUuZ2V0Q2FtZWxDb250ZXh0KCkgPj4gY2FtZWxDb250ZXh0</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBoZWFkZXJzID0gKGhlYWRlcnMgPzogWzpdKSArICggYXMgTWFwPFN0cmluZywgT2JqZWN0PikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnYWNjZXNzVG9rZW4nCg==</text>
+        <text encoding="base64">ICAgICAgICBkZAo=</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICBjYW1lbENvbnRleHQgPSBuZXcgRGVmYXVsdENhbWVsQ29udGV4dCgpCiAgICAgICAgcHJvZHVjZXJUZW1wbGF0ZSA9IE1vY2soKQogICAgICAgIHJlc3RDbGllbnQgPSBuZXcgUmVzdENsaWVudChwcm9kdWNlclRlbXBsYXRlOiBwcm9kdWNlclRlbXBsYXRlKQogICAgICAgIHByb2R1Y2VyVGVtcGxhdGUuZ2V0Q2FtZWxDb250ZXh0KCkgPj4gY2FtZWxDb250ZXh0</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAnYWNjZXNzVG9rZW4nCg==</text>
+      </register>
+      <register name="8" type="4">
         <text>t
     ProducerTemplate producerTemplate
     RestClient restClient</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAiY2hhbm5lbF9pZCI6ICJTRUNVUkVfTUVTU0FHRSIK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgfQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAiZGVlcGxpbmsiOiAibGZtb2JpbDovL2RlZXBsaW5rL3NlY3VyZV9tZXNzYWdlcy9zZWN1cmVfbWVzc2FnZXMiCg==</text>
+        <text encoding="base64">ICAgICAiY2hhbm5lbF9pZCI6ICJTRUNVUkVfTUVTU0FHRSIK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
