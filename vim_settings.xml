@@ -67,9 +67,9 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/DeviceMapperTest.groovy" timestamp="1605634404072">
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/DeviceMapperTest.groovy" timestamp="1606144208781">
         <mark key="'" line="84" column="153" />
-        <mark key="[" line="80" column="33" />
+        <mark key="[" line="40" column="45" />
         <mark key="]" line="80" column="36" />
         <mark key="." line="80" column="36" />
         <mark key="^" line="80" column="36" />
@@ -227,11 +227,12 @@
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/DeviceServiceTest.groovy" timestamp="1606124399602">
-        <mark key="[" line="34" column="17" />
-        <mark key="]" line="29" column="17" />
-        <mark key="." line="29" column="17" />
-        <mark key="^" line="29" column="17" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/DeviceServiceTest.groovy" timestamp="1606144714716">
+        <mark key="'" line="25" column="12" />
+        <mark key="[" line="34" column="42" />
+        <mark key="]" line="19" column="19" />
+        <mark key="^" line="19" column="19" />
+        <mark key="." line="19" column="19" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/LogTransformerSupplierTest.groovy" timestamp="1605023579094">
         <mark key="[" line="181" column="236" />
@@ -290,11 +291,11 @@
         <mark key="." line="10" column="4" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/DeviceService.groovy" timestamp="1606124515785">
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="13" />
-        <mark key="." line="20" column="13" />
-        <mark key="^" line="20" column="13" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/DeviceService.groovy" timestamp="1606144113276">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="26" column="44" />
+        <mark key="." line="26" column="44" />
+        <mark key="^" line="26" column="44" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/IOSPNS.groovy" timestamp="1604316620827">
         <mark key="[" line="12" column="26" />
@@ -504,8 +505,8 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/DeviceMapper.groovy" timestamp="1605707178908">
-        <mark key="[" line="113" column="9" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/DeviceMapper.groovy" timestamp="1606136713653">
+        <mark key="[" line="38" column="45" />
         <mark key="]" line="109" column="25" />
         <mark key="." line="109" column="25" />
         <mark key="^" line="109" column="25" />
@@ -537,12 +538,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="235" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
-      <jump line="14" column="4" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/LogMapper.groovy" />
-      <jump line="24" column="8" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/LogMapper.groovy" />
-      <jump line="56" column="411" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
-      <jump line="133" column="17" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/DeviceMapper.groovy" />
-      <jump line="86" column="8" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
       <jump line="80" column="11" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
       <jump line="82" column="11" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
       <jump line="83" column="11" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/LogMapperTest.groovy" />
@@ -637,6 +632,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/LogTransformerSupplier.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/slask4.json" />
       <jump line="23" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/AndroidPNS.groovy" />
+      <jump line="31" column="63" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/DeviceService.groovy" />
+      <jump line="34" column="12" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/DeviceServiceTest.groovy" />
+      <jump line="27" column="8" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/DeviceServiceTest.groovy" />
+      <jump line="37" column="8" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/DeviceServiceTest.groovy" />
+      <jump line="19" column="12" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/DeviceServiceTest.groovy" />
+      <jump line="25" column="12" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/DeviceServiceTest.groovy" />
     </jumps>
     <registers>
       <register name="b" type="4">
@@ -649,19 +650,19 @@
         <text>NotificationError.Error.INTEGRATION.code</text>
       </register>
       <register name="-" type="4">
-        <text>iosPNS</text>
+        <text>(</text>
       </register>
       <register name="n" type="4">
         <text>NotificationError.Error.NO_ADDRESS.code</text>
       </register>
       <register name="/" type="4">
-        <text>camel</text>
+        <text encoding="base64">XDwxOTkyMDcyMDgyNzRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSh2YWx1ZSA9ICcke2RldmljZVNlcnZpY2UudXJsfScpCiAgICBTdHJpbmcgdXJsCiAgICBAVmFsdWUodmFsdWUgPSAnJHtkZXZpY2VTZXJ2aWNlLnRpbWVvdXR9JykKICAgIGludCB0aW1lb3V0Cg==</text>
+        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIExpc3Q8TWFwPj4gZ2V0Q3VzdG9tZXJEZXZpY2VzKE1hcCBib2R5KSB7Ci8vICAgICAgICBMaXN0IGRldmljZXMgPSBbCi8vICAgICAgICAgICAgW2FwcElkOiAnTEYnLCBkZXZpY2VUeXBlOiBEZXZpY2VNYXBwZXIuRGV2aWNlTWFwcGluZy5EZXZpY2VUeXBlLkFuZHJvaWQsIHB1c2hUb2tlbjogJ2M4ZUI1bWtyWmJjOkFQQTkxYkU4YnMxU1J3N1FPekcxN191VWo4WWpsMWJyYkVfS1Fod3lQS0JBRTVidnZxZ21IZXhyNWtVbFFmdEZPQ3RvejEtYy15UXJJY0tNTmtjcTJzb21xWHhCbU1NMlRka3FVN3RiOUtRNlVGSURrTXlyR1RrUlFnQ1N1MXhVNWxGeWNSenRaamlyJ10sCi8vICAgICAgICAgICAgW2FwcElkOiAnTEYnLCBkZXZpY2VUeXBlOiBEZXZpY2VNYXBwZXIuRGV2aWNlTWFwcGluZy5EZXZpY2VUeXBlLkFuZHJvaWQsIHB1c2hUb2tlbjogJ2M4ZUI1bWtyWmJjOkFQQTkxYkU4YnMxU1J3N1FPekcxN191VWo4WWpsMWJyYkVfS1Fod3lQS0JBRTVidnZxZ21IZXhyNWtVbFFmdEZPQ3RvejEtYy15UXJJY0tNTmtjcTJzb21xWHhCbU1NMlRka3FVN3RiOUtRNlVGSURrTXlyR1RrUlFnQ1N1MXhVNWxGeWNSenRaamlyJ10KLy8gICAgICAgIF0KLy8gICAgICAgIGN1c3RvbWVySWRzLmNvbGxlY3RFbnRyaWVzIHsgY3VzdG9tZXJJZCAtPgovLyAgICAgICAgICAgIFsoY3VzdG9tZXJJZCk6IGRldmljZXNdCi8vICAgICAgICB9CgogICAgICAgIE1hcCByZXN1bHQgPSByZXN0Q2xpZW50LnBvc3QodXJsLCBudWxsLCBib2R5LCB0aW1lb3V0KQogICAgICAgIGlmIChyZXN1bHQucmVzcG9uc2VDb2RlICE9IDIwMCB8fCByZXN1bHQuZXhjZXB0aW9uKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJDYW4gbm90IGdldCBwdXNoIHRva2VucywgcmVzcG9uc2U6ICR7cmVzdWx0fSIpCiAgICAgICAgfQogICAgICAgIG5ldyBKc29uU2x1cnBlcigpLnBhcnNlVGV4dChyZXN1bHQuYm9keSBhcyBTdHJpbmcpIGFzIE1hcDxTdHJpbmcsIExpc3Q8TWFwPj4KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U3RyaW5nIHVybAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -673,39 +674,38 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFZhbHVlKHZhbHVlID0gJyR7ZGV2aWNlU2VydmljZS51cmx9JykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBNYXAgcmVzdWx0ID0gcmVzdENsaWVudC5wb3N0KHVybCwgbnVsbCwgYm9keSwgdGltZW91dCkKICAgICAgICBpZiAocmVzdWx0LnJlc3BvbnNlQ29kZSAhPSAyMDAgfHwgcmVzdWx0LmV4Y2VwdGlvbikgewogICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiQ2FuIG5vdCBnZXQgcHVzaCB0b2tlbnMsIHJlc3BvbnNlOiAke3Jlc3VsdH0iKQogICAgICAgIH0KICAgICAgICBuZXcgSnNvblNsdXJwZXIoKS5wYXJzZVRleHQocmVzdWx0LmJvZHkgYXMgU3RyaW5nKSBhcyBNYXA8U3RyaW5nLCBMaXN0PE1hcD4+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGN1c3RvbWVySWRzLmNvbGxlY3RFbnRyaWVzIHsgY3VzdG9tZXJJZCAtPgovLyAgICAgICAgICAgIFsoY3VzdG9tZXJJZCk6IGRldmljZXNdCi8vICAgICAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIExpc3QgZGV2aWNlcyA9IFsKLy8gICAgICAgICAgICBbYXBwSWQ6ICdMRicsIGRldmljZVR5cGU6IERldmljZU1hcHBlci5EZXZpY2VNYXBwaW5nLkRldmljZVR5cGUuQW5kcm9pZCwgcHVzaFRva2VuOiAnYzhlQjVta3JaYmM6QVBBOTFiRThiczFTUnc3UU96RzE3X3VVajhZamwxYnJiRV9LUWh3eVBLQkFFNWJ2dnFnbUhleHI1a1VsUWZ0Rk9DdG96MS1jLXlRckljS01Oa2NxMnNvbXFYeEJtTU0yVGRrcVU3dGI5S1E2VUZJRGtNeXJHVGtSUWdDU3UxeFU1bEZ5Y1J6dFpqaXInXSwKLy8gICAgICAgICAgICBbYXBwSWQ6ICdMRicsIGRldmljZVR5cGU6IERldmljZU1hcHBlci5EZXZpY2VNYXBwaW5nLkRldmljZVR5cGUuQW5kcm9pZCwgcHVzaFRva2VuOiAnYzhlQjVta3JaYmM6QVBBOTFiRThiczFTUnc3UU96RzE3X3VVajhZamwxYnJiRV9LUWh3eVBLQkFFNWJ2dnFnbUhleHI1a1VsUWZ0Rk9DdG96MS1jLXlRckljS01Oa2NxMnNvbXFYeEJtTU0yVGRrcVU3dGI5S1E2VUZJRGtNeXJHVGtSUWdDU3UxeFU1bEZ5Y1J6dFpqaXInXQovLyAgICAgICAgXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFsaWRhdGlvbi52YWxpZGNoYXJhY3RlcnBhdHRlcm49Wz1hLXrDpcOkw7ZBLVrDhcOEw5bDvMOpw6HDo8Opw5zDicOBXHUwMGU1XHUwMGU0XHUwMGY2XHUwMEM1XHUwMGM0XHUwMDI2XHUwMDAwL1xcZFxcc1wiXFxbXFxdXFwtXFxcXDouJSxAXy97fSMoKSE/wrQrXSoK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEltcGxlbWVudCBjb3JyZWN0bHkhCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">cGF5bG9hZC5tYXhzaXplPTUwMDAK</text>
+      <register name="7" type="4">
+        <text>Map customerDevices = deviceService.getCustomerDevices(body)
+        t</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFJlc3RDbGllbnQgcmVzdENsaWVudAo=</text>
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>PNS iosPNS
-    RestClient restClient
-    int timeout = 10</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>camel</last-search>
+      <last-search encoding="base64">XDwxOTkyMDcyMDgyNzRcPg==</last-search>
       <last-offset />
-      <last-pattern>camel</last-pattern>
+      <last-pattern encoding="base64">XDwxOTkyMDcyMDgyNzRcPg==</last-pattern>
       <last-replace>|</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
@@ -713,7 +713,6 @@
     </search>
     <history>
       <history-search>
-        <entry>head</entry>
         <entry>byte</entry>
         <entry>ios</entry>
         <entry>Inter</entry>
@@ -733,6 +732,7 @@
         <entry>SpecificRebord</entry>
         <entry>Specific</entry>
         <entry>camel</entry>
+        <entry encoding="base64">XDwxOTkyMDcyMDgyNzRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/return //g</entry>
@@ -792,6 +792,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>pressed F4</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
