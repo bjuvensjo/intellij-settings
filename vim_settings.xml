@@ -54,6 +54,10 @@
         <mark key="]" line="7" column="73" />
         <mark key="." line="7" column="73" />
       </file>
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/resources/application.properties" timestamp="1606300305651">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="39" />
+      </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/test/se/lf/csl/ms/mhub/notification/DeviceMapperTest.groovy" timestamp="1604050432573">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="3" />
@@ -117,11 +121,10 @@
         <mark key="]" line="21" column="45" />
         <mark key="." line="21" column="45" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification-configuration/src/main/templates/application-env.properties" timestamp="1605875057968">
-        <mark key="[" line="36" column="24" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="36" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification-configuration/src/main/templates/application-env.properties" timestamp="1606300222805">
+        <mark key="[" line="35" column="14" />
+        <mark key="]" line="32" column="49" />
+        <mark key="." line="31" column="88" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/DeviceHelper.groovy" timestamp="1603981153414">
         <mark key="[" line="10" column="0" />
@@ -256,10 +259,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/AndroidPNS.groovy" timestamp="1605874434071">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/AndroidPNS.groovy" timestamp="1606300163268">
+        <mark key="[" line="48" column="62" />
+        <mark key="]" line="48" column="7" />
+        <mark key="." line="48" column="7" />
+        <mark key="^" line="48" column="7" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/PNS.groovy" timestamp="1605703605760">
         <mark key="[" line="49" column="33" />
@@ -273,10 +277,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/RestClient.groovy" timestamp="1605779385341">
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/RestClient.groovy" timestamp="1606299878755">
         <mark key="'" line="34" column="26" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="62" />
         <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/Device.groovy" timestamp="1603981259802">
@@ -338,6 +342,10 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
         <mark key="^" line="48" column="28" />
+      </file>
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/SlaskAST.groovy" timestamp="1605538391451">
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="17" column="15" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/service/ms/mhub/notification/NotificationStreamConfig.groovy" timestamp="1603804496619">
         <mark key="[" line="24" column="0" />
@@ -515,7 +523,7 @@
         <mark key="^" line="36" column="46" />
         <mark key="." line="36" column="47" />
       </file>
-      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/fcm/FCMPush.groovy" timestamp="1605792429850">
+      <file name="$USER_HOME$/git-meddelandehub/ms.hub.push/src/main/java/se/lf/service/ms/hub/push/fcm/FCMPush.groovy" timestamp="1606300005278">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
@@ -675,7 +683,7 @@
         <text>NotificationError.Error.INTEGRATION.code</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>lf-mobile-test-firebase-adminsdk-4jtzh-3f87ddeba8.json</text>
       </register>
       <register name="n" type="4">
         <text>NotificationError.Error.NO_ADDRESS.code</text>
@@ -683,11 +691,11 @@
       <register name="/" type="4">
         <text>notifyAll</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIEJ1ZmZlcmVkUmVhZGVyIGluOwogICAgICAgIAogICAgICAgIHB1YmxpYyBJbkhhbmRsZXIoSW5wdXRTdHJlYW0gaW5wdXRTdHJlYW0pIHsKICAgICAgICAgICAgaW4gPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKGlucHV0U3RyZWFtKSk7CiAgICAgICAgfQoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgIHdoaWxlICghc3RvcCkgewogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgbGluZSA9IGluLnJlYWRMaW5lKCk7CiAgICAgICAgICAgICAgICAgICAgaWYgKGxpbmUgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICBzdG9wKCk7CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZXMuCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgc3RvcCgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+      <register name="0" type="4">
+        <text>fir-pushexample-9d245</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFRocmVhZChpbkhhbmRsZXIpLnN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -699,28 +707,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0Lm5ld0xpbmUoKTsK</text>
+        <text encoding="base64">VGVzdCAgICAgICAgbGYtbW9iaWxlLXRlc3QKUHJvZCAgICAgICBsZi1tb2JpbGUtZDY2N2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFRocmVhZChpbkhhbmRsZXIpLnN0YXJ0KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5ub3RpZnlBbGwoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0Lm5ld0xpbmUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLndhaXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub3RpZnlBbGwoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5ub3RpZnlBbGwoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLndhaXQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub3RpZnlBbGwoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFRocmVhZChpbkhhbmRsZXIpLnN0YXJ0KCk7CiAgICAgICAgICAgIG5ldyBUaHJlYWQob3V0SGFuZGxlcikuc3RhcnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
