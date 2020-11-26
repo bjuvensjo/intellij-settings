@@ -127,9 +127,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification-configuration/src/main/templates/application-env.properties" timestamp="1606300222805">
-        <mark key="[" line="35" column="14" />
-        <mark key="]" line="32" column="49" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification-configuration/src/main/templates/application-env.properties" timestamp="1606395939672">
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="33" column="45" />
         <mark key="." line="31" column="88" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/DeviceHelper.groovy" timestamp="1603981153414">
@@ -270,11 +270,12 @@
         <mark key="." line="49" column="15" />
         <mark key="^" line="49" column="15" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/RestClient.groovy" timestamp="1606321920480">
-        <mark key="'" line="44" column="26" />
-        <mark key="[" line="26" column="45" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/RestClient.groovy" timestamp="1606398298641">
+        <mark key="'" line="51" column="26" />
+        <mark key="[" line="66" column="62" />
+        <mark key="]" line="61" column="62" />
+        <mark key="^" line="61" column="62" />
+        <mark key="." line="61" column="62" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/Device.groovy" timestamp="1603981259802">
         <mark key="[" line="6" column="0" />
@@ -671,7 +672,7 @@
         <text>NotificationError.Error.INTEGRATION.code</text>
       </register>
       <register name="-" type="4">
-        <text>RuntimeException</text>
+        <text>n</text>
       </register>
       <register name="n" type="4">
         <text>NotificationError.Error.NO_ADDRESS.code</text>
@@ -680,10 +681,10 @@
         <text>chann</text>
       </register>
       <register name="0" type="4">
-        <text>Action.SECURE_MESSAGES | [id: &quot;id1&quot;] | '</text>
+        <text>https://api.development.push.apple.com</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEFjdGlvbi5TRUNVUkVfTUVTU0FHRVMgfCBbOl0gICAgICAgICB8ICd7Im5hbWUiOiJwcm9qZWN0cy9hbmRyb2lkUHJvamVjdElkL21lc3NhZ2VzL24xIiwidGl0bGUiOiJ0aXRsZSIsImJvZHkiOiJ0ZXh0IiwiYW5kcm9pZCI6eyJwcmlvcml0eSI6Ik5PUk1BTCIsInR0bCI6IjBzIn0sInRva2VuIjoidDEiLCJub3RpZmljYXRpb24iOnsiY2hhbm5lbF9pZCI6IlNFQ1VSRV9NRVNTQUdFIn0sImRhdGEiOnsiZGVlcGxpbmsiOiJsZm1vYmlsOi8vZGVlcGxpbmsvc2VjdXJlX21lc3NhZ2VzL3NlY3VyZV9tZXNzYWdlcyJ9fScKLy8gICAgICAgIEFjdGlvbi5TRUNVUkVfTUVTU0FHRVMgfCBudWxsICAgICAgICB8ICd7Im5hbWUiOiJwcm9qZWN0cy9hbmRyb2lkUHJvamVjdElkL21lc3NhZ2VzL24xIiwidGl0bGUiOiJ0aXRsZSIsImJvZHkiOiJ0ZXh0IiwiYW5kcm9pZCI6eyJwcmlvcml0eSI6Ik5PUk1BTCIsInR0bCI6IjBzIn0sInRva2VuIjoidDEiLCJub3RpZmljYXRpb24iOnsiY2hhbm5lbF9pZCI6IlNFQ1VSRV9NRVNTQUdFIn0sImRhdGEiOnsiZGVlcGxpbmsiOiJsZm1vYmlsOi8vZGVlcGxpbmsvc2VjdXJlX21lc3NhZ2VzL3NlY3VyZV9tZXNzYWdlcyJ9fScKLy8gICAgICAgIG51bGwgICAgICAgICAgICAgICAgICAgfCBudWxsICAgICAgICB8ICd7Im5hbWUiOiJwcm9qZWN0cy9hbmRyb2lkUHJvamVjdElkL21lc3NhZ2VzL24xIiwidGl0bGUiOiJ0aXRsZSIsImJvZHkiOiJ0ZXh0IiwiYW5kcm9pZCI6eyJwcmlvcml0eSI6Ik5PUk1BTCIsInR0bCI6IjBzIn0sInRva2VuIjoidDEifScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -695,28 +696,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEFjdGlvbi5TRUNVUkVfTUVTU0FHRVMgfCBbaWQ6ICJpZDEiXSB8ICd7Im5hbWUiOiJwcm9qZWN0cy9hbmRyb2lkUHJvamVjdElkL21lc3NhZ2VzL24xIiwidGl0bGUiOiJ0aXRsZSIsImJvZHkiOiJ0ZXh0IiwiYW5kcm9pZCI6eyJwcmlvcml0eSI6Ik5PUk1BTCIsInR0bCI6IjBzIn0sInRva2VuIjoidDEiLCJub3RpZmljYXRpb24iOnsiY2hhbm5lbF9pZCI6IlNFQ1VSRV9NRVNTQUdFIn0sImRhdGEiOnsiZGVlcGxpbmsiOiJsZm1vYmlsOi8vZGVlcGxpbmsvc2VjdXJlX21lc3NhZ2VzL3NlY3VyZV9tZXNzYWdlcyJ9fScK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGJvZHkpCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhICAgICAgICA6IFsKICAgICAgICAgICAgZGVlcGxpbms6IGNyZWF0ZURlZXBMaW5rKG5vdGlmaWNhdGlvbi5ib2R5LmFjdGlvbiwgbm90aWZpY2F0aW9uLmJvZHkucGFyYW1zKQogICAgICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICBkZWYgYm9keSA9IG5ldyBKc29uU2x1cnBlcigpLnBhcnNlVGV4dCgneyJhcHMiOnsiYWxlcnQiOnsidGl0bGUiOiJ0aXRsZSIsImJvZHkiOiJ0ZXh0In0sImJhZGdlIjoxLCJjYXRlZ29yeSI6IlNFQ1VSRV9NRVNTQUdFIn0sImRlZXBsaW5rIjoibGZtb2JpbDovL2RlZXBsaW5rL3NlY3VyZV9tZXNzYWdlcy9zZWN1cmVfbWVzc2FnZXMifScpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZWYgYm9keSA9IFtrZXk6ICd2YWx1ZSddCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuIEpzb25PdXRwdXQudG9Kc29uKG5vKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGEgICAgICAgIDogWwogICAgICAgICAgICAgICAgICAgIGRlZXBsaW5rOiBjcmVhdGVEZWVwTGluayhub3RpZmljYXRpb24uYm9keS5hY3Rpb24sIG5vdGlmaWNhdGlvbi5ib2R5LnBhcmFtcykKICAgICAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICBDYW1lbENvbnRleHQgY2FtZWxDb250ZXh0ID0gbmV3IERlZmF1bHRDYW1lbENvbnRleHQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vdGlmaWNhdGlvbjogWwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihpdCkK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
