@@ -109,6 +109,11 @@
         <mark key="]" line="23" column="28" />
         <mark key="." line="23" column="28" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avdl" timestamp="1606383815311">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/avro/se/lf/csl/mhub/api/notification/Notification.avdl" timestamp="1604569069792">
         <mark key="[" line="21" column="40" />
         <mark key="]" line="21" column="40" />
@@ -679,7 +684,7 @@
         <text>sourceTopic</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgInNlbmRlcklkIjogIkJNMjAxMEYiLAo=</text>
+        <text encoding="base64">ICAgICAgICBTRUNVUkVfTUVTU0FHRSwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -691,28 +696,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJzZW5kZXJJZCI6ICJCTTIwMTBGIiwK</text>
+        <text encoding="base64">ICAgICAgInNlbmRlcklkIjogIkJNMjAxMEYiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkCg==</text>
+        <text encoding="base64">ICAgICJzZW5kZXJJZCI6ICJCTTIwMTBGIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VGVzdCAgICAgICAgbGYtbW9iaWxlLXRlc3QKUHJvZCAgICAgICBsZi1tb2JpbGUtZDY2N2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFRocmVhZChpbkhhbmRsZXIpLnN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">VGVzdCAgICAgICAgbGYtbW9iaWxlLXRlc3QKUHJvZCAgICAgICBsZi1tb2JpbGUtZDY2N2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0Lm5ld0xpbmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFRocmVhZChpbkhhbmRsZXIpLnN0YXJ0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0Lm5ld0xpbmUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5ub3RpZnlBbGwoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
