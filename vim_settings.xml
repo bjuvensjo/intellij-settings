@@ -270,12 +270,12 @@
         <mark key="." line="49" column="15" />
         <mark key="^" line="49" column="15" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/RestClient.groovy" timestamp="1606399060130">
-        <mark key="'" line="51" column="26" />
-        <mark key="[" line="66" column="62" />
-        <mark key="]" line="85" column="30" />
-        <mark key="^" line="85" column="30" />
-        <mark key="." line="85" column="30" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/RestClient.groovy" timestamp="1606400128756">
+        <mark key="'" line="52" column="26" />
+        <mark key="[" line="60" column="132" />
+        <mark key="]" line="60" column="132" />
+        <mark key="^" line="87" column="30" />
+        <mark key="." line="60" column="132" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/Device.groovy" timestamp="1603981259802">
         <mark key="[" line="6" column="0" />
@@ -672,7 +672,7 @@
         <text>NotificationError.Error.INTEGRATION.code</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>jks</text>
       </register>
       <register name="n" type="4">
         <text>NotificationError.Error.NO_ADDRESS.code</text>
