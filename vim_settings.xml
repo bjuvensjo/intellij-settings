@@ -22,11 +22,11 @@
       <file name="/a.dummy" timestamp="1605705919963">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/client/src/main/java/mygroup/client/RestClient.groovy" timestamp="1606407726535">
-        <mark key="[" line="18" column="44" />
-        <mark key="]" line="17" column="30" />
-        <mark key="." line="17" column="30" />
-        <mark key="^" line="17" column="30" />
+      <file name="$USER_HOME$/git-CSPHUB/client/src/main/java/mygroup/client/RestClient.groovy" timestamp="1606411690942">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="77" column="29" />
       </file>
       <file name="$MAVEN_REPOSITORY$/se/lf/csl/pom.csl-bom/1.0.1/pom.csl-bom-1.0.1.pom" timestamp="1606407157690">
         <mark key="'" line="37" column="27" />
@@ -282,10 +282,10 @@
         <mark key="." line="49" column="15" />
         <mark key="^" line="49" column="15" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/RestClient.groovy" timestamp="1606404530893">
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/RestClient.groovy" timestamp="1606409603715">
         <mark key="'" line="52" column="26" />
-        <mark key="[" line="90" column="27" />
-        <mark key="]" line="88" column="86" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="90" column="27" />
         <mark key="^" line="87" column="30" />
         <mark key="." line="60" column="132" />
       </file>
@@ -294,6 +294,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/git-CSPHUB/client/src/main/java/mygroup/client/RestClient2.java" timestamp="1606411600271">
+        <mark key="[" line="91" column="4" />
+        <mark key="]" line="102" column="18" />
+        <mark key="." line="102" column="18" />
+        <mark key="^" line="102" column="18" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/AvroDeserializer.groovy" timestamp="1604595857220">
         <mark key="[" line="14" column="0" />
@@ -574,7 +580,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1606405844316">
+      <file name="/fragment.java" timestamp="1606411638054">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/ws-csphub/pom.xml" timestamp="1606403241023">
@@ -590,9 +596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="7" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/LogMapper.groovy" />
-      <jump line="152" column="17" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/DeviceMapper.groovy" />
-      <jump line="0" column="0" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/DeviceMapper.groovy" />
       <jump line="43" column="50" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/LogMapper.groovy" />
       <jump line="65" column="0" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/LogMapper.groovy" />
       <jump line="18" column="0" filename="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/LogMapper.groovy" />
@@ -690,6 +693,9 @@
       <jump line="44" column="18" filename="$USER_HOME$/git-CSPHUB/client/src/main/java/mygroup/client/Client2.java" />
       <jump line="48" column="0" filename="$USER_HOME$/git-CSPHUB/client/src/main/java/mygroup/client/RestClient.groovy" />
       <jump line="12" column="0" filename="$USER_HOME$/git-CSPHUB/client/src/main/java/mygroup/client/RestClient.groovy" />
+      <jump line="53" column="27" filename="$USER_HOME$/git-CSPHUB/client/src/main/java/mygroup/client/RestClient.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-CSPHUB/client/src/main/java/mygroup/client/RestClient2.java" />
+      <jump line="42" column="8" filename="$USER_HOME$/git-CSPHUB/client/src/main/java/mygroup/client/RestClient2.java" />
     </jumps>
     <registers>
       <register name="b" type="4">
@@ -702,19 +708,19 @@
         <text>NotificationError.Error.INTEGRATION.code</text>
       </register>
       <register name="-" type="4">
-        <text>act</text>
+        <text>Map</text>
       </register>
       <register name="n" type="4">
         <text>NotificationError.Error.NO_ADDRESS.code</text>
       </register>
       <register name="/" type="4">
-        <text>groo</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3NsQ29udGV4dEZhY3RvcnkuQ2xpZW50IHNzbENvbnRleHRGYWN0b3J5ID0gbmV3IFNzbENvbnRleHRGYWN0b3J5LkNsaWVudCgpOwogICAgICAgICAgICBzc2xDb250ZXh0RmFjdG9yeS5zZXRLZXlTdG9yZVBhdGgoIi9Vc2Vycy9tYWdudXMvZ2l0LUNTUEhVQi9tcy5taHViLm5vdGlmaWNhdGlvbi9zcmMvbWFpbi9yZXNvdXJjZXMvYXBwbGVfZGV2LmtleXN0b3JlIik7CiAgICAgICAgICAgIHNzbENvbnRleHRGYWN0b3J5LnNldEtleVN0b3JlUGFzc3dvcmQoIkxGUHVzaDQzdjNyISIpOwogICAgICAgICAgICBzc2xDb250ZXh0RmFjdG9yeS5zZXRLZXlTdG9yZVR5cGUoImprcyIpOwogICAgICAgICAgICBzc2xDb250ZXh0RmFjdG9yeS5zZXRUcnVzdFN0b3JlUGF0aCgiL1VzZXJzL21hZ251cy9naXQtQ1NQSFVCL21zLm1odWIubm90aWZpY2F0aW9uL3NyYy9tYWluL3Jlc291cmNlcy9hcHBsZV9kZXYua2V5c3RvcmUiKTsKICAgICAgICAgICAgc3NsQ29udGV4dEZhY3Rvcnkuc2V0VHJ1c3RTdG9yZVBhc3N3b3JkKCJMRlB1c2g0M3YzciEiKTsKICAgICAgICAgICAgc3NsQ29udGV4dEZhY3Rvcnkuc2V0VHJ1c3RTdG9yZVR5cGUoImprcyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgaGVhZGVycyA9IFsnYXBucy1pZCc6ICdpZDEnLCAnYXBucy1leHBpcmF0aW9uJzogIjAiLCAnYXBucy1wcmlvcml0eSc6ICI1Il0KICAgICAgICBkZWYgYm9keSA9IFsiYXBzIjpbImFsZXJ0IjpbInRpdGxlIjoidGl0bGUiLCAiYm9keSI6InRleHQiXSwgImJhZGdlIjoxLCAiY2F0ZWdvcnkiOiJTRUNVUkVfTUVTU0FHRSJdLCAiZGVlcGxpbmsiOiJsZm1vYmlsOi8vZGVlcGxpbmsvc2VjdXJlX21lc3NhZ2VzL3NlY3VyZV9tZXNzYWdlcyJdCiAgICAgICAgZGVmIHRpbWVvdXQgPSAxMDAwMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRkCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCIjIyMjIyMjIyMjIyMjIyMjIyMiKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -726,39 +732,39 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBNYXAgbWFwID0gcmVzdENsaWVudC5wb3N0KHVybCwgaGVhZGVycywgYm9keSwgdGltZW91dCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3NsQ29udGV4dEZhY3RvcnkuQ2xpZW50IHNzbENvbnRleHRGYWN0b3J5ID0gbmV3IFNzbENvbnRleHRGYWN0b3J5LkNsaWVudCgpCiAgICAgICAgICAgIHNzbENvbnRleHRGYWN0b3J5LnNldEtleVN0b3JlUGF0aCgiL1VzZXJzL21hZ251cy9naXQtQ1NQSFVCL21zLm1odWIubm90aWZpY2F0aW9uL3NyYy9tYWluL3Jlc291cmNlcy9hcHBsZV9kZXYua2V5c3RvcmUiKQogICAgICAgICAgICBzc2xDb250ZXh0RmFjdG9yeS5zZXRLZXlTdG9yZVBhc3N3b3JkKCJMRlB1c2g0M3YzciEiKQogICAgICAgICAgICBzc2xDb250ZXh0RmFjdG9yeS5zZXRLZXlTdG9yZVR5cGUoImprcyIpCiAgICAgICAgICAgIHNzbENvbnRleHRGYWN0b3J5LnNldFRydXN0U3RvcmVQYXRoKCIvVXNlcnMvbWFnbnVzL2dpdC1DU1BIVUIvbXMubWh1Yi5ub3RpZmljYXRpb24vc3JjL21haW4vcmVzb3VyY2VzL2FwcGxlX2Rldi5rZXlzdG9yZSIpCiAgICAgICAgICAgIHNzbENvbnRleHRGYWN0b3J5LnNldFRydXN0U3RvcmVQYXNzd29yZCgiTEZQdXNoNDN2M3IhIikKICAgICAgICAgICAgc3NsQ29udGV4dEZhY3Rvcnkuc2V0VHJ1c3RTdG9yZVR5cGUoImprcyIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKG1hcCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuICJCYW5hbiIK</text>
+        <text encoding="base64">ICAgICAgICAibGZtb2JpbDovL2RlZXBsaW5rL3NlY3VyZV9tZXNzYWdlcy9zZWN1cmVfbWVzc2FnZXMiXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gU3RhcnQgSHR0cENsaWVudAo=</text>
+        <text encoding="base64">QENvbXBpbGVTdGF0aWMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gQ29uZmlndXJlIEh0dHBDbGllbnQsIGZvciBleGFtcGxlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1ZXN0LmhlYWRlcihrZXksIHZhbHVlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAga2V5LCB2YWx1ZSAtPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBJbnN0YW50aWF0ZSBhbmQgY29uZmlndXJlIHRoZSBTc2xDb250ZXh0RmFjdG9yeQo=</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXJzLmVhY2ggewo=</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>%s/&quot;/'/g</text>
       </register>
     </registers>
     <search>
-      <last-search>groo</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>groo</last-pattern>
-      <last-replace>|</last-replace>
-      <last-substitute>:</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -769,7 +775,6 @@
         <entry>getR</entry>
         <entry>c1</entry>
         <entry>as</entry>
-        <entry>&quot;</entry>
         <entry encoding="base64">XDxhbmRyb2lkXD4=</entry>
         <entry>2.5</entry>
         <entry>foo</entry>
@@ -784,9 +789,9 @@
         <entry>groovy</entry>
         <entry>bom</entry>
         <entry>groo</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/return //g</entry>
         <entry>%s/public //g</entry>
         <entry>%s/&quot;/'/gc</entry>
         <entry>%s/'/&quot;/g</entry>
@@ -806,6 +811,7 @@
         <entry encoding="base64">JzwsJz4lcy86L3wvZ2M=</entry>
         <entry>ewg</entry>
         <entry>reg</entry>
+        <entry>%s/&quot;/'/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
