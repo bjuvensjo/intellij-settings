@@ -270,12 +270,12 @@
         <mark key="." line="49" column="15" />
         <mark key="^" line="49" column="15" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/RestClient.groovy" timestamp="1606398298641">
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/RestClient.groovy" timestamp="1606399060130">
         <mark key="'" line="51" column="26" />
         <mark key="[" line="66" column="62" />
-        <mark key="]" line="61" column="62" />
-        <mark key="^" line="61" column="62" />
-        <mark key="." line="61" column="62" />
+        <mark key="]" line="85" column="30" />
+        <mark key="^" line="85" column="30" />
+        <mark key="." line="85" column="30" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/Device.groovy" timestamp="1603981259802">
         <mark key="[" line="6" column="0" />
