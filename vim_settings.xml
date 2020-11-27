@@ -22,11 +22,10 @@
       <file name="/a.dummy" timestamp="1605705919963">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/client/src/main/java/mygroup/client/RestClient.groovy" timestamp="1606411690942">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="77" column="29" />
+      <file name="$USER_HOME$/git-CSPHUB/client/src/main/java/mygroup/client/RestClient.groovy" timestamp="1606471150661">
+        <mark key="[" line="111" column="20" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/se/lf/csl/pom.csl-bom/1.0.1/pom.csl-bom-1.0.1.pom" timestamp="1606407157690">
         <mark key="'" line="37" column="27" />
@@ -708,7 +707,7 @@
         <text>NotificationError.Error.INTEGRATION.code</text>
       </register>
       <register name="-" type="4">
-        <text>Map</text>
+        <text>b</text>
       </register>
       <register name="n" type="4">
         <text>NotificationError.Error.NO_ADDRESS.code</text>
@@ -717,10 +716,10 @@
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgaGVhZGVycyA9IFsnYXBucy1pZCc6ICdpZDEnLCAnYXBucy1leHBpcmF0aW9uJzogIjAiLCAnYXBucy1wcmlvcml0eSc6ICI1Il0KICAgICAgICBkZWYgYm9keSA9IFsiYXBzIjpbImFsZXJ0IjpbInRpdGxlIjoidGl0bGUiLCAiYm9keSI6InRleHQiXSwgImJhZGdlIjoxLCAiY2F0ZWdvcnkiOiJTRUNVUkVfTUVTU0FHRSJdLCAiZGVlcGxpbmsiOiJsZm1vYmlsOi8vZGVlcGxpbmsvc2VjdXJlX21lc3NhZ2VzL3NlY3VyZV9tZXNzYWdlcyJdCiAgICAgICAgZGVmIHRpbWVvdXQgPSAxMDAwMAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaHR0cENsaWVudCAhPSBudWxsKSB7CiAgICAgICAgICAgIGh0dHBDbGllbnQuc3RvcCgpCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCIjIyMjIyMjIyMjIyMjIyMjIyMiKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaHR0cENsaWVudCAhPSBudWxsKSB7CiAgICAgICAgICAgIGh0dHBDbGllbnQuc3RvcCgpCiAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -732,28 +731,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNYXAgbWFwID0gcmVzdENsaWVudC5wb3N0KHVybCwgaGVhZGVycywgYm9keSwgdGltZW91dCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKG1hcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5odHRwQ2xpZW50KHRydWUsIG51bGwpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAibGZtb2JpbDovL2RlZXBsaW5rL3NlY3VyZV9tZXNzYWdlcy9zZWN1cmVfbWVzc2FnZXMiXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QENvbXBpbGVTdGF0aWMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5odHRwQ2xpZW50ID0gaHR0cENsaWVudCh0cnVlLCBzc2xDb250ZXh0RmFjdG9yeSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBEZWZhdWx0U3NsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1ZXN0LmhlYWRlcihrZXksIHZhbHVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaHR0cENsaWVudC5zZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2V5LCB2YWx1ZSAtPgo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBzdG9yZVBhc3N3b3JkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXJzLmVhY2ggewo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBzdG9yZVBhdGgK</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>
