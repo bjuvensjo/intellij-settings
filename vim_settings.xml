@@ -22,11 +22,11 @@
       <file name="/a.dummy" timestamp="1605705919963">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/client/src/main/java/mygroup/client/RestClient.groovy" timestamp="1606474080955">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="37" column="46" />
+      <file name="$USER_HOME$/git-CSPHUB/client/src/main/java/mygroup/client/RestClient.groovy" timestamp="1606486622258">
+        <mark key="[" line="134" column="176" />
+        <mark key="]" line="134" column="176" />
+        <mark key="." line="134" column="176" />
+        <mark key="^" line="134" column="176" />
       </file>
       <file name="$MAVEN_REPOSITORY$/se/lf/csl/pom.csl-bom/1.0.1/pom.csl-bom-1.0.1.pom" timestamp="1606407157690">
         <mark key="'" line="37" column="27" />
@@ -67,6 +67,10 @@
         <mark key="[" line="7" column="73" />
         <mark key="]" line="7" column="73" />
         <mark key="." line="7" column="73" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/camel/camel-test/2.19.2/camel-test-2.19.2.jar!/org/apache/camel/test/junit4/TestSupport.class" timestamp="1606486202757">
+        <mark key="[" line="192" column="6" />
+        <mark key="]" line="192" column="6" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/test/se/lf/csl/ms/mhub/notification/DeviceMapperTest.groovy" timestamp="1604050432573">
         <mark key="[" line="0" column="0" />
@@ -708,7 +712,7 @@
         <text>NotificationError.Error.INTEGRATION.code</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>c</text>
       </register>
       <register name="n" type="4">
         <text>NotificationError.Error.NO_ADDRESS.code</text>
