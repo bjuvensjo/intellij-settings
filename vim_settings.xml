@@ -215,8 +215,8 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/pom.xml" timestamp="1606895801942">
-        <mark key="'" line="188" column="39" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/pom.xml" timestamp="1606896653935">
+        <mark key="'" line="227" column="45" />
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="0" />
         <mark key="^" line="56" column="33" />
@@ -637,10 +637,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="29" filename="$USER_HOME$/git-CSPHUB/test2/src/test/java/se/lf/csl/ms/mhub/notification/DeviceMapperTest.groovy" />
-      <jump line="14" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/AvroSerde.groovy" />
-      <jump line="24" column="31" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/NotificationConfigTest.groovy" />
-      <jump line="39" column="0" filename="$USER_HOME$/git-csp/CSL/common.test.ast/src/main/java/se/lf/csl/common/test/ast/AbstractSpecification.groovy" />
       <jump line="60" column="4" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/SlaskAST.groovy" />
       <jump line="197" column="19" filename="$USER_HOME$/git-csp/CSL/ms.security.signing/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/git-csp/CSL/ms.security.signing/pom.xml" />
@@ -735,8 +731,12 @@
       <jump line="38" column="8" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/RestClientJettyTest.groovy" />
       <jump line="92" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/RestClientJettyTest.groovy" />
       <jump line="81" column="8" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/RestClientJettyTest.groovy" />
-      <jump line="0" column="18" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/pom.xml" />
       <jump line="188" column="39" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/pom.xml" />
+      <jump line="88" column="37" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/pom.xml" />
+      <jump line="238" column="16" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/pom.xml" />
+      <jump line="228" column="48" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/pom.xml" />
+      <jump line="227" column="45" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/pom.xml" />
     </jumps>
     <registers>
       <register name="b" type="4">
@@ -755,7 +755,7 @@
         <text>NotificationError.Error.NO_ADDRESS.code</text>
       </register>
       <register name="/" type="4">
-        <text>swagg</text>
+        <text>logg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5rYWZrYTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+a2Fma2EtY2xpZW50czwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+JHtrYWZrYS52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUua2Fma2E8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmthZmthLXN0cmVhbXM8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPiR7a2Fma2EudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
@@ -801,9 +801,9 @@
       </register>
     </registers>
     <search>
-      <last-search>swagg</last-search>
+      <last-search>logg</last-search>
       <last-offset />
-      <last-pattern>swagg</last-pattern>
+      <last-pattern>logg</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -811,7 +811,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbmRyb2lkXD4=</entry>
         <entry>2.5</entry>
         <entry>foo</entry>
         <entry>swagger</entry>
@@ -831,6 +830,7 @@
         <entry>jetty</entry>
         <entry>&quot;</entry>
         <entry>swagg</entry>
+        <entry>logg</entry>
       </history-search>
       <history-cmd>
         <entry>%s/public //g</entry>
