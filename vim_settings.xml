@@ -22,6 +22,9 @@
       <file name="/a.dummy" timestamp="1605705919963">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/se/lf/csl/common.logging/1.0.2/common.logging-1.0.2.jar!/se/lf/csl/common/logging/mask/Converter.class" timestamp="1606897653826">
+        <mark key="'" line="18" column="13" />
+      </file>
       <file name="$USER_HOME$/git-CSPHUB/client/src/main/java/mygroup/client/RestClient.groovy" timestamp="1606491795484">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="19" column="0" />
@@ -637,7 +640,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="4" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/SlaskAST.groovy" />
       <jump line="197" column="19" filename="$USER_HOME$/git-csp/CSL/ms.security.signing/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/git-csp/CSL/ms.security.signing/pom.xml" />
       <jump line="70" column="14" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/SlaskAST.groovy" />
@@ -737,6 +739,7 @@
       <jump line="238" column="16" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/pom.xml" />
       <jump line="228" column="48" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/pom.xml" />
       <jump line="227" column="45" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/pom.xml" />
+      <jump line="18" column="13" filename="$MAVEN_REPOSITORY$/se/lf/csl/common.logging/1.0.2/common.logging-1.0.2.jar!/se/lf/csl/common/logging/mask/Converter.class" />
     </jumps>
     <registers>
       <register name="b" type="4">
