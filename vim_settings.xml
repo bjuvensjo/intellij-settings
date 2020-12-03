@@ -758,7 +758,7 @@
         <text>NotificationError.Error.NO_ADDRESS.code</text>
       </register>
       <register name="/" type="4">
-        <text>logg</text>
+        <text>partiti</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5rYWZrYTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+a2Fma2EtY2xpZW50czwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+JHtrYWZrYS52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUua2Fma2E8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmthZmthLXN0cmVhbXM8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPiR7a2Fma2EudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
@@ -804,9 +804,9 @@
       </register>
     </registers>
     <search>
-      <last-search>logg</last-search>
+      <last-search>partiti</last-search>
       <last-offset />
-      <last-pattern>logg</last-pattern>
+      <last-pattern>partiti</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -814,7 +814,6 @@
     </search>
     <history>
       <history-search>
-        <entry>2.5</entry>
         <entry>foo</entry>
         <entry>swagger</entry>
         <entry>SpecificRebord</entry>
@@ -834,6 +833,7 @@
         <entry>&quot;</entry>
         <entry>swagg</entry>
         <entry>logg</entry>
+        <entry>partiti</entry>
       </history-search>
       <history-cmd>
         <entry>%s/public //g</entry>
