@@ -95,7 +95,8 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/README.md" timestamp="1607006919956">
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/README.md" timestamp="1607084490783">
+        <mark key="'" line="26" column="58" />
         <mark key="[" line="23" column="1" />
         <mark key="]" line="23" column="1" />
         <mark key="." line="23" column="1" />
@@ -677,7 +678,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="14" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/SlaskAST.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/SlaskAST.groovy" />
       <jump line="23" column="4" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/avro/se/lf/csl/mhub/api/notification/NotificationLogExample.json" />
       <jump line="21" column="8" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/avro/se/lf/csl/mhub/api/notification/NotificationLogExample.json" />
@@ -777,6 +777,7 @@
       <jump line="18" column="13" filename="$MAVEN_REPOSITORY$/se/lf/csl/common.logging/1.0.2/common.logging-1.0.2.jar!/se/lf/csl/common/logging/mask/Converter.class" />
       <jump line="0" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/logs/ms_mhub_notification_1.0.2020-11.log" />
       <jump line="22" column="14" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/logs/ms_mhub_notification_1.0.2020-12.log" />
+      <jump line="26" column="58" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/README.md" />
     </jumps>
     <registers>
       <register name="b" type="4">
@@ -795,7 +796,7 @@
         <text>NotificationError.Error.NO_ADDRESS.code</text>
       </register>
       <register name="/" type="4">
-        <text>partiti</text>
+        <text>delete</text>
       </register>
       <register name="0" type="4">
         <text>lf-mobile-d667e</text>
@@ -841,9 +842,9 @@
       </register>
     </registers>
     <search>
-      <last-search>partiti</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern>partiti</last-pattern>
+      <last-pattern>delete</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -851,7 +852,6 @@
     </search>
     <history>
       <history-search>
-        <entry>foo</entry>
         <entry>swagger</entry>
         <entry>SpecificRebord</entry>
         <entry>Specific</entry>
@@ -871,6 +871,7 @@
         <entry>swagg</entry>
         <entry>logg</entry>
         <entry>partiti</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
         <entry>%s/public //g</entry>
