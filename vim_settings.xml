@@ -365,6 +365,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification-configuration/src/main/resources/dev/logback.groovy" timestamp="1607078646223">
+        <mark key="[" line="23" column="61" />
+        <mark key="]" line="23" column="61" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="23" column="61" />
+      </file>
       <file name="$USER_HOME$/slask/serok/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/jenkins/Jenkins.groovy" timestamp="1603459223721">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -469,9 +475,9 @@
         <mark key="^" line="13" column="25" />
         <mark key="." line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification-configuration/src/main/resources/local/logback.groovy" timestamp="1607001061697">
-        <mark key="[" line="29" column="25" />
-        <mark key="]" line="29" column="25" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification-configuration/src/main/resources/local/logback.groovy" timestamp="1607078341271">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="29" column="64" />
         <mark key="^" line="4" column="6" />
         <mark key="." line="29" column="25" />
       </file>
@@ -791,8 +797,8 @@
       <register name="/" type="4">
         <text>partiti</text>
       </register>
-      <register name="0" type="4">
-        <text>localhost:9092</text>
+      <register name="0" type="2">
+        <text encoding="base64">bG9nZ2VyKCJsb2dnaW5nLmxldmVsLm9yZy5hcGFjaGUua2Fma2EuY2xpZW50cy4iLCBJTkZPLCBbIkxPR19GSUxFIiwgIlNURE9VVCJdLCBmYWxzZSkKbG9nZ2VyKCJsb2dnaW5nLmxldmVsLm9yZy5zcHJpbmdmcmFtZXdvcmsiLCBJTkZPLCBbIkxPR19GSUxFIiwgIlNURE9VVCJdLCBmYWxzZSkKbG9nZ2VyKCJzZS5sZi5jc2wubXMubWh1YiIsIERFQlVHLCBbIkxPR19GSUxFIiwgIlNURE9VVCJdLCBmYWxzZSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
