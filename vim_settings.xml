@@ -143,9 +143,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification-configuration/src/main/templates/application-env.properties" timestamp="1607005369993">
-        <mark key="[" line="39" column="37" />
-        <mark key="]" line="39" column="37" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification-configuration/src/main/templates/application-env.properties" timestamp="1607081805552">
+        <mark key="[" line="29" column="23" />
+        <mark key="]" line="29" column="37" />
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
@@ -638,7 +638,7 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/DeviceMapper.groovy" timestamp="1606492395495">
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/DeviceMapper.groovy" timestamp="1607081871256">
         <mark key="[" line="191" column="20" />
         <mark key="]" line="191" column="25" />
         <mark key="." line="191" column="25" />
@@ -797,8 +797,8 @@
       <register name="/" type="4">
         <text>partiti</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bG9nZ2VyKCJsb2dnaW5nLmxldmVsLm9yZy5hcGFjaGUua2Fma2EuY2xpZW50cy4iLCBJTkZPLCBbIkxPR19GSUxFIiwgIlNURE9VVCJdLCBmYWxzZSkKbG9nZ2VyKCJsb2dnaW5nLmxldmVsLm9yZy5zcHJpbmdmcmFtZXdvcmsiLCBJTkZPLCBbIkxPR19GSUxFIiwgIlNURE9VVCJdLCBmYWxzZSkKbG9nZ2VyKCJzZS5sZi5jc2wubXMubWh1YiIsIERFQlVHLCBbIkxPR19GSUxFIiwgIlNURE9VVCJdLCBmYWxzZSkK</text>
+      <register name="0" type="4">
+        <text>lf-mobile-d667e</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
