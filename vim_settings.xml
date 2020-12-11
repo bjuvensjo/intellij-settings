@@ -327,11 +327,11 @@
         <mark key="]" line="60" column="90" />
         <mark key="." line="61" column="55" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/Slask.groovy" timestamp="1607344432058">
-        <mark key="'" line="21" column="21" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="53" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/Slask.groovy" timestamp="1607693430817">
+        <mark key="'" line="44" column="21" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/slask/clientserver/src/main/java/Server.java" timestamp="1606291164617">
         <mark key="[" line="114" column="0" />
@@ -349,10 +349,11 @@
       <file name="$MAVEN_REPOSITORY$/se/lf/csl/pom.super/1.0.3/pom.super-1.0.3.pom" timestamp="1607347181221">
         <mark key="'" line="76" column="40" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/NotificationConfig.groovy" timestamp="1607679140481">
-        <mark key="[" line="37" column="22" />
-        <mark key="]" line="38" column="27" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/NotificationConfig.groovy" timestamp="1607693468536">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="94" column="18" />
+        <mark key="." line="94" column="18" />
+        <mark key="^" line="94" column="18" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/Slask2.groovy" timestamp="1605627508139">
         <mark key="[" line="9" column="0" />
@@ -568,10 +569,10 @@
         <text>server</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSh2YWx1ZSA9ICcke2thZmthLmJvb3RzdHJhcFNlcnZlcnN9JykKICAgIFN0cmluZyBib290c3RyYXBTZXJ2ZXJzCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9wcy5wdXQoQ29tbW9uQ2xpZW50Q29uZmlncy5TRUNVUklUWV9QUk9UT0NPTF9DT05GSUcsICdTU0wnKQogICAgICAgIHByb3BzLnB1dChTc2xDb25maWdzLlNTTF9UUlVTVFNUT1JFX0xPQ0FUSU9OX0NPTkZJRywgZ2V0UmVzb3VyY2VQYXRoKCdzZXJ2ZXIudHJ1c3RzdG9yZS5wa2NzMTInKSkKICAgICAgICBwcm9wcy5wdXQoU3NsQ29uZmlncy5TU0xfVFJVU1RTVE9SRV9UWVBFX0NPTkZJRywgJ3BrY3MxMicpCiAgICAgICAgcHJvcHMucHV0KFNzbENvbmZpZ3MuU1NMX0VORFBPSU5UX0lERU5USUZJQ0FUSU9OX0FMR09SSVRITV9DT05GSUcsICcnKQovLyAgICAgICAgcHJvcHMucHV0KFNzbENvbmZpZ3MuU1NMX0VOQUJMRURfUFJPVE9DT0xTX0NPTkZJRywgJ1RMU3YxLjIsVExTdjEuMSxUTFN2MScpCiAgICAgICAgcHJvcHMucHV0KFNzbENvbmZpZ3MuU1NMX0VOQUJMRURfUFJPVE9DT0xTX0NPTkZJRywgJ1RMU3YxLjInKQogICAgICAgIHByb3BzLnB1dChTc2xDb25maWdzLlNTTF9UUlVTVFNUT1JFX1BBU1NXT1JEX0NPTkZJRywgdHJ1c3RzdG9yZVBhc3N3b3JkKQogICAgICAgIHByb3BzLnB1dChTc2xDb25maWdzLlNTTF9LRVlTVE9SRV9MT0NBVElPTl9DT05GSUcsIGdldFJlc291cmNlUGF0aCgnbXMubWh1Yi5ub3RpZmljYXRpb24ua2V5c3RvcmUucGtjczEyJykpCiAgICAgICAgcHJvcHMucHV0KFNzbENvbmZpZ3MuU1NMX0tFWVNUT1JFX1RZUEVfQ09ORklHLCAncGtjczEyJykKICAgICAgICBwcm9wcy5wdXQoU3NsQ29uZmlncy5TU0xfS0VZU1RPUkVfUEFTU1dPUkRfQ09ORklHLCBrZXlzdG9yZVBhc3N3b3JkKQogICAgICAgIHByb3BzLnB1dChTc2xDb25maWdzLlNTTF9LRVlfUEFTU1dPUkRfQ09ORklHLCBrZXlzdG9yZVBhc3N3b3JkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -583,28 +584,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgcyA9IG5ldyBCdW5kbGVSZXNvbHZlcigpLmdldCgnYXBwbGljYXRpb24ucG5zLnRpbWVvdXQnKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHByb3BzLnB1dChTc2xDb25maWdzLlNTTF9FTkFCTEVEX1BST1RPQ09MU19DT05GSUcsICdUTFN2MS4yLFRMU3YxLjEsVExTdjEnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHByb3BzLnB1dChTc2xDb25maWdzLlNTTF9FTkFCTEVEX1BST1RPQ09MU19DT05GSUcsICdUTFN2MS4yLFRMU3YxLjEsVExTdjEnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYga2V5U3RvcmVQYXRoID0gbmV3IE5vdGlmaWNhdGlvbkNvbmZpZygpLmdldFJlc291cmNlUGF0aCgnbXMubWh1Yi5ub3RpZmljYXRpb24ua2V5c3RvcmUucGtjczEyJykK</text>
+        <text encoding="base64">ICAgICAgICBwcm9wcy5wdXQoU3NsQ29uZmlncy4sICdwa2NzMTInKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgdHJ1c3RTdG9yZVBhdGggPSBuZXcgTm90aWZpY2F0aW9uQ29uZmlnKCkuZ2V0UmVzb3VyY2VQYXRoKCdzZXJ2ZXIudHJ1c3RzdG9yZS5wa2NzMTInKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wcy5wdXQoU3NsQ29uZmlncy5TU0xfS0VZU1RPUkVfVFlQRV9DT05GSUcsICdwa2NzMTInKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgcyA9IG5ldyBCdW5kbGVSZXNvbHZlcigpLmdldCgnYXBwbGljYXRpb24ucG5zLnRpbWVvdXQnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wcy5wdXQoU3RyZWFtc0NvbmZpZy4pCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkZWYga2V5U3RvcmVQYXRoID0gbmV3IE5vdGlmaWNhdGlvbkNvbmZpZygpLmdldFJlc291cmNlUGF0aCgnbXMubWh1Yi5ub3RpZmljYXRpb24ua2V5c3RvcmUucGtjczEyJykK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG12biBjbGVhbiBwYWNrYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgdHJ1c3RTdG9yZVBhdGggPSBuZXcgTm90aWZpY2F0aW9uQ29uZmlnKCkuZ2V0UmVzb3VyY2VQYXRoKCdzZXJ2ZXIudHJ1c3RzdG9yZS5wa2NzMTInKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>
