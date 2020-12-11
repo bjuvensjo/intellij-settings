@@ -251,11 +251,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification-configuration/src/main/templates/application-env.properties" timestamp="1607695132153">
-        <mark key="[" line="11" column="18" />
-        <mark key="]" line="11" column="21" />
-        <mark key="." line="11" column="21" />
-        <mark key="^" line="11" column="21" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification-configuration/src/main/templates/application-env.properties" timestamp="1607699835498">
+        <mark key="[" line="40" column="86" />
+        <mark key="]" line="40" column="80" />
+        <mark key="." line="40" column="80" />
+        <mark key="^" line="40" column="80" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/test2/src/main/java/se/lf/csl/ms/mhub/notification/AvroSerdes.groovy" timestamp="1603969448595">
         <mark key="[" line="7" column="35" />
@@ -569,7 +569,7 @@
         <text>NotificationError.Error.INTEGRATION.code</text>
       </register>
       <register name="-" type="4">
-        <text>JKS</text>
+        <text>,localhost:9493</text>
       </register>
       <register name="n" type="4">
         <text>NotificationError.Error.NO_ADDRESS.code</text>
@@ -577,8 +577,8 @@
       <register name="/" type="4">
         <text>server</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIEBWYWx1ZSgnY2xhc3NwYXRoOmtleXN0b3JlLmprcykKICAgIC8vIFJlc291cmNlIGtleXN0b3JlTG9jYXRpb24K</text>
+      <register name="0" type="4">
+        <text>10.201.130.145:9492</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICovCg==</text>
