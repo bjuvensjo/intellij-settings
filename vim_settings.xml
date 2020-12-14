@@ -24,11 +24,12 @@
       <file name="/a.dummy" timestamp="1605705919963">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.client/README.md" timestamp="1607348097943">
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.client/README.md" timestamp="1607944379272">
         <mark key="'" line="29" column="10" />
-        <mark key="]" line="2" column="0" />
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="20" column="14" />
         <mark key="^" line="10" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="." line="20" column="14" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification-configuration/src/main/resources/acc/logback.groovy" timestamp="1605624836792">
         <mark key="[" line="21" column="0" />
