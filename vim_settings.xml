@@ -11,6 +11,10 @@
       <file name="$USER_HOME$/git-CSPHUB/mhub.client/src/main/java/se/lf/csl/mhub/client/MhubClient.groovy" timestamp="1607962884069">
         <mark key="'" line="44" column="42" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/mhub.client-configuration/target/classes/sys/application.properties" timestamp="1607969061696">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="85" />
+      </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/service/ms/mhub/notification/NotificationController.groovy" timestamp="1603793007940">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -595,8 +599,8 @@
       <register name="/" type="4">
         <text>ms</text>
       </register>
-      <register name="0" type="4">
-        <text>bin/kafka-topics.sh --list --bootstrap-server localhost:9092</text>
+      <register name="0" type="2">
+        <text encoding="base64">a2Fma2EuYm9vdHN0cmFwU2VydmVycz0xMC4yMDEuMTMwLjE0NFw6OTQ5MSwxMC4yMDEuMTMwLjE0NVw6OTQ5MiwxMC4yMDEuMTMwLjE0NVw6OTQ5Mwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">a2Fma2EuYm9vdHN0cmFwU2VydmVycz1sb2NhbGhvc3Q6OTQ5MSxsb2NhbGhvc3Q6OTQ5Mixsb2NhbGhvc3Q6OTQ5Mwo=</text>
