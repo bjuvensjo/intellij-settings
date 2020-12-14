@@ -337,7 +337,7 @@
         <mark key="]" line="11" column="77" />
         <mark key="." line="11" column="77" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/NotificationApplication.groovy" timestamp="1607703658175">
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/NotificationApplication.groovy" timestamp="1607941588252">
         <mark key="[" line="15" column="37" />
         <mark key="]" line="16" column="30" />
         <mark key="^" line="16" column="30" />
@@ -471,6 +471,12 @@
         <mark key="[" line="28" column="31" />
         <mark key="]" line="28" column="31" />
         <mark key="." line="28" column="31" />
+      </file>
+      <file name="$USER_HOME$/git-CSPHUB/ws-csphub/pom.xml" timestamp="1607941866902">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="39" />
+        <mark key="^" line="14" column="39" />
+        <mark key="." line="14" column="39" />
       </file>
     </filemarks>
     <jumps>
