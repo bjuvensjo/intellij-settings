@@ -94,7 +94,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/README.md" timestamp="1607968251832">
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/README.md" timestamp="1607970177217">
         <mark key="'" line="26" column="58" />
         <mark key="[" line="75" column="4" />
         <mark key="]" line="75" column="63" />
@@ -599,8 +599,8 @@
       <register name="/" type="4">
         <text>ms</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">a2Fma2EuYm9vdHN0cmFwU2VydmVycz0xMC4yMDEuMTMwLjE0NFw6OTQ5MSwxMC4yMDEuMTMwLjE0NVw6OTQ5MiwxMC4yMDEuMTMwLjE0NVw6OTQ5Mwo=</text>
+      <register name="0" type="4">
+        <text>bin/kafka-topics.sh --list --bootstrap-server localhost:9092</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">a2Fma2EuYm9vdHN0cmFwU2VydmVycz1sb2NhbGhvc3Q6OTQ5MSxsb2NhbGhvc3Q6OTQ5Mixsb2NhbGhvc3Q6OTQ5Mwo=</text>
