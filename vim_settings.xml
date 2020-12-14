@@ -377,11 +377,11 @@
       <file name="$MAVEN_REPOSITORY$/se/lf/csl/pom.super/1.0.3/pom.super-1.0.3.pom" timestamp="1607347181221">
         <mark key="'" line="76" column="40" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/NotificationConfig.groovy" timestamp="1607943809015">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/NotificationConfig.groovy" timestamp="1607957229277">
+        <mark key="[" line="45" column="4" />
+        <mark key="]" line="45" column="4" />
         <mark key="^" line="104" column="11" />
-        <mark key="." line="102" column="0" />
+        <mark key="." line="45" column="4" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/Slask2.groovy" timestamp="1605627508139">
         <mark key="[" line="9" column="0" />
@@ -594,7 +594,7 @@
         <text>NotificationError.Error.INTEGRATION.code</text>
       </register>
       <register name="-" type="4">
-        <text>491,localhost:9492,localhost:9493</text>
+        <text>S</text>
       </register>
       <register name="n" type="4">
         <text>NotificationError.Error.NO_ADDRESS.code</text>
