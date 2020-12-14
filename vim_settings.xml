@@ -255,7 +255,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification-configuration/src/main/templates/application-env.properties" timestamp="1607699835498">
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification-configuration/src/main/templates/application-env.properties" timestamp="1607943323598">
         <mark key="[" line="40" column="86" />
         <mark key="]" line="40" column="80" />
         <mark key="." line="40" column="80" />
@@ -375,7 +375,7 @@
       <file name="$MAVEN_REPOSITORY$/se/lf/csl/pom.super/1.0.3/pom.super-1.0.3.pom" timestamp="1607347181221">
         <mark key="'" line="76" column="40" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/NotificationConfig.groovy" timestamp="1607696851369">
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/NotificationConfig.groovy" timestamp="1607943014340">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="0" />
         <mark key="^" line="100" column="90" />
@@ -396,7 +396,7 @@
         <mark key="]" line="120" column="0" />
         <mark key="." line="120" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/pom.xml" timestamp="1607703172697">
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/pom.xml" timestamp="1607942769685">
         <mark key="'" line="19" column="34" />
         <mark key="[" line="167" column="31" />
         <mark key="]" line="166" column="30" />
