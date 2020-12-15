@@ -324,11 +324,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/DeviceService.groovy" timestamp="1608048331960">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="23" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="37" column="31" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/DeviceService.groovy" timestamp="1608050317487">
+        <mark key="[" line="44" column="22" />
+        <mark key="]" line="44" column="22" />
+        <mark key="." line="44" column="22" />
+        <mark key="^" line="44" column="32" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/RestClientJettyTest.groovy" timestamp="1608048604611">
         <mark key="'" line="86" column="8" />
@@ -622,7 +622,7 @@
         <text>NotificationError.Error.INTEGRATION.code</text>
       </register>
       <register name="-" type="4">
-        <text>createTransportOverHTTP2</text>
+        <text>customerIdDevices</text>
       </register>
       <register name="n" type="4">
         <text>NotificationError.Error.NO_ADDRESS.code</text>
