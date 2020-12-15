@@ -107,10 +107,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/README.md" timestamp="1607970177217">
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/README.md" timestamp="1608036411567">
         <mark key="'" line="26" column="58" />
-        <mark key="[" line="75" column="4" />
-        <mark key="]" line="75" column="63" />
+        <mark key="[" line="70" column="4" />
+        <mark key="]" line="70" column="108" />
         <mark key="." line="23" column="1" />
         <mark key="^" line="23" column="1" />
       </file>
@@ -662,8 +662,8 @@
       <register name="/" type="4">
         <text>rel</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGphdmEgLURsb2FkZXIucGF0aD1taHViLmNsaWVudC1jb25maWd1cmF0aW9uL3RhcmdldC9kZXYgLWphciBtaHViLmNsaWVudC0xLjAuMC1TTkFQU0hPVC5qYXIgc2UubGYuY3NsLm1zLm1odWIubm90aWZpY2F0aW9uLmF2cm8uTm90aWZpY2F0aW9uTG9nIG5vdGlmaWNhdGlvbl8xXzBfZW1tYV9sb2cK</text>
+      <register name="0" type="4">
+        <text>bin/kafka-console-consumer.sh --topic notification_1_0 --from-beginning --bootstrap-server localhost:9092</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2lkJzogJ2lkMScsCg==</text>
