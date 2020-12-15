@@ -344,11 +344,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/DeviceService.groovy" timestamp="1608044842862">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="31" column="31" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/DeviceService.groovy" timestamp="1608046883601">
+        <mark key="[" line="28" column="9" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="35" column="31" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/RestClientJettyTest.groovy" timestamp="1608044170226">
         <mark key="'" line="83" column="8" />
