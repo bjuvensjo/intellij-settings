@@ -8,9 +8,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/mhub.client/src/main/java/se/lf/csl/mhub/client/MhubClient.groovy" timestamp="1607962884069">
-        <mark key="'" line="44" column="42" />
-      </file>
       <file name="$USER_HOME$/git-CSPHUB/mhub.client-configuration/target/classes/sys/application.properties" timestamp="1607969061696">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="85" />
@@ -32,6 +29,12 @@
         <mark key="]" line="18" column="46" />
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
+      </file>
+      <file name="$USER_HOME$/git-csp/CSL/zes.common.security/pom.xml" timestamp="1608042241464">
+        <mark key="[" line="115" column="21" />
+        <mark key="]" line="149" column="0" />
+        <mark key="^" line="132" column="30" />
+        <mark key="." line="149" column="0" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/client/src/main/java/mygroup/client/RestClient.groovy" timestamp="1606491795484">
         <mark key="'" line="2" column="0" />
@@ -457,6 +460,11 @@
         <mark key="]" line="60" column="90" />
         <mark key="." line="61" column="55" />
       </file>
+      <file name="$USER_HOME$/git-csp/CSL/zes.common.security/src/test/java/se/lf/service/common/security/authentication/jws/jwt/JwsCreator.groovy" timestamp="1608041883067">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/slask/clientserver/src/main/java/Server.java" timestamp="1606291164617">
         <mark key="[" line="114" column="0" />
         <mark key="]" line="114" column="42" />
@@ -467,9 +475,6 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="46" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/se/lf/csl/pom.super/1.0.3/pom.super-1.0.3.pom" timestamp="1607347181221">
-        <mark key="'" line="76" column="40" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/NotificationConfig.groovy" timestamp="1607966013525">
         <mark key="'" line="0" column="0" />
@@ -666,7 +671,7 @@
         <text>bin/kafka-console-consumer.sh --topic notification_1_0 --from-beginning --bootstrap-server localhost:9092</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2lkJzogJ2lkMScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -678,28 +683,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSndzRmFjdG9yeSBqd3NGYWN0b3J5ID0gbmV3IEp3c0ZhY3RvcnlQcml2YXRlS2V5U3RyYXRlZ3koImFzdCIsIG5ldyBSZWFkUHJpdmF0ZUtleUZyb21DbGFzc3BhdGgoIi9Vc2Vycy9tYWdudXMvZ2l0LWNzcC9DU0wvemVzLmNvbW1vbi5zZWN1cml0eS9zcmMvdGVzdC9yZXNvdXJjZXMvdGVzdC9wcml2YXRlOF9rZXkucGVtIikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBFeGNlcHRpb24gZXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2lkJzogJ2lkMScsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYm9keQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcmVzcG9uc2VDb2RlCg==</text>
+        <text encoding="base64">ICAgICAgICBFeGNlcHRpb24gZXhjZXB0aW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBjbGFzcyBSZXN0Q2xpZW50UmVzcG9uc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYm9keQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgcmVzcG9uc2VDb2RlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBjbGFzcyBSZXN0Q2xpZW50UmVzcG9uc2Ugewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgW2FwcElkOiAnTEYnLCBkZXZpY2VUeXBlOiBEZXZpY2VNYXBwZXIuRGV2aWNlTWFwcGluZy5EZXZpY2VUeXBlLkFuZHJvaWQsIHB1c2hUb2tlbjogJ3Q0J10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>
