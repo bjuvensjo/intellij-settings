@@ -8,10 +8,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/mhub.client-configuration/target/classes/sys/application.properties" timestamp="1607969061696">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="85" />
-      </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/service/ms/mhub/notification/NotificationController.groovy" timestamp="1603793007940">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -243,6 +239,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/LogTransformerSupplier.groovy" timestamp="1608051304990">
+        <mark key="[" line="70" column="30" />
+        <mark key="]" line="70" column="30" />
+        <mark key="^" line="59" column="61" />
+        <mark key="." line="70" column="30" />
+      </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/resources/slask.json" timestamp="1606822831348">
         <mark key="[" line="0" column="0" />
       </file>
@@ -324,11 +326,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/DeviceService.groovy" timestamp="1608050317487">
-        <mark key="[" line="44" column="22" />
-        <mark key="]" line="44" column="22" />
-        <mark key="." line="44" column="22" />
-        <mark key="^" line="44" column="32" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/DeviceService.groovy" timestamp="1608051393956">
+        <mark key="[" line="43" column="50" />
+        <mark key="]" line="46" column="24" />
+        <mark key="." line="46" column="24" />
+        <mark key="^" line="46" column="24" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/RestClientJettyTest.groovy" timestamp="1608048604611">
         <mark key="'" line="86" column="8" />
@@ -488,6 +490,12 @@
         <mark key="]" line="18" column="46" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/DeviceMapper.groovy" timestamp="1608051160348">
+        <mark key="[" line="56" column="46" />
+        <mark key="]" line="56" column="30" />
+        <mark key="^" line="56" column="30" />
+        <mark key="." line="56" column="30" />
+      </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/resources/data/SlaskAST/20/slask/Slask1Request.json" timestamp="1604942888990">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -622,7 +630,7 @@
         <text>NotificationError.Error.INTEGRATION.code</text>
       </register>
       <register name="-" type="4">
-        <text>customerIdDevices</text>
+        <text>d</text>
       </register>
       <register name="n" type="4">
         <text>NotificationError.Error.NO_ADDRESS.code</text>
@@ -631,7 +639,7 @@
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBRdWFsaWZpZXIoJ2h0dHAxJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIlNlbmRpbmcgQW5kcm9pZCBtZXNzYWdlOiAke2RldmljZU1lc3NhZ2V9IikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QFNlcnZpY2UK</text>
