@@ -400,9 +400,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/mhub.client/README.md" timestamp="1607965777422">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="92" />
+      <file name="$USER_HOME$/git-CSPHUB/mhub.client/README.md" timestamp="1608032583367">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="173" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
@@ -662,8 +662,8 @@
       <register name="/" type="4">
         <text>rel</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">TWFwPFN0cmluZywgTGlzdDxNYXA+Pg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGphdmEgLURsb2FkZXIucGF0aD1taHViLmNsaWVudC1jb25maWd1cmF0aW9uL3RhcmdldC9kZXYgLWphciBtaHViLmNsaWVudC0xLjAuMC1TTkFQU0hPVC5qYXIgc2UubGYuY3NsLm1zLm1odWIubm90aWZpY2F0aW9uLmF2cm8uTm90aWZpY2F0aW9uTG9nIG5vdGlmaWNhdGlvbl8xXzBfZW1tYV9sb2cK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2lkJzogJ2lkMScsCg==</text>
