@@ -117,12 +117,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/RestClientJetty.groovy" timestamp="1608055473532">
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/RestClientJetty.groovy" timestamp="1608056134009">
         <mark key="'" line="46" column="0" />
-        <mark key="[" line="96" column="78" />
-        <mark key="]" line="97" column="52" />
-        <mark key="." line="97" column="52" />
-        <mark key="^" line="97" column="52" />
+        <mark key="[" line="133" column="42" />
+        <mark key="]" line="133" column="41" />
+        <mark key="." line="133" column="41" />
+        <mark key="^" line="133" column="41" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/service/ms/mhub/notification/Slask.java" timestamp="1603792709848">
         <mark key="[" line="23" column="28" />
@@ -238,11 +238,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/LogTransformerSupplier.groovy" timestamp="1608051304990">
-        <mark key="[" line="70" column="30" />
-        <mark key="]" line="70" column="30" />
-        <mark key="^" line="59" column="61" />
-        <mark key="." line="70" column="30" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/LogTransformerSupplier.groovy" timestamp="1608056292688">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="63" column="52" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/resources/slask.json" timestamp="1606822831348">
         <mark key="[" line="0" column="0" />
@@ -629,7 +629,7 @@
         <text>NotificationError.Error.INTEGRATION.code</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>g</text>
       </register>
       <register name="n" type="4">
         <text>NotificationError.Error.NO_ADDRESS.code</text>
@@ -638,10 +638,10 @@
         <text>proxy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSh2YWx1ZSA9ICcke3Byb3h5Lmhvc3R9JykKICAgIFN0cmluZyBwcm94eUhvc3QKICAgIEBWYWx1ZSh2YWx1ZSA9ICcke3Byb3h5Lmhvc3R9JykKICAgIGludCBwcm94eVBvcnQKICAgIEBWYWx1ZSh2YWx1ZSA9ICcke3Byb3h5LmV4bHVkZWRBZHJlc3Nlc30nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIlJlY2VpdmluZyBBbmRyb2lkIHJlc3BvbnNlOiAke3Jlc3BvbnNlfSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -653,28 +653,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW50IHByb3h5UG9ydAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGRTdHJpbmcgcHJveHlIb3N0Cg==</text>
+        <text encoding="base64">aW50IHByb3h5UG9ydAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGRTdHJpbmcgcHJveHlIb3N0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJveHkuZ2V0RXhjbHVkZWRBZGRyZXNzZXMoKS5hZGQoImxvY2FsaG9zdDo4MCIpCiAgICAgICAgICAgIHByb3h5Q29uZmlnLmdldFByb3hpZXMoKS5hZGQocHJveHkpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJveHkuZ2V0RXhjbHVkZWRBZGRyZXNzZXMoKS5hZGQoImxvY2FsaG9zdDo4MCIpCiAgICAgICAgICAgIHByb3h5Q29uZmlnLmdldFByb3hpZXMoKS5hZGQocHJveHkpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBQcm94eUNvbmZpZ3VyYXRpb24gcHJveHlDb25maWcgPSBodHRwQ2xpZW50LmdldFByb3h5Q29uZmlndXJhdGlvbigpCiAgICAgICAgSHR0cFByb3h5IHByb3h5ID0gbmV3IEh0dHBQcm94eShwcm94eUhvc3QsIHByb3h5UG9ydCkKICAgICAgICBwcm94eS5nZXRFeGNsdWRlZEFkZHJlc3NlcygpLmFkZCgibG9jYWxob3N0OjgwIikKICAgICAgICBwcm94eUNvbmZpZy5nZXRQcm94aWVzKCkuYWRkKHByb3h5KQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>
