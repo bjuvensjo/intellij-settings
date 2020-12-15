@@ -117,8 +117,8 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/RestClientJetty.groovy" timestamp="1608048705158">
-        <mark key="'" line="68" column="33" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/RestClientJetty.groovy" timestamp="1608052320163">
+        <mark key="'" line="37" column="0" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="^" line="38" column="11" />
@@ -326,11 +326,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/DeviceService.groovy" timestamp="1608051393956">
-        <mark key="[" line="43" column="50" />
-        <mark key="]" line="46" column="24" />
-        <mark key="." line="46" column="24" />
-        <mark key="^" line="46" column="24" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/DeviceService.groovy" timestamp="1608052288855">
+        <mark key="[" line="48" column="16" />
+        <mark key="]" line="48" column="17" />
+        <mark key="." line="48" column="17" />
+        <mark key="^" line="48" column="17" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/RestClientJettyTest.groovy" timestamp="1608048604611">
         <mark key="'" line="86" column="8" />
@@ -518,7 +518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/LogTransformerSupplier.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/slask4.json" />
       <jump line="23" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/AndroidPNS.groovy" />
       <jump line="31" column="63" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/DeviceService.groovy" />
@@ -618,6 +617,7 @@
       <jump line="109" column="32" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/pom.xml" />
       <jump line="38" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification-configuration/src/main/templates/application-env.properties" />
       <jump line="48" column="80" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification-configuration/src/main/templates/application-env.properties" />
+      <jump line="37" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/RestClientJetty.groovy" />
     </jumps>
     <registers>
       <register name="b" type="4">
@@ -636,7 +636,7 @@
         <text>NotificationError.Error.NO_ADDRESS.code</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>proxy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIlNlbmRpbmcgQW5kcm9pZCBtZXNzYWdlOiAke2RldmljZU1lc3NhZ2V9IikK</text>
@@ -682,9 +682,9 @@
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>proxy</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>proxy</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -692,7 +692,6 @@
     </search>
     <history>
       <history-search>
-        <entry>delete</entry>
         <entry>client-con</entry>
         <entry>inpu</entry>
         <entry>con</entry>
@@ -712,6 +711,7 @@
         <entry>dev</entry>
         <entry>rel</entry>
         <entry>&quot;</entry>
+        <entry>proxy</entry>
       </history-search>
       <history-cmd>
         <entry>%s/public //g</entry>
