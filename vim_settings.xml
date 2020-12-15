@@ -119,9 +119,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/RestClientJetty.groovy" timestamp="1608022418767">
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/main/java/se/lf/csl/ms/mhub/notification/RestClientJetty.groovy" timestamp="1608039245113">
         <mark key="'" line="61" column="33" />
-        <mark key="[" line="76" column="35" />
+        <mark key="[" line="88" column="15" />
         <mark key="]" line="80" column="66" />
         <mark key="." line="80" column="66" />
         <mark key="^" line="80" column="66" />
