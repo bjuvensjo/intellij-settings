@@ -406,6 +406,12 @@
         <mark key="." line="48" column="17" />
         <mark key="^" line="48" column="17" />
       </file>
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.securemessage/src/main/java/se/lf/csl/ms/mhub/securemessage/Slask.groovy" timestamp="1608221514959">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="13" column="25" />
+        <mark key="^" line="11" column="54" />
+        <mark key="." line="11" column="54" />
+      </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification-configuration/src/main/assemble/prod.xml" timestamp="1607960546050">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="18" column="0" />
@@ -730,8 +736,8 @@
       <register name="/" type="4">
         <text>proxy</text>
       </register>
-      <register name="0" type="4">
-        <text>10.201.130.144:9491,10.201.130.145:9492,10.201.130.145:9493</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBDYW1lbENvbnRleHQgY3R4ID0gbmV3IERlZmF1bHRDYW1lbENvbnRleHQoKQogICAgICAgIGN0eC5hZGRSb3V0ZXMobmV3IFNlY3VyZU1lc3NhZ2VSb3V0ZUJ1aWxkZXIoKSkKICAgICAgICBFeGNoYW5nZSBleGNoYW5nZSA9IG5ldyBEZWZhdWx0RXhjaGFuZ2UoY3R4KQogICAgICAgIHByaW50bG4oZXhjaGFuZ2UpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLAo=</text>
