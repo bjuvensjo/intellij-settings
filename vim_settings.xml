@@ -145,10 +145,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification-configuration/src/main/templates/application-env.properties" timestamp="1608052924910">
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification-configuration/src/main/templates/application-env.properties" timestamp="1608214296499">
         <mark key="'" line="54" column="80" />
-        <mark key="[" line="44" column="13" />
-        <mark key="]" line="46" column="0" />
+        <mark key="[" line="51" column="27" />
+        <mark key="]" line="51" column="85" />
         <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/git-CSPHUB/ms.mhub.securemessage-configuration/src/main/assemble/sys.xml" timestamp="1608110272278">
@@ -729,8 +729,8 @@
       <register name="/" type="4">
         <text>proxy</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Q2FsbGVyQ29udGV4dCByZXF1ZXN0Q2FsbGVyQ29udGV4dCA9IE1vY2soKQogICAgICAgIGV4Y2hhbmdlLmluLnNldEhlYWRlcigncmVxdWVzdENvbnRleHQnLCByZXF1ZXN0Q2FsbGVyQ29udGV4dCkK</text>
+      <register name="0" type="4">
+        <text>10.201.130.144:9491,10.201.130.145:9492,10.201.130.145:9493</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLAo=</text>
