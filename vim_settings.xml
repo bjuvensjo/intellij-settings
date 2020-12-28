@@ -101,10 +101,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/README.md" timestamp="1608036411567">
-        <mark key="'" line="26" column="58" />
-        <mark key="[" line="70" column="4" />
-        <mark key="]" line="70" column="108" />
+      <file name="$USER_HOME$/git-CSPHUB/ms.mhub.notification/README.md" timestamp="1609150472401">
+        <mark key="'" line="25" column="4" />
+        <mark key="[" line="78" column="4" />
+        <mark key="]" line="78" column="95" />
         <mark key="." line="23" column="1" />
         <mark key="^" line="23" column="1" />
       </file>
@@ -545,7 +545,6 @@
         <mark key="." line="9" column="18" />
         <mark key="^" line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/git-CSPHUB/mhub.client/target/generated-sources/avro/se/lf/csl/mhub/securemessage/SecureMessage.java" timestamp="1608111173474" />
       <file name="$USER_HOME$/slask/serok/groovy.jenkins.synchronizer/src/main/java/se/lf/service/groovy/jenkins/synchronizer/Synchronizer.groovy" timestamp="1603461354371">
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
@@ -616,8 +615,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="12" filename="$USER_HOME$/slask/clientserver/src/main/java/Server.java" />
-      <jump line="86" column="20" filename="$USER_HOME$/slask/clientserver/src/main/java/Server.java" />
       <jump line="87" column="11" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/src/test/java/se/lf/csl/ms/mhub/notification/DeviceMapperTest.groovy" />
       <jump line="20" column="7" filename="$USER_HOME$/git-CSPHUB/client/src/main/java/mygroup/client/Client2.java" />
       <jump line="85" column="36" filename="$MAVEN_REPOSITORY$/se/lf/csl/pom.super/1.0.3/pom.super-1.0.3.pom" />
@@ -716,6 +713,8 @@
       <jump line="92" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.securemessage-configuration/src/main/assemble/slask.xml" />
       <jump line="6" column="154" filename="$USER_HOME$/git-CSPHUB/ms.mhub.securemessage-configuration/src/main/assemble/slaskResponse.xml" />
       <jump line="112" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.securemessage-configuration/src/main/assemble/slask.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/README.md" />
+      <jump line="25" column="4" filename="$USER_HOME$/git-CSPHUB/ms.mhub.notification/README.md" />
     </jumps>
     <registers>
       <register name="b" type="4">
@@ -736,8 +735,8 @@
       <register name="/" type="4">
         <text>proxy</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDYW1lbENvbnRleHQgY3R4ID0gbmV3IERlZmF1bHRDYW1lbENvbnRleHQoKQogICAgICAgIGN0eC5hZGRSb3V0ZXMobmV3IFNlY3VyZU1lc3NhZ2VSb3V0ZUJ1aWxkZXIoKSkKICAgICAgICBFeGNoYW5nZSBleGNoYW5nZSA9IG5ldyBEZWZhdWx0RXhjaGFuZ2UoY3R4KQogICAgICAgIHByaW50bG4oZXhjaGFuZ2UpCg==</text>
+      <register name="0" type="4">
+        <text>bin/kafka-topics.sh --create --topic notification_1_0_emma --bootstrap-server localhost:9092</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLAo=</text>
