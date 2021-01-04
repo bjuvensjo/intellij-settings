@@ -1,8 +1,8 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="M2_HOME" value="/usr/local/Cellar/maven/3.3.3" />
     <macro name="MAVEN_REPOSITORY" value="/Users/magnus/.m2/repository/csl" />
+    <macro name="M2_HOME" value="/usr/local/Cellar/maven/3.3.3" />
     <macro name="maven.multiModuleProjectDirectory" value="$M2_HOME" />
-    <macro name="KOTLIN_BUNDLED" value="/Applications/IntelliJ IDEA.app/Contents/plugins/Kotlin/kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="/Users/magnus/Library/Application Support/JetBrains/IntelliJIdea2020.3/plugins/Kotlin/kotlinc" />
   </component>
 </application>
