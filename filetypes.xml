@@ -23,6 +23,7 @@
       <mapping pattern="jvm_options" type="PLAIN_TEXT" />
       <mapping pattern="log4j2-includes" type="PLAIN_TEXT" />
       <mapping ext="bpmn" type="PLAIN_TEXT" />
+      <mapping ext="asttransformation" type="PLAIN_TEXT" />
       <mapping ext="restclient" type="PLAIN_TEXT" />
       <mapping ext="story" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
