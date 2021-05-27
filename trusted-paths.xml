@@ -4,6 +4,7 @@
       <list>
         <option value="$USER_HOME$/git" />
         <option value="$USER_HOME$/git-CSPPREF" />
+        <option value="$USER_HOME$/git-csp/CSL" />
       </list>
     </option>
   </component>
