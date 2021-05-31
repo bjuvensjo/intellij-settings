@@ -5,6 +5,7 @@
         <option value="$USER_HOME$/git" />
         <option value="$USER_HOME$/git-CSPPREF" />
         <option value="$USER_HOME$/git-csp/CSL" />
+        <option value="$USER_HOME$/git-escloud-devops-core" />
       </list>
     </option>
   </component>
