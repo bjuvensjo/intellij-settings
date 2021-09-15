@@ -26,7 +26,6 @@
       <mapping ext="asttransformation" type="PLAIN_TEXT" />
       <mapping ext="restclient" type="PLAIN_TEXT" />
       <mapping ext="story" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="table" type="PLAIN_TEXT" />
       <removed_mapping ext="avsc" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
