@@ -1,26 +1,26 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="Jenkinsfile_ci" type="Groovy" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="Jenkinsfile_cd" type="Groovy" />
       <mapping pattern="Pipeline" type="Groovy" />
-      <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="avsc" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="slask" type="PLAIN_TEXT" />
-      <mapping pattern="README_kubectl.md" type="PLAIN_TEXT" />
       <mapping pattern="build_commit" type="PLAIN_TEXT" />
-      <mapping pattern="IEC" type="PLAIN_TEXT" />
-      <mapping pattern="slask2Request" type="PLAIN_TEXT" />
-      <mapping pattern="restclient" type="PLAIN_TEXT" />
+      <mapping pattern="slask" type="PLAIN_TEXT" />
       <mapping pattern="eslog" type="PLAIN_TEXT" />
       <mapping pattern="student_is_educated_in_addition.story" type="PLAIN_TEXT" />
+      <mapping pattern="IEC" type="PLAIN_TEXT" />
       <mapping pattern="dog" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="jvm_options" type="PLAIN_TEXT" />
+      <mapping pattern="restclient" type="PLAIN_TEXT" />
+      <mapping pattern="README_kubectl.md" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="slask2Request" type="PLAIN_TEXT" />
       <mapping pattern="log4j2-includes" type="PLAIN_TEXT" />
       <mapping ext="bpmn" type="PLAIN_TEXT" />
       <mapping ext="asttransformation" type="PLAIN_TEXT" />
