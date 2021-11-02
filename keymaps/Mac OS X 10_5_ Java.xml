@@ -1,4 +1,19 @@
 <keymap version="1" name="Mac OS X 10.5+ Java" parent="Mac OS X 10.5+">
+  <action id=":cursive.actions.paredit/barf-forwards">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+    <keyboard-shortcut first-keystroke="ctrl #10000f6" />
+  </action>
+  <action id=":cursive.actions.paredit/copy-as-kill" />
+  <action id=":cursive.actions.paredit/slurp-forwards">
+    <keyboard-shortcut first-keystroke="ctrl #10000e4" />
+  </action>
+  <action id=":cursive.repl.actions/load-file" />
+  <action id=":cursive.repl.actions/run-last-sexp">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id=":cursive.testing.actions/run-ns-tests">
+    <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
   <action id="AceAction">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
@@ -21,6 +36,8 @@
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="meta escape" />
   </action>
+  <action id="Jdbc.OpenConsole.New" />
+  <action id="Jdbc.OpenConsole.New.Generate" />
   <action id="Maven.Reimport">
     <keyboard-shortcut first-keystroke="ctrl meta alt m" />
   </action>
@@ -55,6 +72,7 @@
   <action id="Tool_ei4577_open-remote">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="r" />
   </action>
+  <action id="Vcs.Push" />
   <action id="WindowMenu">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
